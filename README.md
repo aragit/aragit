@@ -53,8 +53,14 @@ Part I: Reasoning and Logic](https://medium.com/@anicomanesh/a-dive-into-advance
 
 ### Connect With Me 🌐
 
-* **[LinkedIn](https://www.linkedin.com/in/arashnicoomanesh/)**
-* **[Personal Website/Portfolio](https://anicomanesh.substack.com/)** 
-* **[Kaggle](https://www.kaggle.com/arashnic)**  (3x Kaggle Master)
-* **[Twitter/X](our Twitter/X Handle)** 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arashnicoomanesh)
+[![Kaggle](https://img.shields.io/badge/Kaggle-YourName-blue?style=for-the-badge&logo=kaggle)](https://kaggle.com/arashnic)
+[![Medium](https://img.shields.io/badge/Medium-YourName-black?style=for-the-badge&logo=medium)](https://medium.com/@yourname)
+[![Substack](https://img.shields.io/badge/Substack-YourName-black?style=for-the-badge&logo=substack)](https://anicomanesh.substack.com)
+[![Twitter/X](https://img.shields.io/badge/YouTube-YourChannel-red?style=for-the-badge&logo=youtube)](https://x.com/ANicoomanesh)
+
+</div>
+
 
