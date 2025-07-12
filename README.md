@@ -17,25 +17,7 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 
 </div>
 
-###                                                                                             Frameworks & Toolkits 
----
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30"/></a>
-  <a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="30" height="30"/></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="30" height="30"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HF" width="30" height="30"/></a>
-  <a href="https://docs.vllm.ai/en/latest/" target="_blank"><img src="https://docs.vllm.ai/en/latest/assets/logos/vllm-logo-only-light.ico" alt="vLLM" width="30" height="30"/></a>
-  <a href="https://unsloth.ai/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsVty8uZrxXePsaxjCCBA4efhzx0xeoUqJx0HfAgSc8_IViauTsDBbnxH52nIw7Lh8_pY&usqp=CAU" alt="unsloth" width="30" height="30"/></a>
-   <a href="https://www.langchain.com/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" alt="langchain" width="30" height="30"/></a>
-   <a href="https://kubernetes.io/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes" alt="kubernates" width="30" height="30"/></a>
-   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" alt="fastapi" width="30" height="30"/></a>
-   <a href="https://www.crewai.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=crewai" alt="crewai" width="30" height="30"/></a>
-   <a href="https://www.tensorflow.org" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" alt="TensorFlow" width="30" height="30"/></a>
-   <a href="https://www.trychroma.com/home" target="_blank"><img src="https://www.trychroma.com/img/favicon.ico" alt="chroma" width="30" height="30"/></a>
-   <a href="https://spark.apache.org/docs/latest/api/python/index.html#:~:text=PySpark%20is%20the%20Python%20API,for%20interactively%20analyzing%20your%20data." target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVrgjZGB5S8deDgABhQWlGaM70dPrc2FbEmH1CEFlMaMMOO3BsBPYOrEeJPCAHzeO-bhY&usqp=CAU" alt="pyspark" width="30" height="30"/></a>
-<a href="https://cloud.google.com/vertex-ai" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZcBHafKEBjKAC1OahL_qwuOY-hntXNKDaUAs0bKGv_maPrlQXs2Yy0vhY5xWRdhOK04&usqp=CAU" alt="vertex" width="30" height="30"/></a>
-  
-</p>
+
 
 ### Featured Projects
 ---
@@ -67,3 +49,21 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
     * [First Steps Toward Building an Autonomous Agentic AI for Cognitive Behavioral Therapy (CBT) in Psychological Counseling](https://anicomanesh.substack.com/p/first-steps-toward-building-an-autonomous) - *This initial part of the article lays the theoretical and architectural groundwork for a novel approach to digital mental health: an autonomous multi-agent system for delivering Cognitive Behavioral Therapy (CBT).*
 
 
+---
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30"/></a>
+  <a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="30" height="30"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="30" height="30"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HF" width="30" height="30"/></a>
+  <a href="https://docs.vllm.ai/en/latest/" target="_blank"><img src="https://docs.vllm.ai/en/latest/assets/logos/vllm-logo-only-light.ico" alt="vLLM" width="30" height="30"/></a>
+  <a href="https://unsloth.ai/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsVty8uZrxXePsaxjCCBA4efhzx0xeoUqJx0HfAgSc8_IViauTsDBbnxH52nIw7Lh8_pY&usqp=CAU" alt="unsloth" width="30" height="30"/></a>
+   <a href="https://www.langchain.com/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" alt="langchain" width="30" height="30"/></a>
+   <a href="https://kubernetes.io/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes" alt="kubernates" width="30" height="30"/></a>
+   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" alt="fastapi" width="30" height="30"/></a>
+   <a href="https://www.crewai.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=crewai" alt="crewai" width="30" height="30"/></a>
+   <a href="https://www.tensorflow.org" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" alt="TensorFlow" width="30" height="30"/></a>
+   <a href="https://www.trychroma.com/home" target="_blank"><img src="https://www.trychroma.com/img/favicon.ico" alt="chroma" width="30" height="30"/></a>
+   <a href="https://spark.apache.org/docs/latest/api/python/index.html#:~:text=PySpark%20is%20the%20Python%20API,for%20interactively%20analyzing%20your%20data." target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVrgjZGB5S8deDgABhQWlGaM70dPrc2FbEmH1CEFlMaMMOO3BsBPYOrEeJPCAHzeO-bhY&usqp=CAU" alt="pyspark" width="30" height="30"/></a>
+<a href="https://cloud.google.com/vertex-ai" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZcBHafKEBjKAC1OahL_qwuOY-hntXNKDaUAs0bKGv_maPrlQXs2Yy0vhY5xWRdhOK04&usqp=CAU" alt="vertex" width="30" height="30"/></a>
+  
+</p>
