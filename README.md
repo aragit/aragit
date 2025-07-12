@@ -18,6 +18,7 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
    <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" alt="fastapi" width="30" height="30"/></a>
    <a href="https://www.crewai.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=crewai" alt="crewai" width="30" height="30"/></a>
    <a href="https://www.tensorflow.org" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" alt="TensorFlow" width="30" height="30"/></a>
+   <a href="https://www.trychroma.com/home" target="_blank"><img src="https://www.trychroma.com/img/favicon.ico" alt="crewai" width="30" height="30"/></a>
 </p>
 
 
