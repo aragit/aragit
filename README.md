@@ -1,4 +1,4 @@
-### Hi there, I'm Arash Nicoomanesh! 👋
+### Hi, I'm Arash Nicoomanesh! 👋
 
 #### AI Engineer | Generative AI Enthusiast | Agentic AI Developer
 
