@@ -4,7 +4,7 @@
 I'm a passionate AI Engineer with 15 years of experience building and deploying intelligent systems. My expertise lies in Generative AI ,Large Language Models, Machine Learning Operations, Data-driven Insights.I focus on transforming complex data into actionable AI solutions, from research and prototyping to production deployment. I'm particularly interested in ethical AI, explainable AI, multimodal LLMs, real-time inference.
 Currently delving deeper into Agentic AI systems, model quantization, federated learning. Always exploring new advancements in enerative AI, Reinforcement Learning, Agentic AI in Medicare/Healthcare.My Mission is leverage cutting-edge AI to solve challenging real-world problems and contribute to the open-source community.
 
-### Frameworks & Toolkits 
+###                                                                                             Frameworks & Toolkits 
 ---
 <p align="center">
   <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30"/></a>
