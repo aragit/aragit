@@ -5,7 +5,7 @@ I'm a passionate AI Engineer with 15 years of experience building and deploying 
 Currently delving deeper into Agentic AI systems, model quantization, federated learning. Always exploring new advancements in enerative AI, Reinforcement Learning, Agentic AI in Medicare/Healthcare.My Mission is leverage cutting-edge AI to solve challenging real-world problems and contribute to the open-source community.
 
 ### Expertise & Toolkit 
-<hr style="border:1px solid #888; width:50%; margin:auto;">
+
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30"/></a>
   <a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="30" height="30"/></a>
@@ -22,7 +22,7 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 
 
 ### Featured Projects
-<hr style="border:1px solid #888; width:50%; margin:auto;">
+___
 | Project Name                                      | Description                                                                                                                                           | Technologies Used                                                                     |
 | :------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ |
 | **[LLM-Powered RAG Chatbot](https://github.com/YourUsername/llm-rag-chatbot-project)** | Built a RAG system for [domain] using [LangChain/LlamaIndex], [Vector DB], and [LLM]. Achieved X% accuracy improvement in responses. | Python, LangChain, FAISS, OpenAI API, Streamlit, Docker                               |
@@ -33,7 +33,7 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 
 
 ### Recent Articles & Insights 
-<hr style="border:1px solid #888; width:50%; margin:auto;">
+
 * **GenAI & Large Language Models:**
     * [Fine-Tuning DeepSeek R1 Reasoning on the Medical Chain of Thought Dataset](https://medium.com/@anicomanesh/fine-tuning-deepseek-r1-reasoning-on-the-medical-chain-of-thought-dataset-922407121cc2) - *Apply reasoning models to amplify most valuable clinical skill: clinical judgment and diagnosis*
     * [A Dive into Unsloth & Gemma 3 : Fine-Tune Gemma 3 12B with Unsloth & TRL for Custommer Service Adaptation](https://medium.com/@anicomanesh/a-dive-into-unsloth-gemma-3-fine-tune-gemma-3-12b-with-unsloth-trl-for-custommer-service-53e93692d4d6) - *learn how to efficiently created a domain-adapted model with Gemma 3 and Unsloth . This approach required only modest compute (free Kaggle GPUs) yet yields a model specialized on the Bitext dataset’s intents and phrasing.*
@@ -51,7 +51,7 @@ Part I: Reasoning and Logic](https://medium.com/@anicomanesh/a-dive-into-advance
     * [First Steps Toward Building an Autonomous Agentic AI for Cognitive Behavioral Therapy (CBT) in Psychological Counseling](https://anicomanesh.substack.com/p/first-steps-toward-building-an-autonomous) - *This initial part of the article lays the theoretical and architectural groundwork for a novel approach to digital mental health: an autonomous multi-agent system for delivering Cognitive Behavioral Therapy (CBT).*
 
 ####  🌐 Connect With Me
-<hr style="border:1px solid #888; width:50%; margin:auto;">
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arashnicoomanesh)
