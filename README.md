@@ -6,7 +6,7 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 
 ###                                                                                             Frameworks & Toolkits 
 ---
-<p align="center">
+<p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30"/></a>
   <a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="30" height="30"/></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="30" height="30"/></a>
