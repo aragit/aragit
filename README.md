@@ -51,7 +51,7 @@ Part I: Reasoning and Logic](https://medium.com/@anicomanesh/a-dive-into-advance
 * **Applied Machine Learning:**
     * "[Model Drift: Identifying and Monitoring for Model Drift in Machine Learning Engineering and Production](https://anicomanesh.substack.com/p/model-drift-identifying-and-monitoring)" 
     * "[Evolution of Recommendation Algorithms, Part I: Fundamentals , History Overview, Core and Classical Algorithms](https://medium.com/@anicomanesh/evolution-of-recommendation-algorithms-part-i-fundamentals-and-classical-recommendation-bb1c0bce78a9)"
-    * "[Machine Learning Interpretability (MLI) with XGBoost and Additive Tools (SHAP)]([https://medium.com/@anicomanesh/fine-tuning-deepseek-r1-reasoning-on-the-medical-chain-of-thought-dataset-922407121cc2](https://medium.com/@anicomanesh/interpretable-machine-learning-iml-with-xgboost-and-additive-tools-42258fb1f14)" - 
+    * "[Machine Learning Interpretability (MLI) with XGBoost and Additive Tools (SHAP)](https://medium.com/@anicomanesh/interpretable-machine-learning-iml-with-xgboost-and-additive-tools-42258fb1f14)" - 
     * "[Data Leakage : Causes, Effects and Solutions](https://medium.com/@anicomanesh/data-leakage-causes-effects-and-solutions-6cc44a149e1c)" - 
 * **Agentic AI:**
     * "[First Steps Toward Building an Autonomous Agentic AI for Cognitive Behavioral Therapy (CBT) in Psychological Counseling](https://anicomanesh.substack.com/p/first-steps-toward-building-an-autonomous)" - *This initial part of the article lays the theoretical and architectural groundwork for a novel approach to digital mental health: an autonomous multi-agent system for delivering Cognitive Behavioral Therapy (CBT).*
