@@ -20,7 +20,7 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
    <a href="https://www.tensorflow.org" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" alt="TensorFlow" width="30" height="30"/></a>
    <a href="https://www.trychroma.com/home" target="_blank"><img src="https://www.trychroma.com/img/favicon.ico" alt="chroma" width="30" height="30"/></a>
    <a href="https://spark.apache.org/docs/latest/api/python/index.html#:~:text=PySpark%20is%20the%20Python%20API,for%20interactively%20analyzing%20your%20data." target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVrgjZGB5S8deDgABhQWlGaM70dPrc2FbEmH1CEFlMaMMOO3BsBPYOrEeJPCAHzeO-bhY&usqp=CAU" alt="pyspark" width="30" height="30"/></a>
-
+<a href="https://cloud.google.com/vertex-ai" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZcBHafKEBjKAC1OahL_qwuOY-hntXNKDaUAs0bKGv_maPrlQXs2Yy0vhY5xWRdhOK04&usqp=CAU" alt="vertex" width="30" height="30"/></a>
   
 </p>
 
