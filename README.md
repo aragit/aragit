@@ -2,26 +2,13 @@
 
 #### AI Engineer | Generative AI Enthusiast | Agentic AI Developer
 
----
-
 ### About Me
-
+---
 I'm a passionate AI Engineer with 15 years of experience building and deploying intelligent systems. My expertise lies in Generative AI ,Large Language Models, Machine Learning Operations, Data-driven Insights.I focus on transforming complex data into actionable AI solutions, from research and prototyping to production deployment. I'm particularly interested in ethical AI, explainable AI, multimodal LLMs, real-time inference.
 Currently delving deeper into Agentic AI systems, model quantization, federated learning. Always exploring new advancements in enerative AI, Reinforcement Learning, Agentic AI in Medicare/Healthcare.My Mission is leverage cutting-edge AI to solve challenging real-world problems and contribute to the open-source community.
 
----
-
 ### My Expertise & Toolkit 🛠️
-
-* **Programming Languages:** Python (Advanced), [Other languages like, C++, R]
-* **Machine Learning Frameworks:** PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers
-* **LLM Ecosystem:** LangChain, LlamaIndex, OpenAI API, Anthropic API, Custom LLM Training
-* **Data Science/Analysis:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, SQL
-* **MLOps & Deployment:** Docker, Kubernetes, MLflow, FastAPI, Streamlit
-* **Cloud Platforms:** GCP / Azure (mention specific services if expert)
-* **Version Control:** Git, GitHub
-* **Other Tools:** [e.g., DVC for data versioning, Poetry/Rye for dependency management, Postman]
-## Skills
+---
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30"/></a>
   <a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="30" height="30"/></a>
@@ -38,8 +25,7 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 ---
 
 ### Featured Projects 🚀
-
-(Choose your top 3-6 most impactful and well-documented projects. Make sure each project has its own excellent `README.md`!)
+---
 
 | Project Name                                      | Description                                                                                                                                           | Technologies Used                                                                     |
 | :------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ |
@@ -57,9 +43,9 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 
 (Link to your Medium and Substack articles. Categorize them if you have many.)
 
-* **Large Language Models:**
-    * "[Title of LLM Article 1](https://medium.com/@YourUsername/article-link-1)" - *[Brief sentence on what it's about]*
-    * "[Title of LLM Article 2](https://yoursubstack.substack.com/article-link-2)" - *[Brief sentence on what it's about]*
+* **GenAI & Large Language Models:**
+    * "[Fine-Tuning DeepSeek R1 Reasoning on the Medical Chain of Thought Dataset](https://medium.com/@anicomanesh/fine-tuning-deepseek-r1-reasoning-on-the-medical-chain-of-thought-dataset-922407121cc2)" - *Apply reasoning models to amplify most valuable clinical skill: clinical judgment and diagnosis*
+    * "[A Dive into Unsloth & Gemma 3 : Fine-Tune Gemma 3 12B with Unsloth & TRL for Custommer Service Adaptation](https://medium.com/@anicomanesh/a-dive-into-unsloth-gemma-3-fine-tune-gemma-3-12b-with-unsloth-trl-for-custommer-service-53e93692d4d6)" - *learn how to efficiently created a domain-adapted model with Gemma 3 and Unsloth . This approach required only modest compute (free Kaggle GPUs) yet yields a model specialized on the Bitext dataset’s intents and phrasing.*
 * **Applied Machine Learning:**
     * "[Title of ML Article 1](https://medium.com/@YourUsername/article-link-3)" - *[Brief sentence on what it's about]*
     * "[Title of ML Article 2](https://yoursubstack.substack.com/article-link-4)" - *[Brief sentence on what it's about]*
