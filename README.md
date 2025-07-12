@@ -4,20 +4,9 @@
 I'm a passionate AI Engineer with 15 years of experience building and deploying intelligent systems. My expertise lies in Generative AI ,Large Language Models, Machine Learning Operations, Data-driven Insights.I focus on transforming complex data into actionable AI solutions, from research and prototyping to production deployment. I'm particularly interested in ethical AI, explainable AI, multimodal LLMs, real-time inference.
 Currently delving deeper into Agentic AI systems, model quantization, federated learning. Always exploring new advancements in enerative AI, Reinforcement Learning, Agentic AI in Medicare/Healthcare.My Mission is leverage cutting-edge AI to solve challenging real-world problems and contribute to the open-source community.
 
-
-
-### Featured Projects
----
-| Project Name                                      | Description                                                                                                                                           | Technologies Used                                                                     |
-| :------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ |
-| **[LLM-Powered RAG Chatbot](https://github.com/YourUsername/llm-rag-chatbot-project)** | Built a RAG system for [domain] using [LangChain/LlamaIndex], [Vector DB], and [LLM]. Achieved X% accuracy improvement in responses. | Python, LangChain, FAISS, OpenAI API, Streamlit, Docker                               |
-| **[Fine-tuning Llama2 for Sentiment Analysis](https://github.com/YourUsername/llama2-sentiment-finetuning)** | Fine-tuned Llama2 on a custom dataset of [X] samples for [specific sentiment task]. Reduced inference latency by Y%.             | PyTorch, Hugging Face Transformers, Llama2, AWS S3, EC2                               |
-| **[Generative Media Studio with Controllable Outputs:(Building on Stable Diffusion 3 & VoiceStar ](https://github.com/YourUsername/predictive-maintenance-iot)** | Unified pipeline for generating images, audio, and video with granular constraints (e.g., duration, layout). | Image: Stable Diffusion 3 with ControlNet for layout guidance, Audio: VoiceStar for duration-controlled TTS, Video: AnimateDiff for keyframe-consistent animation             |
-| **[AI Agent for [Specific Task]](https://github.com/YourUsername/ai-agent-project)** | Designed and implemented an autonomous AI agent to [describe task, e.g., automate data analysis workflows, assist with code generation].    | Python, LangGraph/CrewAI, OpenAI/Custom LLM, Tool Integration (APIs, databases)        |
-| **[Your Best Applied ML Project](https://github.com/YourUsername/your-applied-ml-project)** | [Brief, impactful description]                                                                                                   | [Key technologies]                                                                    |
 ### Frameworks & Toolkits 
 ---
-<p align="left">
+<p align="center">
   <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30"/></a>
   <a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="30" height="30"/></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="30" height="30"/></a>
@@ -34,6 +23,17 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 
   
 </p>
+
+### Featured Projects
+---
+| Project Name                                      | Description                                                                                                                                           | Technologies Used                                                                     |
+| :------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ |
+| **[LLM-Powered RAG Chatbot](https://github.com/YourUsername/llm-rag-chatbot-project)** | Built a RAG system for [domain] using [LangChain/LlamaIndex], [Vector DB], and [LLM]. Achieved X% accuracy improvement in responses. | Python, LangChain, FAISS, OpenAI API, Streamlit, Docker                               |
+| **[Fine-tuning Llama2 for Sentiment Analysis](https://github.com/YourUsername/llama2-sentiment-finetuning)** | Fine-tuned Llama2 on a custom dataset of [X] samples for [specific sentiment task]. Reduced inference latency by Y%.             | PyTorch, Hugging Face Transformers, Llama2, AWS S3, EC2                               |
+| **[Generative Media Studio with Controllable Outputs:(Building on Stable Diffusion 3 & VoiceStar ](https://github.com/YourUsername/predictive-maintenance-iot)** | Unified pipeline for generating images, audio, and video with granular constraints (e.g., duration, layout). | Image: Stable Diffusion 3 with ControlNet for layout guidance, Audio: VoiceStar for duration-controlled TTS, Video: AnimateDiff for keyframe-consistent animation             |
+| **[AI Agent for [Specific Task]](https://github.com/YourUsername/ai-agent-project)** | Designed and implemented an autonomous AI agent to [describe task, e.g., automate data analysis workflows, assist with code generation].    | Python, LangGraph/CrewAI, OpenAI/Custom LLM, Tool Integration (APIs, databases)        |
+| **[Your Best Applied ML Project](https://github.com/YourUsername/your-applied-ml-project)** | [Brief, impactful description]                                                                                                   | [Key technologies]                                                                    |
+
 
 
 ### Recent Articles & Insights 
