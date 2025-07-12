@@ -33,7 +33,7 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 | **[Your Best Applied ML Project](https://github.com/YourUsername/your-applied-ml-project)** | [Brief, impactful description]                                                                                                   | [Key technologies]                                                                    |
 
 
-### Featured Articles & Insights ✍️
+### Recent Articles & Insights ✍️
 
 * **GenAI & Large Language Models:**
     * [Fine-Tuning DeepSeek R1 Reasoning on the Medical Chain of Thought Dataset](https://medium.com/@anicomanesh/fine-tuning-deepseek-r1-reasoning-on-the-medical-chain-of-thought-dataset-922407121cc2) - *Apply reasoning models to amplify most valuable clinical skill: clinical judgment and diagnosis*
