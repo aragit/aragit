@@ -66,4 +66,7 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 <a href="https://cloud.google.com/vertex-ai" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZcBHafKEBjKAC1OahL_qwuOY-hntXNKDaUAs0bKGv_maPrlQXs2Yy0vhY5xWRdhOK04&usqp=CAU" alt="vertex" width="30" height="30"/></a>
   <a href="https://ollama.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=ollama" alt="ollama" width="30" height="30"/></a>
    <a href="https://www.gradio.app/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=gradio" alt="gradio" width="30" height="30"/></a>
+  <a href="https://pola.rs//" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=polars" alt="polars" width="30" height="30"/></a>
+  <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=cuda" alt="cuda" width="30" height="30"/></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" alt="langchain" width="30" height="30"/></a>
 </p>
