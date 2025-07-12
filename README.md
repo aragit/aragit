@@ -59,7 +59,7 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 
 * **[LinkedIn](https://www.linkedin.com/in/arashnicoomanesh/)**
 * **[Personal Website/Portfolio](https://anicomanesh.substack.com/)** 
-* **[Kaggle(https://www.kaggle.com/arashnic)]**  (3x Kaggle Master)
+* **[Kaggle](https://www.kaggle.com/arashnic)**  (3x Kaggle Master)
 * **[Twitter/X](our Twitter/X Handle)** 
 
 ---
