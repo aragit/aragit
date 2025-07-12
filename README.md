@@ -1,12 +1,12 @@
 ### Hi there, I'm Arash Nicoomanesh! 👋
 
 #### AI Engineer | Generative AI Enthusiast | Agentic AI Developer
----
+
 I'm a passionate AI Engineer with 15 years of experience building and deploying intelligent systems. My expertise lies in Generative AI ,Large Language Models, Machine Learning Operations, Data-driven Insights.I focus on transforming complex data into actionable AI solutions, from research and prototyping to production deployment. I'm particularly interested in ethical AI, explainable AI, multimodal LLMs, real-time inference.
 Currently delving deeper into Agentic AI systems, model quantization, federated learning. Always exploring new advancements in enerative AI, Reinforcement Learning, Agentic AI in Medicare/Healthcare.My Mission is leverage cutting-edge AI to solve challenging real-world problems and contribute to the open-source community.
 
-### My Expertise & Toolkit 🛠️
----
+### Expertise & Toolkit 🛠️
+
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30"/></a>
   <a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="30" height="30"/></a>
@@ -23,7 +23,6 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 
 
 ### Featured Projects 🚀
----
 
 | Project Name                                      | Description                                                                                                                                           | Technologies Used                                                                     |
 | :------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ |
@@ -35,7 +34,6 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 
 
 ### Featured Articles & Insights ✍️
----
 
 * **GenAI & Large Language Models:**
     * "[Fine-Tuning DeepSeek R1 Reasoning on the Medical Chain of Thought Dataset](https://medium.com/@anicomanesh/fine-tuning-deepseek-r1-reasoning-on-the-medical-chain-of-thought-dataset-922407121cc2)" - *Apply reasoning models to amplify most valuable clinical skill: clinical judgment and diagnosis*
@@ -45,9 +43,6 @@ Part I: Reasoning and Logic](https://medium.com/@anicomanesh/a-dive-into-advance
     * "[Token Efficiency and Compression Techniques in Large Language Models: Navigating Context-Length Limits](https://medium.com/@anicomanesh/token-efficiency-and-compression-techniques-in-large-language-models-navigating-context-length-05a61283412b)" 
     * "[Fine-Tuning Gemma 2 for Medical Question Answering: A Step-by-Step Guide](https://medium.com/@anicomanesh/fine-tuning-gemma-2-for-medical-question-answering-a-step-by-step-guide-1c6c4ec4c107)" - 
     
-
-
-
 * **Applied Machine Learning:**
     * "[Model Drift: Identifying and Monitoring for Model Drift in Machine Learning Engineering and Production](https://anicomanesh.substack.com/p/model-drift-identifying-and-monitoring)" 
     * "[Evolution of Recommendation Algorithms, Part I: Fundamentals , History Overview, Core and Classical Algorithms](https://medium.com/@anicomanesh/evolution-of-recommendation-algorithms-part-i-fundamentals-and-classical-recommendation-bb1c0bce78a9)"
@@ -63,12 +58,3 @@ Part I: Reasoning and Logic](https://medium.com/@anicomanesh/a-dive-into-advance
 * **[Kaggle](https://www.kaggle.com/arashnic)**  (3x Kaggle Master)
 * **[Twitter/X](our Twitter/X Handle)** 
 
----
-
-### GitHub Stats 📊
-
-(Optional, but popular way to show activity. You'll need to use third-party tools for this.)
-
-```markdown
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
