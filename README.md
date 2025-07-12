@@ -60,10 +60,9 @@
 
 ### Connect With Me 🌐
 
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Personal Website/Portfolio (if you build one):** [Your Website URL]
-* **Kaggle:** [Your Kaggle Profile URL] (Highlight significant achievements if any)
-* **Email:** [Your Professional Email Address]
+* **LinkedIn:** [https://www.linkedin.com/in/arashnicoomanesh/]
+* **Personal Website/Portfolio:** Your Website URL]](https://anicomanesh.substack.com/)
+* **Kaggle:** (https://www.kaggle.com/arashnic) (3x Kaggle Master)
 * **Twitter/X (Optional):** [Your Twitter/X Handle]
 
 ---
