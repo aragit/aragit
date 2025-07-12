@@ -21,7 +21,20 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 * **Cloud Platforms:** GCP / Azure (mention specific services if expert)
 * **Version Control:** Git, GitHub
 * **Other Tools:** [e.g., DVC for data versioning, Poetry/Rye for dependency management, Postman]
-
+## Skills
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30"/></a>
+  <a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="30" height="30"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="30" height="30"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HF" width="30" height="30"/></a>
+  <a href="https://docs.vllm.ai/en/latest/" target="_blank"><img src="https://docs.vllm.ai/en/latest/assets/logos/vllm-logo-only-light.ico" alt="vLLM" width="30" height="30"/></a>
+  <a href="https://unsloth.ai/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsVty8uZrxXePsaxjCCBA4efhzx0xeoUqJx0HfAgSc8_IViauTsDBbnxH52nIw7Lh8_pY&usqp=CAU" alt="unsloth" width="30" height="30"/></a>
+   <a href="https://www.langchain.com/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" alt="langchain" width="30" height="30"/></a>
+   <a href="https://www.crewai.com/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/crewai.png" alt="crew" width="30" height="30"/></a>
+   <a href="" target="_blank"><img src="https://docs.vllm.ai/en/latest/assets/logos/vllm-logo-only-light.ico" alt="vLLM" width="30" height="30"/></a>
+   <a href="" target="_blank"><img src="https://docs.vllm.ai/en/latest/assets/logos/vllm-logo-only-light.ico" alt="vLLM" width="30" height="30"/></a>
+   <a href="https://www.tensorflow.org" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" alt="TensorFlow" width="30" height="30"/></a>
+</p>
 ---
 
 ### Featured Projects 🚀
