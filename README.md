@@ -19,7 +19,7 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 
 
 
-### Hands‑On Tutorials Projects 
+### Hands‑On Tutorial Projects 
 ---
 | Project Name                                      | Description                                                                                                                                           | Technologies Used                                                                     |
 | :------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ |
