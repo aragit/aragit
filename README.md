@@ -13,7 +13,7 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000)](https://kaggle.com/arashnic)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000)](https://medium.com/@anicomanesh)
 [![Substack](https://img.shields.io/badge/-Substack-000000?style=for-the-badge&logo=substack&logoColor=white&labelColor=FF7731)](https://anicomanesh.substack.com)
-[![X](https://img.shields.io/badge/-X-FF0000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/ANicoomanesh)
+[![Twitter/X](https://img.shields.io/badge/-X-FF0000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/ANicoomanesh)
 
 </div>
 
