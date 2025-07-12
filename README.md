@@ -5,7 +5,7 @@
 I'm a passionate AI Engineer with 15 years of experience building and deploying intelligent systems. My expertise lies in Generative AI ,Large Language Models, Machine Learning Operations, Data-driven Insights.I focus on transforming complex data into actionable AI solutions, from research and prototyping to production deployment. I'm particularly interested in ethical AI, explainable AI, multimodal LLMs, real-time inference.
 Currently delving deeper into Agentic AI systems, model quantization, federated learning. Always exploring new advancements in enerative AI, Reinforcement Learning, Agentic AI in Medicare/Healthcare.My Mission is leverage cutting-edge AI to solve challenging real-world problems and contribute to the open-source community.
 
-### 🛠️ Expertise & Toolkit 
+### Expertise & Toolkit 
 
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30"/></a>
@@ -22,7 +22,7 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 </p>
 
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project Name                                      | Description                                                                                                                                           | Technologies Used                                                                     |
 | :------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ |
@@ -33,7 +33,7 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 | **[Your Best Applied ML Project](https://github.com/YourUsername/your-applied-ml-project)** | [Brief, impactful description]                                                                                                   | [Key technologies]                                                                    |
 
 
-### Recent Articles & Insights ✍️
+### Recent Articles & Insights 
 
 * **GenAI & Large Language Models:**
     * [Fine-Tuning DeepSeek R1 Reasoning on the Medical Chain of Thought Dataset](https://medium.com/@anicomanesh/fine-tuning-deepseek-r1-reasoning-on-the-medical-chain-of-thought-dataset-922407121cc2) - *Apply reasoning models to amplify most valuable clinical skill: clinical judgment and diagnosis*
