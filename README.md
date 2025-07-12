@@ -20,7 +20,7 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
    <a href="" target="_blank"><img src="https://docs.vllm.ai/en/latest/assets/logos/vllm-logo-only-light.ico" alt="vLLM" width="30" height="30"/></a>
    <a href="https://www.tensorflow.org" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" alt="TensorFlow" width="30" height="30"/></a>
 </p>
----
+
 
 ### Featured Projects 🚀
 ---
@@ -33,7 +33,6 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 | **[AI Agent for [Specific Task]](https://github.com/YourUsername/ai-agent-project)** | Designed and implemented an autonomous AI agent to [describe task, e.g., automate data analysis workflows, assist with code generation].    | Python, LangGraph/CrewAI, OpenAI/Custom LLM, Tool Integration (APIs, databases)        |
 | **[Your Best Applied ML Project](https://github.com/YourUsername/your-applied-ml-project)** | [Brief, impactful description]                                                                                                   | [Key technologies]                                                                    |
 
-*(Repeat the above table rows for more projects, but keep it concise)*
 
 ---
 
