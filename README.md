@@ -50,7 +50,7 @@ Part I: Reasoning and Logic](https://medium.com/@anicomanesh/a-dive-into-advance
 * **Agentic AI:**
     * [First Steps Toward Building an Autonomous Agentic AI for Cognitive Behavioral Therapy (CBT) in Psychological Counseling](https://anicomanesh.substack.com/p/first-steps-toward-building-an-autonomous) - *This initial part of the article lays the theoretical and architectural groundwork for a novel approach to digital mental health: an autonomous multi-agent system for delivering Cognitive Behavioral Therapy (CBT).*
 
-####  🌐 Connect With Me
+
 ---
 
 <div align="center">
