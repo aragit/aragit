@@ -4,6 +4,19 @@
 I'm a passionate AI Engineer with 15 years of experience building and deploying intelligent systems. My expertise lies in Generative AI ,Large Language Models, Machine Learning Operations, Data-driven Insights.I focus on transforming complex data into actionable AI solutions, from research and prototyping to production deployment. I'm particularly interested in ethical AI, explainable AI, multimodal LLMs, real-time inference.
 Currently delving deeper into Agentic AI systems, model quantization, federated learning. Always exploring new advancements in enerative AI, Reinforcement Learning, Agentic AI in Medicare/Healthcare.My Mission is leverage cutting-edge AI to solve challenging real-world problems and contribute to the open-source community.
 
+### Connections
+---
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000)](https://linkedin.com/in/arashnicoomanesh)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000)](https://kaggle.com/arashnic)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000)](https://medium.com/@anicomanesh)
+[![Substack](https://img.shields.io/badge/-Substack-000000?style=for-the-badge&logo=substack&logoColor=white&labelColor=FF7731)](https://anicomanesh.substack.com)
+[![X](https://img.shields.io/badge/-X-FF0000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/ANicoomanesh)
+
+</div>
+
 ###                                                                                             Frameworks & Toolkits 
 ---
 <p align="left">
@@ -53,16 +66,4 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 * **Agentic AI:**
     * [First Steps Toward Building an Autonomous Agentic AI for Cognitive Behavioral Therapy (CBT) in Psychological Counseling](https://anicomanesh.substack.com/p/first-steps-toward-building-an-autonomous) - *This initial part of the article lays the theoretical and architectural groundwork for a novel approach to digital mental health: an autonomous multi-agent system for delivering Cognitive Behavioral Therapy (CBT).*
 
-### Connections
----
-
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000)](https://linkedin.com/in/arashnicoomanesh)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000)](https://kaggle.com/arashnic)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000)](https://medium.com/@anicomanesh)
-[![Substack](https://img.shields.io/badge/-Substack-000000?style=for-the-badge&logo=substack&logoColor=white&labelColor=FF7731)](https://anicomanesh.substack.com)
-[![X](https://img.shields.io/badge/-X-FF0000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/ANicoomanesh)
-
-</div>
 
