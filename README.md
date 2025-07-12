@@ -58,7 +58,7 @@ Part I: Reasoning and Logic](https://medium.com/@anicomanesh/a-dive-into-advance
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000)](https://linkedin.com/in/arashnicoomanesh)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000)](https://kaggle.com/arashnic)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000)](https://medium.com/@anicomanesh)
-[![Substack](https://img.shields.io/badge/-Substack-000000?style=for-the-badge&logo=substack&logoColor=white&labelColor=000000)](https://anicomanesh.substack.com)
+[![Substack](https://img.shields.io/badge/-Substack-000000?style=for-the-badge&logo=substack&logoColor=white&labelColor=FF7731)](https://anicomanesh.substack.com)
 [![X](https://img.shields.io/badge/-X-FF0000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/ANicoomanesh)
 
 </div>
