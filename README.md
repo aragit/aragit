@@ -35,10 +35,9 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 ### Recent Articles & Insights 
 ---
 * **GenAI & Large Language Models:**
-    * [Fine-Tuning DeepSeek R1 Reasoning on the Medical Chain of Thought Dataset](https://medium.com/@anicomanesh/fine-tuning-deepseek-r1-reasoning-on-the-medical-chain-of-thought-dataset-922407121cc2) - *Apply reasoning models to amplify most valuable clinical skill: clinical judgment and diagnosis*
-    * [A Dive into Unsloth & Gemma 3 : Fine-Tune Gemma 3 12B with Unsloth & TRL for Custommer Service Adaptation](https://medium.com/@anicomanesh/a-dive-into-unsloth-gemma-3-fine-tune-gemma-3-12b-with-unsloth-trl-for-custommer-service-53e93692d4d6) - *learn how to efficiently created a domain-adapted model with Gemma 3 and Unsloth . This approach required only modest compute (free Kaggle GPUs) yet yields a model specialized on the Bitext dataset’s intents and phrasing.*
-    * [A Dive Into LLM Output Configuration, Prompt Engineering Techniques and Guardrails
-Part I: Reasoning and Logic](https://medium.com/@anicomanesh/a-dive-into-advanced-prompt-engineering-techniques-for-llms-part-i-23c7b8459d51) - *For data enthusiasts, professionals, and even the general public, understanding prompt engineering for better AI communication*
+    * [Fine-Tuning DeepSeek R1 Reasoning on the Medical Chain of Thought Dataset](https://medium.com/@anicomanesh/fine-tuning-deepseek-r1-reasoning-on-the-medical-chain-of-thought-dataset-922407121cc2) 
+    * [A Dive into Unsloth & Gemma 3 : Fine-Tune Gemma 3 12B with Unsloth & TRL for Custommer Service Adaptation](https://medium.com/@anicomanesh/a-dive-into-unsloth-gemma-3-fine-tune-gemma-3-12b-with-unsloth-trl-for-custommer-service-53e93692d4d6) 
+    * [A Dive Into LLM Output Configuration, Prompt Engineering Techniques and Guardrails Part I: Reasoning and Logic](https://medium.com/@anicomanesh/a-dive-into-advanced-prompt-engineering-techniques-for-llms-part-i-23c7b8459d51)
     * [Token Efficiency and Compression Techniques in Large Language Models: Navigating Context-Length Limits](https://medium.com/@anicomanesh/token-efficiency-and-compression-techniques-in-large-language-models-navigating-context-length-05a61283412b) 
     * [Fine-Tuning Gemma 2 for Medical Question Answering: A Step-by-Step Guide](https://medium.com/@anicomanesh/fine-tuning-gemma-2-for-medical-question-answering-a-step-by-step-guide-1c6c4ec4c107) 
     
