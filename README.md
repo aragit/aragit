@@ -1,4 +1,4 @@
-#### **Hi, I'm Arash Nicoomanesh!** 👋
+## **Hi, I'm Arash Nicoomanesh!** 👋
 ##### AI Engineer | Generative AI Enthusiast | Agentic AI Developer
 --- 
 I'm a passionate AI Engineer with 15 years of experience building and deploying intelligent systems. My expertise lies in Generative AI ,Large Language Models, Machine Learning Operations, Data-driven Insights.I focus on transforming complex data into actionable AI solutions, from research and prototyping to production deployment. I'm particularly interested in ethical AI, explainable AI, multimodal LLMs, real-time inference.
