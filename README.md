@@ -34,21 +34,22 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 | **[Your Best Applied ML Project](https://github.com/YourUsername/your-applied-ml-project)** | [Brief, impactful description]                                                                                                   | [Key technologies]                                                                    |
 
 
+### Featured Articles & Insights ✍️
 ---
-
-### My Articles & Insights ✍️
-
-(Link to your Medium and Substack articles. Categorize them if you have many.)
 
 * **GenAI & Large Language Models:**
     * "[Fine-Tuning DeepSeek R1 Reasoning on the Medical Chain of Thought Dataset](https://medium.com/@anicomanesh/fine-tuning-deepseek-r1-reasoning-on-the-medical-chain-of-thought-dataset-922407121cc2)" - *Apply reasoning models to amplify most valuable clinical skill: clinical judgment and diagnosis*
     * "[A Dive into Unsloth & Gemma 3 : Fine-Tune Gemma 3 12B with Unsloth & TRL for Custommer Service Adaptation](https://medium.com/@anicomanesh/a-dive-into-unsloth-gemma-3-fine-tune-gemma-3-12b-with-unsloth-trl-for-custommer-service-53e93692d4d6)" - *learn how to efficiently created a domain-adapted model with Gemma 3 and Unsloth . This approach required only modest compute (free Kaggle GPUs) yet yields a model specialized on the Bitext dataset’s intents and phrasing.*
+    * "[A Dive Into LLM Output Configuration, Prompt Engineering Techniques and Guardrails
+Part I: Reasoning and Logic](https://medium.com/@anicomanesh/a-dive-into-advanced-prompt-engineering-techniques-for-llms-part-i-23c7b8459d51)" - *For data enthusiasts, professionals, and even the general public, understanding prompt engineering for better AI communication*
+
+
+
 * **Applied Machine Learning:**
     * "[Title of ML Article 1](https://medium.com/@YourUsername/article-link-3)" - *[Brief sentence on what it's about]*
     * "[Title of ML Article 2](https://yoursubstack.substack.com/article-link-4)" - *[Brief sentence on what it's about]*
-* **[Other Category, e.g., MLOps, Data Engineering]:**
-    * "[Title of Other Article 1](https://medium.com/@YourUsername/article-link-5)" - *[Brief sentence on what it's about]*
-
+* **Agentic AI:**
+    * "[First Steps Toward Building an Autonomous Agentic AI for Cognitive Behavioral Therapy (CBT) in Psychological Counseling](https://anicomanesh.substack.com/p/first-steps-toward-building-an-autonomous)" - *This initial part of the article lays the theoretical and architectural groundwork for a novel approach to digital mental health: an autonomous multi-agent system for delivering Cognitive Behavioral Therapy (CBT).*
 ---
 
 ### Connect With Me 🌐
