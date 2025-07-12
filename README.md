@@ -1,4 +1,4 @@
-#### Hi, I'm Arash Nicoomanesh! 👋
+#### **Hi, I'm Arash Nicoomanesh!** 👋
 
 ##### AI Engineer | Generative AI Enthusiast | Agentic AI Developer
 
@@ -22,7 +22,7 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 </p>
 
 
-#### Featured Projects 🚀
+#### **Featured Projects** 🚀
 
 | Project Name                                      | Description                                                                                                                                           | Technologies Used                                                                     |
 | :------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ |
