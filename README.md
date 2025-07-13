@@ -26,7 +26,7 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 | [LLM-Powered RAG-Based research Assistant](https://github.com/YourUsername/llm-rag-chatbot-project) | Built a simple RAG-Based Research Assistant (similar to [NotebookLM](https://notebooklm.google/)), based on your own pdfs locally using LangChain, Faiss, and Gemma2. | Hugging Face Transformers, LangChain, FAISS, Gradio                              |
 | [Fine-tune LLaMA-3 for NER or medical entity extraction(BioNLP).](https://github.com/YourUsername/llama2-sentiment-finetuning) |              | PyTorch, Hugging Face Transformers, Llama3, Unsloth  |
 | **[Generative Media Studio with Controllable Outputs:(Building on Stable Diffusion 3 & VoiceStar ](https://github.com/YourUsername/predictive-maintenance-iot)** | Unified pipeline for generating images, audio, and video with granular constraints (e.g., duration, layout). | Image: Stable Diffusion 3 with ControlNet for layout guidance, Audio: VoiceStar for duration-controlled TTS, Video: AnimateDiff for keyframe-consistent animation             |
-                                                                                          
+| [DeepSeek R1 Reasoning on the Medical Chain of Thought Dataset](https://github.com/YourUsername/deepseek-reasoning-finetuning) |              | PyTorch, Hugging Face Transformers,unsloth/DeepSeek-R1-Distill-Qwen-7B   |                                                                                          
 
 
 
