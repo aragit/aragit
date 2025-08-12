@@ -49,7 +49,8 @@ Currently delving deeper into Agentic AI systems, model quantization, federated 
 * **Agentic AI:**
    - [First Steps Toward Building an Autonomous Agentic AI for Cognitive Behavioral Therapy (CBT) in Psychological Counseling](https://anicomanesh.substack.com/p/first-steps-toward-building-an-autonomous) - This initial part of the article lays the theoretical and architectural groundwork for a novel approach to digital mental health: an autonomous multi-agent system for delivering Cognitive Behavioral Therapy (CBT).*
 
-### My Cources:
+### My Courses:
+---
   - Machine Learning Fundamentals
   - NLP and LLMs Fundamentals
   - Agentic AI with CrewAI
