@@ -2,8 +2,6 @@
 
 Currently i am working on Agentic AI and Multi-Agent systems. You can visit [My Site](https://aragit.github.io/#home) for more details on my work and insight. 
 
-### Connections
----
 
 <div align="left">
 
