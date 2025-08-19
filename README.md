@@ -1,10 +1,6 @@
-## **Hi, I'm Arash Nicoomanesh!** 👋
-#### AI Engineer | Generative AI Enthusiast | Agentic AI Developer
+#### About Me
 
-I'm a passionate AI Engineer with 15 years of experience building and deploying intelligent systems. My expertise lies in Generative AI ,Large Language Models, Machine Learning Operations, Data-driven Insights.I focus on transforming complex data into actionable AI solutions, from research and prototyping to production deployment. I'm particularly interested in ethical AI, explainable AI, multimodal LLMs, real-time inference.
-Currently delving deeper into Agentic AI systems, model quantization, federated learning. Always exploring new advancements in generative AI, Reinforcement Learning, Agentic AI in Medicare/Healthcare.My mission is to leverage cutting-edge AI to solve challenging real-world problems—especially in healthcare and Medicare—and to contribute to the open-source community.
-
-Visit [My Portfolio](https://aragit.github.io/#home)
+Currently i am working on Agentic AI and Multi-Agent systems. You can visit [My Site](https://aragit.github.io/#home) for more details on my work and insight. 
 
 ### Connections
 ---
