@@ -28,7 +28,15 @@ Currently i am working on Agentic AI and Multi-Agent systems. You can visit [My 
 | **NLP & Information Extraction** | **`bionlp-llama3-ner`**<br>Clinical Named Entity Recognition (NER) | LLaMA-3-8B, PEFT/LoRA, Transformers | Finetuned LLaMA-3 architecture optimized explicitly to extract multi-token clinical biomarkers and biomedical terms from unstructured EHR files. | [View Blueprint](#) |
 | **Generative Media** | **`controllable-media-studio`**<br>Constrained Diffusion Multi-Modal App | Stable Diffusion 3, ControlNet, VoiceStar | Compiles a multi-modal generation graph enforcing structural layout maps (via ControlNets) alongside duration-bounded audio/video synthesis. | [View Blueprint](#) |
 | **AI Agents & Orchestration** | **`neuro-symbolic-agentic-rag`**<br>Deterministic Multi-Agent Clinical Core | LangGraph, DSPy, FastAPI, OPA/Rego | Coordinates single- and multi-agent graphs featuring cyclic planning and execution topologies. Incorporates an Open Policy Agent (OPA) validation ring. | [View Blueprint](#) |                                                                                       
+---
+### 🛠️ Strategic & Deep Tech Blueprints
 
+| Domain | Project Architecture | Stack | Core Implementation Strategy | Status / Code |
+| :--- | :--- | :--- | :--- | :--- |
+| **Game Theory & Agentic AI** | **`nash-marketing-agents`**<br>Multi-Agent Competitive Market Simulation Engine | Python, Nashpy, PyTorch, OpenAI API | Models non-cooperative ad-bidding simulations between autonomous brand agents. Computes continuous mixed-strategy **Nash Equilibria** to prevent catastrophic budget-depletion loops during hyper-parameter adjustments. | [View Blueprint (Coming Soon)](#) |
+| **Orchestrated AI Agents** | **`enterprise-intelligence-crew`**<br>Autonomous Content Lifecycle Platform | CrewAI, LangChain, Pydantic, ChromaDB | Coordinates a hierarchical Multi-Agent hierarchy (Trend Investigator, Risk Analyst, Copywriter). Employs short-term memory syncs, tool delegation constraints, and strict schema validation via Pydantic containers. | [Active Blueprint](#) |
+| **Advanced LLM & RAG** | **`speculative-graph-rag`**<br>Self-Correcting Clinical Knowledge Core | LlamaIndex, Neo4j, vLLM, DeepSeek-R1 | Pairs dense entity-relationship GraphRAG nodes with a speculative parsing verification layer. Leverages structured reasoners to validate extracted diagnostic pathways against strict medical taxonomies. | [Active Blueprint](#) |
+| **2026 SOTA Time Series** | **`zero-shot-demand-foundation`**<br>Predictive Supply-Chain Telemetry Pipeline | Amazon Chronos-2, Google TimesFM 2.5, Hugging Face | Bypasses traditional task-specific ARIMA/LSTMs using 2026 zero-shot Time Series Foundation Models (TSFMs). Implements **In-Context Fine-Tuning (ICF)** across 16,000-timestep patch-embeddings incorporating exogenous covariates. | [Active Blueprint](#) |
 
 
 ### Recent Articles & Insights 
