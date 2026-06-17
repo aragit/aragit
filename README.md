@@ -19,12 +19,15 @@ Currently i am working on Agentic AI and Multi-Agent systems. You can visit [My 
 
 ### Hands‑On Demo Projects 
 ---
-| Project Name                                      | Description                                                                                                                                           | Technologies Used             | Tutorials                                                        |
-| :------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ | :---------------- |
-| [LLM-Powered RAG-Based research assistant](https://github.com/aragit/research-assistant-rag) | Built a simple RAG-Based Research Assistant (similar to [NotebookLM](https://notebooklm.google/)), based on your own pdfs locally using LangChain, Faiss, and Gemma2. | Hugging Face Transformers, LangChain, FAISS, Gradio                              |  yes         |
-| [Fine-tune LLaMA-3 for NER or medical entity extraction(BioNLP).](https://github.com/YourUsername/llama2-sentiment-finetuning) |              | PyTorch, Hugging Face Transformers, Llama3, Unsloth  |   -     |
-| **[Generative Media Studio with Controllable Outputs:(Building on Stable Diffusion 3 & VoiceStar ](https://github.com/YourUsername/predictive-maintenance-iot)** | Unified pipeline for generating images, audio, and video with granular constraints (e.g., duration, layout). | Image: Stable Diffusion 3 with ControlNet for layout guidance, Audio: VoiceStar for duration-controlled TTS, Video: AnimateDiff for keyframe-consistent animation             |   -    |
-| [DeepSeek R1 Reasoning on the Medical Chain of Thought Dataset](https://github.com/YourUsername/deepseek-reasoning-finetuning) |              | PyTorch, Hugging Face Transformers,unsloth/DeepSeek-R1-Distill-Qwen-7B   |  yes      |                                                                                         
+### 🛠️ Core Engineering Showcases
+
+| Domain | Project Architecture | Stack | Core Implementation Strategy | Code |
+| :--- | :--- | :--- | :--- | :--- |
+| **Edge ML & Vision** | **`spatial-event-detector`**<br>Real-time Kinematic Telemetry Engine | PyTorch, YOLOv11-Pose, OpenCV, NumPy | Decouples raw pixel ingestion from logical inference. Computes joint vectors over temporal windows to feed a deterministic movement state machine. | [Active Repo](https://github.com/aragit/spatial-event-detector) |
+| **NLP & Finetuning** | **`deepseek-reasoning-finetuning`**<br>Medical CoT LoRA Alignment Pipeline | Unsloth, PyTorch, Hugging Face, TRL | Accelerates DeepSeek-R1-Distill-Qwen-7B alignment via parameter-efficient 4-bit quantization, mapping diagnostic thought chains natively. | [Active Repo](https://github.com/aragit/deepseek-reasoning-finetuning) |
+| **NLP & Information Extraction** | **`bionlp-llama3-ner`**<br>Clinical Named Entity Recognition (NER) | LLaMA-3-8B, PEFT/LoRA, Transformers | Finetuned LLaMA-3 architecture optimized explicitly to extract multi-token clinical biomarkers and biomedical terms from unstructured EHR files. | [View Blueprint](#) |
+| **Generative Media** | **`controllable-media-studio`**<br>Constrained Diffusion Multi-Modal App | Stable Diffusion 3, ControlNet, VoiceStar | Compiles a multi-modal generation graph enforcing structural layout maps (via ControlNets) alongside duration-bounded audio/video synthesis. | [View Blueprint](#) |
+| **AI Agents & Orchestration** | **`neuro-symbolic-agentic-rag`**<br>Deterministic Multi-Agent Clinical Core | LangGraph, DSPy, FastAPI, OPA/Rego | Coordinates single- and multi-agent graphs featuring cyclic planning and execution topologies. Incorporates an Open Policy Agent (OPA) validation ring. | [View Blueprint](#) |                                                                                       
 
 
 
