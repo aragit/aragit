@@ -2,7 +2,7 @@
 <p align="center">Building multi-agent systems and clinical LLM pipelines. <a href="https://aragit.github.io/#home">Portfolio →</a></p>
 
 
-<div align="left">
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000)](https://linkedin.com/in/arashnicoomanesh)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]([https://linkedin.com/in/arashnicoomanesh](https://www.kaggle.com/arashnic))
