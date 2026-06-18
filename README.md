@@ -42,6 +42,7 @@
 ### Recent Articles & Insights
 
 **GenAI & Large Language Models:**
+
 - [Fine-Tuning DeepSeek R1 Reasoning on the Medical Chain of Thought Dataset](https://medium.com/@anicomanesh/fine-tuning-deepseek-r1-reasoning-on-the-medical-chain-of-thought-dataset-922407121cc2)
 - [A Dive into Unsloth & Gemma 3](https://medium.com/@anicomanesh/a-dive-into-unsloth-gemma-3-fine-tune-gemma-3-12b-with-unsloth-trl-for-custommer-service-53e93692d4d6)
 - [A Dive Into LLM Output Configuration, Prompt Engineering Techniques and Guardrails Part I](https://medium.com/@anicomanesh/a-dive-into-advanced-prompt-engineering-techniques-for-llms-part-i-23c7b8459d51)
@@ -52,12 +53,14 @@
 &lt;summary&gt;&lt;b&gt;📚 See all articles →&lt;/b&gt;&lt;/summary&gt;
 
 **Applied Machine Learning:**
+
 - [Model Drift: Identifying and Monitoring for Model Drift](https://anicomanesh.substack.com/p/model-drift-identifying-and-monitoring)
 - [Evolution of Recommendation Algorithms, Part I](https://medium.com/@anicomanesh/evolution-of-recommendation-algorithms-part-i-fundamentals-and-classical-recommendation-bb1c0bce78a9)
 - [Machine Learning Interpretability (MLI) with XGBoost and SHAP](https://medium.com/@anicomanesh/interpretable-machine-learning-iml-with-xgboost-and-additive-tools-42258fb1f14)
 - [Data Leakage: Causes, Effects and Solutions](https://medium.com/@anicomanesh/data-leakage-causes-effects-and-solutions-6cc44a149e1c)
 
 **Agentic AI:**
+
 - [First Steps Toward Building an Autonomous Agentic AI for CBT](https://anicomanesh.substack.com/p/first-steps-toward-building-an-autonomous)
 
 &lt;/details&gt;
