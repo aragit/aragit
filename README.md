@@ -4,22 +4,16 @@
 
 <div align="center">
 
-<!-- Professional / Career -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arashnicoomanesh)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arashnic)
-
-<!-- Content / Writing -->
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anicomanesh)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://anicomanesh.substack.com)
-
-<!-- AI / Tech Community -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000)](https://linkedin.com/in/arashnicoomanesh)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]([https://linkedin.com/in/arashnicoomanesh](https://www.kaggle.com/arashnic))
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000)](https://medium.com/@anicomanesh)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Arnic)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ANicoomanesh)
-
-<!-- Cloud / Certs -->
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/profile/badges)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://anicomanesh.substack.com)
+[![Twitter/X](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/ANicoomanesh)
+[![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=orange)](https://www.cloudskillsboost.google/profile/badges)
 
 </div>
+
 
 
 
