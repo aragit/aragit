@@ -1,6 +1,12 @@
 <h1 align="center">Hi, I'm Arash — Agentic AI &  LLM Engineer</h1>
 <p align="center">Building multi-agent systems and clinical LLM pipelines. <a href="https://aragit.github.io/#home">Portfolio →</a></p>
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aragit&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aragit&layout=compact&hide_border=true)
+
+</div>
 
 <div align="center">
 
