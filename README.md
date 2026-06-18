@@ -43,10 +43,11 @@
 
 **Agentic AI**
 - [“The Planning-Rubicon: Why the Vast Majority of AI Agents Are Just Expensive Chatbots”- Part I](https://medium.com/@anicomanesh/the-planning-rubicon-why-the-vast-majority-of-ai-agents-are-just-expensive-chatbots-part-i-fa0409a10d8e)
-Beyond the Wrapper: Why 2026 Will Separate Agent Infrastructure from Agent Theater
+*Beyond the Wrapper: Why 2026 Will Separate Agent Infrastructure from Agent Theater.*
 - [From Generative to Agentic AI: A Roadmap in 2026](https://medium.com/@anicomanesh/from-generative-to-agentic-ai-a-roadmap-in-2026-8e553b43aeda)
-Why the future isn’t about better Brains and Prompts — it’s about better Systems. A survival guide for the AI Engineers.
+*Why the future isn’t about better Brains and Prompts — it’s about better Systems. A survival guide for the AI Engineers.*
 - [Beyond the Hype of Expensive Chatbots: Bridging Strategic Business Intent with Adaptive Agentic Systems](https://medium.com/@anicomanesh/beyond-the-hype-of-expensive-chatbots-bridging-strategic-business-intent-with-adaptive-agentic-d1144e9df041)
+*Why the more resilient path is to invest in adaptive, goal-driven AI agents that scale business intelligence and align with strategic intent.*
   
 
 <details>
