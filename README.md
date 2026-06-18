@@ -50,13 +50,14 @@
 *Why the more resilient path is to invest in adaptive, goal-driven AI agents that scale business intelligence and align with strategic intent.*
   
 
-<details>
-<summary><b>📚 See all articles →</b></summary>
+
 
 **Generative AI and LLM Engineering:**
 - [A Dive into Unsloth & Gemma 3](https://medium.com/@anicomanesh/a-dive-into-unsloth-gemma-3-fine-tune-gemma-3-12b-with-unsloth-trl-for-custommer-service-53e93692d4d6)
 - [A Dive Into LLM Output Configuration, Prompt Engineering Techniques and Guardrails Part I](https://medium.com/@anicomanesh/a-dive-into-advanced-prompt-engineering-techniques-for-llms-part-i-23c7b8459d51)
 - [Token Efficiency and Compression Techniques in Large Language Models](https://medium.com/@anicomanesh/token-efficiency-and-compression-techniques-in-large-language-models-navigating-context-length-05a61283412b)
+<details>
+<summary><b>📚 See all articles →</b></summary>
 - [First Steps Toward Building an Autonomous Agentic AI for CBT](https://anicomanesh.substack.com/p/first-steps-toward-building-an-autonomous)
 
 **Applied Machine Learning:**
@@ -71,13 +72,7 @@
 </details>
 
 
-### My Courses:
----
-  - Machine Learning Fundamentals
-  - NLP and LLMs Fundamentals
-  - Agentic AI with CrewAI
-  - Look Inside LLMs 
----
+
 <p align="center">
   <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30"/></a>
   <a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="30" height="30"/></a>
