@@ -14,11 +14,11 @@
 
 </div>
 
-<div align="center">
+### 🔭 Currently Building
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aragit&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+- **Agentic CBT System** — Multi-agent architecture for autonomous cognitive behavioral therapy delivery
+- **Nash Marketing Agents** — Game-theoretic equilibrium engine for competitive ad-bidding simulations
+- **Zero-Shot Demand Forecasting** — Supply-chain telemetry with 2026 SOTA time-series foundation models
 
 
 ### Hands‑On Demo Projects 
