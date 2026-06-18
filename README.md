@@ -14,12 +14,18 @@
 
 </div>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Agentic+AI+Engineer;Medical+ML+Specialist;Multi-Agent+Systems+Architect;LLM+Fine-Tuning+Expert)](https://git.io/typing-svg)
+
+</div>
+
 ### 🔭 Currently Building
 
 - **Agentic CBT System** — Multi-agent architecture for autonomous cognitive behavioral therapy delivery
 - **Nash Marketing Agents** — Game-theoretic equilibrium engine for competitive ad-bidding simulations
 - **Zero-Shot Demand Forecasting** — Supply-chain telemetry with 2026 SOTA time-series foundation models
-- **neuro-symbolic agentic rag** — Deterministic Multi-Agent Clinical Core
+- **Neuro-symbolic agentic rag** — Deterministic Multi-Agent Clinical Core
 
 
 ### Hands‑On Demo Projects 
