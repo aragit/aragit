@@ -49,8 +49,8 @@
 - [Token Efficiency and Compression Techniques in Large Language Models](https://medium.com/@anicomanesh/token-efficiency-and-compression-techniques-in-large-language-models-navigating-context-length-05a61283412b)
 - [Fine-Tuning Gemma 2 for Medical Question Answering: A Step-by-Step Guide](https://medium.com/@anicomanesh/fine-tuning-gemma-2-for-medical-question-answering-a-step-by-step-guide-1c6c4ec4c107)
 
-&lt;details&gt;
-&lt;summary&gt;&lt;b&gt;📚 See all articles →&lt;/b&gt;&lt;/summary&gt;
+<details>
+<summary><b>📚 See all articles →</b></summary>
 
 **Applied Machine Learning:**
 
@@ -63,7 +63,8 @@
 
 - [First Steps Toward Building an Autonomous Agentic AI for CBT](https://anicomanesh.substack.com/p/first-steps-toward-building-an-autonomous)
 
-&lt;/details&gt;
+</details>
+
 
 ### My Courses:
 ---
