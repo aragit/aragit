@@ -19,6 +19,7 @@
 - **Agentic CBT System** — Multi-agent architecture for autonomous cognitive behavioral therapy delivery
 - **Nash Marketing Agents** — Game-theoretic equilibrium engine for competitive ad-bidding simulations
 - **Zero-Shot Demand Forecasting** — Supply-chain telemetry with 2026 SOTA time-series foundation models
+- **neuro-symbolic agentic rag** — Deterministic Multi-Agent Clinical Core
 
 
 ### Hands‑On Demo Projects 
