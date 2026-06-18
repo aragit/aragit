@@ -16,16 +16,9 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/aragit/aragit/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aragit&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
 
 
 ### Hands‑On Demo Projects 
