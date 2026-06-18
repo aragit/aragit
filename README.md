@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Agentic+AI+Engineer;Medical+ML+Specialist;Multi-Agent+Systems+Architect;LLM+Fine-Tuning+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Agentic+AI+Engineer;Medical+ML+Specialist;Multi-Agent+Systems+Architect;LLM+Engineering+Expert)](https://git.io/typing-svg)
 
 </div>
 
