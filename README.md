@@ -76,7 +76,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **Search & Discovery** | **`multimodal-visual-outfit-search`** | Captures subjective visual intent (e.g., "aesthetic" matching) that text-search fails at, driving higher top-of-funnel engagement. | vLLM, Qwen2-VL, Qdrant, Neo4j, FastAPI | [View Blueprint (Coming Soon)](#) |
 | **Conversion & Fit** | **`virtual-tryon-sizing-core`** | Directly mitigates the #1 margin killer in apparel (return rates) by simulating accurate drape and fit before purchase. | Diffusers, ControlNet, PyTorch, Triton | [View Blueprint (Coming Soon)](#) |
-| **Live Commerce** | **`agentic-livestream-bid-swarm`** | Captures fleeting buying intent during chaotic live-stream events using autonomous micro-incentives and flash discounts. | LangGraph, Redpanda, vLLM, DeepSeek-R1 | [Active repo(Coming Soon)](#) |
+| **Live Commerce** | **`agentic-livestream-bid-swarm`** | Captures fleeting buying intent during chaotic live-stream events using autonomous micro-incentives and flash discounts. | LangGraph, Redpanda, vLLM, DeepSeek-R1 | [Active Repo (Coming Soon)](#) |
 | **Pricing & Inventory** | **`spatial-dynamic-markdown-engine`** | Prevents total margin destruction on seasonal goods by flash-liquidating stagnant stock through hyper-local, real-time pricing. | TimesFM 2.5, Ray, SciPy, PostgreSQL | [View Blueprint (Coming Soon)](#) |
 
 ---
