@@ -39,7 +39,9 @@
 | **Generative Media** | **`controllable-media-studio`**<br>Constrained Diffusion Multi-Modal App | Stable Diffusion 3, ControlNet, VoiceStar | Compiles a multi-modal generation graph enforcing structural layout maps (via ControlNets) alongside duration-bounded audio/video synthesis. | [View Blueprint](#) |
 | **AI Agents & Orchestration** | **`neuro-symbolic-agentic-rag`**<br>Deterministic Multi-Agent Clinical Core | LangGraph, DSPy, FastAPI, OPA/Rego | Coordinates single- and multi-agent graphs featuring cyclic planning and execution topologies. Incorporates an Open Policy Agent (OPA) validation ring. | [View Blueprint (Coming Soon)](#) |  
 | **Edge ML & Vision** | **`spatial-event-detector`**<br>Real-time Kinematic Telemetry Engine | PyTorch, YOLOv11-Pose, OpenCV, NumPy | Decouples raw pixel ingestion from logical inference. Computes joint vectors over temporal windows to feed a deterministic movement state machine. | [Active Repo](https://github.com/aragit/spatial-event-detector) |
----
+
+    
+    
 ### 🛠️ Strategic & Deep Tech Blueprints
 
 | Domain | Project Architecture | Stack | Core Implementation Strategy | Status / Code |
@@ -48,6 +50,8 @@
 | **Game Theory & Agentic AI** | **`nash-marketing-agents`**<br>Multi-Agent Competitive Market Simulation Engine | Python, Nashpy, PyTorch, OpenAI API | Models non-cooperative ad-bidding simulations between autonomous brand agents. Computes continuous mixed-strategy **Nash Equilibria** to prevent catastrophic budget-depletion loops during hyper-parameter adjustments. | [View Blueprint (Coming Soon)](#) |
 | **Orchestrated AI Agents** | **`enterprise-intelligence-crew`**<br>Autonomous Content Lifecycle Platform | CrewAI, LangChain, Pydantic, ChromaDB | Coordinates a hierarchical Multi-Agent hierarchy (Trend Investigator, Risk Analyst, Copywriter). Employs short-term memory syncs, tool delegation constraints, and strict schema validation via Pydantic containers. | [Active Repo](https://github.com/aragit/enterprise-intelligence-crew/tree/main) |
 | **Advanced LLM & RAG** | **`speculative-graph-rag`**<br>Self-Correcting Clinical Knowledge Core | LlamaIndex, Neo4j, vLLM, DeepSeek-R1 | Pairs dense entity-relationship GraphRAG nodes with a speculative parsing verification layer. Leverages structured reasoners to validate extracted diagnostic pathways against strict medical taxonomies. | [Active Blueprint](#) |
+
+      
 
 ### 💠 SOTA AI Engineering Portfolio (2026)
 
@@ -63,7 +67,8 @@
 | **Marketing Tech** | **`generative-dynamic-ad-renderer`**<br>Telemetry-Driven Ad Generation Pipeline | vLLM, Diffusers, FFmpeg, Python | Ingests real-time user browsing telemetry to dynamically generate tailored script structures via open-source LLMs, triggering localized video render modules on the fly. | [View Blueprint (Coming Soon)](#) |
 | **E-Commerce & MarTech** | **`realtime-intent-transformer`**<br>Session-Based E-Commerce Intent Telemetry Engine | vLLM, DeepSeek-R1, Redis (Streaming), Qdrant, FastAPI | Ingests real-time clickstream sequences and cart interactions to map live sessions against dense vector behavioral stores. Triggers a distilled DeepSeek-R1 reasoning loop to dynamically serve context-aware micro-incentives. | [View Blueprint (Coming Soon)](#) |
 
-
+   
+     
 ### 🛒 E-Commerce & MarTech Use Cases (2026 Architecture)
 
 | Business Category | Project Name | Business Lever (The "Why") | Core Tech Stack | Status / Code |
@@ -73,6 +78,7 @@
 | **Live Commerce** | **`agentic-livestream-bid-swarm`** | Captures fleeting buying intent during chaotic live-stream events using autonomous micro-incentives and flash discounts. | LangGraph, Redpanda, vLLM, DeepSeek-R1 | [View Blueprint (Coming Soon)](#) |
 | **Pricing & Inventory** | **`spatial-dynamic-markdown-engine`** | Prevents total margin destruction on seasonal goods by flash-liquidating stagnant stock through hyper-local, real-time pricing. | TimesFM 2.5, Ray, SciPy, PostgreSQL | [View Blueprint (Coming Soon)](#) |
 
+---
 ### Recent Articles & Insights
 
 **Agentic AI**
@@ -105,7 +111,7 @@
 
 </details>
 
-
+---
 
 <p align="center">
   <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30"/></a>
