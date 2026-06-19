@@ -28,7 +28,7 @@
 - **Neuro-symbolic agentic rag** — Deterministic Multi-Agent Clinical Core
 
 
-### Hands‑On Demo Projects 
+## Hands‑On Demo Projects 
 ---
 ### 🛠️ Core Engineering Showcases
 
@@ -49,7 +49,7 @@
 | **Orchestrated AI Agents** | **`enterprise-intelligence-crew`**<br>Autonomous Content Lifecycle Platform | CrewAI, LangChain, Pydantic, ChromaDB | Coordinates a hierarchical Multi-Agent hierarchy (Trend Investigator, Risk Analyst, Copywriter). Employs short-term memory syncs, tool delegation constraints, and strict schema validation via Pydantic containers. | [Active Repo](https://github.com/aragit/enterprise-intelligence-crew/tree/main) |
 | **Advanced LLM & RAG** | **`speculative-graph-rag`**<br>Self-Correcting Clinical Knowledge Core | LlamaIndex, Neo4j, vLLM, DeepSeek-R1 | Pairs dense entity-relationship GraphRAG nodes with a speculative parsing verification layer. Leverages structured reasoners to validate extracted diagnostic pathways against strict medical taxonomies. | [Active Blueprint](#) |
 
-## 💠 SOTA AI Engineering Portfolio (2026)
+### 💠 SOTA AI Engineering Portfolio (2026)
 
 | Domain | Project Architecture | Stack | Core Implementation Strategy | Status / Code |
 | :--- | :--- | :--- | :--- | :--- |
@@ -63,7 +63,6 @@
 | **Marketing Tech** | **`generative-dynamic-ad-renderer`**<br>Telemetry-Driven Ad Generation Pipeline | vLLM, Diffusers, FFmpeg, Python | Ingests real-time user browsing telemetry to dynamically generate tailored script structures via open-source LLMs, triggering localized video render modules on the fly. | [View Blueprint (Coming Soon)](#) |
 | **E-Commerce & MarTech** | **`realtime-intent-transformer`**<br>Session-Based E-Commerce Intent Telemetry Engine | vLLM, DeepSeek-R1, Redis (Streaming), Qdrant, FastAPI | Ingests real-time clickstream sequences and cart interactions to map live sessions against dense vector behavioral stores. Triggers a distilled DeepSeek-R1 reasoning loop to dynamically serve context-aware micro-incentives. | [View Blueprint (Coming Soon)](#) |
 
-### 🛒 E-Commerce & MarTech Use Cases (2026 Architecture)
 
 ### 🛒 E-Commerce & MarTech Use Cases (2026 Architecture)
 
