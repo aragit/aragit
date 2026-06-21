@@ -114,25 +114,34 @@
 ---
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" alt="Python" title="Python" width="30" height="30"/></a>
-  <a href="https://pytorch.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pytorch.svg" alt="PyTorch" title="PyTorch" width="30" height="30"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" alt="Hugging Face" title="Hugging Face" width="30" height="30"/></a>
-  <a href="https://docs.vllm.ai/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vllm.svg" alt="vLLM" title="vLLM" width="30" height="30"/></a>
-  <a href="https://unsloth.ai/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/unsloth.svg" alt="Unsloth" title="Unsloth" width="30" height="30"/></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" alt="LangChain" title="LangChain" width="30" height="30"/></a>
-  <a href="https://www.langchain.com/langgraph" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langgraph.svg" alt="LangGraph" title="LangGraph" width="30" height="30"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/fastapi.svg" alt="FastAPI" title="FastAPI" width="30" height="30"/></a>
-  <a href="https://www.crewai.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/crewai.svg" alt="CrewAI" title="CrewAI" width="30" height="30"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="30" height="30"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/docker.svg" alt="Docker" title="Docker" width="30" height="30"/></a>
-  <a href="https://ollama.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ollama.svg" alt="Ollama" title="Ollama" width="30" height="30"/></a>
-  <a href="https://www.gradio.app/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gradio.svg" alt="Gradio" title="Gradio" width="30" height="30"/></a>
-  <a href="https://cloud.google.com/vertex-ai" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlecloud.svg" alt="GCP Vertex AI" title="GCP Vertex AI" width="30" height="30"/></a>
-  <a href="https://www.trychroma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/chroma.svg" alt="ChromaDB" title="ChromaDB" width="30" height="30"/></a>
-  <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nvidia.svg" alt="CUDA / TensorRT" title="CUDA / TensorRT" width="30" height="30"/></a>
-  <a href="https://pola.rs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/polars.svg" alt="Polars" title="Polars" width="30" height="30"/></a>
-  <a href="https://pydantic.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pydantic.svg" alt="Pydantic" title="Pydantic" width="30" height="30"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg" alt="TensorFlow" title="TensorFlow" width="30" height="30"/></a>
-  <a href="https://spark.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachespark.svg" alt="PySpark" title="PySpark" width="30" height="30"/></a>
-  <a href="https://streamlit.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/streamlit.svg" alt="Streamlit" title="Streamlit" width="30" height="30"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" alt="Python" title="Python" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pytorch.svg" alt="PyTorch" title="PyTorch" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg" alt="TensorFlow" title="TensorFlow" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" alt="Hugging Face" title="Hugging Face" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlecloud.svg" alt="GCP Vertex AI" title="GCP Vertex AI" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/azuredevops.svg" alt="Azure AI Foundry" title="Azure AI Foundry" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/docker.svg" alt="Docker" title="Docker" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/fastapi.svg" alt="FastAPI" title="FastAPI" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" alt="LangChain" title="LangChain" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langgraph.svg" alt="LangGraph" title="LangGraph" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/crewai.svg" alt="CrewAI" title="CrewAI" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nvidia.svg" alt="CUDA / TensorRT" title="CUDA / TensorRT" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ollama.svg" alt="Ollama" title="Ollama" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gradio.svg" alt="Gradio" title="Gradio" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachekafka.svg" alt="Kafka" title="Kafka" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/redis.svg" alt="Redis" title="Redis" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mongodb.svg" alt="MongoDB" title="MongoDB" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/neo4j.svg" alt="Neo4j" title="Neo4j" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/elasticsearch.svg" alt="Elasticsearch" title="Elasticsearch" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/streamlit.svg" alt="Streamlit" title="Streamlit" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/grafana.svg" alt="Grafana" title="Grafana" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/prometheus.svg" alt="Prometheus" title="Prometheus" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mlflow.svg" alt="MLflow" title="MLflow" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachespark.svg" alt="Apache Spark" title="Apache Spark" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/terraform.svg" alt="Terraform" title="Terraform" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/opentelemetry.svg" alt="OpenTelemetry" title="OpenTelemetry" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/rust.svg" alt="Rust" title="Rust" width="32" height="32">
 </p>
