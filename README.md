@@ -114,23 +114,25 @@
 ---
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30"/></a>
-  <a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="30" height="30"/></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="30" height="30"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HF" width="30" height="30"/></a>
-  <a href="https://docs.vllm.ai/en/latest/" target="_blank"><img src="https://docs.vllm.ai/en/latest/assets/logos/vllm-logo-only-light.ico" alt="vLLM" width="30" height="30"/></a>
-  <a href="https://unsloth.ai/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsVty8uZrxXePsaxjCCBA4efhzx0xeoUqJx0HfAgSc8_IViauTsDBbnxH52nIw7Lh8_pY&usqp=CAU" alt="unsloth" width="30" height="30"/></a>
-   <a href="https://www.langchain.com/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" alt="langchain" width="30" height="30"/></a>
-   <a href="https://kubernetes.io/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes" alt="kubernates" width="30" height="30"/></a>
-   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" alt="fastapi" width="30" height="30"/></a>
-   <a href="https://www.crewai.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=crewai" alt="crewai" width="30" height="30"/></a>
-   <a href="https://www.tensorflow.org" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" alt="TensorFlow" width="30" height="30"/></a>
-   <a href="https://www.trychroma.com/home" target="_blank"><img src="https://www.trychroma.com/img/favicon.ico" alt="chroma" width="30" height="30"/></a>
-   <a href="https://spark.apache.org/docs/latest/api/python/index.html#:~:text=PySpark%20is%20the%20Python%20API,for%20interactively%20analyzing%20your%20data." target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=spark" alt="pyspark" width="30" height="30"/></a>
-<a href="https://cloud.google.com/vertex-ai" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZcBHafKEBjKAC1OahL_qwuOY-hntXNKDaUAs0bKGv_maPrlQXs2Yy0vhY5xWRdhOK04&usqp=CAU" alt="vertex" width="30" height="30"/></a>
-  <a href="https://ollama.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=ollama" alt="ollama" width="30" height="30"/></a>
-   <a href="https://www.gradio.app/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=gradio" alt="gradio" width="30" height="30"/></a>
-  <a href="https://pola.rs//" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=polars" alt="polars" width="30" height="30"/></a>
-  <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=cuda" alt="cuda" width="30" height="30"/></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" alt="langchain" width="30" height="30"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" alt="Python" title="Python" width="30" height="30"/></a>
+  <a href="https://pytorch.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pytorch.svg" alt="PyTorch" title="PyTorch" width="30" height="30"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" alt="Hugging Face" title="Hugging Face" width="30" height="30"/></a>
+  <a href="https://docs.vllm.ai/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vllm.svg" alt="vLLM" title="vLLM" width="30" height="30"/></a>
+  <a href="https://unsloth.ai/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/unsloth.svg" alt="Unsloth" title="Unsloth" width="30" height="30"/></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" alt="LangChain" title="LangChain" width="30" height="30"/></a>
+  <a href="https://www.langchain.com/langgraph" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langgraph.svg" alt="LangGraph" title="LangGraph" width="30" height="30"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/fastapi.svg" alt="FastAPI" title="FastAPI" width="30" height="30"/></a>
+  <a href="https://www.crewai.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/crewai.svg" alt="CrewAI" title="CrewAI" width="30" height="30"/></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="30" height="30"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/docker.svg" alt="Docker" title="Docker" width="30" height="30"/></a>
+  <a href="https://ollama.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ollama.svg" alt="Ollama" title="Ollama" width="30" height="30"/></a>
+  <a href="https://www.gradio.app/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gradio.svg" alt="Gradio" title="Gradio" width="30" height="30"/></a>
+  <a href="https://cloud.google.com/vertex-ai" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlecloud.svg" alt="GCP Vertex AI" title="GCP Vertex AI" width="30" height="30"/></a>
+  <a href="https://www.trychroma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/chroma.svg" alt="ChromaDB" title="ChromaDB" width="30" height="30"/></a>
+  <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nvidia.svg" alt="CUDA / TensorRT" title="CUDA / TensorRT" width="30" height="30"/></a>
+  <a href="https://pola.rs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/polars.svg" alt="Polars" title="Polars" width="30" height="30"/></a>
+  <a href="https://pydantic.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pydantic.svg" alt="Pydantic" title="Pydantic" width="30" height="30"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg" alt="TensorFlow" title="TensorFlow" width="30" height="30"/></a>
+  <a href="https://spark.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachespark.svg" alt="PySpark" title="PySpark" width="30" height="30"/></a>
+  <a href="https://streamlit.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/streamlit.svg" alt="Streamlit" title="Streamlit" width="30" height="30"/></a>
 </p>
