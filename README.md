@@ -114,7 +114,41 @@
 ---
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,vllm,unsloth,langchain,langgraph,crewai,haystack,chainlit,anthropic,openai,ollama,nvidia,gradio,streamlit,pydantic,jupyter,faiss,bitsandbytes,redis,mongodb,neo4j,postgresql,elasticsearch,milvus,chroma,vespa,nebula,sqlalchemy,snowflake,supabase,polars,s3,kubernetes,docker,fastapi,bentoml,ray,modal,replicate,prefect,temporal,celery,kedro,apachespark,kafka,googlecloud,azuredevops,azure,cloudflare,vercel,databricks,terraform,pulumi,nginx,ibm,quarkus,microsoft,prometheus,opentelemetry,posthog,githubactions,mlflow,okta,graalvm,go,rust,typescript&theme=light&perline=20" alt="Tech Stack"/>
-  </a>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
+  <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black"/>
+  <img alt="vLLM" src="https://img.shields.io/badge/vLLM-1E90FF?logo=vllm&logoColor=white"/>
+  <img alt="Unsloth" src="https://img.shields.io/badge/Unsloth-FF6B6B?logo=unsloth&logoColor=white"/>
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white"/>
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langgraph&logoColor=white"/>
+  <img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-FF5A5F?logo=crewai&logoColor=white"/>
+  <img alt="Haystack" src="https://img.shields.io/badge/Haystack-0066FF?logo=haystack&logoColor=white"/>
+  <img alt="Chainlit" src="https://img.shields.io/badge/Chainlit-00CC96?logo=chainlit&logoColor=white"/>
+  <img alt="Anthropic" src="https://img.shields.io/badge/Anthropic-191919?logo=anthropic&logoColor=white"/>
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white"/>
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white"/>
+  <img alt="NVIDIA" src="https://img.shields.io/badge/NVIDIA-76B900?logo=nvidia&logoColor=white"/>
+  <img alt="Gradio" src="https://img.shields.io/badge/Gradio-F97316?logo=gradio&logoColor=white"/>
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"/>
+  <img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
+  <img alt="FAISS" src="https://img.shields.io/badge/FAISS-2D6B2D?logo=faiss&logoColor=white"/>
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+  <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+  <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white"/>
+  <img alt="Milvus" src="https://img.shields.io/badge/Milvus-00A1EA?logo=milvus&logoColor=white"/>
+  <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-FF6B35?logo=chroma&logoColor=white"/>
+  <img alt="Polars" src="https://img.shields.io/badge/Polars-1E732E?logo=polars&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+  <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white"/>
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?logo=azuredevops&logoColor=white"/>
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white"/>
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/>
 </p>
