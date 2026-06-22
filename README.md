@@ -28,7 +28,7 @@
 - **Neuro-symbolic agentic rag** — Deterministic Multi-Agent Clinical Core
 
 
-## Hands‑On Demo Projects 
+## Hands‑On Projects 
 ---
 ### 🛠️ Core Engineering Showcases
 
@@ -42,7 +42,7 @@
 
     
     
-### 🛠️ Strategic & Deep Tech Blueprints
+### 🛠️ Strategic & Deep Tech 
 
 | Domain | Project Architecture | Stack | Core Implementation Strategy | Status / Code |
 | :--- | :--- | :--- | :--- | :--- |
