@@ -660,13 +660,9 @@ Building next-generation Agentic AI systems that:
 - integrate into real-world workflows
 
 ---
-## 🧰 Engineering Stack Atlas
 
-<p align="center">
-  <i>The tools below are grouped by the role they play in the intelligence stack.</i>
-</p>
 
-**Model Layer**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -679,7 +675,7 @@ Building next-generation Agentic AI systems that:
   <img src="https://img.shields.io/badge/Ollama-3B82F6?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
 
-**Agentic Orchestration**
+
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -692,7 +688,7 @@ Building next-generation Agentic AI systems that:
   <img src="https://img.shields.io/badge/Temporal-111827?style=for-the-badge&logo=temporal&logoColor=white" />
 </p>
 
-**Data, Search & Memory**
+
 <p align="center">
   <img src="https://img.shields.io/badge/FAISS-0F766E?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
@@ -705,7 +701,7 @@ Building next-generation Agentic AI systems that:
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-**ompute, Workflow & Delivery**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -717,7 +713,7 @@ Building next-generation Agentic AI systems that:
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-**Cloud, Infra & Observability**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -731,7 +727,7 @@ Building next-generation Agentic AI systems that:
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
 </p>
 
-**Language & Systems**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
