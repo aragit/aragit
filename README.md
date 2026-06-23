@@ -74,11 +74,12 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 
 <table>
   <tr>
-    <td bgcolor="#07111f">
-      <a href="https://github.com/aragit/bionlp-llama3-service/tree/main">
-        <strong>🔹 BioNLP LLaMA3 Service</strong>
-      </a><br/>
-      <sub>Clinical entity extraction from unstructured EHR pipelines.</sub>
+    <td width="220" valign="top">
+      <img src="https://img.shields.io/badge/Perception-00C2FF?style=for-the-badge&logo=eye&logoColor=white" />
+    </td>
+    <td valign="top">
+      <a href="https://github.com/aragit/bionlp-llama3-service/tree/main"><strong>BioNLP LLaMA3 Service</strong></a><br/>
+      Clinical entity extraction from unstructured EHR pipelines.
     </td>
   </tr>
 </table>
