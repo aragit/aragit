@@ -673,9 +673,6 @@ Building next-generation Agentic AI systems that:
   <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Anthropic-111827?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-3B82F6?style=for-the-badge&logo=ollama&logoColor=white" />
-</p>
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge&logo=langchain&logoColor=white" />
