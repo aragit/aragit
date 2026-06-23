@@ -145,7 +145,7 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 
 </details>
 
----
+
 
 ## 🧠 Reasoning & Knowledge Cores — Validation, Truth Control, and Retrieval
 
@@ -222,7 +222,7 @@ Systems that turn perception into structured reasoning, grounded answers, and ve
 
 </details>
 
----
+
 
 ## 🤖 Agentic Systems — Orchestration & Autonomy
 
@@ -391,7 +391,7 @@ Systems that coordinate multiple agents, strategies, and tools to act in dynamic
 
 </details>
 
----
+
 
 ## ⏱️ Temporal Intelligence — Prediction & Foresight
 
@@ -432,7 +432,7 @@ Systems that model time, anticipate outcomes, and enable proactive decision-maki
 
 </details>
 
----
+
 
 ## ⚙️ Execution Systems — Closing the Loop in the Real World
 
@@ -567,7 +567,7 @@ Systems that transform inference into measurable business or clinical action.
 
 </details>
 
----
+
 
 ## 🧬 Frontier Research — Beyond Conventional AI
 
@@ -590,7 +590,7 @@ Systems that push beyond standard LLM/RAG pipelines into new computational front
 
 </details>
 
----
+
 
 ## 🛠️ Core Engineering Showcases
 
@@ -601,7 +601,7 @@ Systems that push beyond standard LLM/RAG pipelines into new computational front
 
 These projects show the foundation beneath the system: fine-tuning, extraction, perception, and edge deployment.
 
----
+
 
 ## 🛒 E-Commerce & MarTech
 
@@ -612,7 +612,7 @@ These projects show the foundation beneath the system: fine-tuning, extraction, 
 
 These projects translate AI into revenue, pricing, conversion, and adaptive customer response.
 
----
+
 
 ## ✍️ Recent Articles & Insights
 
@@ -638,7 +638,7 @@ These projects translate AI into revenue, pricing, conversion, and adaptive cust
 
 </details>
 
----
+
 
 ## 🧭 Design Principles
 
@@ -648,7 +648,7 @@ These projects translate AI into revenue, pricing, conversion, and adaptive cust
 - Constraints > Prompts  
 - Architecture > Hacks  
 
----
+
 
 ## 🏗️ Vision: Aethron AI
 
