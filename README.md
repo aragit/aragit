@@ -72,11 +72,16 @@ a project belongs here because of the **role it plays in the intelligence stack*
 
 Systems that convert unstructured text, images, motion, and clinical streams into machine-readable representations.
 
-<p>
-  <img src="https://img.shields.io/badge/🔹%20BioNLP%20LLaMA3%20Service-00C2FF?style=for-the-badge" />
-</p>
-
-Clinical entity extraction from unstructured EHR pipelines.
+<table>
+  <tr>
+    <td bgcolor="#07111f">
+      <a href="https://github.com/aragit/bionlp-llama3-service/tree/main">
+        <strong>🔹 BioNLP LLaMA3 Service</strong>
+      </a><br/>
+      <sub>Clinical entity extraction from unstructured EHR pipelines.</sub>
+    </td>
+  </tr>
+</table>
 
 
 
