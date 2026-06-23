@@ -97,10 +97,16 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 - Designed to feed downstream retrieval and reasoning layers
 
 </details>
-
-### 🔹 [Surgical Vision Copilot](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20surgical-vision-copilot)
-
-**Real-time surgical understanding with vision-language models**
+<table>
+  <tr>
+    <td bgcolor="#07111f">
+      <a href="https://github.com/aragit/bionlp-llama3-service/tree/main">
+        <strong>🔹Surgical Vision Copilot</strong>
+      </a><br/>
+      <sub>Real-time surgical understanding with vision-language models.</sub>
+    </td>
+  </tr>
+</table>
 
 - **Stack:** PyTorch, Video-LLaVA, OpenCV, temporal action localization
 - **Core idea:** tracks procedural steps and predicts the next needed tool
