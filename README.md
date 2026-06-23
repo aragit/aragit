@@ -25,7 +25,7 @@
 
 ---
 
-## 🧠 System Overview
+## System Overview
 
 This is not a simple project list.
 
@@ -36,14 +36,6 @@ It is a **composable intelligence stack** — a portfolio of systems that transf
 
 ---
 
-## 🔭 Currently Building
-
-- **[Agentic CBT System](#-agentic-systems--orchestration--autonomy)** — multi-agent architecture for autonomous cognitive behavioral therapy delivery
-- **[Nash Marketing Agents](#-agentic-systems--orchestration--autonomy)** — game-theoretic equilibrium engine for competitive ad-bidding simulations
-- **[Zero-Shot Demand Forecasting](#-temporal-intelligence--prediction--foresight)** — supply-chain telemetry with zero-shot time-series foundation models
-- **[Neuro-Symbolic Agentic RAG](#-reasoning--knowledge-cores--validation-truth-control)** — deterministic multi-agent clinical core
-
----
 
 ## 🗺️ System Capability Map
 
