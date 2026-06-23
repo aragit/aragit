@@ -31,8 +31,8 @@ This is not a simple project list.
 
 It is a **composable intelligence stack** — a portfolio of systems that transform raw signals into structured reasoning, coordinated action, prediction, and real-world impact.
 
-> The future of AI is not better prompts.  
-> It is better systems.
+> ***The future of AI is notabout better Brains and Prompts,***  
+> ***it’s about better Systems and Body.***
 
 ---
 
