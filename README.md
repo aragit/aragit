@@ -50,6 +50,10 @@ It is a **composable intelligence stack** — a portfolio of systems that transf
 This portfolio is organized by **capability layer** rather than by domain.  
 The goal is to show how each project contributes to a larger agentic intelligence stack: perception → reasoning → orchestration → prediction → execution → frontier research.
 
+<p align="center">
+  <img src="assets/capability_map.png" alt="Capability Map" width="850px">
+</p>
+
 | Capability Layer | How It Is Categorized | What It Represents | Representative Projects | Typical Stack Signals |
 |---|---|---|---|---|
 | **👁️ Perception Systems** | Projects that convert raw input into structured signals | Extraction from text, images, motion, or clinical streams | `bionlp-llama3-service`, `surgical-vision-copilot`, `spatial-event-detector`, `edge-fall-detector` | Vision models, NLP extraction, stream processing, edge inference |
