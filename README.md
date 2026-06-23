@@ -1,6 +1,9 @@
-<h1 align="center">Hi, I'm Arash — Agentic AI &  LLM Engineer</h1>
-<p align="center">Building multi-agent systems and clinical LLM pipelines. <a href="https://aragit.github.io/#home">Portfolio →</a></p>
+<h1 align="center">Hi, I'm Arash — Agentic AI & LLM Engineer</h1>
 
+<p align="center">
+  Building multi-agent systems, clinical LLM pipelines, and neuro-symbolic AI infrastructure.
+  <a href="https://aragit.github.io/#home">Portfolio →</a>
+</p>
 
 <div align="center">
 
@@ -16,88 +19,597 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Agentic+AI+Engineer;Medical+ML+Specialist;Multi-Agent+Systems+Architect;LLM+Engineering+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Agentic+AI+Engineer;Medical+ML+Specialist;Multi-Agent+Systems+Architect;LLM+Engineering+Expert)](https://git.io/typing-svg)
 
 </div>
 
-### 🔭 Currently Building
+---
 
-- **Agentic CBT System** — Multi-agent architecture for autonomous cognitive behavioral therapy delivery
-- **Nash Marketing Agents** — Game-theoretic equilibrium engine for competitive ad-bidding simulations
-- **Zero-Shot Demand Forecasting** — Supply-chain telemetry with 2026 SOTA time-series foundation models
-- **Neuro-symbolic agentic rag** — Deterministic Multi-Agent Clinical Core
+## 🧠 System Overview
 
+This is not a simple project list.
 
-## Hands‑On Projects 
+It is a **composable intelligence stack** — a portfolio of systems that transform raw signals into structured reasoning, coordinated action, prediction, and real-world impact.
 
-    
-### 🛠️ Strategic & Deep Tech 
-
-| Domain | Project Architecture | Stack | Core Implementation Strategy | Status / Code |
-| :--- | :--- | :--- | :--- | :--- |
-| **Advanced LLM & RAG** | **`speculative-graph-rag`**<br>Self-Correcting Clinical Knowledge Core | LlamaIndex, Neo4j, vLLM, DeepSeek-R1 | Pairs dense entity-relationship GraphRAG nodes with a speculative parsing verification layer. Leverages structured reasoners to validate extracted diagnostic pathways against strict medical taxonomies. |  [![Active Repo](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=ACTIVE&secondaryLabel=REPO&primaryBGColor=%23333333&primaryTextColor=%23FFFFFF&secondaryBGColor=%23228B22&secondaryTextColor=%23FFFFFF&primaryFontSize=14&secondaryFontSize=14&primaryFontWeight=700&secondaryFontWeight=900&scale=1.5)](https://github.com/aragit/speculative-clinical-graphrag)  [Active Repo](https://github.com/aragit/speculative-clinical-graphrag) |
-| **Game Theory & Agentic AI** | **`nash-marketing-agents`**<br>Multi-Agent Competitive Market Simulation Engine | NumPy, SciPy, SQLite/PostgreSQL, FastAPI, Pydantic, SQLAlchemy, Docker, pytest | Models non-cooperative ad-bidding simulations between autonomous brand agents. Computes continuous mixed-strategy **Nash Equilibria** to prevent catastrophic budget-depletion loops. | [![Active Repo](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=ACTIVE&secondaryLabel=REPO&primaryBGColor=%23333333&primaryTextColor=%23FFFFFF&secondaryBGColor=%23228B22&secondaryTextColor=%23FFFFFF&primaryFontSize=14&secondaryFontSize=14&primaryFontWeight=700&secondaryFontWeight=900&scale=1.5)](https://github.com/aragit/agentic-nash-marketing) [Active Repo](https://github.com/aragit/agentic-nash-marketing) |
-| **Orchestrated AI Agents** | **`enterprise-intelligence-crew`**<br>Autonomous Content Lifecycle Platform | CrewAI, LangChain, Pydantic, ChromaDB | Coordinates a hierarchical Multi-Agent hierarchy (Trend Investigator, Risk Analyst, Copywriter). Employs short-term memory syncs, tool delegation constraints, and strict schema validation via Pydantic containers. | [![Active Repo](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=ACTIVE&secondaryLabel=REPO&primaryBGColor=%23333333&primaryTextColor=%23FFFFFF&secondaryBGColor=%23228B22&secondaryTextColor=%23FFFFFF&primaryFontSize=14&secondaryFontSize=14&primaryFontWeight=700&secondaryFontWeight=900&scale=1.5)](https://github.com/aragit/enterprise-intelligence-crew/tree/main)[Active Repo](https://github.com/aragit/enterprise-intelligence-crew/tree/main) |
-| **2026 SOTA Time Series** | **`zero-shot-demand-foundation`**<br>Predictive Supply-Chain Telemetry Pipeline | Amazon Chronos-2, Google TimesFM 2.5, Hugging Face | Bypasses traditional task-specific ARIMA/LSTMs using 2026 zero-shot Time Series Foundation Models (TSFMs). Implements **In-Context Fine-Tuning (ICF)** across 16,000-timestep patch-embeddings incorporating exogenous covariates. |   [![Active Repo](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=ACTIVE&secondaryLabel=REPO&primaryBGColor=%23333333&primaryTextColor=%23FFFFFF&secondaryBGColor=%23228B22&secondaryTextColor=%23FFFFFF&primaryFontSize=14&secondaryFontSize=14&primaryFontWeight=700&secondaryFontWeight=900&scale=1.5)](https://github.com/aragit/zero-shot-demand-foundation)[Active Repo](https://github.com/aragit/zero-shot-demand-foundation) |
-
-
-  
-
-### 💠 SOTA AI Engineering (2026)
-
-| Domain | Project Architecture | Stack | Core Implementation Strategy | Status / Code |
-| :--- | :--- | :--- | :--- | :--- |
-| **Supply Chain** | **`autonomous-procurement-swarm`**<br>Multi-Agent Contract Negotiation Swarm | Ray/RLlib, CrewAI, vLLM, Python | A simulation environment where buyer and seller agents autonomously negotiate raw material procurement contracts based on live market pricing, global geopolitical risk scores, and inventory constraints. |  [![Active Repo](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=ACTIVE&secondaryLabel=REPO&primaryBGColor=%23333333&primaryTextColor=%23FFFFFF&secondaryBGColor=%23228B22&secondaryTextColor=%23FFFFFF&primaryFontSize=14&secondaryFontSize=14&primaryFontWeight=700&secondaryFontWeight=900&scale=1.5)](https://github.com/aragit/autonomous-procurement-swarm)[Active Repo](https://github.com/aragit/autonomous-procurement-swarm) |
-| **AI Agents & Orchestration** | **`neuro-symbolic-agentic-rag`**<br>Deterministic Multi-Agent Clinical Core | Request Access | *Coordinates single- and multi-agent graphs featuring cyclic planning and execution topologies. Incorporates an Open Policy Agent (OPA) validation ring.* | [![Request Access](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=Request&secondaryLabel=Access&primaryBGColor=%238B0000&secondaryBGColor=%238B0000&primaryTextColor=%23FFFFFF&secondaryTextColor=%23FFFFFF&primaryFontSize=14&secondaryFontSize=14&primaryFontWeight=700&secondaryFontWeight=900&secondaryLetterSpacing=2&primaryLetterSpacing=2&scale=1.5)](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20controllable-media-studio) |
-| **Generative Bio-AI** | **`protein-binder-flow`**<br>Flow-Matching Protein Binder Generator | PyTorch, Biopython, Flow Matching Primitives, FoldSeek | Moves past traditional diffusion methods to implement a minimal Flow Matching algorithm for structural molecular generation. Dynamically generates high-affinity novel protein-ligand binders targeted against specific mock receptor sites. | [![Active Blueprint](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=ACTIVE&secondaryLabel=BLUEPRINT&primaryBGColor=%23333333&primaryTextColor=%23FFFFFF&secondaryBGColor=%230064FF&secondaryTextColor=%23FFFFFF&primaryFontSize=14&secondaryFontSize=14&primaryFontWeight=700&secondaryFontWeight=900&scale=1.5)](https://github.com/aragit/Flow-Matching-Protein-Binder-Generator)[Active Bluprint](https://github.com/aragit/Flow-Matching-Protein-Binder-Generator) |
-| **Clinical Time Series**| **`icu-vitals-transformer`**<br>Transformer-Based ICU Vitals Forecaster | TimesFM 2.5, PatchTST, Redpanda/Kafka, FastAPI, WebSockets | Ingests high-frequency streaming continuous vitals (heart rate, SpO2, blood pressure) over an HL7 FHIR gateway. Combines zero-shot TSFMs with patch-embedded patch architectures to predict septic shock 4 hours prior to onset. | [![Coming Soon](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=COMING&secondaryLabel=SOON&primaryBGColor=%23333333&primaryTextColor=%23FFFFFF&secondaryBGColor=%23B8860B&secondaryTextColor=%23FFFFFF&primaryFontSize=14&secondaryFontSize=14&primaryFontWeight=700&secondaryFontWeight=900&scale=1.5)](#) |
-| **Medicare Ops** | **`agentic-medicare-auth`**<br>Agentic Prior Authorization Engine | Request Access | Core multi-agent pipeline that ingests raw Electronic Health Records (EHR), dynamically maps clinical findings against dense vector stores of CMS regulatory guidelines, and compiles evidence-backed authorization forms to prevent denials. | [![Request Access](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=Request&secondaryLabel=Access&primaryBGColor=%238B0000&secondaryBGColor=%238B0000&primaryTextColor=%23FFFFFF&secondaryTextColor=%23FFFFFF&primaryFontSize=14&secondaryFontSize=14&primaryFontWeight=700&secondaryFontWeight=900&secondaryLetterSpacing=2&primaryLetterSpacing=2&scale=1.5)](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20controllable-media-studio) |
-| **Multimodal Vision** | **`surgical-vision-copilot`**<br>Surgical Vision-Language Copilot | PyTorch, Video-LLaVA, OpenCV, Temporal Action Localization | Ingests streaming real-time video feeds of mock surgical procedures. Leverages an open-source vision-language model to track fine-grained temporal action sequences and autonomously predict the next required surgical tool. | [![Request Access](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=Request&secondaryLabel=Access&primaryBGColor=%238B0000&secondaryBGColor=%238B0000&primaryTextColor=%23FFFFFF&secondaryTextColor=%23FFFFFF&primaryFontSize=14&secondaryFontSize=14&primaryFontWeight=700&secondaryFontWeight=900&secondaryLetterSpacing=2&primaryLetterSpacing=2&scale=1.5)](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20controllable-media-studio) |
-
-### 🛠️ Core Engineering Showcases
-
-| Domain | Project Architecture | Stack | Core Implementation Strategy | Code |
-| :--- | :--- | :--- | :--- | :--- |
-| **LLMs & Finetuning** | **`deepseek-reasoning-finetuning`**<br>Medical CoT LoRA Alignment Pipeline | Unsloth, PyTorch, Hugging Face, TRL | *Accelerates DeepSeek-R1-Distill-Qwen-7B alignment via parameter-efficient 4-bit quantization, mapping diagnostic thought chains natively.* | [![Active Repo](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=ACTIVE&secondaryLabel=REPO&primaryBGColor=%23333333&primaryTextColor=%23FFFFFF&secondaryBGColor=%23228B22&secondaryTextColor=%23FFFFFF&primaryFontSize=14&secondaryFontSize=14&primaryFontWeight=700&secondaryFontWeight=900&scale=1.5)](https://github.com/aragit/deepseek-reasoning-finetuning) [Active Repo](https://github.com/aragit/deepseek-reasoning-finetuning) |
-| **Medical NLP /BioNLP LLaMA-3 Service** | **`bionlp-llama3-unsloth`**<br>Optimized Clinical NER Extraction Engine | LLaMA-3-8B, Unsloth, PEFT/LoRA, FastAPI | *Utilizes Unsloth for highly memory-efficient PEFT/LoRA fine-tuning. Extracts multi-token clinical biomarkers and biomedical terms from unstructured EHR files with optimized inference latency for production environments.* | [![Active Repo](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=ACTIVE&secondaryLabel=REPO&primaryBGColor=%23333333&primaryTextColor=%23FFFFFF&secondaryBGColor=%23228B22&secondaryTextColor=%23FFFFFF&primaryFontSize=14&secondaryFontSize=14&primaryFontWeight=700&secondaryFontWeight=900&scale=1.5)](https://github.com/aragit/bionlp-llama3-service/tree/main) [Active Repo](https://github.com/aragit/bionlp-llama3-service/tree/main) |
-| **Edge ML & Vision** | **`spatial-event-detector`**<br>Real-time Kinematic Telemetry Engine | PyTorch, YOLOv11-Pose, OpenCV, NumPy | *Decouples raw pixel ingestion from logical inference. Computes joint vectors over temporal windows to feed a deterministic movement state machine.* | [![Active Repo](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=ACTIVE&secondaryLabel=REPO&primaryBGColor=%23333333&primaryTextColor=%23FFFFFF&secondaryBGColor=%23228B22&secondaryTextColor=%23FFFFFF&primaryFontSize=14&secondaryFontSize=14&primaryFontWeight=700&secondaryFontWeight=900&scale=1.5)](https://github.com/aragit/spatial-event-detector) [Active Repo](https://github.com/aragit/spatial-event-detector) |
-| **Edge ML** | **`edge-fall-detector`**<br>Real-Time Patient Fall Detection on NVIDIA Jetson | YOLOv11-Pose, TensorRT, Jetson Orin, MQTT, OpenCV | Hardened vision edge pipeline optimized for on-device clinical room monitoring. Converts pose estimation layers into TensorRT primitives, processing localized streams to guarantee complete patient privacy. | [![Active Repo](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=ACTIVE&secondaryLabel=REPO&primaryBGColor=%23333333&primaryTextColor=%23FFFFFF&secondaryBGColor=%23228B22&secondaryTextColor=%23FFFFFF&primaryFontSize=14&secondaryFontSize=14&primaryFontWeight=700&secondaryFontWeight=900&scale=1.5)](https://github.com/aragit/edge-fall-detector)[Active Repo](https://github.com/aragit/edge-fall-detector) |
-    
-     
-### 🛒 E-Commerce & MarTech (2026 Architecture)
-
-| Business Category | Project Name | Business Lever (The "Why") | Core Tech Stack | Status / Code |
-| :--- | :--- | :--- | :--- | :--- |
-| **Marketing Tech** | **`generative-dynamic-ad-renderer`**<br>Telemetry-Driven Ad Generation Pipeline | Request Access | Ingests real-time user browsing telemetry to dynamically generate tailored script structures via open-source LLMs, triggering localized video render modules on the fly. | [![Request Access](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=Request&secondaryLabel=Access&primaryBGColor=%238B0000&secondaryBGColor=%238B0000&primaryTextColor=%23FFFFFF&secondaryTextColor=%23FFFFFF&primaryFontSize=14&secondaryFontSize=14&primaryFontWeight=700&secondaryFontWeight=900&secondaryLetterSpacing=2&primaryLetterSpacing=2&scale=1.5)](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20controllable-media-studio) |
-| **E-Commerce & MarTech** | **`realtime-intent-transformer`**<br>Session-Based E-Commerce Intent Telemetry Engine | Request Access | Ingests real-time clickstream sequences and cart interactions to map live sessions against dense vector behavioral stores. Triggers a distilled DeepSeek-R1 reasoning loop to dynamically serve context-aware micro-incentives. | [![Request Access](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=Request&secondaryLabel=Access&primaryBGColor=%238B0000&secondaryBGColor=%238B0000&primaryTextColor=%23FFFFFF&secondaryTextColor=%23FFFFFF&primaryFontSize=14&secondaryFontSize=14&primaryFontWeight=700&secondaryFontWeight=900&secondaryLetterSpacing=2&primaryLetterSpacing=2&scale=1.5)](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20controllable-media-studio) |
-| **Pricing & Inventory** | **`spatial-dynamic-markdown-engine`** | Prevents total margin destruction on seasonal goods by flash-liquidating stagnant stock through hyper-local, real-time pricing. | TimesFM 2.5, Ray, SciPy, PostgreSQL |[![Coming Soon](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=COMING&secondaryLabel=SOON&primaryBGColor=%23333333&primaryTextColor=%23FFFFFF&secondaryBGColor=%23B8860B&secondaryTextColor=%23FFFFFF&primaryFontSize=14&secondaryFontSize=14&primaryFontWeight=700&secondaryFontWeight=900&scale=1.5)](#) |
+> The future of AI is not better prompts.  
+> It is better systems.
 
 ---
-### Recent Articles & Insights
 
-**Agentic AI**
-- [“The Planning-Rubicon: Why the Vast Majority of AI Agents Are Just Expensive Chatbots”- Part I](https://medium.com/@anicomanesh/the-planning-rubicon-why-the-vast-majority-of-ai-agents-are-just-expensive-chatbots-part-i-fa0409a10d8e)
-*Beyond the Wrapper: Why 2026 Will Separate Agent Infrastructure from Agent Theater.*
+## 🔭 Currently Building
+
+- **[Agentic CBT System](#-agentic-systems--orchestration--autonomy)** — multi-agent architecture for autonomous cognitive behavioral therapy delivery
+- **[Nash Marketing Agents](#-agentic-systems--orchestration--autonomy)** — game-theoretic equilibrium engine for competitive ad-bidding simulations
+- **[Zero-Shot Demand Forecasting](#-temporal-intelligence--prediction--foresight)** — supply-chain telemetry with zero-shot time-series foundation models
+- **[Neuro-Symbolic Agentic RAG](#-reasoning--knowledge-cores--validation-truth-control)** — deterministic multi-agent clinical core
+
+---
+
+## 🧩 Semantic Architecture
+
+The projects below are grouped by **capability**, not by domain.
+
+---
+
+## 👁️ Perception Systems — Structure Extraction from the Real World
+
+Systems that convert unstructured text, images, motion, and clinical streams into machine-readable representations.
+
+### 🔹 [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service/tree/main)
+
+**Clinical entity extraction from unstructured EHR pipelines**
+
+- **Stack:** LLaMA-3-8B, Unsloth, PEFT/LoRA, FastAPI
+- **Core idea:** memory-efficient fine-tuning for multi-token biomedical NER
+- **Role in system:** perception layer for structured clinical understanding
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Extracts biomarkers and clinical terms from messy text
+- Optimized for low-memory fine-tuning and fast inference
+- Designed to feed downstream retrieval and reasoning layers
+
+</details>
+
+### 🔹 [Surgical Vision Copilot](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20surgical-vision-copilot)
+
+**Real-time surgical understanding with vision-language models**
+
+- **Stack:** PyTorch, Video-LLaVA, OpenCV, temporal action localization
+- **Core idea:** tracks procedural steps and predicts the next needed tool
+- **Status:** private / request access
+- **Role in system:** visual perception layer for clinical action understanding
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Encodes streaming video into temporal event sequences
+- Adds action understanding on top of raw frame perception
+- Built to support assistive decision loops in time-sensitive environments
+
+</details>
+
+### 🔹 [Spatial Event Detector](https://github.com/aragit/spatial-event-detector)
+
+**Real-time kinematic telemetry engine**
+
+- **Stack:** PyTorch, YOLOv11-Pose, OpenCV, NumPy
+- **Core idea:** converts raw pose estimation into deterministic movement states
+- **Role in system:** motion-to-symbol pipeline for edge intelligence
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Separates pixel ingestion from logical inference
+- Computes joint vectors over temporal windows
+- Uses a state machine to detect meaningful spatial events
+
+</details>
+
+### 🔹 [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)
+
+**Real-time patient fall detection on NVIDIA Jetson**
+
+- **Stack:** YOLOv11-Pose, TensorRT, Jetson Orin, MQTT, OpenCV
+- **Core idea:** on-device fall detection with privacy-preserving inference
+- **Role in system:** edge perception layer for clinical safety monitoring
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Converts pose estimation into TensorRT-optimized inference
+- Supports local processing for privacy and low latency
+- Designed for continuous monitoring in constrained environments
+
+</details>
+
+---
+
+## 🧠 Reasoning & Knowledge Cores — Validation, Truth Control, and Retrieval
+
+Systems that turn perception into structured reasoning, grounded answers, and verifiable decisions.
+
+### 🔹 [Speculative Graph RAG](https://github.com/aragit/speculative-clinical-graphrag)
+
+**Self-correcting clinical knowledge core**
+
+- **Stack:** LlamaIndex, Neo4j, vLLM, DeepSeek-R1
+- **Core idea:** graph-based retrieval with a verification layer for clinical facts
+- **Role in system:** reasoning core for grounded medical intelligence
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Combines dense graph retrieval with structured verification
+- Validates extracted pathways against medical taxonomies
+- Designed to reduce hallucination and improve traceability
+
+</details>
+
+### 🔹 [DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)
+
+**Medical CoT LoRA alignment pipeline**
+
+- **Stack:** Unsloth, PyTorch, Hugging Face, TRL
+- **Core idea:** parameter-efficient reasoning alignment with 4-bit quantization
+- **Role in system:** reasoning optimization layer for chain-of-thought behavior
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Fine-tunes reasoning behavior efficiently under memory constraints
+- Maps diagnostic thought chains into model behavior
+- Useful for improving structured response quality in expert workflows
+
+</details>
+
+### 🔹 [Neuro-Symbolic Agentic RAG](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20neuro-symbolic-agentic-rag)
+
+**Deterministic multi-agent clinical core**
+
+- **Stack:** request access
+- **Core idea:** cyclic planning and execution with policy validation
+- **Status:** private / request access
+- **Role in system:** control plane for safe clinical reasoning
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Coordinates single- and multi-agent graphs
+- Adds an Open Policy Agent validation ring
+- Designed for deterministic workflows where correctness matters
+
+</details>
+
+### 🔹 [Agentic Research Paper Review & Synthesis Swarm](#)
+
+**Swarm of agents that ingests papers, verifies claims, and synthesizes literature reviews**
+
+- **Stack:** PDF parsing, ArXiv API, claim extraction, contradiction detection, graph synthesis
+- **Core idea:** identifies hypotheses, validates findings, and resolves conflicting evidence
+- **Status:** concept / not yet implemented
+- **Role in system:** research reasoning layer for scientific synthesis
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Ingestion agent extracts paper sections and structure
+- Verification agent cross-references claims against citations
+- Conflict detection agent flags contradictions across sources
+- Synthesis agent generates reviews and identifies research gaps
+
+</details>
+
+---
+
+## 🤖 Agentic Systems — Orchestration & Autonomy
+
+Systems that coordinate multiple agents, strategies, and tools to act in dynamic environments.
+
+### 🔹 [Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main)
+
+**Autonomous content lifecycle platform**
+
+- **Stack:** CrewAI, LangChain, Pydantic, ChromaDB
+- **Core idea:** hierarchical multi-agent workflow with strict schema validation
+- **Role in system:** orchestration layer for collaborative agent execution
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Includes specialized agents for trend investigation, risk analysis, and copywriting
+- Uses memory syncs and delegation constraints
+- Enforces structured outputs through Pydantic containers
+
+</details>
+
+### 🔹 [Nash Marketing Agents](https://github.com/aragit/agentic-nash-marketing)
+
+**Multi-agent competitive market simulation engine**
+
+- **Stack:** NumPy, SciPy, SQLite/PostgreSQL, FastAPI, Pydantic, SQLAlchemy, Docker, pytest
+- **Core idea:** models non-cooperative ad-bidding using mixed-strategy Nash equilibria
+- **Role in system:** decision-making layer for strategic competition
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Simulates autonomous brand agents under resource constraints
+- Helps prevent budget-depletion loops in bidding environments
+- Useful for strategic experimentation before production deployment
+
+</details>
+
+### 🔹 [Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm)
+
+**Multi-agent contract negotiation swarm**
+
+- **Stack:** Ray/RLlib, CrewAI, vLLM, Python
+- **Core idea:** buyer and seller agents negotiate procurement contracts autonomously
+- **Role in system:** decentralized negotiation layer for constrained environments
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Simulates market pricing, inventory constraints, and geopolitical risk
+- Designed for collaborative yet adversarial agent behavior
+- Shows how autonomy can be applied to real business operations
+
+</details>
+
+### 🔹 [Agentic Supply Chain Disruption Response](#)
+
+**Multi-agent supply chain disruption simulator**
+
+- **Stack:** multi-agent orchestration, graph routing, local LLM negotiation, optimization
+- **Core idea:** suppliers, warehouses, and retailers autonomously re-plan when disruptions hit
+- **Status:** concept / not yet implemented
+- **Role in system:** coordination layer for logistics under uncertainty
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Orchestrator detects disruptions and triggers re-planning
+- Supplier agents manage inventory, pricing, and capacity
+- Logistics agent computes alternative routes with graph algorithms
+- Retailer agents negotiate orders and demand shifts
+
+</details>
+
+### 🔹 [Agentic Cybersecurity Threat Hunting Swarm](#)
+
+**Autonomous SOC swarm for anomaly detection and response**
+
+- **Stack:** synthetic network telemetry, log correlation, state machine workflows, local LLM reasoning
+- **Core idea:** scouts detect anomalies, correlation agents link them, response agents isolate threats
+- **Status:** concept / not yet implemented
+- **Role in system:** defensive autonomy layer for security operations
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Implements alert → triage → contain → eradicate → recover flow
+- Forensics agent reconstructs attack chains post-incident
+- Designed around incident-response realism and testability
+
+</details>
+
+### 🔹 [Agentic Smart City Traffic Optimization](#)
+
+**Multi-agent traffic signal and routing optimizer**
+
+- **Stack:** graph road network, city simulation, intersection agents, routing optimization
+- **Core idea:** traffic lights, transit, and emergency routing negotiate in real time
+- **Status:** concept / not yet implemented
+- **Role in system:** urban autonomy layer for city-scale coordination
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Intersection agents negotiate green-light durations
+- Transit agent balances passenger load and schedules
+- Emergency agent overrides for ambulances and fire trucks
+- City orchestrator resolves global conflicts and deadlocks
+
+</details>
+
+### 🔹 [Agentic Legal Contract Negotiation Engine](#)
+
+**Autonomous contract negotiation system for legal agreements**
+
+- **Stack:** Pareto frontier computation, Nash bargaining, clause generation, risk analysis
+- **Core idea:** legal agents negotiate terms and identify risks for both parties
+- **Status:** concept / not yet implemented
+- **Role in system:** negotiation layer for formal agreements
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Party agents represent buyer/seller or tenant/landlord sides
+- Mediator proposes compromises and detects deadlocks
+- Risk analyst flags problematic clauses and hidden tradeoffs
+
+</details>
+
+### 🔹 [Agentic Disaster Response Coordination](#)
+
+**Multi-service disaster coordination and rescue prioritization system**
+
+- **Stack:** incident simulation, resource allocation, routing, triage, local LLM strategy generation
+- **Core idea:** fire, medical, police, and logistics units coordinate under uncertainty
+- **Status:** concept / not yet implemented
+- **Role in system:** high-stakes autonomy layer for public safety
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Incident commander sets global priorities
+- Fire, medical, police, and logistics agents coordinate response
+- Ethical triage reasoning under scarce resources
+- Real-time map dashboard for operational awareness
+
+</details>
+
+### 🔹 [Agentic Educational Tutoring Swarm](#)
+
+**Adaptive tutoring system with concept mastery modeling**
+
+- **Stack:** knowledge graph, tutoring agents, adaptive questioning, progress reporting
+- **Core idea:** subject agents, pedagogy agent, and motivation agent personalize learning
+- **Status:** concept / not yet implemented
+- **Role in system:** autonomous education layer for personalized instruction
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Assessment agent diagnoses knowledge gaps
+- Subject agents explain and reinforce concepts
+- Pedagogy agent adapts teaching style
+- Reporting agent tracks mastery and at-risk students
+
+</details>
+
+---
+
+## ⏱️ Temporal Intelligence — Prediction & Foresight
+
+Systems that model time, anticipate outcomes, and enable proactive decision-making.
+
+### 🔹 [Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)
+
+**Predictive supply-chain telemetry pipeline**
+
+- **Stack:** Amazon Chronos-2, Google TimesFM 2.5, Hugging Face
+- **Core idea:** zero-shot forecasting with time-series foundation models
+- **Role in system:** foresight layer for inventory and demand planning
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Moves beyond traditional ARIMA/LSTM pipelines
+- Uses foundation models for long-context temporal reasoning
+- Incorporates exogenous signals for more realistic forecasting
+
+</details>
+
+### 🔹 [ICU Vitals Transformer](#)
+
+**Transformer-based ICU vitals forecaster**
+
+- **Stack:** TimesFM 2.5, PatchTST, Redpanda/Kafka, FastAPI, WebSockets
+- **Core idea:** predicts critical events from streaming physiological signals
+- **Status:** coming soon
+- **Role in system:** temporal reasoning layer for patient monitoring
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Ingests high-frequency vitals from an HL7 FHIR gateway
+- Converts streams into forecastable windows
+- Intended to support early warning for critical deterioration
+
+</details>
+
+---
+
+## ⚙️ Execution Systems — Closing the Loop in the Real World
+
+Systems that transform inference into measurable business or clinical action.
+
+### 🔹 [Spatial Dynamic Markdown Engine](#)
+
+**Dynamic pricing and liquidation engine**
+
+- **Stack:** TimesFM 2.5, Ray, SciPy, PostgreSQL
+- **Core idea:** real-time pricing for seasonal and stagnant inventory
+- **Status:** coming soon
+- **Role in system:** commercial execution layer for margin protection
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Adjusts pricing from temporal signals and inventory state
+- Designed to reduce margin erosion through faster action
+- Bridges forecasting with operational execution
+
+</details>
+
+### 🔹 [Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)
+
+**Agentic prior authorization engine**
+
+- **Stack:** request access
+- **Core idea:** maps EHR evidence against CMS guidance to generate authorization forms
+- **Status:** private / request access
+- **Role in system:** execution layer for healthcare operations
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Ingests raw EHR data and regulatory documents
+- Compiles evidence-backed submissions to reduce denials
+- Designed to automate repetitive, high-friction administrative work
+
+</details>
+
+### 🔹 [Real-Time Intent Transformer](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20realtime-intent-transformer)
+
+**Session-based e-commerce intent telemetry engine**
+
+- **Stack:** request access
+- **Core idea:** maps live session behavior to contextual incentives
+- **Status:** private / request access
+- **Role in system:** agentic decision layer for adaptive commerce
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Ingests clickstream and cart activity in real time
+- Uses dense behavioral stores for session interpretation
+- Triggers contextual actions from inferred intent
+
+</details>
+
+### 🔹 [Generative Dynamic Ad Renderer](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20generative-dynamic-ad-renderer)
+
+**Telemetry-driven ad generation pipeline**
+
+- **Stack:** request access
+- **Core idea:** dynamically generates ad scripts from live user telemetry
+- **Status:** private / request access
+- **Role in system:** execution layer for personalized media generation
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Converts behavioral signals into creative output
+- Connects LLM generation with rendering automation
+- Built for adaptive content delivery at runtime
+
+</details>
+
+### 🔹 [Agentic Recipe & Nutrition Optimization System](#)
+
+**Personalized meal planning through negotiation between nutrition, taste, budget, and ingredients**
+
+- **Stack:** linear programming, USDA nutrition data, grocery simulation, LLM recipe generation
+- **Core idea:** balances nutritional targets with preferences and cost constraints
+- **Status:** concept / not yet implemented
+- **Role in system:** optimization layer for food-tech decisioning
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Nutrition agent enforces macro and micro targets
+- Preference agent learns taste profiles and substitutions
+- Budget agent optimizes cost under ingredient constraints
+- Shopping agent navigates dynamic pricing in simulated stores
+
+</details>
+
+### 🔹 [Agentic Energy Grid Balancing System](#)
+
+**Smart grid simulation with decentralized energy trading**
+
+- **Stack:** double auction engine, carbon optimization, generation and storage agents, real-time grid control
+- **Core idea:** balances supply and demand while minimizing carbon impact
+- **Status:** concept / not yet implemented
+- **Role in system:** infrastructure execution layer for energy systems
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Solar and wind agents model variable generation
+- Battery agent handles storage arbitrage
+- Consumer agents respond to price and demand
+- Grid orchestrator stabilizes frequency and balance
+
+</details>
+
+### 🔹 [Agentic Sentiment-Driven Market Maker](#)
+
+**Autonomous market-making system driven by sentiment and risk signals**
+
+- **Stack:** order book simulation, sentiment scoring, risk control, regulatory detection
+- **Core idea:** adjusts spreads and inventory using news sentiment and market signals
+- **Status:** concept / not yet implemented
+- **Role in system:** execution layer for algorithmic trading simulation
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Market makers compete with different risk appetites
+- Sentiment agent interprets synthetic news
+- Regulatory agent detects spoofing, layering, and wash trading
+- Exchange engine handles matching and discovery
+
+</details>
+
+---
+
+## 🧬 Frontier Research — Beyond Conventional AI
+
+Systems that push beyond standard LLM/RAG pipelines into new computational frontiers.
+
+### 🔹 [Protein Binder Flow](https://github.com/aragit/Flow-Matching-Protein-Binder-Generator)
+
+**Flow-matching protein binder generator**
+
+- **Stack:** PyTorch, Biopython, Flow Matching Primitives, FoldSeek
+- **Core idea:** structural molecular generation through flow matching
+- **Role in system:** research frontier for generative bio-AI
+
+<details>
+<summary><b>Architecture insight</b></summary>
+
+- Moves beyond diffusion-style generation
+- Targets novel protein-ligand binding behavior
+- Demonstrates capability expansion into computational biology
+
+</details>
+
+---
+
+## 🛠️ Core Engineering Showcases
+
+### 🔹 [DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)
+### 🔹 [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service/tree/main)
+### 🔹 [Spatial Event Detector](https://github.com/aragit/spatial-event-detector)
+### 🔹 [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)
+
+These projects show the foundation beneath the system: fine-tuning, extraction, perception, and edge deployment.
+
+---
+
+## 🛒 E-Commerce & MarTech
+
+### 🔹 [Generative Dynamic Ad Renderer](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20generative-dynamic-ad-renderer)
+### 🔹 [Real-Time Intent Transformer](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20realtime-intent-transformer)
+### 🔹 [Spatial Dynamic Markdown Engine](#)
+### 🔹 [Agentic Sentiment-Driven Market Maker](#)
+
+These projects translate AI into revenue, pricing, conversion, and adaptive customer response.
+
+---
+
+## ✍️ Recent Articles & Insights
+
+### Agentic AI
+- [The Planning-Rubicon: Why the Vast Majority of AI Agents Are Just Expensive Chatbots — Part I](https://medium.com/@anicomanesh/the-planning-rubicon-why-the-vast-majority-of-ai-agents-are-just-expensive-chatbots-part-i-fa0409a10d8e)
 - [From Generative to Agentic AI: A Roadmap in 2026](https://medium.com/@anicomanesh/from-generative-to-agentic-ai-a-roadmap-in-2026-8e553b43aeda)
-*Why the future isn’t about better Brains and Prompts — it’s about better Systems. A survival guide for the AI Engineers.*
 - [Beyond the Hype of Expensive Chatbots: Bridging Strategic Business Intent with Adaptive Agentic Systems](https://medium.com/@anicomanesh/beyond-the-hype-of-expensive-chatbots-bridging-strategic-business-intent-with-adaptive-agentic-d1144e9df041)
-*Why the more resilient path is to invest in adaptive, goal-driven AI agents that scale business intelligence and align with strategic intent.*
-  
 
-
-
-**Generative AI and LLM Engineering:**
+### Generative AI and LLM Engineering
 - [A Dive into Unsloth & Gemma 3](https://medium.com/@anicomanesh/a-dive-into-unsloth-gemma-3-fine-tune-gemma-3-12b-with-unsloth-trl-for-custommer-service-53e93692d4d6)
 - [A Dive Into LLM Output Configuration, Prompt Engineering Techniques and Guardrails Part I](https://medium.com/@anicomanesh/a-dive-into-advanced-prompt-engineering-techniques-for-llms-part-i-23c7b8459d51)
 - [Token Efficiency and Compression Techniques in Large Language Models](https://medium.com/@anicomanesh/token-efficiency-and-compression-techniques-in-large-language-models-navigating-context-length-05a61283412b)
-  
+
 <details>
-<summary><b>📚 See all articles →</b></summary>
-  
+<summary><b>📚 See all articles</b></summary>
+
+### Applied Machine Learning
 - [First Steps Toward Building an Autonomous Agentic AI for CBT](https://anicomanesh.substack.com/p/first-steps-toward-building-an-autonomous)
-
-**Applied Machine Learning:**
-
 - [Model Drift: Identifying and Monitoring for Model Drift](https://anicomanesh.substack.com/p/model-drift-identifying-and-monitoring)
 - [Evolution of Recommendation Algorithms, Part I](https://medium.com/@anicomanesh/evolution-of-recommendation-algorithms-part-i-fundamentals-and-classical-recommendation-bb1c0bce78a9)
 - [Machine Learning Interpretability (MLI) with XGBoost and SHAP](https://medium.com/@anicomanesh/interpretable-machine-learning-iml-with-xgboost-and-additive-tools-42258fb1f14)
@@ -107,84 +619,32 @@
 
 ---
 
-<p align="center">
-  <!-- AI / LLMs -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" alt="Python" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pytorch.svg" alt="PyTorch" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg" alt="TensorFlow" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" alt="HuggingFace" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vllm.svg" alt="vLLM" width="28" height="28"/>
-  <img src="https://skillicons.dev/icons?i=unsloth&theme=light" alt="Unsloth" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" alt="LangChain" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langgraph.svg" alt="LangGraph" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/crewai.svg" alt="CrewAI" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/haystack.svg" alt="Haystack" width="28" height="28"/>
-  <img src="https://skillicons.dev/icons?i=chainlit&theme=light" alt="Chainlit" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/anthropic.svg" alt="Anthropic" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="OpenAI" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ollama.svg" alt="Ollama" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nvidia.svg" alt="NVIDIA" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gradio.svg" alt="Gradio" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/streamlit.svg" alt="Streamlit" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pydantic.svg" alt="Pydantic" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/jupyter.svg" alt="Jupyter" width="28" height="28"/>
-  <img src="https://skillicons.dev/icons?i=faiss&theme=light" alt="FAISS" width="28" height="28"/>
-  <img src="https://skillicons.dev/icons?i=bitsandbytes&theme=light" alt="BitsAndBytes" width="28" height="28"/>
-  <br>
-  <!-- Data / Vector / Storage -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/redis.svg" alt="Redis" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mongodb.svg" alt="MongoDB" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/neo4j.svg" alt="Neo4j" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postgresql.svg" alt="PostgreSQL" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/elasticsearch.svg" alt="Elasticsearch" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/milvus.svg" alt="Milvus" width="28" height="28"/>
-  <img src="https://skillicons.dev/icons?i=chroma&theme=light" alt="ChromaDB" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vespa.svg" alt="Vespa" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nebula.svg" alt="NebulaGraph" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/sqlalchemy.svg" alt="SQLAlchemy" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/snowflake.svg" alt="Snowflake" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/supabase.svg" alt="Supabase" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/polars.svg" alt="Polars" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazons3.svg" alt="S3" width="28" height="28"/>
-  <br>
-  <!-- Compute / Orchestration -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kubernetes.svg" alt="Kubernetes" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/docker.svg" alt="Docker" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/fastapi.svg" alt="FastAPI" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bentoml.svg" alt="BentoML" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ray.svg" alt="Ray" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/modal.svg" alt="Modal" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/replicate.svg" alt="Replicate" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/prefect.svg" alt="Prefect" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/temporal.svg" alt="Temporal" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/celery.svg" alt="Celery" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kedro.svg" alt="Kedro" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachespark.svg" alt="PySpark" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachekafka.svg" alt="Kafka" width="28" height="28"/>
-  <br>
-  <!-- Cloud / Infra -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlecloud.svg" alt="GCP" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/azuredevops.svg" alt="Azure AI" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/azurefunctions.svg" alt="Azure Functions" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cloudflare.svg" alt="Cloudflare" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" alt="Vercel" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/databricks.svg" alt="Databricks" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/terraform.svg" alt="Terraform" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pulumi.svg" alt="Pulumi" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nginx.svg" alt="Nginx" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ibm.svg" alt="IBM" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/quarkus.svg" alt="Quarkus" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoft.svg" alt="Semantic Kernel" width="28" height="28"/>
-  <br>
-  <!-- Observability / Languages / Other -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/prometheus.svg" alt="Prometheus" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/opentelemetry.svg" alt="OpenTelemetry" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/posthog.svg" alt="PostHog" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/githubactions.svg" alt="GitHub Actions" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mlflow.svg" alt="MLflow" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/okta.svg" alt="Okta" width="28" height="28"/>
-  <img src="https://skillicons.dev/icons?i=graalvm&theme=light" alt="GraalVM" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/go.svg" alt="Go" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/rust.svg" alt="Rust" width="28" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/typescript.svg" alt="TypeScript" width="28" height="28"/>
-</p>
+## 🧭 Design Principles
+
+- Systems > Models  
+- Agents > Pipelines  
+- Reasoning > Generation  
+- Constraints > Prompts  
+- Architecture > Hacks  
+
+---
+
+## 🏗️ Vision: Sentrix AI
+
+Building next-generation Agentic AI systems that:
+
+- operate autonomously
+- reason under constraints
+- coordinate as intelligent systems
+- integrate into real-world workflows
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: https://linkedin.com/in/arashnicoomanesh
+- GitHub: https://github.com/aragit
+
+---
+
+⭐ If you find this interesting, follow my work — I’m building the future of Agentic AI.
