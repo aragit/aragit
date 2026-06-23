@@ -45,9 +45,30 @@ It is a **composable intelligence stack** — a portfolio of systems that transf
 
 ---
 
-## 🧩 Semantic Architecture
+## 🗺️ System Capability Map
 
-The projects below are grouped by **capability**, not by domain.
+This portfolio is organized by **capability layer** rather than by domain.  
+The goal is to show how each project contributes to a larger agentic intelligence stack: perception → reasoning → orchestration → prediction → execution → frontier research.
+
+| Capability Layer | How It Is Categorized | What It Represents | Representative Projects | Typical Stack Signals |
+|---|---|---|---|---|
+| **👁️ Perception Systems** | Projects that convert raw input into structured signals | Extraction from text, images, motion, or clinical streams | `bionlp-llama3-service`, `surgical-vision-copilot`, `spatial-event-detector`, `edge-fall-detector` | Vision models, NLP extraction, stream processing, edge inference |
+| **🧠 Reasoning & Knowledge Cores** | Projects that validate, ground, and organize knowledge | Retrieval, verification, symbolic control, reasoning alignment | `speculative-clinical-graphrag`, `deepseek-reasoning-finetuning`, `neuro-symbolic-agentic-rag`, research paper synthesis swarm | RAG, graph databases, policy validation, fine-tuning, claim verification |
+| **🤖 Agentic Systems** | Projects built around autonomous multi-agent coordination | Negotiation, task delegation, strategy, and collaborative action | `enterprise-intelligence-crew`, `nash-marketing-agents`, `autonomous-procurement-swarm`, supply chain response, cybersecurity swarm, smart city traffic, legal negotiation, disaster response, tutoring swarm | Crew-based orchestration, game theory, negotiation, distributed control |
+| **⏱️ Temporal Intelligence** | Projects that model change over time | Forecasting, early warning, time-series reasoning | `zero-shot-demand-foundation`, `icu-vitals-transformer` | TSFMs, forecasting pipelines, event prediction, streaming telemetry |
+| **⚙️ Execution Systems** | Projects that turn intelligence into operational action | Pricing, authorization, personalization, resource allocation | `agentic-medicare-auth`, `realtime-intent-transformer`, `generative-dynamic-ad-renderer`, `spatial-dynamic-markdown-engine`, recipe optimization, energy grid balancing, sentiment market maker | Optimization, decision systems, market simulation, workflow automation |
+| **🧬 Frontier Research** | Projects that expand beyond standard LLM/RAG patterns | Novel scientific and generative research directions | `protein-binder-flow` | Flow matching, computational biology, structural generation |
+
+| Categorization Signal | What We Look For |
+|---|---|
+| **Input type** | Does the project begin with text, video, telemetry, graphs, or time series? |
+| **Primary function** | Is it extracting, reasoning, coordinating, predicting, or executing? |
+| **Control style** | Is the system deterministic, agentic, probabilistic, or hybrid? |
+| **Core algorithm** | Does it rely on graph search, optimization, game theory, forecasting, or fine-tuning? |
+| **System role** | Does it feed perception, enforce truth, orchestrate agents, forecast future state, or close the loop operationally? |
+
+**In short:**  
+a project belongs here because of the **role it plays in the intelligence stack**, not because of the industry it happens to target.
 
 ---
 
