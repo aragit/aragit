@@ -28,10 +28,6 @@
 - **Neuro-symbolic agentic rag** — Deterministic Multi-Agent Clinical Core
 
 
-<p align="center">
-  <img src="assets/BrainMapfor_Website.png" alt="Brain Map" width="850px">
-</p>
-
 ## Hands‑On Projects 
 
     
