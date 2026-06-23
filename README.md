@@ -100,7 +100,7 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 <table>
   <tr>
     <td bgcolor="#07111f">
-      <a href="https://github.com/aragit/bionlp-llama3-service/tree/main">
+      <a href="mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20neuro-symbolic-agentic-rag">
         <strong>🔹Surgical Vision Copilot</strong>
       </a><br/>
       <sub>Real-time surgical understanding with vision-language models.</sub>
