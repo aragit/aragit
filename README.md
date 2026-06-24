@@ -153,6 +153,8 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 
 </details>
 
+
+<details>
 ### 🔹 [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)
 
 **Real-time patient fall detection on NVIDIA Jetson**
@@ -169,7 +171,7 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 - Designed for continuous monitoring in constrained environments
 
 </details>
-
+</details>
 
 
 ## 🧠 Reasoning & Knowledge Cores — Validation, Truth Control, and Retrieval
