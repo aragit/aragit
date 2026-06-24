@@ -49,10 +49,10 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 | Capability Layer | How It Is Categorized | What It Represents | Representative Projects | Typical Stack Signals |
 |---|---|---|---|---|
 | 👁️ Perception Systems** | Projects that convert raw input into structured signals | Extraction from text, images, motion, or clinical streams | `bionlp-llama3-service`, `surgical-vision-copilot`, `spatial-event-detector`, `edge-fall-detector` | Vision models, NLP extraction, stream processing, edge inference |
-| **🧠 Reasoning & Knowledge Cores** | Projects that validate, ground, and organize knowledge | Retrieval, verification, symbolic control, reasoning alignment | `speculative-clinical-graphrag`, `deepseek-reasoning-finetuning`, `neuro-symbolic-agentic-rag`, research paper synthesis swarm | RAG, graph databases, policy validation, fine-tuning, claim verification |
-| **🤖 Agentic Systems** | Projects built around autonomous multi-agent coordination | Negotiation, task delegation, strategy, and collaborative action | `enterprise-intelligence-crew`, `nash-marketing-agents`, `autonomous-procurement-swarm`, supply chain response, cybersecurity swarm, smart city traffic, legal negotiation, disaster response, tutoring swarm | Crew-based orchestration, game theory, negotiation, distributed control |
+| **🧠 Reasoning & Knowledge Cores** | Projects that validate, ground, and organize knowledge | Retrieval, verification, symbolic control, reasoning alignment | `speculative-clinical-graphrag`, `deepseek-reasoning-finetuning`, `neuro-symbolic-agentic-rag`, `research paper synthesis swarm` | RAG, graph databases, policy validation, fine-tuning, claim verification |
+| **🤖 Agentic Systems** | Projects built around autonomous multi-agent coordination | Negotiation, task delegation, strategy, and collaborative action | `enterprise-intelligence-crew`, `nash-marketing-agents`, `autonomous-procurement-swarm`, `supply chain response`, `smart city traffic`, `legal negotiation`, `disaster response`, `tutoring swarm` | Crew-based orchestration, game theory, negotiation, distributed control |
 | **⏱️ Temporal Intelligence** | Projects that model change over time | Forecasting, early warning, time-series reasoning | `zero-shot-demand-foundation`, `icu-vitals-transformer` | TSFMs, forecasting pipelines, event prediction, streaming telemetry |
-| **⚙️ Execution Systems** | Projects that turn intelligence into operational action | Pricing, authorization, personalization, resource allocation | `agentic-medicare-auth`, `realtime-intent-transformer`, `generative-dynamic-ad-renderer`, `spatial-dynamic-markdown-engine`, recipe optimization, energy grid balancing, sentiment market maker | Optimization, decision systems, market simulation, workflow automation |
+| **⚙️ Execution Systems** | Projects that turn intelligence into operational action | Pricing, authorization, personalization, resource allocation | `agentic-medicare-auth`, `realtime-intent-transformer`, `generative-dynamic-ad-renderer`, `spatial-dynamic-markdown-engine`, `recipe optimization`, `energy grid balancing`, `sentiment market maker` | Optimization, decision systems, market simulation, workflow automation |
 | **🧬 Frontier Research** | Projects that expand beyond standard LLM/RAG patterns | Novel scientific and generative research directions | `protein-binder-flow` | Flow matching, computational biology, structural generation |
 
 | Categorization Signal | What We Look For |
@@ -78,7 +78,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 🏆  
 ***Clinical entity extraction from EHR pipelines***  
 ***LLaMA3, Unsloth, FastAPI, LoRA***  
-🟢 ACTIVE • 💎 CORE PERCEPTION SYSTEM
+🟢 `ACTIVE` • 💎 `CORE PERCEPTION SYSTEM`
 
 
 
