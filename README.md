@@ -89,11 +89,11 @@ Systems that convert unstructured text, images, motion, and clinical streams int
   - **Role in system:** perception layer for structured clinical understanding
   
 <details>
-<summary><b>Architecture insight</b></summary>
+ <summary><b>Architecture insight</b></summary>
 
-- Extracts biomarkers and clinical terms from messy text
-- Optimized for low-memory fine-tuning and fast inference
-- Designed to feed downstream retrieval and reasoning layers
+  - Extracts biomarkers and clinical terms from messy text
+  - Optimized for low-memory fine-tuning and fast inference
+  - Designed to feed downstream retrieval and reasoning layers
 
 </details>
 
