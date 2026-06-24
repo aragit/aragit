@@ -495,8 +495,7 @@ Building next-generation Agentic AI systems that:
     <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ibm.svg" width="24" height="24"><br><sub><small>IBM Granite</small></sub></td>
     <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/jupyter.svg" width="24" height="24"><br><sub><small>Jupyter</small></sub></td>
     <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachekafka.svg" width="24" height="24"><br><sub><small>Kafka</small></sub></td>
-    <td align="center" width="60"><img src
-
+  </tr>  
 
 
 ## Let's Connect
