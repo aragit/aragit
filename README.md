@@ -106,7 +106,7 @@ Systems that convert unstructured text, images, motion, and clinical streams int
   <tr>
     <td bgcolor="#07111f">
       <a href="mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20neuro-symbolic-agentic-rag">
-        <strong>🔹Surgical Vision Copilot</strong>
+        <strong>🔹Surgical Vision Copilot 📍</strong>
       </a><br/>
       <sub>Real-time surgical understanding with vision-language models.</sub>
     </td>
@@ -159,7 +159,7 @@ Systems that convert unstructured text, images, motion, and clinical streams int
       <a href="https://github.com/aragit/edge-fall-detector">
         <strong>🔹 Edge Fall Detector</strong>
       </a><br/>
-      <sub>*Real-time patient fall detection on NVIDIA Jetson*.</sub>
+      <sub>Real-time patient fall detection on NVIDIA Jetson.</sub>
     </td>
   </tr>
 </table>
