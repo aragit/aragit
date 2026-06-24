@@ -153,12 +153,17 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 
 </details>
 
+<table>
+  <tr>
+    <td bgcolor="#07111f">
+      <a href="https://github.com/aragit/edge-fall-detector">
+        <strong>🔹 Edge Fall Detector</strong>
+      </a><br/>
+      <sub>*Real-time patient fall detection on NVIDIA Jetson*.</sub>
+    </td>
+  </tr>
+</table>
 
-<details>
-<summary><b>[Edge Fall Detector](https://github.com/aragit/edge-fall-detector)</b></summary>
-
-
-**Real-time patient fall detection on NVIDIA Jetson**
 
 - **Stack:** YOLOv11-Pose, TensorRT, Jetson Orin, MQTT, OpenCV
 - **Core idea:** on-device fall detection with privacy-preserving inference
@@ -173,7 +178,7 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 
 </details>
 
-</details>
+
 
 
 ## 🧠 Reasoning & Knowledge Cores — Validation, Truth Control, and Retrieval
