@@ -75,7 +75,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 
 
-### [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 🏆  
+### `[BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service)` 🏆  
 ***Clinical entity extraction from EHR pipelines***  
 ***LLaMA3, Unsloth, FastAPI, LoRA***  
 🟢 `ACTIVE` • 💎 `CORE PERCEPTION SYSTEM`
@@ -85,21 +85,21 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Surgical Vision Copilot](https://github.com/aragit/surgical-vision-copilot)  
 ***Real-time surgical understanding with vision-language models***  
 ***Video-LLaVA, OpenCV, Temporal Action Modeling***  
-🟢 ACTIVE • 🧪 VISION PERCEPTION SYSTEM
+🟢 `ACTIVE` • 🧪 `VISION PERCEPTION SYSTEM`
 
 
 
 ### [Spatial Event Detector](https://github.com/aragit/spatial-event-detector)  
 ***Kinematic telemetry → structured motion event extraction***  
 ***YOLOv11-Pose, OpenCV, NumPy***  
-🟢 ACTIVE • ⚙️ MOTION PERCEPTION SYSTEM
+🟢 `ACTIVE` • ⚙️ `MOTION PERCEPTION SYSTEM`
 
 
 
 ### [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
 ***Real-time patient fall detection on edge devices***  
 ***YOLOv11-Pose, TensorRT, MQTT, OpenCV***  
-🟢 ACTIVE • 🔒 EDGE SAFETY SYSTEM                      
+🟢 `ACTIVE` • 🔒 `EDGE SAFETY SYSTEM`                      
      
 ---
 
@@ -112,7 +112,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Speculative Graph RAG](https://github.com/aragit/speculative-clinical-graphrag)  🏆 
 ***Self-correcting clinical knowledge core***  
 ***LlamaIndex, Neo4j, vLLM, DeepSeek-R1***  
-🟢 ACTIVE • 🧠 CORE REASONING SYSTEM
+🟢 `ACTIVE` • 🧠 `CORE REASONING SYSTEM`
 
 **Architecture insight**  
 - Combines graph-based retrieval with structured verification  
@@ -124,7 +124,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)  🏆 
 ***Medical chain-of-thought LoRA alignment pipeline***  
 ***Unsloth, PyTorch, Hugging Face, TRL***  
-🟢 ACTIVE • ⚙️ REASONING OPTIMIZATION LAYER
+🟢 `ACTIVE` • ⚙️ `REASONING OPTIMIZATION LAYER`
 
 **Architecture insight**  
 - Efficient 4-bit parameter fine-tuning for reasoning behavior  
@@ -136,7 +136,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Neuro-Symbolic Agentic RAG](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20neuro-symbolic-agentic-rag)  🏆 
 ***Deterministic multi-agent clinical reasoning core***  
 ***OPA, multi-agent graphs, policy validation***  
-🔒 PRIVATE • 🧠 CONTROL PLANE REASONING SYSTEM
+🔒 `PRIVATE` • 🧠 `CONTROL PLANE REASONING SYSTEM`
 
 **Architecture insight**  
 - Cyclic planning and execution across agent graphs  
@@ -148,7 +148,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Agentic Research Paper Review & Synthesis Swarm](#)  
 ***Multi-agent scientific reasoning and literature synthesis system***  
 ***ArXiv API, claim extraction, contradiction detection, graph reasoning***  
-🔵 CONCEPT • 📚 RESEARCH REASONING LAYER
+🔵 `CONCEPT` • 📚 `RESEARCH REASONING LAYER`
 
 **Architecture insight**  
 - Ingestion agents structure academic papers into claims  
@@ -170,7 +170,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main)  
 ***Autonomous content lifecycle platform***  
 ***CrewAI, LangChain, Pydantic, ChromaDB***  
-🟢 Active • ⚙️ Multi-agent Orchestration  
+🟢 `Active` • ⚙️ `Multi-agent Orchestration`  
 
 **Architecture insight**  
 - Hierarchical multi-agent workflow with structured delegation  
@@ -183,7 +183,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Nash Marketing Agents](https://github.com/aragit/agentic-nash-marketing)  🏆 
 ***Multi-agent competitive market simulation engine***  
 ***NumPy, SciPy, SQLite/PostgreSQL, FastAPI, Pydantic, SQLAlchemy, Docker, pytest***  
-🟢 Active • 🎯 Strategic Decision Simulation  
+🟢 `Active` • 🎯 `Strategic Decision Simulation`  
 
 **Architecture insight**  
 - Models non-cooperative advertising markets using Nash equilibria  
@@ -196,7 +196,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm)   
 ***Multi-agent contract negotiation swarm***  
 ***Ray/RLlib, CrewAI, vLLM, Python***  
-🟢 Active • 🤝 Decentralized Negotiation  
+🟢 `Active` • 🤝 `Decentralized Negotiation`  
 
 **Architecture insight**  
 - Buyer and seller agents autonomously negotiate contracts  
@@ -209,7 +209,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Agentic Supply Chain Disruption Response](#)  🏆 
 ***Multi-agent supply chain disruption simulator***  
 ***Multi-agent orchestration, graph routing, optimization, local LLM reasoning***  
-🔵 Concept • 📦 Resilience & Replanning  
+🔵 `Concept` • 📦 `Resilience & Replanning`  
 
 **Architecture insight**  
 - Orchestrator detects disruptions and triggers global re-planning  
@@ -223,7 +223,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Agentic Smart City Traffic Optimization](#)  🏆 
 ***Multi-agent traffic signal and routing optimizer***  
 ***Graph networks, city simulation, intersection agents, routing optimization***  
-🔵 Concept • 🚦 Urban Coordination  
+🔵 `Concept` • 🚦 `Urban Coordination`  
 
 **Architecture insight**  
 - Intersection agents negotiate real-time signal timing  
@@ -236,7 +236,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Agentic Legal Contract Negotiation Engine](#)  
 ***Autonomous contract negotiation system for legal agreements***  
 ***Pareto optimization, Nash bargaining, clause generation, risk modeling***  
-🔵 Concept • ⚖️ Legal Negotiation  
+🔵 `Concept` • ⚖️ `Legal Negotiation`  
 
 **Architecture insight**  
 - Agents represent parties with competing contractual objectives  
@@ -249,7 +249,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Agentic Disaster Response Coordination](#)  🏆 
 ***Multi-service disaster coordination and rescue prioritization system***  
 ***Incident simulation, resource allocation, routing, triage reasoning***  
-🔵 Concept • 🚨 Public Safety Orchestration  
+🔵 `Concept` • 🚨 `Public Safety Orchestration`  
 
 **Architecture insight**  
 - Incident commander agent prioritizes response objectives  
@@ -262,7 +262,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Agentic Educational Tutoring Swarm](#)  
 ***Adaptive tutoring system with concept mastery modeling***  
 ***Knowledge graphs, tutoring agents, adaptive questioning, progress tracking***  
-🔵 Concept • 🎓 Adaptive Learning  
+🔵 `Concept` • 🎓 `Adaptive Learning`  
 
 **Architecture insight**  
 - Assessment agents identify knowledge gaps dynamically  
@@ -293,7 +293,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [ICU Vitals Transformer](#)  
 ***Transformer-based ICU vitals forecaster***  
 ***TimesFM 2.5, PatchTST, Kafka, FastAPI, WebSockets***  
-🟡 Coming Soon • 🏥 Clinical Temporal Monitoring  
+🟡 `Coming Soon` • 🏥 `Clinical Temporal Monitoring`  
 
 **Architecture insight**  
 - Ingests high-frequency physiological streams via HL7 FHIR gateway  
@@ -312,7 +312,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Spatial Dynamic Markdown Engine](#)  🏆 
 ***Dynamic pricing and liquidation engine***  
 ***TimesFM 2.5, Ray, SciPy, PostgreSQL***  
-🟡 Coming Soon • 💰 Commercial Execution  
+🟡 `Coming Soon` • 💰 `Commercial Execution`  
 
 **Architecture insight**  
 - Dynamically adjusts pricing based on temporal demand signals  
@@ -325,7 +325,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)  🏆 
 ***Agentic prior authorization engine***  
 ***EHR ingestion, CMS policy mapping, document automation***  
-🔒 Private • 🏥 Healthcare Execution  
+🔒 `Private` • 🏥 `Healthcare Execution`  
 
 **Architecture insight**  
 - Maps clinical evidence against regulatory requirements  
@@ -338,7 +338,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Real-Time Intent Transformer](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20realtime-intent-transformer)  
 ***Session-based e-commerce intent telemetry engine***  
 ***Clickstream ingestion, behavioral modeling, real-time inference***  
-🔒 Private • 🛒 Commerce Execution  
+🔒 `Private` • 🛒 `Commerce Execution`  
 
 **Architecture insight**  
 - Interprets live user sessions into actionable intent signals  
@@ -351,7 +351,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Generative Dynamic Ad Renderer](mailto:anicomanesh@gmail?subject=Access%20Request%3A%20generative-dynamic-ad-renderer)  🏆 
 ***Telemetry-driven ad generation pipeline***  
 ***LLM generation, behavioral signals, rendering automation***  
-🔒 Private • 🎯 Media Execution  
+🔒 `Private` • 🎯 `Media Execution`  
 
 **Architecture insight**  
 - Converts user behavioral signals into generated creative content  
@@ -364,7 +364,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Agentic Recipe & Nutrition Optimization System](#)  
 ***Personalized meal planning optimization system***  
 ***Linear programming, USDA data, grocery simulation, LLM generation***  
-🟡 Coming Soon • 🍽️ Nutritional Optimization  
+🟡 `Coming Soon` • 🍽️ `Nutritional Optimization`  
 
 **Architecture insight**  
 - Balances nutrition, cost, preference, and ingredient constraints  
@@ -377,7 +377,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Agentic Energy Grid Balancing System](#)  🏆 
 ***Decentralized smart grid simulation system***  
 ***Double auction engine, carbon optimization, energy agents***  
-🔵 Concept • ⚡ Energy Systems Optimization  
+🔵 `Concept` • ⚡ `Energy Systems Optimization`  
 
 **Architecture insight**  
 - Models distributed energy generation and consumption  
@@ -390,7 +390,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Agentic Sentiment-Driven Market Maker](#)  
 ***Autonomous trading and liquidity provisioning system***  
 ***Order book simulation, sentiment analysis, risk modeling***  
-🟡 Coming Soon • 📈 Market Execution  
+🟡 `Coming Soon` • 📈 `Market Execution`  
 
 **Architecture insight**  
 - Market makers adjust spreads based on sentiment signals  
@@ -409,7 +409,7 @@ Systems that push beyond standard LLM/RAG pipelines into new computational front
 ### [Protein Binder Flow](https://github.com/aragit/Flow-Matching-Protein-Binder-Generator)  
 ***Flow-matching protein binder generator***  
 ***PyTorch, Biopython, Flow Matching, FoldSeek***  
-🟢 Active • 🧬 Computational Biology Research  
+🟢 `Active` • 🧬 `Computational Biology Research`  
 
 **Architecture insight**  
 - Uses flow matching for structural molecular generation  
