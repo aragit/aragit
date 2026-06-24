@@ -497,8 +497,6 @@ Building next-generation Agentic AI systems that:
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/streamlit.svg" alt="Streamlit" width="28" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pydantic.svg" alt="Pydantic" width="28" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/jupyter.svg" alt="Jupyter" width="28" height="28"/>
-  <img src="https://skillicons.dev/icons?i=faiss&theme=light" alt="FAISS" width="28" height="28"/>
-  <img src="https://skillicons.dev/icons?i=bitsandbytes&theme=light" alt="BitsAndBytes" width="28" height="28"/>
   <br>
   <!-- Data / Vector / Storage -->
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/redis.svg" alt="Redis" width="28" height="28"/>
@@ -552,7 +550,6 @@ Building next-generation Agentic AI systems that:
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/githubactions.svg" alt="GitHub Actions" width="28" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mlflow.svg" alt="MLflow" width="28" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/okta.svg" alt="Okta" width="28" height="28"/>
-  <img src="https://skillicons.dev/icons?i=graalvm&theme=light" alt="GraalVM" width="28" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/go.svg" alt="Go" width="28" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/rust.svg" alt="Rust" width="28" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/typescript.svg" alt="TypeScript" width="28" height="28"/>
