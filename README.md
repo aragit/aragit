@@ -483,12 +483,10 @@ Building next-generation Agentic AI systems that:
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg" alt="TensorFlow" width="28" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" alt="HuggingFace" width="28" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vllm.svg" alt="vLLM" width="28" height="28"/>
-  <img src="https://skillicons.dev/icons?i=unsloth&theme=light" alt="Unsloth" width="28" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" alt="LangChain" width="28" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langgraph.svg" alt="LangGraph" width="28" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/crewai.svg" alt="CrewAI" width="28" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/haystack.svg" alt="Haystack" width="28" height="28"/>
-  <img src="https://skillicons.dev/icons?i=chainlit&theme=light" alt="Chainlit" width="28" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/anthropic.svg" alt="Anthropic" width="28" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="OpenAI" width="28" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ollama.svg" alt="Ollama" width="28" height="28"/>
