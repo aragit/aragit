@@ -109,7 +109,7 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 
 Systems that turn perception into structured reasoning, grounded answers, and verifiable decisions.
 
----
+
 
 ### [Speculative Graph RAG](https://github.com/aragit/speculative-clinical-graphrag)  
 ***Self-correcting clinical knowledge core***  
@@ -163,11 +163,11 @@ Systems that turn perception into structured reasoning, grounded answers, and ve
 
 ---
 
-### 🤖 Agentic Systems — Orchestration & Autonomy
+## 🤖 Agentic Systems — Orchestration & Autonomy
 
 Systems that coordinate multiple agents, strategies, and tools to act in dynamic environments.
 
----
+
 
 ### [Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main)  
 ***Autonomous content lifecycle platform***  
