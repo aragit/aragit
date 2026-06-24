@@ -105,7 +105,7 @@ Systems that convert unstructured text, images, motion, and clinical streams int
      
 ---
 
-## 🧠 Reasoning & Knowledge Cores — Validation, Truth Control, and Retrieval
+# 🧠 Reasoning & Knowledge Cores — Validation, Truth Control, and Retrieval
 
 Systems that turn perception into structured reasoning, grounded answers, and verifiable decisions.
 
@@ -163,7 +163,7 @@ Systems that turn perception into structured reasoning, grounded answers, and ve
 
 ---
 
-## 🤖 Agentic Systems — Orchestration & Autonomy
+# 🤖 Agentic Systems — Orchestration & Autonomy
 
 Systems that coordinate multiple agents, strategies, and tools to act in dynamic environments.
 
@@ -273,7 +273,7 @@ Systems that coordinate multiple agents, strategies, and tools to act in dynamic
 - Progress tracking agent measures mastery and retention trends  
 
 
-## ⏱️ Temporal Intelligence — Prediction & Foresight
+# ⏱️ Temporal Intelligence — Prediction & Foresight
 
 Systems that model time, anticipate outcomes, and enable proactive decision-making.
 
@@ -305,7 +305,7 @@ Systems that model time, anticipate outcomes, and enable proactive decision-maki
 
 ---
 
-## ⚙️ Execution Systems — Closing the Loop in the Real World
+# ⚙️ Execution Systems — Closing the Loop in the Real World
 
 Systems that transform inference into measurable business or clinical action.
 
@@ -402,7 +402,7 @@ Systems that transform inference into measurable business or clinical action.
 
 ---
 
-## 🧬 Frontier Research — Beyond Conventional AI
+# 🧬 Frontier Research — Beyond Conventional AI
 
 Systems that push beyond standard LLM/RAG pipelines into new computational frontiers.
 
