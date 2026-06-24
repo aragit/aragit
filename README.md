@@ -121,9 +121,16 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 
 </details>
 
-### 🔹 [Spatial Event Detector](https://github.com/aragit/spatial-event-detector)
-
-**Real-time kinematic telemetry engine**
+<table>
+  <tr>
+    <td bgcolor="#07111f">
+      <a href="https://github.com/aragit/spatial-event-detector">
+        <strong>🔹 Spatial Event Detector</strong>
+      </a><br/>
+      <sub>Real-time kinematic telemetry engine.</sub>
+    </td>
+  </tr>
+</table>
 
 - **Stack:** PyTorch, YOLOv11-Pose, OpenCV, NumPy
 - **Core idea:** converts raw pose estimation into deterministic movement states
