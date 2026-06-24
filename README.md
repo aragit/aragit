@@ -74,15 +74,13 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 
 ---
 
-┌──────────────────────────────────────────────────────────────┐
-│ 🟢 ACTIVE • 💎 CORE PERCEPTION SYSTEM                        │
-├──────────────────────────────────────────────────────────────┤
-│ 🔹 BioNLP LLaMA3 Service                                     │
-│ Clinical entity extraction from EHR pipelines                │
-│                                                              │
-│ 🔗 https://github.com/aragit/bionlp-llama3-service          │
-│ 🧠 LLaMA3 | Unsloth | FastAPI | LoRA                         │
-└──────────────────────────────────────────────────────────────┘
+
+                      
+###🔹 [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service)   
+Clinical entity extraction from EHR pipelines                
+🟢 ACTIVE • 💎 CORE PERCEPTION SYSTEM                                                               │
+🧠 LLaMA3 | Unsloth | FastAPI | LoRA                         
+
 
 
 ┌──────────────────────────────────────────────────────────────┐
