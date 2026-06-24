@@ -277,7 +277,7 @@ Systems that coordinate multiple agents, strategies, and tools to act in dynamic
 
 Systems that model time, anticipate outcomes, and enable proactive decision-making.
 
----
+
 
 ### [Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  🏆 
 ***Predictive supply-chain telemetry pipeline***  
@@ -309,7 +309,7 @@ Systems that model time, anticipate outcomes, and enable proactive decision-maki
 
 Systems that transform inference into measurable business or clinical action.
 
----
+
 
 ### [Spatial Dynamic Markdown Engine](#)  🏆 
 ***Dynamic pricing and liquidation engine***  
@@ -406,7 +406,7 @@ Systems that transform inference into measurable business or clinical action.
 
 Systems that push beyond standard LLM/RAG pipelines into new computational frontiers.
 
----
+
 
 ### [Protein Binder Flow](https://github.com/aragit/Flow-Matching-Protein-Binder-Generator)  
 ***Flow-matching protein binder generator***  
