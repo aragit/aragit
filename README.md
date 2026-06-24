@@ -68,21 +68,14 @@ a project belongs here because of the **role it plays in the intelligence stack*
 
 ---
 
-## 👁️ Perception Systems — Structure Extraction from the Real World
-
-Systems that convert unstructured text, images, motion, and clinical streams into machine-readable representations.
-
----
-
-
-                      
+                 
 
 
 ## 👁️ Perception Systems — Structure Extraction from the Real World
 
 Systems that convert unstructured text, images, motion, and clinical streams into machine-readable representations.
 
----
+
 
 ### [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service)  
 ***Clinical entity extraction from EHR pipelines***  
@@ -110,6 +103,7 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 ***YOLOv11-Pose, TensorRT, MQTT, OpenCV***  
 🟢 ACTIVE • 🔒 EDGE SAFETY SYSTEM                      
      
+---
 
 ## 🧠 Reasoning & Knowledge Cores — Validation, Truth Control, and Retrieval
 
