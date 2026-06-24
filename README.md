@@ -81,41 +81,39 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 ***LLaMA3, Unsloth, FastAPI, LoRA***   
 *🟢 ACTIVE • 💎 CORE PERCEPTION SYSTEM* 
 
-                      
+## 👁️ Perception Systems — Structure Extraction from the Real World
+
+Systems that convert unstructured text, images, motion, and clinical streams into machine-readable representations.
+
+---
+
+### [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service)  
+***Clinical entity extraction from EHR pipelines***  
+***LLaMA3, Unsloth, FastAPI, LoRA***  
+*🟢 ACTIVE • 💎 CORE PERCEPTION SYSTEM*
 
 
 
-┌──────────────────────────────────────────────────────────────┐
-│ 🟢 ACTIVE • 🧪 VISION PERCEPTION SYSTEM                      │
-├──────────────────────────────────────────────────────────────┤
-│ 🔹 Surgical Vision Copilot                                   │
-│ Real-time surgical understanding with VLMs                  │
-│                                                              │
-│ 🔗 https://github.com/aragit/surgical-vision-copilot        │
-│ 🧠 Video-LLaVA | OpenCV | Temporal Models                   │
-└──────────────────────────────────────────────────────────────┘
+### [Surgical Vision Copilot](https://github.com/aragit/surgical-vision-copilot)  
+***Real-time surgical understanding with vision-language models***  
+***Video-LLaVA, OpenCV, Temporal Action Modeling***  
+*🟢 ACTIVE • 🧪 VISION PERCEPTION SYSTEM*
 
 
-┌──────────────────────────────────────────────────────────────┐
-│ ⚙️ ACTIVE • 📍 MOTION PERCEPTION SYSTEM                       │
-├──────────────────────────────────────────────────────────────┤
-│ 🔹 Spatial Event Detector                                    │
-│ Kinematic telemetry → structured movement events            │
-│                                                              │
-│ 🔗 https://github.com/aragit/spatial-event-detector         │
-│ 🧠 YOLOv11-Pose | OpenCV | NumPy                            │
-└──────────────────────────────────────────────────────────────┘
+
+### [Spatial Event Detector](https://github.com/aragit/spatial-event-detector)  
+***Kinematic telemetry → structured motion event extraction***  
+***YOLOv11-Pose, OpenCV, NumPy***  
+*🟢 ACTIVE • ⚙️ MOTION PERCEPTION SYSTEM*
 
 
-┌──────────────────────────────────────────────────────────────┐
-│ 🔒 ACTIVE • ⚡ EDGE PERCEPTION SYSTEM                         │
-├──────────────────────────────────────────────────────────────┤
-│ 🔹 Edge Fall Detector                                        │
-│ Real-time patient fall detection on Jetson                 │
-│                                                              │
-│ 🔗 https://github.com/aragit/edge-fall-detector            │
-│ 🧠 TensorRT | YOLOv11-Pose | MQTT | OpenCV                  │
-└──────────────────────────────────────────────────────────────┘
+
+### [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
+***Real-time patient fall detection on edge devices***  
+***YOLOv11-Pose, TensorRT, MQTT, OpenCV***  
+*🟢 ACTIVE • 🔒 EDGE SAFETY SYSTEM*                      
+     
+
 ## 🧠 Reasoning & Knowledge Cores — Validation, Truth Control, and Retrieval
 
 Systems that turn perception into structured reasoning, grounded answers, and verifiable decisions.
