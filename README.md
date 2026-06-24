@@ -77,7 +77,7 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 
 
 
-### [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service)  
+### [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 🏆  
 ***Clinical entity extraction from EHR pipelines***  
 ***LLaMA3, Unsloth, FastAPI, LoRA***  
 🟢 ACTIVE • 💎 CORE PERCEPTION SYSTEM
@@ -111,7 +111,7 @@ Systems that turn perception into structured reasoning, grounded answers, and ve
 
 
 
-### [Speculative Graph RAG](https://github.com/aragit/speculative-clinical-graphrag)  
+### [Speculative Graph RAG](https://github.com/aragit/speculative-clinical-graphrag)  🏆 
 ***Self-correcting clinical knowledge core***  
 ***LlamaIndex, Neo4j, vLLM, DeepSeek-R1***  
 🟢 ACTIVE • 🧠 CORE REASONING SYSTEM
@@ -123,7 +123,7 @@ Systems that turn perception into structured reasoning, grounded answers, and ve
 
 
 
-### [DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)  
+### [DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)  🏆 
 ***Medical chain-of-thought LoRA alignment pipeline***  
 ***Unsloth, PyTorch, Hugging Face, TRL***  
 🟢 ACTIVE • ⚙️ REASONING OPTIMIZATION LAYER
@@ -135,7 +135,7 @@ Systems that turn perception into structured reasoning, grounded answers, and ve
 
 
 
-### [Neuro-Symbolic Agentic RAG](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20neuro-symbolic-agentic-rag)  
+### [Neuro-Symbolic Agentic RAG](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20neuro-symbolic-agentic-rag)  🏆 
 ***Deterministic multi-agent clinical reasoning core***  
 ***OPA, multi-agent graphs, policy validation***  
 🔒 PRIVATE • 🧠 CONTROL PLANE REASONING SYSTEM
@@ -182,7 +182,7 @@ Systems that coordinate multiple agents, strategies, and tools to act in dynamic
 
 ---
 
-### [Nash Marketing Agents](https://github.com/aragit/agentic-nash-marketing)  
+### [Nash Marketing Agents](https://github.com/aragit/agentic-nash-marketing)  🏆 
 ***Multi-agent competitive market simulation engine***  
 ***NumPy, SciPy, SQLite/PostgreSQL, FastAPI, Pydantic, SQLAlchemy, Docker, pytest***  
 🟢 Active • 🎯 Strategic Decision Simulation  
@@ -195,7 +195,7 @@ Systems that coordinate multiple agents, strategies, and tools to act in dynamic
 
 ---
 
-### [Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm)  
+### [Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm)   
 ***Multi-agent contract negotiation swarm***  
 ***Ray/RLlib, CrewAI, vLLM, Python***  
 🟢 Active • 🤝 Decentralized Negotiation  
@@ -208,7 +208,7 @@ Systems that coordinate multiple agents, strategies, and tools to act in dynamic
 
 ---
 
-### [Agentic Supply Chain Disruption Response](#)  
+### [Agentic Supply Chain Disruption Response](#)  🏆 
 ***Multi-agent supply chain disruption simulator***  
 ***Multi-agent orchestration, graph routing, optimization, local LLM reasoning***  
 🔵 Concept • 📦 Resilience & Replanning  
@@ -221,20 +221,8 @@ Systems that coordinate multiple agents, strategies, and tools to act in dynamic
 
 ---
 
-### [Agentic Cybersecurity Threat Hunting Swarm](#)  
-***Autonomous SOC swarm for anomaly detection and response***  
-***Telemetry simulation, log correlation, state machines, local LLM reasoning***  
-🔵 Concept • 🛡️ Security Autonomy  
 
-**Architecture insight**  
-- Scout agents detect anomalies in system and network telemetry  
-- Correlation agents reconstruct multi-stage attack chains  
-- Response agents isolate and mitigate threats in real time  
-- Post-incident forensics reconstruct full adversarial timelines  
-
----
-
-### [Agentic Smart City Traffic Optimization](#)  
+### [Agentic Smart City Traffic Optimization](#)  🏆 
 ***Multi-agent traffic signal and routing optimizer***  
 ***Graph networks, city simulation, intersection agents, routing optimization***  
 🔵 Concept • 🚦 Urban Coordination  
@@ -260,7 +248,7 @@ Systems that coordinate multiple agents, strategies, and tools to act in dynamic
 
 ---
 
-### [Agentic Disaster Response Coordination](#)  
+### [Agentic Disaster Response Coordination](#)  🏆 
 ***Multi-service disaster coordination and rescue prioritization system***  
 ***Incident simulation, resource allocation, routing, triage reasoning***  
 🔵 Concept • 🚨 Public Safety Orchestration  
@@ -285,227 +273,152 @@ Systems that coordinate multiple agents, strategies, and tools to act in dynamic
 - Progress tracking agent measures mastery and retention trends  
 
 
-
-
-
 ## ⏱️ Temporal Intelligence — Prediction & Foresight
 
 Systems that model time, anticipate outcomes, and enable proactive decision-making.
 
-### 🔹 [Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)
+---
 
-**Predictive supply-chain telemetry pipeline**
+### [Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  🏆 
+***Predictive supply-chain telemetry pipeline***  
+***Amazon Chronos-2, Google TimesFM 2.5, Hugging Face***  
+🟢 Active • ⏱️ Temporal Forecasting  
 
-- **Stack:** Amazon Chronos-2, Google TimesFM 2.5, Hugging Face
-- **Core idea:** zero-shot forecasting with time-series foundation models
-- **Role in system:** foresight layer for inventory and demand planning
+**Architecture insight**  
+- Moves beyond traditional ARIMA and LSTM-based forecasting  
+- Uses foundation models for long-context temporal reasoning  
+- Incorporates exogenous signals for improved demand prediction  
+- Enables zero-shot forecasting across unseen domains  
 
-<details>
-<summary><b>Architecture insight</b></summary>
+---
 
-- Moves beyond traditional ARIMA/LSTM pipelines
-- Uses foundation models for long-context temporal reasoning
-- Incorporates exogenous signals for more realistic forecasting
+### [ICU Vitals Transformer](#)  
+***Transformer-based ICU vitals forecaster***  
+***TimesFM 2.5, PatchTST, Kafka, FastAPI, WebSockets***  
+🟡 Coming Soon • 🏥 Clinical Temporal Monitoring  
 
-</details>
+**Architecture insight**  
+- Ingests high-frequency physiological streams via HL7 FHIR gateway  
+- Converts real-time vitals into structured forecasting windows  
+- Designed for early warning of patient deterioration  
+- Supports continuous temporal reasoning over ICU trajectories  
 
-### 🔹 [ICU Vitals Transformer](#)
-
-**Transformer-based ICU vitals forecaster**
-
-- **Stack:** TimesFM 2.5, PatchTST, Redpanda/Kafka, FastAPI, WebSockets
-- **Core idea:** predicts critical events from streaming physiological signals
-- **Status:** coming soon
-- **Role in system:** temporal reasoning layer for patient monitoring
-
-<details>
-<summary><b>Architecture insight</b></summary>
-
-- Ingests high-frequency vitals from an HL7 FHIR gateway
-- Converts streams into forecastable windows
-- Intended to support early warning for critical deterioration
-
-</details>
-
-
+---
 
 ## ⚙️ Execution Systems — Closing the Loop in the Real World
 
 Systems that transform inference into measurable business or clinical action.
 
-### 🔹 [Spatial Dynamic Markdown Engine](#)
+---
 
-**Dynamic pricing and liquidation engine**
+### [Spatial Dynamic Markdown Engine](#)  🏆 
+***Dynamic pricing and liquidation engine***  
+***TimesFM 2.5, Ray, SciPy, PostgreSQL***  
+🟡 Coming Soon • 💰 Commercial Execution  
 
-- **Stack:** TimesFM 2.5, Ray, SciPy, PostgreSQL
-- **Core idea:** real-time pricing for seasonal and stagnant inventory
-- **Status:** coming soon
-- **Role in system:** commercial execution layer for margin protection
+**Architecture insight**  
+- Dynamically adjusts pricing based on temporal demand signals  
+- Reduces margin erosion through real-time decision execution  
+- Converts forecasts into immediate operational actions  
+- Bridges prediction systems with real-world pricing systems  
 
-<details>
-<summary><b>Architecture insight</b></summary>
+---
 
-- Adjusts pricing from temporal signals and inventory state
-- Designed to reduce margin erosion through faster action
-- Bridges forecasting with operational execution
+### [Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)  🏆 
+***Agentic prior authorization engine***  
+***EHR ingestion, CMS policy mapping, document automation***  
+🔒 Private • 🏥 Healthcare Execution  
 
-</details>
+**Architecture insight**  
+- Maps clinical evidence against regulatory requirements  
+- Generates structured authorization submissions automatically  
+- Reduces administrative overhead in healthcare workflows  
+- Optimized for compliance-heavy decision environments  
 
-### 🔹 [Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)
+---
 
-**Agentic prior authorization engine**
+### [Real-Time Intent Transformer](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20realtime-intent-transformer)  
+***Session-based e-commerce intent telemetry engine***  
+***Clickstream ingestion, behavioral modeling, real-time inference***  
+🔒 Private • 🛒 Commerce Execution  
 
-- **Stack:** request access
-- **Core idea:** maps EHR evidence against CMS guidance to generate authorization forms
-- **Status:** private / request access
-- **Role in system:** execution layer for healthcare operations
+**Architecture insight**  
+- Interprets live user sessions into actionable intent signals  
+- Maintains dense behavioral memory across interactions  
+- Triggers contextual interventions based on inferred intent  
+- Enables adaptive real-time commerce optimization  
 
-<details>
-<summary><b>Architecture insight</b></summary>
+---
 
-- Ingests raw EHR data and regulatory documents
-- Compiles evidence-backed submissions to reduce denials
-- Designed to automate repetitive, high-friction administrative work
+### [Generative Dynamic Ad Renderer](mailto:anicomanesh@gmail?subject=Access%20Request%3A%20generative-dynamic-ad-renderer)  🏆 
+***Telemetry-driven ad generation pipeline***  
+***LLM generation, behavioral signals, rendering automation***  
+🔒 Private • 🎯 Media Execution  
 
-</details>
+**Architecture insight**  
+- Converts user behavioral signals into generated creative content  
+- Connects inference pipelines directly to media rendering systems  
+- Enables real-time adaptive advertising generation  
+- Designed for continuous personalization loops  
 
-### 🔹 [Real-Time Intent Transformer](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20realtime-intent-transformer)
+---
 
-**Session-based e-commerce intent telemetry engine**
+### [Agentic Recipe & Nutrition Optimization System](#)  
+***Personalized meal planning optimization system***  
+***Linear programming, USDA data, grocery simulation, LLM generation***  
+🟡 Coming Soon • 🍽️ Nutritional Optimization  
 
-- **Stack:** request access
-- **Core idea:** maps live session behavior to contextual incentives
-- **Status:** private / request access
-- **Role in system:** agentic decision layer for adaptive commerce
+**Architecture insight**  
+- Balances nutrition, cost, preference, and ingredient constraints  
+- Nutrition agent enforces macro and micro requirements  
+- Preference agent adapts to taste profiles and substitutions  
+- Shopping agent optimizes ingredient selection under price variance  
 
-<details>
-<summary><b>Architecture insight</b></summary>
+---
 
-- Ingests clickstream and cart activity in real time
-- Uses dense behavioral stores for session interpretation
-- Triggers contextual actions from inferred intent
+### [Agentic Energy Grid Balancing System](#)  🏆 
+***Decentralized smart grid simulation system***  
+***Double auction engine, carbon optimization, energy agents***  
+🔵 Concept • ⚡ Energy Systems Optimization  
 
-</details>
+**Architecture insight**  
+- Models distributed energy generation and consumption  
+- Battery agents perform storage arbitrage strategies  
+- Consumer agents respond dynamically to price signals  
+- Grid orchestrator stabilizes system-wide frequency and load  
 
-### 🔹 [Generative Dynamic Ad Renderer](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20generative-dynamic-ad-renderer)
+---
 
-**Telemetry-driven ad generation pipeline**
+### [Agentic Sentiment-Driven Market Maker](#)  
+***Autonomous trading and liquidity provisioning system***  
+***Order book simulation, sentiment analysis, risk modeling***  
+🟡 Coming Soon • 📈 Market Execution  
 
-- **Stack:** request access
-- **Core idea:** dynamically generates ad scripts from live user telemetry
-- **Status:** private / request access
-- **Role in system:** execution layer for personalized media generation
+**Architecture insight**  
+- Market makers adjust spreads based on sentiment signals  
+- News-driven sentiment agent influences trading behavior  
+- Regulatory agent detects manipulation patterns  
+- Exchange engine simulates realistic market microstructure  
 
-<details>
-<summary><b>Architecture insight</b></summary>
-
-- Converts behavioral signals into creative output
-- Connects LLM generation with rendering automation
-- Built for adaptive content delivery at runtime
-
-</details>
-
-### 🔹 [Agentic Recipe & Nutrition Optimization System](#)
-
-**Personalized meal planning through negotiation between nutrition, taste, budget, and ingredients**
-
-- **Stack:** linear programming, USDA nutrition data, grocery simulation, LLM recipe generation
-- **Core idea:** balances nutritional targets with preferences and cost constraints
-- **Status:** concept / not yet implemented
-- **Role in system:** optimization layer for food-tech decisioning
-
-<details>
-<summary><b>Architecture insight</b></summary>
-
-- Nutrition agent enforces macro and micro targets
-- Preference agent learns taste profiles and substitutions
-- Budget agent optimizes cost under ingredient constraints
-- Shopping agent navigates dynamic pricing in simulated stores
-
-</details>
-
-### 🔹 [Agentic Energy Grid Balancing System](#)
-
-**Smart grid simulation with decentralized energy trading**
-
-- **Stack:** double auction engine, carbon optimization, generation and storage agents, real-time grid control
-- **Core idea:** balances supply and demand while minimizing carbon impact
-- **Status:** concept / not yet implemented
-- **Role in system:** infrastructure execution layer for energy systems
-
-<details>
-<summary><b>Architecture insight</b></summary>
-
-- Solar and wind agents model variable generation
-- Battery agent handles storage arbitrage
-- Consumer agents respond to price and demand
-- Grid orchestrator stabilizes frequency and balance
-
-</details>
-
-### 🔹 [Agentic Sentiment-Driven Market Maker](#)
-
-**Autonomous market-making system driven by sentiment and risk signals**
-
-- **Stack:** order book simulation, sentiment scoring, risk control, regulatory detection
-- **Core idea:** adjusts spreads and inventory using news sentiment and market signals
-- **Status:** concept / not yet implemented
-- **Role in system:** execution layer for algorithmic trading simulation
-
-<details>
-<summary><b>Architecture insight</b></summary>
-
-- Market makers compete with different risk appetites
-- Sentiment agent interprets synthetic news
-- Regulatory agent detects spoofing, layering, and wash trading
-- Exchange engine handles matching and discovery
-
-</details>
-
-
+---
 
 ## 🧬 Frontier Research — Beyond Conventional AI
 
 Systems that push beyond standard LLM/RAG pipelines into new computational frontiers.
 
-### 🔹 [Protein Binder Flow](https://github.com/aragit/Flow-Matching-Protein-Binder-Generator)
+---
 
-**Flow-matching protein binder generator**
+### [Protein Binder Flow](https://github.com/aragit/Flow-Matching-Protein-Binder-Generator)  
+***Flow-matching protein binder generator***  
+***PyTorch, Biopython, Flow Matching, FoldSeek***  
+🟢 Active • 🧬 Computational Biology Research  
 
-- **Stack:** PyTorch, Biopython, Flow Matching Primitives, FoldSeek
-- **Core idea:** structural molecular generation through flow matching
-- **Role in system:** research frontier for generative bio-AI
+**Architecture insight**  
+- Uses flow matching for structural molecular generation  
+- Moves beyond diffusion-based protein design approaches  
+- Targets novel protein–ligand binding discovery  
+- Expands AI systems into generative bio-molecular design  
 
-<details>
-<summary><b>Architecture insight</b></summary>
-
-- Moves beyond diffusion-style generation
-- Targets novel protein-ligand binding behavior
-- Demonstrates capability expansion into computational biology
-
-</details>
-
-
-
-## 🛠️ Core Engineering Showcases
-
-### 🔹 [DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)
-### 🔹 [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service/tree/main)
-### 🔹 [Spatial Event Detector](https://github.com/aragit/spatial-event-detector)
-### 🔹 [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)
-
-These projects show the foundation beneath the system: fine-tuning, extraction, perception, and edge deployment.
-
-
-
-## 🛒 E-Commerce & MarTech
-
-### 🔹 [Generative Dynamic Ad Renderer](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20generative-dynamic-ad-renderer)
-### 🔹 [Real-Time Intent Transformer](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20realtime-intent-transformer)
-### 🔹 [Spatial Dynamic Markdown Engine](#)
-### 🔹 [Agentic Sentiment-Driven Market Maker](#)
-
-These projects translate AI into revenue, pricing, conversion, and adaptive customer response.
 
 
 
