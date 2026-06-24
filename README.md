@@ -470,61 +470,112 @@ Building next-generation Agentic AI systems that:
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/vLLM-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unsloth-111827?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-111827?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-3B82F6?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-111827?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Haystack-005F6B?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chainlit-2D6CDF?style=for-the-badge&logo=chainlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ray-0284C7?style=for-the-badge&logo=ray&logoColor=white" />
-  <img src="https://img.shields.io/badge/Temporal-111827?style=for-the-badge&logo=temporal&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-0F766E?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=prefect&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kedro-3D2C8D?style=for-the-badge&logo=kedro&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-EF3E2C?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notebook-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/anthropic.svg" alt="Anthropic Claude API" title="Anthropic Claude API">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/azuredevops.svg" alt="Azure AI Foundry" title="Azure AI Foundry">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/azurefunctions.svg" alt="Azure ML" title="Azure ML">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bentoml.svg" alt="BentoML" title="BentoML">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bitbucket.svg" alt="BitsAndBytes" title="BitsAndBytes">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/celery.svg" alt="Celery" title="Celery">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/chainlink.svg" alt="Chainlit" title="Chainlit">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cloudflare.svg" alt="Cloudflare Workers AI" title="Cloudflare Workers AI">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/crewai.svg" alt="CrewAI" title="CrewAI">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/databricks.svg" alt="Databricks Mosaic ML" title="Databricks Mosaic ML">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/docker.svg" alt="Docker" title="Docker">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/elasticsearch.svg" alt="ElasticSearch" title="ElasticSearch">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="FAISS" title="FAISS">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/fastapi.svg" alt="FastAPI" title="FastAPI">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlecloud.svg" alt="GCP Vertex AI" title="GCP Vertex AI">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/githubactions.svg" alt="GitHub Actions" title="GitHub Actions">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/go.svg" alt="GoLang" title="GoLang">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gradle.svg" alt="GraalVM" title="GraalVM">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gradio.svg" alt="Gradio" title="Gradio">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/haystack.svg" alt="Haystack (Deepset)" title="Haystack (Deepset)">
+
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" alt="Hugging Face Transformers" title="Hugging Face Transformers">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ibm.svg" alt="IBM Granite 3.0" title="IBM Granite 3.0">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/jupyter.svg" alt="Jupyter / JupyterHub" title="Jupyter / JupyterHub">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachekafka.svg" alt="Kafka" title="Kafka">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kedro.svg" alt="Kedro" title="Kedro">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kubernetes.svg" alt="Kubernetes" title="Kubernetes">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" alt="LangChain" title="LangChain">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langgraph.svg" alt="LangGraph" title="LangGraph">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/milvus.svg" alt="Milvus" title="Milvus">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mlflow.svg" alt="MLflow" title="MLflow">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/modal.svg" alt="Modal" title="Modal">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mongodb.svg" alt="MongoDB Atlas Vector Search" title="MongoDB Atlas Vector Search">
+
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nebula.svg" alt="Nebula Graph" title="Nebula Graph">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/neo4j.svg" alt="Neo4j" title="Neo4j">
+
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nginx.svg" alt="Nginx" title="Nginx">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nvidia.svg" alt="Nvidia Merlin" title="Nvidia Merlin">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nvidia.svg" alt="Nvidia Triton Inference Server" title="Nvidia Triton Inference Server">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/okta.svg" alt="Okta" title="Okta">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ollama.svg" alt="Ollama" title="Ollama">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="OpenAI Swarm" title="OpenAI Swarm">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/opentelemetry.svg" alt="OpenTelemetry" title="OpenTelemetry">
+
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postgresql.svg" alt="PGVector" title="PGVector">
+
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/posthog.svg" alt="PostHog" title="PostHog">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/prefect.svg" alt="Prefect" title="Prefect">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/prometheus.svg" alt="Prometheus" title="Prometheus">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pulumi.svg" alt="Pulumi" title="Pulumi">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pydantic.svg" alt="Pydantic" title="Pydantic">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" alt="Python" title="Python">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pytorch.svg" alt="PyTorch" title="PyTorch">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/quarkus.svg" alt="Quarkus" title="Quarkus">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ray.svg" alt="Ray Serve" title="Ray Serve">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/redis.svg" alt="Redis" title="Redis">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/replicate.svg" alt="Replicate" title="Replicate">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/rust.svg" alt="Rust" title="Rust">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazons3.svg" alt="S3 (MinIO, AWS)" title="S3 (MinIO, AWS)">
+
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoft.svg" alt="Semantic Kerne" title="Semantic Kernel">
+
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/snowflake.svg" alt="Snowflake Arctic" title="Snowflake Arctic">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/sqlalchemy.svg" alt="SQLAlchemy" title="SQLAlchemy">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/streamlit.svg" alt="Streamlit" title="Streamlit">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/supabase.svg" alt="Supabase" title="Supabase">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/temporal.svg" alt="Temporal" title="Temporal">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nvidia.svg" alt="TensorRT" title="TensorRT">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/terraform.svg" alt="Terraform" title="Terraform">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" alt="TGI (Text Generation Inference)" title="TGI (Text Generation Inference)">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pytorch.svg" alt="Torch Serve" title="Torch Serve">
+
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/typescript.svg" alt="TypeScript" title="TypeScript">
+          
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" alt="Vercel AI SDK" title="Vercel AI SDK">
+          <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vespa.svg" alt="Vespa" title="Vespa">
+          
+        </div>
 </p>
 
 
 
-## 📫 Let's Connect
+## Let's Connect
 
 - LinkedIn: https://linkedin.com/in/arashnicoomanesh
 - GitHub: https://github.com/aragit
