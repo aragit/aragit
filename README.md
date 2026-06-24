@@ -74,17 +74,16 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 
 <table>
   <tr>
-    <td style="border-left: 5px solid #00C2FF; padding:12px;">
-      
-### 🔹 BioNLP LLaMA3 Service  
-Clinical entity extraction from unstructured EHR pipelines.
-
-[GitHub Repo](https://github.com/aragit/bionlp-llama3-service/tree/main)
+    <td bgcolor="#07111f">
+      <a href="https://github.com/aragit/bionlp-llama3-service/tree/main">
+        <strong>🔹 BioNLP LLaMA3 Service</strong>
+      </a><br/>
+      <sub>Clinical entity extraction from unstructured EHR pipelines.</sub>
     </td>
   </tr>
 </table>
 
-
+<details>
 - **Stack:** LLaMA-3-8B, Unsloth, PEFT/LoRA, FastAPI
 - **Core idea:** memory-efficient fine-tuning for multi-token biomedical NER
 - **Role in system:** perception layer for structured clinical understanding
@@ -97,6 +96,8 @@ Clinical entity extraction from unstructured EHR pipelines.
 - Designed to feed downstream retrieval and reasoning layers
 
 </details>
+<details>
+
 <table>
   <tr>
     <td bgcolor="#07111f">
