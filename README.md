@@ -74,174 +74,48 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 
 ---
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<table>
-<tr>
-<td bgcolor="#07111f">
-
-<a href="https://github.com/aragit/bionlp-llama3-service">
-<strong style="font-size:20px;">👁️ BioNLP LLaMA3 Service</strong>
-</a>
-
-<br><br>
-
-<sub><b>Clinical entity extraction from unstructured EHR pipelines.</b></sub>
-
-<br><br>
-
-<b>Stack:</b> LLaMA-3 • Unsloth • PEFT/LoRA • FastAPI  
-<b>Role:</b> Clinical NLP Perception Layer
-
-<br><br>
-
-🟢 ACTIVE • 💎 CORE PERCEPTION NODE
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>Architecture Insight</b></summary>
-
-- Extracts biomarkers and clinical entities from unstructured medical text  
-- Optimized for memory-efficient fine-tuning and fast inference  
-- Designed as a structured input generator for downstream reasoning systems  
-
-</details>
-
-</td>
-
-<td width="50%" valign="top">
-
-<table>
-<tr>
-<td bgcolor="#07111f">
-
-<a href="https://github.com/aragit/surgical-vision-copilot">
-<strong style="font-size:20px;">🧠 Surgical Vision Copilot</strong>
-</a>
-
-<br><br>
-
-<sub><b>Real-time surgical understanding with vision-language models.</b></sub>
-
-<br><br>
-
-<b>Stack:</b> Video-LLaVA • OpenCV • Temporal Action Modeling  
-<b>Role:</b> Multimodal Clinical Perception
-
-<br><br>
-
-🚀 ACTIVE • EDGE VISION NODE
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>Architecture Insight</b></summary>
-
-- Streams video into structured temporal event representations  
-- Builds action-level understanding over raw frame sequences  
-- Enables assistive reasoning in time-critical environments  
-
-</details>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<table>
-<tr>
-<td bgcolor="#07111f">
-
-<a href="https://github.com/aragit/spatial-event-detector">
-<strong style="font-size:20px;">📍 Spatial Event Detector</strong>
-</a>
-
-<br><br>
-
-<sub><b>Real-time kinematic telemetry engine.</b></sub>
-
-<br><br>
-
-<b>Stack:</b> YOLOv11-Pose • OpenCV • NumPy  
-<b>Role:</b> Motion-to-Symbol Perception Layer
-
-<br><br>
-
-⚙️ ACTIVE • REAL-TIME STATE ENGINE
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>Architecture Insight</b></summary>
-
-- Converts pose estimation into structured movement states  
-- Computes temporal joint dynamics across sliding windows  
-- Implements deterministic event detection via state machines  
-
-</details>
-
-</td>
-
-<td width="50%" valign="top">
-
-<table>
-<tr>
-<td bgcolor="#07111f">
-
-<a href="https://github.com/aragit/edge-fall-detector">
-<strong style="font-size:20px;">⚡ Edge Fall Detector</strong>
-</a>
-
-<br><br>
-
-<sub><b>Real-time patient fall detection on NVIDIA Jetson.</b></sub>
-
-<br><br>
-
-<b>Stack:</b> YOLOv11-Pose • TensorRT • MQTT • OpenCV  
-<b>Role:</b> Edge Clinical Safety Perception
-
-<br><br>
-
-🔒 ACTIVE • PRIVACY-FIRST EDGE NODE
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>Architecture Insight</b></summary>
-
-- Runs fully on-device for privacy-preserving inference  
-- Converts pose signals into optimized TensorRT pipelines  
-- Designed for continuous clinical monitoring environments  
-
-</details>
-
-</td>
-
-</tr>
-</table>
+┌──────────────────────────────────────────────────────────────┐
+│ 🟢 ACTIVE • 💎 CORE PERCEPTION SYSTEM                        │
+├──────────────────────────────────────────────────────────────┤
+│ 🔹 BioNLP LLaMA3 Service                                     │
+│ Clinical entity extraction from EHR pipelines                │
+│                                                              │
+│ 🔗 https://github.com/aragit/bionlp-llama3-service          │
+│ 🧠 LLaMA3 | Unsloth | FastAPI | LoRA                         │
+└──────────────────────────────────────────────────────────────┘
 
 
+┌──────────────────────────────────────────────────────────────┐
+│ 🟢 ACTIVE • 🧪 VISION PERCEPTION SYSTEM                      │
+├──────────────────────────────────────────────────────────────┤
+│ 🔹 Surgical Vision Copilot                                   │
+│ Real-time surgical understanding with VLMs                  │
+│                                                              │
+│ 🔗 https://github.com/aragit/surgical-vision-copilot        │
+│ 🧠 Video-LLaVA | OpenCV | Temporal Models                   │
+└──────────────────────────────────────────────────────────────┘
 
+
+┌──────────────────────────────────────────────────────────────┐
+│ ⚙️ ACTIVE • 📍 MOTION PERCEPTION SYSTEM                       │
+├──────────────────────────────────────────────────────────────┤
+│ 🔹 Spatial Event Detector                                    │
+│ Kinematic telemetry → structured movement events            │
+│                                                              │
+│ 🔗 https://github.com/aragit/spatial-event-detector         │
+│ 🧠 YOLOv11-Pose | OpenCV | NumPy                            │
+└──────────────────────────────────────────────────────────────┘
+
+
+┌──────────────────────────────────────────────────────────────┐
+│ 🔒 ACTIVE • ⚡ EDGE PERCEPTION SYSTEM                         │
+├──────────────────────────────────────────────────────────────┤
+│ 🔹 Edge Fall Detector                                        │
+│ Real-time patient fall detection on Jetson                 │
+│                                                              │
+│ 🔗 https://github.com/aragit/edge-fall-detector            │
+│ 🧠 TensorRT | YOLOv11-Pose | MQTT | OpenCV                  │
+└──────────────────────────────────────────────────────────────┘
 ## 🧠 Reasoning & Knowledge Cores — Validation, Truth Control, and Retrieval
 
 Systems that turn perception into structured reasoning, grounded answers, and verifiable decisions.
