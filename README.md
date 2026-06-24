@@ -74,7 +74,7 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 
 <table>
   <tr>
-    <td bgcolor="#07111f">
+    <td bgcolor="#0B1F33">
       <a href="https://github.com/aragit/bionlp-llama3-service/tree/main">
         <strong>🔹 BioNLP LLaMA3 Service</strong>
       </a><br/>
