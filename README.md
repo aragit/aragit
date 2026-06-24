@@ -469,7 +469,7 @@ Building next-generation Agentic AI systems that:
 
 
 
-<div align="center">
+</p>
   <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/anthropic.svg" alt="Anthropic Claude API" title="Anthropic Claude API">
   <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/azuredevops.svg" alt="Azure AI Foundry" title="Azure AI Foundry">
   <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/azurefunctions.svg" alt="Azure ML" title="Azure ML">
@@ -487,6 +487,7 @@ Building next-generation Agentic AI systems that:
   <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlecloud.svg" alt="GCP Vertex AI" title="GCP Vertex AI">
   <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/githubactions.svg" alt="GitHub Actions" title="GitHub Actions">
   <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/go.svg" alt="GoLang" title="GoLang">
+  <br>
   <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gradle.svg" alt="GraalVM" title="GraalVM">
   <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gradio.svg" alt="Gradio" title="Gradio">
   <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/haystack.svg" alt="Haystack (Deepset)" title="Haystack (Deepset)">
@@ -538,7 +539,7 @@ Building next-generation Agentic AI systems that:
   <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/typescript.svg" alt="TypeScript" title="TypeScript">
   <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" alt="Vercel AI SDK" title="Vercel AI SDK">
   <img role="listitem" loading="lazy" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vespa.svg" alt="Vespa" title="Vespa">
-</div>    
+</p>   
 
 
 
