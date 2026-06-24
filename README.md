@@ -80,7 +80,6 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 Clinical entity extraction from unstructured EHR pipelines.
 
 [GitHub Repo](https://github.com/aragit/bionlp-llama3-service/tree/main)
-
     </td>
   </tr>
 </table>
