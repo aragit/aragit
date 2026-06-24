@@ -69,7 +69,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
                  
 
 
-# 👁️ Perception Systems — Structure Extraction from the Real World
+# 👁️ Perception Systems — Data Extraction from the Real World
 
 ### *Systems that convert unstructured text, images, motion, and clinical streams into machine-readable representations.*
 
@@ -103,7 +103,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
      
 ---
 
-# 🧠 Reasoning & Knowledge Cores — Validation, Truth Control, and Retrieval
+# 🧠 Reasoning & Knowledge Cores 
 
 ### *Turn perception into structured reasoning, grounded answers, and verifiable decisions.*
 
