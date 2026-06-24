@@ -69,7 +69,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
                  
 
 
-# 👁️ Perception Systems — Structure Extraction from the Real World
+# <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/eye.svg" width="18"/> Perception Systems — Structure Extraction from the Real World
 
 Systems that convert unstructured text, images, motion, and clinical streams into machine-readable representations.
 
