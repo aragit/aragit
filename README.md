@@ -71,7 +71,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 # 👁️ Perception Systems — Structure Extraction from the Real World
 
-Systems that convert unstructured text, images, motion, and clinical streams into machine-readable representations.
+### *Systems that convert unstructured text, images, motion, and clinical streams into machine-readable representations.*
 
 
 
@@ -105,7 +105,7 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 
 # 🧠 Reasoning & Knowledge Cores — Validation, Truth Control, and Retrieval
 
-Systems that turn perception into structured reasoning, grounded answers, and verifiable decisions.
+### *Turn perception into structured reasoning, grounded answers, and verifiable decisions.*
 
 
 
@@ -163,7 +163,7 @@ Systems that turn perception into structured reasoning, grounded answers, and ve
 
 # 🤖 Agentic Systems — Orchestration & Autonomy
 
-Systems that coordinate multiple agents, strategies, and tools to act in dynamic environments.
+### *These systems coordinate multiple agents, strategies, and tools to act in dynamic environments.*
 
 
 
@@ -273,7 +273,7 @@ Systems that coordinate multiple agents, strategies, and tools to act in dynamic
 
 # ⏱️ Temporal Intelligence — Prediction & Foresight
 
-Systems that model time, anticipate outcomes, and enable proactive decision-making.
+### *Systems that model time, anticipate outcomes, and enable proactive decision-making.*
 
 
 
@@ -305,7 +305,7 @@ Systems that model time, anticipate outcomes, and enable proactive decision-maki
 
 # ⚙️ Execution Systems — Closing the Loop in the Real World
 
-Systems that transform inference into measurable business or clinical action.
+### *Systems that transform inference into measurable business or clinical action.*
 
 
 
