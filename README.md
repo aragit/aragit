@@ -25,7 +25,7 @@
 
 ---
 
-## System Overview
+# System Overview
 
 This is not a simple project list.
 
@@ -37,7 +37,7 @@ It is a **composable intelligence stack** — a portfolio of systems that transf
 ---
 
 
-## 🗺️ Projects Capability Map
+# 🗺️ Projects Capability Map
 
 This portfolio is organized by **capability layer** rather than by domain.  
 The goal is to show how each project contributes to a larger agentic intelligence stack: perception → reasoning → orchestration → prediction → execution → frontier research.
@@ -71,7 +71,7 @@ a project belongs here because of the **role it plays in the intelligence stack*
                  
 
 
-## 👁️ Perception Systems — Structure Extraction from the Real World
+# 👁️ Perception Systems — Structure Extraction from the Real World
 
 Systems that convert unstructured text, images, motion, and clinical streams into machine-readable representations.
 
