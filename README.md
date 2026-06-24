@@ -109,76 +109,62 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 
 Systems that turn perception into structured reasoning, grounded answers, and verifiable decisions.
 
-### 🔹 [Speculative Graph RAG](https://github.com/aragit/speculative-clinical-graphrag)
+---
 
-**Self-correcting clinical knowledge core**
+### [Speculative Graph RAG](https://github.com/aragit/speculative-clinical-graphrag)  
+***Self-correcting clinical knowledge core***  
+***LlamaIndex, Neo4j, vLLM, DeepSeek-R1***  
+🟢 ACTIVE • 🧠 CORE REASONING SYSTEM
 
-- **Stack:** LlamaIndex, Neo4j, vLLM, DeepSeek-R1
-- **Core idea:** graph-based retrieval with a verification layer for clinical facts
-- **Role in system:** reasoning core for grounded medical intelligence
+**Architecture insight**  
+- Combines graph-based retrieval with structured verification  
+- Validates extracted clinical pathways against medical taxonomies  
+- Reduces hallucination via grounded reasoning constraints  
 
-<details>
-<summary><b>Architecture insight</b></summary>
 
-- Combines dense graph retrieval with structured verification
-- Validates extracted pathways against medical taxonomies
-- Designed to reduce hallucination and improve traceability
 
-</details>
+### [DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)  
+***Medical chain-of-thought LoRA alignment pipeline***  
+***Unsloth, PyTorch, Hugging Face, TRL***  
+🟢 ACTIVE • ⚙️ REASONING OPTIMIZATION LAYER
 
-### 🔹 [DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)
+**Architecture insight**  
+- Efficient 4-bit parameter fine-tuning for reasoning behavior  
+- Maps diagnostic reasoning patterns into model weights  
+- Improves structured clinical response generation  
 
-**Medical CoT LoRA alignment pipeline**
 
-- **Stack:** Unsloth, PyTorch, Hugging Face, TRL
-- **Core idea:** parameter-efficient reasoning alignment with 4-bit quantization
-- **Role in system:** reasoning optimization layer for chain-of-thought behavior
 
-<details>
-<summary><b>Architecture insight</b></summary>
+### [Neuro-Symbolic Agentic RAG](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20neuro-symbolic-agentic-rag)  
+***Deterministic multi-agent clinical reasoning core***  
+***OPA, multi-agent graphs, policy validation***  
+🔒 PRIVATE • 🧠 CONTROL PLANE REASONING SYSTEM
 
-- Fine-tunes reasoning behavior efficiently under memory constraints
-- Maps diagnostic thought chains into model behavior
-- Useful for improving structured response quality in expert workflows
+**Architecture insight**  
+- Cyclic planning and execution across agent graphs  
+- Open Policy Agent (OPA) validation layer ensures safety  
+- Designed for deterministic clinical decision workflows  
 
-</details>
 
-### 🔹 [Neuro-Symbolic Agentic RAG](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20neuro-symbolic-agentic-rag)
 
-**Deterministic multi-agent clinical core**
+### [Agentic Research Paper Review & Synthesis Swarm](#)  
+***Multi-agent scientific reasoning and literature synthesis system***  
+***ArXiv API, claim extraction, contradiction detection, graph reasoning***  
+🔵 CONCEPT • 📚 RESEARCH REASONING LAYER
 
-- **Stack:** request access
-- **Core idea:** cyclic planning and execution with policy validation
-- **Status:** private / request access
-- **Role in system:** control plane for safe clinical reasoning
+**Architecture insight**  
+- Ingestion agents structure academic papers into claims  
+- Verification agents cross-check citations and evidence  
+- Conflict agents detect contradictions across literature  
+- Synthesis agent generates research gap analysis and summaries  
 
-<details>
-<summary><b>Architecture insight</b></summary>
 
-- Coordinates single- and multi-agent graphs
-- Adds an Open Policy Agent validation ring
-- Designed for deterministic workflows where correctness matters
 
-</details>
 
-### 🔹 [Agentic Research Paper Review & Synthesis Swarm](#)
+---
 
-**Swarm of agents that ingests papers, verifies claims, and synthesizes literature reviews**
 
-- **Stack:** PDF parsing, ArXiv API, claim extraction, contradiction detection, graph synthesis
-- **Core idea:** identifies hypotheses, validates findings, and resolves conflicting evidence
-- **Status:** concept / not yet implemented
-- **Role in system:** research reasoning layer for scientific synthesis
 
-<details>
-<summary><b>Architecture insight</b></summary>
-
-- Ingestion agent extracts paper sections and structure
-- Verification agent cross-references claims against citations
-- Conflict detection agent flags contradictions across sources
-- Synthesis agent generates reviews and identifies research gaps
-
-</details>
 
 
 
