@@ -84,18 +84,18 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 </table>
 
 <details>
-- **Stack:** LLaMA-3-8B, Unsloth, PEFT/LoRA, FastAPI
-- **Core idea:** memory-efficient fine-tuning for multi-token biomedical NER
-- **Role in system:** perception layer for structured clinical understanding
-
-<details>
-<summary><b>Architecture insight</b></summary>
-
-- Extracts biomarkers and clinical terms from messy text
-- Optimized for low-memory fine-tuning and fast inference
-- Designed to feed downstream retrieval and reasoning layers
-
-</details>
+  - **Stack:** LLaMA-3-8B, Unsloth, PEFT/LoRA, FastAPI
+  - **Core idea:** memory-efficient fine-tuning for multi-token biomedical NER
+  - **Role in system:** perception layer for structured clinical understanding
+  
+  <details>
+  <summary><b>Architecture insight</b></summary>
+  
+  - Extracts biomarkers and clinical terms from messy text
+  - Optimized for low-memory fine-tuning and fast inference
+  - Designed to feed downstream retrieval and reasoning layers
+  
+  </details>
 <details>
 
 <table>
