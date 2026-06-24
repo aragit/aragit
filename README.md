@@ -99,7 +99,7 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 - Designed to feed downstream retrieval and reasoning layers
 
 </details>
-
+---
 
 <table>
   <tr>
@@ -125,7 +125,7 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 - Built to support assistive decision loops in time-sensitive environments
 
 </details>
-
+---
 <table>
   <tr>
     <td bgcolor="#07111f">
