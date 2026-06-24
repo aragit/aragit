@@ -163,177 +163,129 @@ Systems that turn perception into structured reasoning, grounded answers, and ve
 
 ---
 
-
-
-
-
-
 ## 🤖 Agentic Systems — Orchestration & Autonomy
 
 Systems that coordinate multiple agents, strategies, and tools to act in dynamic environments.
 
-### 🔹 [Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main)
+---
 
-**Autonomous content lifecycle platform**
+### [Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main)  
+***Autonomous content lifecycle platform***  
+***CrewAI, LangChain, Pydantic, ChromaDB***  
+🟢 ACTIVE • ⚙️ MULTI-AGENT ORCHESTRATION LAYER  
 
-- **Stack:** CrewAI, LangChain, Pydantic, ChromaDB
-- **Core idea:** hierarchical multi-agent workflow with strict schema validation
-- **Role in system:** orchestration layer for collaborative agent execution
+**Architecture insight**  
+- Hierarchical multi-agent workflow with structured delegation  
+- Specialized agents for trend research, risk analysis, and content generation  
+- Memory synchronization across task pipelines  
+- Enforced schema validity via Pydantic output contracts  
 
-<details>
-<summary><b>Architecture insight</b></summary>
+---
 
-- Includes specialized agents for trend investigation, risk analysis, and copywriting
-- Uses memory syncs and delegation constraints
-- Enforces structured outputs through Pydantic containers
+### [Nash Marketing Agents](https://github.com/aragit/agentic-nash-marketing)  
+***Multi-agent competitive market simulation engine***  
+***NumPy, SciPy, SQLite/PostgreSQL, FastAPI, Pydantic, SQLAlchemy, Docker, pytest***  
+🟢 ACTIVE • 🎯 STRATEGIC DECISION SIMULATION LAYER  
 
-</details>
+**Architecture insight**  
+- Models non-cooperative advertising markets using Nash equilibria  
+- Simulates autonomous brand agents under budget constraints  
+- Prevents resource collapse in competitive bidding environments  
+- Enables pre-deployment experimentation of marketing strategies  
 
-### 🔹 [Nash Marketing Agents](https://github.com/aragit/agentic-nash-marketing)
+---
 
-**Multi-agent competitive market simulation engine**
+### [Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm)  
+***Multi-agent contract negotiation swarm***  
+***Ray/RLlib, CrewAI, vLLM, Python***  
+🟢 ACTIVE • 🤝 DECENTRALIZED NEGOTIATION LAYER  
 
-- **Stack:** NumPy, SciPy, SQLite/PostgreSQL, FastAPI, Pydantic, SQLAlchemy, Docker, pytest
-- **Core idea:** models non-cooperative ad-bidding using mixed-strategy Nash equilibria
-- **Role in system:** decision-making layer for strategic competition
+**Architecture insight**  
+- Buyer and seller agents autonomously negotiate contracts  
+- Reinforcement learning used for adaptive bargaining strategies  
+- Simulates pricing pressure, inventory constraints, and risk factors  
+- Designed for adversarial yet cooperative economic environments  
 
-<details>
-<summary><b>Architecture insight</b></summary>
+---
 
-- Simulates autonomous brand agents under resource constraints
-- Helps prevent budget-depletion loops in bidding environments
-- Useful for strategic experimentation before production deployment
+### [Agentic Supply Chain Disruption Response](#)  
+***Multi-agent supply chain disruption simulator***  
+***Multi-agent orchestration, graph routing, optimization, local LLM reasoning***  
+🧪 CONCEPT • 📦 RESILIENCE & REPLANNING LAYER  
 
-</details>
+**Architecture insight**  
+- Orchestrator detects disruptions and triggers global re-planning  
+- Supplier agents manage inventory, pricing, and capacity constraints  
+- Logistics agents compute alternate routing using graph optimization  
+- Retail agents dynamically renegotiate demand and supply shifts  
 
-### 🔹 [Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm)
+---
 
-**Multi-agent contract negotiation swarm**
+### [Agentic Cybersecurity Threat Hunting Swarm](#)  
+***Autonomous SOC swarm for anomaly detection and response***  
+***Telemetry simulation, log correlation, state machines, local LLM reasoning***  
+🧪 CONCEPT • 🛡️ SECURITY AUTONOMY LAYER  
 
-- **Stack:** Ray/RLlib, CrewAI, vLLM, Python
-- **Core idea:** buyer and seller agents negotiate procurement contracts autonomously
-- **Role in system:** decentralized negotiation layer for constrained environments
+**Architecture insight**  
+- Scout agents detect anomalies in system and network telemetry  
+- Correlation agents reconstruct multi-stage attack chains  
+- Response agents isolate and mitigate threats in real time  
+- Post-incident forensics reconstruct full adversarial timelines  
 
-<details>
-<summary><b>Architecture insight</b></summary>
+---
 
-- Simulates market pricing, inventory constraints, and geopolitical risk
-- Designed for collaborative yet adversarial agent behavior
-- Shows how autonomy can be applied to real business operations
+### [Agentic Smart City Traffic Optimization](#)  
+***Multi-agent traffic signal and routing optimizer***  
+***Graph networks, city simulation, intersection agents, routing optimization***  
+🧪 CONCEPT • 🚦 URBAN COORDINATION LAYER  
 
-</details>
+**Architecture insight**  
+- Intersection agents negotiate real-time signal timing  
+- Transit agents optimize passenger flow across networks  
+- Emergency agents override routing for critical response vehicles  
+- Global orchestrator resolves congestion and systemic deadlocks  
 
-### 🔹 [Agentic Supply Chain Disruption Response](#)
+---
 
-**Multi-agent supply chain disruption simulator**
+### [Agentic Legal Contract Negotiation Engine](#)  
+***Autonomous contract negotiation system for legal agreements***  
+***Pareto optimization, Nash bargaining, clause generation, risk modeling***  
+🧪 CONCEPT • ⚖️ LEGAL NEGOTIATION LAYER  
 
-- **Stack:** multi-agent orchestration, graph routing, local LLM negotiation, optimization
-- **Core idea:** suppliers, warehouses, and retailers autonomously re-plan when disruptions hit
-- **Status:** concept / not yet implemented
-- **Role in system:** coordination layer for logistics under uncertainty
+**Architecture insight**  
+- Agents represent parties with competing contractual objectives  
+- Mediator agent proposes balanced clause adjustments  
+- Risk analysis identifies hidden liabilities and trade-offs  
+- Optimizes toward Pareto-efficient legal agreements  
 
-<details>
-<summary><b>Architecture insight</b></summary>
+---
 
-- Orchestrator detects disruptions and triggers re-planning
-- Supplier agents manage inventory, pricing, and capacity
-- Logistics agent computes alternative routes with graph algorithms
-- Retailer agents negotiate orders and demand shifts
+### [Agentic Disaster Response Coordination](#)  
+***Multi-service disaster coordination and rescue prioritization system***  
+***Incident simulation, resource allocation, routing, triage reasoning***  
+🧪 CONCEPT • 🚨 PUBLIC SAFETY ORCHESTRATION LAYER  
 
-</details>
+**Architecture insight**  
+- Incident commander agent prioritizes response objectives  
+- Fire, medical, police, and logistics agents coordinate operations  
+- Ethical triage under constrained and high-pressure environments  
+- Real-time operational map for resource coordination  
 
-### 🔹 [Agentic Cybersecurity Threat Hunting Swarm](#)
+---
 
-**Autonomous SOC swarm for anomaly detection and response**
+### [Agentic Educational Tutoring Swarm](#)  
+***Adaptive tutoring system with concept mastery modeling***  
+***Knowledge graphs, tutoring agents, adaptive questioning, progress tracking***  
+🧪 CONCEPT • 🎓 ADAPTIVE LEARNING LAYER  
 
-- **Stack:** synthetic network telemetry, log correlation, state machine workflows, local LLM reasoning
-- **Core idea:** scouts detect anomalies, correlation agents link them, response agents isolate threats
-- **Status:** concept / not yet implemented
-- **Role in system:** defensive autonomy layer for security operations
+**Architecture insight**  
+- Assessment agents identify knowledge gaps dynamically  
+- Subject-specific agents provide targeted instruction  
+- Pedagogy agent adapts teaching strategy per learner profile  
+- Progress tracking agent measures mastery and retention trends  
 
-<details>
-<summary><b>Architecture insight</b></summary>
 
-- Implements alert → triage → contain → eradicate → recover flow
-- Forensics agent reconstructs attack chains post-incident
-- Designed around incident-response realism and testability
 
-</details>
-
-### 🔹 [Agentic Smart City Traffic Optimization](#)
-
-**Multi-agent traffic signal and routing optimizer**
-
-- **Stack:** graph road network, city simulation, intersection agents, routing optimization
-- **Core idea:** traffic lights, transit, and emergency routing negotiate in real time
-- **Status:** concept / not yet implemented
-- **Role in system:** urban autonomy layer for city-scale coordination
-
-<details>
-<summary><b>Architecture insight</b></summary>
-
-- Intersection agents negotiate green-light durations
-- Transit agent balances passenger load and schedules
-- Emergency agent overrides for ambulances and fire trucks
-- City orchestrator resolves global conflicts and deadlocks
-
-</details>
-
-### 🔹 [Agentic Legal Contract Negotiation Engine](#)
-
-**Autonomous contract negotiation system for legal agreements**
-
-- **Stack:** Pareto frontier computation, Nash bargaining, clause generation, risk analysis
-- **Core idea:** legal agents negotiate terms and identify risks for both parties
-- **Status:** concept / not yet implemented
-- **Role in system:** negotiation layer for formal agreements
-
-<details>
-<summary><b>Architecture insight</b></summary>
-
-- Party agents represent buyer/seller or tenant/landlord sides
-- Mediator proposes compromises and detects deadlocks
-- Risk analyst flags problematic clauses and hidden tradeoffs
-
-</details>
-
-### 🔹 [Agentic Disaster Response Coordination](#)
-
-**Multi-service disaster coordination and rescue prioritization system**
-
-- **Stack:** incident simulation, resource allocation, routing, triage, local LLM strategy generation
-- **Core idea:** fire, medical, police, and logistics units coordinate under uncertainty
-- **Status:** concept / not yet implemented
-- **Role in system:** high-stakes autonomy layer for public safety
-
-<details>
-<summary><b>Architecture insight</b></summary>
-
-- Incident commander sets global priorities
-- Fire, medical, police, and logistics agents coordinate response
-- Ethical triage reasoning under scarce resources
-- Real-time map dashboard for operational awareness
-
-</details>
-
-### 🔹 [Agentic Educational Tutoring Swarm](#)
-
-**Adaptive tutoring system with concept mastery modeling**
-
-- **Stack:** knowledge graph, tutoring agents, adaptive questioning, progress reporting
-- **Core idea:** subject agents, pedagogy agent, and motivation agent personalize learning
-- **Status:** concept / not yet implemented
-- **Role in system:** autonomous education layer for personalized instruction
-
-<details>
-<summary><b>Architecture insight</b></summary>
-
-- Assessment agent diagnoses knowledge gaps
-- Subject agents explain and reinforce concepts
-- Pedagogy agent adapts teaching style
-- Reporting agent tracks mastery and at-risk students
-
-</details>
 
 
 
