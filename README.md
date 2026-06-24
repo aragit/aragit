@@ -39,8 +39,8 @@ It is a **composable intelligence stack** — a portfolio of systems that transf
 
 # 🗺️ Projects Capability Map
 
-This portfolio is organized by **capability layer** rather than by domain.  
-The goal is to show how each project contributes to a larger agentic intelligence stack: perception → reasoning → orchestration → prediction → execution → frontier research.
+This composable intelligence stack  is organized by **capability layer** rather than by domain.  
+The goal is to show how each project contributes to a larger agentic intelligence stack: perception → reasoning & Planing → orchestration → prediction → execution → frontier research.
 
 <p align="center">
   <img src="assets/capability_map.png" alt="Capability Map" width="850px">
