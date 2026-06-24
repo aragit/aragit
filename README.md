@@ -465,6 +465,17 @@ Building next-generation Agentic AI systems that:
 - coordinate as intelligent systems
 - integrate into real-world workflows
 
+## Let's Connect
+
+- LinkedIn: https://linkedin.com/in/arashnicoomanesh
+- GitHub: https://github.com/aragit
+
+---
+
+⭐ If you find this interesting, follow my work — I’m building the future of Agentic AI.
+
+---
+
 <p align="center">
   <!-- AI / LLMs -->
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" alt="Python" width="28" height="28"/>
@@ -550,11 +561,4 @@ Building next-generation Agentic AI systems that:
 
 
 
-## Let's Connect
 
-- LinkedIn: https://linkedin.com/in/arashnicoomanesh
-- GitHub: https://github.com/aragit
-
----
-
-⭐ If you find this interesting, follow my work — I’m building the future of Agentic AI.
