@@ -465,37 +465,89 @@ Building next-generation Agentic AI systems that:
 - coordinate as intelligent systems
 - integrate into real-world workflows
 
----
+<p align="center">
+  <!-- AI / LLMs -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" alt="Python" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pytorch.svg" alt="PyTorch" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg" alt="TensorFlow" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" alt="HuggingFace" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vllm.svg" alt="vLLM" width="28" height="28"/>
+  <img src="https://skillicons.dev/icons?i=unsloth&theme=light" alt="Unsloth" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" alt="LangChain" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langgraph.svg" alt="LangGraph" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/crewai.svg" alt="CrewAI" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/haystack.svg" alt="Haystack" width="28" height="28"/>
+  <img src="https://skillicons.dev/icons?i=chainlit&theme=light" alt="Chainlit" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/anthropic.svg" alt="Anthropic" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="OpenAI" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ollama.svg" alt="Ollama" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nvidia.svg" alt="NVIDIA" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gradio.svg" alt="Gradio" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/streamlit.svg" alt="Streamlit" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pydantic.svg" alt="Pydantic" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/jupyter.svg" alt="Jupyter" width="28" height="28"/>
+  <img src="https://skillicons.dev/icons?i=faiss&theme=light" alt="FAISS" width="28" height="28"/>
+  <img src="https://skillicons.dev/icons?i=bitsandbytes&theme=light" alt="BitsAndBytes" width="28" height="28"/>
+  <br>
+  <!-- Data / Vector / Storage -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/redis.svg" alt="Redis" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mongodb.svg" alt="MongoDB" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/neo4j.svg" alt="Neo4j" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postgresql.svg" alt="PostgreSQL" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/elasticsearch.svg" alt="Elasticsearch" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/milvus.svg" alt="Milvus" width="28" height="28"/>
+  <img src="https://skillicons.dev/icons?i=chroma&theme=light" alt="ChromaDB" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vespa.svg" alt="Vespa" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nebula.svg" alt="NebulaGraph" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/sqlalchemy.svg" alt="SQLAlchemy" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/snowflake.svg" alt="Snowflake" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/supabase.svg" alt="Supabase" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/polars.svg" alt="Polars" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazons3.svg" alt="S3" width="28" height="28"/>
+  <br>
+  <!-- Compute / Orchestration -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kubernetes.svg" alt="Kubernetes" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/docker.svg" alt="Docker" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/fastapi.svg" alt="FastAPI" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bentoml.svg" alt="BentoML" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ray.svg" alt="Ray" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/modal.svg" alt="Modal" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/replicate.svg" alt="Replicate" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/prefect.svg" alt="Prefect" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/temporal.svg" alt="Temporal" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/celery.svg" alt="Celery" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kedro.svg" alt="Kedro" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachespark.svg" alt="PySpark" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachekafka.svg" alt="Kafka" width="28" height="28"/>
+  <br>
+  <!-- Cloud / Infra -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlecloud.svg" alt="GCP" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/azuredevops.svg" alt="Azure AI" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/azurefunctions.svg" alt="Azure Functions" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cloudflare.svg" alt="Cloudflare" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" alt="Vercel" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/databricks.svg" alt="Databricks" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/terraform.svg" alt="Terraform" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pulumi.svg" alt="Pulumi" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nginx.svg" alt="Nginx" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ibm.svg" alt="IBM" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/quarkus.svg" alt="Quarkus" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoft.svg" alt="Semantic Kernel" width="28" height="28"/>
+  <br>
+  <!-- Observability / Languages / Other -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/prometheus.svg" alt="Prometheus" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/opentelemetry.svg" alt="OpenTelemetry" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/posthog.svg" alt="PostHog" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/githubactions.svg" alt="GitHub Actions" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mlflow.svg" alt="MLflow" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/okta.svg" alt="Okta" width="28" height="28"/>
+  <img src="https://skillicons.dev/icons?i=graalvm&theme=light" alt="GraalVM" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/go.svg" alt="Go" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/rust.svg" alt="Rust" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/typescript.svg" alt="TypeScript" width="28" height="28"/>
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/anthropic.svg" width="24" height="24"><br><sub><small>Anthropic</small></sub></td>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/azuredevops.svg" width="24" height="24"><br><sub><small>Azure DevOps</small></sub></td>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/azurefunctions.svg" width="24" height="24"><br><sub><small>Azure ML</small></sub></td>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bentoml.svg" width="24" height="24"><br><sub><small>BentoML</small></sub></td>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bitbucket.svg" width="24" height="24"><br><sub><small>BitsAndBytes</small></sub></td>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/celery.svg" width="24" height="24"><br><sub><small>Celery</small></sub></td>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/chainlink.svg" width="24" height="24"><br><sub><small>Chainlit</small></sub></td>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cloudflare.svg" width="24" height="24"><br><sub><small>Cloudflare</small></sub></td>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/crewai.svg" width="24" height="24"><br><sub><small>CrewAI</small></sub></td>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/databricks.svg" width="24" height="24"><br><sub><small>Databricks</small></sub></td>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/docker.svg" width="24" height="24"><br><sub><small>Docker</small></sub></td>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/elasticsearch.svg" width="24" height="24"><br><sub><small>ElasticSearch</small></sub></td>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="24" height="24"><br><sub><small>FAISS</small></sub></td>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/fastapi.svg" width="24" height="24"><br><sub><small>FastAPI</small></sub></td>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlecloud.svg" width="24" height="24"><br><sub><small>GCP Vertex</small></sub></td>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/githubactions.svg" width="24" height="24"><br><sub><small>GitHub Actions</small></sub></td>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/go.svg" width="24" height="24"><br><sub><small>GoLang</small></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gradle.svg" width="24" height="24"><br><sub><small>GraalVM</small></sub></td>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gradio.svg" width="24" height="24"><br><sub><small>Gradio</small></sub></td>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/haystack.svg" width="24" height="24"><br><sub><small>Haystack</small></sub></td>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" width="24" height="24"><br><sub><small>HuggingFace</small></sub></td>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ibm.svg" width="24" height="24"><br><sub><small>IBM Granite</small></sub></td>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/jupyter.svg" width="24" height="24"><br><sub><small>Jupyter</small></sub></td>
-    <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachekafka.svg" width="24" height="24"><br><sub><small>Kafka</small></sub></td>
-  </tr>  
+
 
 
 ## Let's Connect
