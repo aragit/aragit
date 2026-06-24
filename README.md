@@ -63,8 +63,6 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 | **Core algorithm** | Does it rely on graph search, optimization, game theory, forecasting, or fine-tuning? |
 | **System role** | Does it feed perception, enforce truth, orchestrate agents, forecast future state, or close the loop operationally? |
 
-**In short:**  
-a project belongs here because of the **role it plays in the intelligence stack**, not because of the industry it happens to target.
 
 ---
 
