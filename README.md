@@ -163,7 +163,7 @@ Systems that turn perception into structured reasoning, grounded answers, and ve
 
 ---
 
-## 🤖 Agentic Systems — Orchestration & Autonomy
+### 🤖 Agentic Systems — Orchestration & Autonomy
 
 Systems that coordinate multiple agents, strategies, and tools to act in dynamic environments.
 
@@ -172,7 +172,7 @@ Systems that coordinate multiple agents, strategies, and tools to act in dynamic
 ### [Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main)  
 ***Autonomous content lifecycle platform***  
 ***CrewAI, LangChain, Pydantic, ChromaDB***  
-🟢 ACTIVE • ⚙️ MULTI-AGENT ORCHESTRATION LAYER  
+🟢 Active • ⚙️ Multi-agent Orchestration  
 
 **Architecture insight**  
 - Hierarchical multi-agent workflow with structured delegation  
@@ -185,7 +185,7 @@ Systems that coordinate multiple agents, strategies, and tools to act in dynamic
 ### [Nash Marketing Agents](https://github.com/aragit/agentic-nash-marketing)  
 ***Multi-agent competitive market simulation engine***  
 ***NumPy, SciPy, SQLite/PostgreSQL, FastAPI, Pydantic, SQLAlchemy, Docker, pytest***  
-🟢 ACTIVE • 🎯 STRATEGIC DECISION SIMULATION LAYER  
+🟢 Active • 🎯 Strategic Decision Simulation  
 
 **Architecture insight**  
 - Models non-cooperative advertising markets using Nash equilibria  
@@ -198,7 +198,7 @@ Systems that coordinate multiple agents, strategies, and tools to act in dynamic
 ### [Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm)  
 ***Multi-agent contract negotiation swarm***  
 ***Ray/RLlib, CrewAI, vLLM, Python***  
-🟢 ACTIVE • 🤝 DECENTRALIZED NEGOTIATION LAYER  
+🟢 Active • 🤝 Decentralized Negotiation  
 
 **Architecture insight**  
 - Buyer and seller agents autonomously negotiate contracts  
@@ -211,7 +211,7 @@ Systems that coordinate multiple agents, strategies, and tools to act in dynamic
 ### [Agentic Supply Chain Disruption Response](#)  
 ***Multi-agent supply chain disruption simulator***  
 ***Multi-agent orchestration, graph routing, optimization, local LLM reasoning***  
-🧪 CONCEPT • 📦 RESILIENCE & REPLANNING LAYER  
+🔵 Concept • 📦 Resilience & Replanning  
 
 **Architecture insight**  
 - Orchestrator detects disruptions and triggers global re-planning  
@@ -224,7 +224,7 @@ Systems that coordinate multiple agents, strategies, and tools to act in dynamic
 ### [Agentic Cybersecurity Threat Hunting Swarm](#)  
 ***Autonomous SOC swarm for anomaly detection and response***  
 ***Telemetry simulation, log correlation, state machines, local LLM reasoning***  
-🧪 CONCEPT • 🛡️ SECURITY AUTONOMY LAYER  
+🔵 Concept • 🛡️ Security Autonomy  
 
 **Architecture insight**  
 - Scout agents detect anomalies in system and network telemetry  
@@ -237,7 +237,7 @@ Systems that coordinate multiple agents, strategies, and tools to act in dynamic
 ### [Agentic Smart City Traffic Optimization](#)  
 ***Multi-agent traffic signal and routing optimizer***  
 ***Graph networks, city simulation, intersection agents, routing optimization***  
-🧪 CONCEPT • 🚦 URBAN COORDINATION LAYER  
+🔵 Concept • 🚦 Urban Coordination  
 
 **Architecture insight**  
 - Intersection agents negotiate real-time signal timing  
@@ -250,7 +250,7 @@ Systems that coordinate multiple agents, strategies, and tools to act in dynamic
 ### [Agentic Legal Contract Negotiation Engine](#)  
 ***Autonomous contract negotiation system for legal agreements***  
 ***Pareto optimization, Nash bargaining, clause generation, risk modeling***  
-🧪 CONCEPT • ⚖️ LEGAL NEGOTIATION LAYER  
+🔵 Concept • ⚖️ Legal Negotiation  
 
 **Architecture insight**  
 - Agents represent parties with competing contractual objectives  
@@ -263,7 +263,7 @@ Systems that coordinate multiple agents, strategies, and tools to act in dynamic
 ### [Agentic Disaster Response Coordination](#)  
 ***Multi-service disaster coordination and rescue prioritization system***  
 ***Incident simulation, resource allocation, routing, triage reasoning***  
-🧪 CONCEPT • 🚨 PUBLIC SAFETY ORCHESTRATION LAYER  
+🔵 Concept • 🚨 Public Safety Orchestration  
 
 **Architecture insight**  
 - Incident commander agent prioritizes response objectives  
@@ -276,14 +276,13 @@ Systems that coordinate multiple agents, strategies, and tools to act in dynamic
 ### [Agentic Educational Tutoring Swarm](#)  
 ***Adaptive tutoring system with concept mastery modeling***  
 ***Knowledge graphs, tutoring agents, adaptive questioning, progress tracking***  
-🧪 CONCEPT • 🎓 ADAPTIVE LEARNING LAYER  
+🔵 Concept • 🎓 Adaptive Learning  
 
 **Architecture insight**  
 - Assessment agents identify knowledge gaps dynamically  
 - Subject-specific agents provide targeted instruction  
 - Pedagogy agent adapts teaching strategy per learner profile  
 - Progress tracking agent measures mastery and retention trends  
-
 
 
 
