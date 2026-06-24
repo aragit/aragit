@@ -161,7 +161,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 ---
 
-# 🤖 Agentic Systems — Orchestration & Autonomy
+# ✨ Agentic Systems — Orchestration & Autonomy
 
 ### *These systems coordinate multiple agents, strategies, and tools to act in dynamic environments.*
 
