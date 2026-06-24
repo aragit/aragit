@@ -83,11 +83,13 @@ Systems that convert unstructured text, images, motion, and clinical streams int
   </tr>
 </table>
 
+<details>
+ <summary><b>Spec</b></summary>
 
   - **Stack:** LLaMA-3-8B, Unsloth, PEFT/LoRA, FastAPI
   - **Core idea:** memory-efficient fine-tuning for multi-token biomedical NER
   - **Role in system:** perception layer for structured clinical understanding
-  
+<details>
 <details>
  <summary><b>Architecture insight</b></summary>
 
