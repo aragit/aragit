@@ -280,7 +280,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  🏆 
 ***Predictive supply-chain telemetry pipeline***  
 ***Amazon Chronos-2, Google TimesFM 2.5, Hugging Face***  
-🟢 Active • ⏱️ Temporal Forecasting  
+🟢 `Active` • ⏱️ `Temporal Forecasting`  
 
 **Architecture insight**  
 - Moves beyond traditional ARIMA and LSTM-based forecasting  
@@ -307,7 +307,18 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 ### *Systems that transform inference into measurable business or clinical action.*
 
+### [Agentic Energy Grid Balancing System](https://github.com/aragit/agentic-energy-grid-balancer)  🏆 
+***Decentralized smart grid simulation system***  
+***Double auction engine, carbon optimization, energy agents***  
+🟢 `Active` • ⚡ `Energy Systems Optimization`  
 
+**Architecture insight**  
+- Models distributed energy generation and consumption  
+- Battery agents perform storage arbitrage strategies  
+- Consumer agents respond dynamically to price signals  
+- Grid orchestrator stabilizes system-wide frequency and load  
+
+---
 
 ### [Spatial Dynamic Markdown Engine](#)  🏆 
 ***Dynamic pricing and liquidation engine***  
@@ -374,18 +385,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 ---
 
-### [Agentic Energy Grid Balancing System](https://github.com/aragit/agentic-energy-grid-balancer)  🏆 
-***Decentralized smart grid simulation system***  
-***Double auction engine, carbon optimization, energy agents***  
-🔵 `Concept` • ⚡ `Energy Systems Optimization`  
 
-**Architecture insight**  
-- Models distributed energy generation and consumption  
-- Battery agents perform storage arbitrage strategies  
-- Consumer agents respond dynamically to price signals  
-- Grid orchestrator stabilizes system-wide frequency and load  
-
----
 
 ### [Agentic Sentiment-Driven Market Maker](#)  
 ***Autonomous trading and liquidity provisioning system***  
