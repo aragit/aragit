@@ -374,7 +374,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 ---
 
-### [Agentic Energy Grid Balancing System](#)  🏆 
+### [Agentic Energy Grid Balancing System](https://github.com/aragit/agentic-energy-grid-balancer)  🏆 
 ***Decentralized smart grid simulation system***  
 ***Double auction engine, carbon optimization, energy agents***  
 🔵 `Concept` • ⚡ `Energy Systems Optimization`  
