@@ -155,7 +155,7 @@ Systems that convert unstructured text, images, motion, and clinical streams int
 
 
 <details>
-<summary><b>### 🔹 [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)</b></summary>
+<summary><b>🔹 [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)</b></summary>
 
 
 **Real-time patient fall detection on NVIDIA Jetson**
