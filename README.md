@@ -72,112 +72,173 @@ a project belongs here because of the **role it plays in the intelligence stack*
 
 Systems that convert unstructured text, images, motion, and clinical streams into machine-readable representations.
 
+---
+
 <table>
-  <tr>
-    <td bgcolor="#07111f">
-      <a href="https://github.com/aragit/bionlp-llama3-service/tree/main">
-        <strong>🔹 BioNLP LLaMA3 Service</strong>
-      </a><br/>
-      <sub>Clinical entity extraction from unstructured EHR pipelines.</sub>
-    </td>
-  </tr>
+<tr>
+
+<td width="50%" valign="top">
+
+<table>
+<tr>
+<td bgcolor="#07111f">
+
+<a href="https://github.com/aragit/bionlp-llama3-service">
+<strong style="font-size:20px;">👁️ BioNLP LLaMA3 Service</strong>
+</a>
+
+<br><br>
+
+<sub><b>Clinical entity extraction from unstructured EHR pipelines.</b></sub>
+
+<br><br>
+
+<b>Stack:</b> LLaMA-3 • Unsloth • PEFT/LoRA • FastAPI  
+<b>Role:</b> Clinical NLP Perception Layer
+
+<br><br>
+
+🟢 ACTIVE • 💎 CORE PERCEPTION NODE
+
+</td>
+</tr>
 </table>
 
 <details>
-<summary><b>Spec</b></summary>
+<summary><b>Architecture Insight</b></summary>
 
-- **Stack:** LLaMA-3-8B, Unsloth, PEFT/LoRA, FastAPI
-- **Core idea:** memory-efficient fine-tuning for multi-token biomedical NER
-- **Role in system:** perception layer for structured clinical understanding
+- Extracts biomarkers and clinical entities from unstructured medical text  
+- Optimized for memory-efficient fine-tuning and fast inference  
+- Designed as a structured input generator for downstream reasoning systems  
+
 </details>
-  
+
+</td>
+
+<td width="50%" valign="top">
+
+<table>
+<tr>
+<td bgcolor="#07111f">
+
+<a href="https://github.com/aragit/surgical-vision-copilot">
+<strong style="font-size:20px;">🧠 Surgical Vision Copilot</strong>
+</a>
+
+<br><br>
+
+<sub><b>Real-time surgical understanding with vision-language models.</b></sub>
+
+<br><br>
+
+<b>Stack:</b> Video-LLaVA • OpenCV • Temporal Action Modeling  
+<b>Role:</b> Multimodal Clinical Perception
+
+<br><br>
+
+🚀 ACTIVE • EDGE VISION NODE
+
+</td>
+</tr>
+</table>
+
 <details>
-<summary><b>Architecture insight</b></summary>
+<summary><b>Architecture Insight</b></summary>
 
-- Extracts biomarkers and clinical terms from messy text
-- Optimized for low-memory fine-tuning and fast inference
-- Designed to feed downstream retrieval and reasoning layers
+- Streams video into structured temporal event representations  
+- Builds action-level understanding over raw frame sequences  
+- Enables assistive reasoning in time-critical environments  
 
 </details>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <table>
-  <tr>
-    <td bgcolor="#07111f">
-      <a href="mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20neuro-symbolic-agentic-rag">
-        <strong>🔹Surgical Vision Copilot 📍</strong>
-      </a><br/>
-      <sub>Real-time surgical understanding with vision-language models.</sub>
-    </td>
-  </tr>
-</table>
+<tr>
 
-- **Stack:** PyTorch, Video-LLaVA, OpenCV, temporal action localization
-- **Core idea:** tracks procedural steps and predicts the next needed tool
-- **Status:** private / request access
-- **Role in system:** visual perception layer for clinical action understanding
-
-<details>
-<summary><b>Architecture insight</b></summary>
-
-- Encodes streaming video into temporal event sequences
-- Adds action understanding on top of raw frame perception
-- Built to support assistive decision loops in time-sensitive environments
-
-</details>
-
----
+<td width="50%" valign="top">
 
 <table>
-  <tr>
-    <td bgcolor="#07111f">
-      <a href="https://github.com/aragit/spatial-event-detector">
-        <strong>🔹 Spatial Event Detector</strong>
-      </a><br/>
-      <sub>Real-time kinematic telemetry engine.</sub>
-    </td>
-  </tr>
+<tr>
+<td bgcolor="#07111f">
+
+<a href="https://github.com/aragit/spatial-event-detector">
+<strong style="font-size:20px;">📍 Spatial Event Detector</strong>
+</a>
+
+<br><br>
+
+<sub><b>Real-time kinematic telemetry engine.</b></sub>
+
+<br><br>
+
+<b>Stack:</b> YOLOv11-Pose • OpenCV • NumPy  
+<b>Role:</b> Motion-to-Symbol Perception Layer
+
+<br><br>
+
+⚙️ ACTIVE • REAL-TIME STATE ENGINE
+
+</td>
+</tr>
 </table>
 
-- **Stack:** PyTorch, YOLOv11-Pose, OpenCV, NumPy
-- **Core idea:** converts raw pose estimation into deterministic movement states
-- **Role in system:** motion-to-symbol pipeline for edge intelligence
-
 <details>
-<summary><b>Architecture insight</b></summary>
+<summary><b>Architecture Insight</b></summary>
 
-- Separates pixel ingestion from logical inference
-- Computes joint vectors over temporal windows
-- Uses a state machine to detect meaningful spatial events
+- Converts pose estimation into structured movement states  
+- Computes temporal joint dynamics across sliding windows  
+- Implements deterministic event detection via state machines  
 
 </details>
+
+</td>
+
+<td width="50%" valign="top">
 
 <table>
-  <tr>
-    <td bgcolor="#07111f">
-      <a href="https://github.com/aragit/edge-fall-detector">
-        <strong>🔹 Edge Fall Detector</strong>
-      </a><br/>
-      <sub>Real-time patient fall detection on NVIDIA Jetson.</sub>
-    </td>
-  </tr>
+<tr>
+<td bgcolor="#07111f">
+
+<a href="https://github.com/aragit/edge-fall-detector">
+<strong style="font-size:20px;">⚡ Edge Fall Detector</strong>
+</a>
+
+<br><br>
+
+<sub><b>Real-time patient fall detection on NVIDIA Jetson.</b></sub>
+
+<br><br>
+
+<b>Stack:</b> YOLOv11-Pose • TensorRT • MQTT • OpenCV  
+<b>Role:</b> Edge Clinical Safety Perception
+
+<br><br>
+
+🔒 ACTIVE • PRIVACY-FIRST EDGE NODE
+
+</td>
+</tr>
 </table>
 
-
-- **Stack:** YOLOv11-Pose, TensorRT, Jetson Orin, MQTT, OpenCV
-- **Core idea:** on-device fall detection with privacy-preserving inference
-- **Role in system:** edge perception layer for clinical safety monitoring
-
 <details>
-<summary><b>Architecture insight</b></summary>
+<summary><b>Architecture Insight</b></summary>
 
-- Converts pose estimation into TensorRT-optimized inference
-- Supports local processing for privacy and low latency
-- Designed for continuous monitoring in constrained environments
+- Runs fully on-device for privacy-preserving inference  
+- Converts pose signals into optimized TensorRT pipelines  
+- Designed for continuous clinical monitoring environments  
 
 </details>
 
+</td>
+
+</tr>
+</table>
 
 
 
