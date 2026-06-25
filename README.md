@@ -307,16 +307,14 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 ### *Systems that transform inference into measurable business or clinical action.*
 
-### [Agentic Energy Grid Balancing System](https://github.com/aragit/agentic-energy-grid-balancer)  🏆 
-***Decentralized smart grid simulation system***  
-***Double auction engine, carbon optimization, energy agents***  
-🟢 `Active` • ⚡ `Energy Systems Optimization`  
+### [Agentic Energy Grid Balancing System](https://github.com/aragit/agentic-energy-grid-balancer) 🏆 
+***Autonomous Smart Grid Simulation Engine via Kautz Type 2 Neuro-Symbolic Architecture*** 🛠️ `Python` • `FastAPI` • `Pydantic` • `NumPy` • `SciPy` • `Ollama / vLLM`  
+🟢 `Active` • ⚡ `Energy Systems Optimization` • 🧠 `Neuro-Symbolic AI`  
 
-**Architecture insight**  
-- Models distributed energy generation and consumption  
-- Battery agents perform storage arbitrage strategies  
-- Consumer agents respond dynamically to price signals  
-- Grid orchestrator stabilizes system-wide frequency and load  
+**Architecture Insight (SOTA)** - **Kautz Type 2 Hybrid Framework:** Embeds probabilistic neural subroutines inside a mathematically deterministic symbolic execution.
+- **Bounded Neural Reasoning:** Battery arbitrage agents execute local LLM/SLM subroutines constrained by strict Pydantic validation layers, preventing hallucinated actions from touching the grid state.
+- **Deterministic Market Clearing:** Multi-agent supply and demand bids resolve through a formal, continuous double-sided auction engine to guarantee exact market clearing math.
+- **L6 Safety Governance:** The orchestrator runs an absolute physical guardrail loop, checking baseline line capacities and locking grid frequency within strict stability limits (±0.5 Hz).
 
 ---
 
