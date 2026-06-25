@@ -205,20 +205,6 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 ---
 
-### [Agentic Supply Chain Disruption Response](#)  🏆 
-***Multi-agent supply chain disruption simulator***  
-***Multi-agent orchestration, graph routing, optimization, local LLM reasoning***  
-🔵 `Concept` • 📦 `Resilience & Replanning`  
-
-**Architecture insight**  
-- Orchestrator detects disruptions and triggers global re-planning  
-- Supplier agents manage inventory, pricing, and capacity constraints  
-- Logistics agents compute alternate routing using graph optimization  
-- Retail agents dynamically renegotiate demand and supply shifts  
-
----
-
-
 ### [Agentic Smart City Traffic Optimization](#)  🏆 
 ***Multi-agent traffic signal and routing optimizer***  
 ***Graph networks, city simulation, intersection agents, routing optimization***  
@@ -229,19 +215,6 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Transit agents optimize passenger flow across networks  
 - Emergency agents override routing for critical response vehicles  
 - Global orchestrator resolves congestion and systemic deadlocks  
-
----
-
-### [Agentic Legal Contract Negotiation Engine](#)  
-***Autonomous contract negotiation system for legal agreements***  
-***Pareto optimization, Nash bargaining, clause generation, risk modeling***  
-🔵 `Concept` • ⚖️ `Legal Negotiation`  
-
-**Architecture insight**  
-- Agents represent parties with competing contractual objectives  
-- Mediator agent proposes balanced clause adjustments  
-- Risk analysis identifies hidden liabilities and trade-offs  
-- Optimizes toward Pareto-efficient legal agreements  
 
 ---
 
@@ -372,21 +345,6 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Designed for continuous personalization loops  
 
 ---
-
-### [Agentic Recipe & Nutrition Optimization System](#)  
-***Personalized meal planning optimization system***  
-***Linear programming, USDA data, grocery simulation, LLM generation***  
-🟡 `Coming Soon` • 🍽️ `Nutritional Optimization`  
-
-**Architecture insight**  
-- Balances nutrition, cost, preference, and ingredient constraints  
-- Nutrition agent enforces macro and micro requirements  
-- Preference agent adapts to taste profiles and substitutions  
-- Shopping agent optimizes ingredient selection under price variance  
-
----
-
-
 
 ### [Agentic Sentiment-Driven Market Maker](#)  
 ***Autonomous trading and liquidity provisioning system***  
