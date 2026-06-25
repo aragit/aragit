@@ -81,7 +81,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 
 
-### [Surgical Vision Copilot](https://github.com/aragit/surgical-vision-copilot)  
+### [Surgical Vision Copilot](https://github.com/aragit/surgical-vision-copilot) 🏆 
 ***Real-time surgical understanding with vision-language models***  
 ***Video-LLaVA, OpenCV, Temporal Action Modeling***  
 🟢 `ACTIVE` • 🧪 `VISION PERCEPTION SYSTEM`
@@ -120,7 +120,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 
 
-### [DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)  🏆 
+### [DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)  🏆🏆 
 ***Medical chain-of-thought LoRA alignment pipeline***  
 ***Unsloth, PyTorch, Hugging Face, TRL***  
 🟢 `ACTIVE` • ⚙️ `REASONING OPTIMIZATION LAYER`
@@ -166,7 +166,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 
 
-### [Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main)  
+### [Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main) 🏆 
 ***Autonomous content lifecycle platform***  
 ***CrewAI, LangChain, Pydantic, ChromaDB***  
 🟢 `Active` • ⚙️ `Multi-agent Orchestration`  
@@ -192,7 +192,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 ---
 
-### [Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm)   
+### [Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm) 🏆  
 ***Multi-agent contract negotiation swarm***  
 ***Ray/RLlib, CrewAI, vLLM, Python***  
 🟢 `Active` • 🤝 `Decentralized Negotiation`  
@@ -219,7 +219,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ---
 
 
-### [Agentic Educational Tutoring Swarm](#)  
+### [Agentic Educational Tutoring Swarm](#)  🏆🏆
 ***Adaptive tutoring system with concept mastery modeling***  
 ***Knowledge graphs, tutoring agents, adaptive questioning, progress tracking***  
 🔵 `Concept` • 🎓 `Adaptive Learning`  
@@ -304,7 +304,7 @@ Autonomous reasoning engines where LLMs dynamically orchestrate symbolic tools, 
 
 ---
 
-### [Spatial Dynamic Markdown Engine](#)  🏆 
+### [Spatial Dynamic Markdown Engine](#)  
 ***Dynamic pricing and liquidation engine***  
 ***TimesFM 2.5, Ray, SciPy, PostgreSQL***  
 🟡 `Coming Soon` • 💰 `Commercial Execution`  
@@ -317,7 +317,7 @@ Autonomous reasoning engines where LLMs dynamically orchestrate symbolic tools, 
 
 ---
 
-### [Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)  🏆 
+### [Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)  🏆🏆 
 ***Agentic prior authorization engine***  
 ***EHR ingestion, CMS policy mapping, document automation***  
 🔒 `Private` • 🏥 `Healthcare Execution`  
@@ -330,7 +330,7 @@ Autonomous reasoning engines where LLMs dynamically orchestrate symbolic tools, 
 
 ---
 
-### [Real-Time Intent Transformer](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20realtime-intent-transformer)  
+### [Real-Time Intent Transformer](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20realtime-intent-transformer)  🏆
 ***Session-based e-commerce intent telemetry engine***  
 ***Clickstream ingestion, behavioral modeling, real-time inference***  
 🔒 `Private` • 🛒 `Commerce Execution`  
@@ -361,7 +361,7 @@ Autonomous reasoning engines where LLMs dynamically orchestrate symbolic tools, 
 
 
 
-### [Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  🏆 
+### [Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  🏆🏆🏆 
 ***Predictive supply-chain telemetry pipeline***  
 ***Amazon Chronos-2, Google TimesFM 2.5, Hugging Face***  
 🟢 `Active` • ⏱️ `Temporal Forecasting`  
@@ -374,7 +374,7 @@ Autonomous reasoning engines where LLMs dynamically orchestrate symbolic tools, 
 
 ---
 
-### [ICU Vitals Transformer](#)  
+### [ICU Vitals Transformer](#)  🏆
 ***Transformer-based ICU vitals forecaster***  
 ***TimesFM 2.5, PatchTST, Kafka, FastAPI, WebSockets***  
 🟡 `Coming Soon` • 🏥 `Clinical Temporal Monitoring`  
@@ -392,7 +392,7 @@ Autonomous reasoning engines where LLMs dynamically orchestrate symbolic tools, 
 Systems that push beyond standard LLM/RAG pipelines into new computational frontiers.
 
 
-### [Protein Binder Flow](https://github.com/aragit/Flow-Matching-Protein-Binder-Generator)  
+### [Protein Binder Flow](https://github.com/aragit/Flow-Matching-Protein-Binder-Generator)  🏆
 ***Flow-matching protein binder generator***  
 ***PyTorch, Biopython, Flow Matching, FoldSeek***  
 🟢 `Active` • 🧬 `Computational Biology Research`  
