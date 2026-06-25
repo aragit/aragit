@@ -231,38 +231,8 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Progress tracking agent measures mastery and retention trends  
 
 
-# ⏱️ Temporal Intelligence — Prediction & Foresight
 
-### *Systems that model time, anticipate outcomes, and enable proactive decision-making.*
-
-
-
-### [Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  🏆 
-***Predictive supply-chain telemetry pipeline***  
-***Amazon Chronos-2, Google TimesFM 2.5, Hugging Face***  
-🟢 `Active` • ⏱️ `Temporal Forecasting`  
-
-**Architecture insight**  
-- Moves beyond traditional ARIMA and LSTM-based forecasting  
-- Uses foundation models for long-context temporal reasoning  
-- Incorporates exogenous signals for improved demand prediction  
-- Enables zero-shot forecasting across unseen domains  
-
----
-
-### [ICU Vitals Transformer](#)  
-***Transformer-based ICU vitals forecaster***  
-***TimesFM 2.5, PatchTST, Kafka, FastAPI, WebSockets***  
-🟡 `Coming Soon` • 🏥 `Clinical Temporal Monitoring`  
-
-**Architecture insight**  
-- Ingests high-frequency physiological streams via HL7 FHIR gateway  
-- Converts real-time vitals into structured forecasting windows  
-- Designed for early warning of patient deterioration  
-- Supports continuous temporal reasoning over ICU trajectories  
-
----
-## 🎯 Dynamic Agentic Systems
+## 🧭 Dynamic Agentic Systems & Cognitive Orchestration
 
 Autonomous reasoning engines where LLMs dynamically orchestrate symbolic tools, APIs, and deterministic solvers via adaptive multi-step planning.
 
@@ -385,7 +355,37 @@ Autonomous reasoning engines where LLMs dynamically orchestrate symbolic tools, 
 - Designed for continuous personalization loops  
 
 ---
+# ⏱️ Temporal Intelligence — Prediction & Foresight
 
+### *Systems that model time, anticipate outcomes, and enable proactive decision-making.*
+
+
+
+### [Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  🏆 
+***Predictive supply-chain telemetry pipeline***  
+***Amazon Chronos-2, Google TimesFM 2.5, Hugging Face***  
+🟢 `Active` • ⏱️ `Temporal Forecasting`  
+
+**Architecture insight**  
+- Moves beyond traditional ARIMA and LSTM-based forecasting  
+- Uses foundation models for long-context temporal reasoning  
+- Incorporates exogenous signals for improved demand prediction  
+- Enables zero-shot forecasting across unseen domains  
+
+---
+
+### [ICU Vitals Transformer](#)  
+***Transformer-based ICU vitals forecaster***  
+***TimesFM 2.5, PatchTST, Kafka, FastAPI, WebSockets***  
+🟡 `Coming Soon` • 🏥 `Clinical Temporal Monitoring`  
+
+**Architecture insight**  
+- Ingests high-frequency physiological streams via HL7 FHIR gateway  
+- Converts real-time vitals into structured forecasting windows  
+- Designed for early warning of patient deterioration  
+- Supports continuous temporal reasoning over ICU trajectories  
+
+---
 
 # 🧬 Frontier Research — Beyond Conventional AI
 
