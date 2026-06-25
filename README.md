@@ -133,8 +133,8 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 
 
-### [Neuro-Symbolic Agentic RAG](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20neuro-symbolic-agentic-rag)  🏆 
-***Deterministic multi-agent clinical reasoning core***  
+### [Neuro-Symbolic Agentic RAG](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20neuro-symbolic-agentic-rag)  🏆🏆🏆 
+***Neuro Symbolic multi-agent clinical reasoning core***  
 ***OPA, multi-agent graphs, policy validation***  
 🔒 `PRIVATE` • 🧠 `CONTROL PLANE REASONING SYSTEM`
 
