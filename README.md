@@ -310,6 +310,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Agentic Energy Grid Balancing System](https://github.com/aragit/agentic-energy-grid-balancer) 🏆🏆🏆
 ***Autonomous Smart Grid Simulation Engine via Type 2 Neuro-Symbolic Architecture*** 
 ***FastAPI • Pydantic •SciPy • Ollama / vLLM • Docker - CI/CD*** 
+
 🟢 `Active` • ⚡ `Energy Systems Optimization` • 🧠 `Neuro-Symbolic AI`  
 
 **Architecture Insight** - **Type 2 Hybrid Framework:** Embeds probabilistic neural subroutines inside a mathematically deterministic symbolic execution.
