@@ -218,18 +218,6 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 ---
 
-### [Agentic Disaster Response Coordination](#)  🏆 
-***Multi-service disaster coordination and rescue prioritization system***  
-***Incident simulation, resource allocation, routing, triage reasoning***  
-🔵 `Concept` • 🚨 `Public Safety Orchestration`  
-
-**Architecture insight**  
-- Incident commander agent prioritizes response objectives  
-- Fire, medical, police, and logistics agents coordinate operations  
-- Ethical triage under constrained and high-pressure environments  
-- Real-time operational map for resource coordination  
-
----
 
 ### [Agentic Educational Tutoring Swarm](#)  
 ***Adaptive tutoring system with concept mastery modeling***  
@@ -274,7 +262,59 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Supports continuous temporal reasoning over ICU trajectories  
 
 ---
+## 🎯 Dynamic Agentic Systems
 
+Autonomous reasoning engines where LLMs dynamically orchestrate symbolic tools, APIs, and deterministic solvers via adaptive multi-step planning.
+
+---
+
+### [Clinical Differential Diagnosis Copilot](https://github.com/aragit/clinical-differential-copilot) 🏆🏆🏆
+
+***Autonomous Clinical Reasoning Engine via Type 6 Neuro-Symbolic Architecture***
+
+***Claude 4.5 Sonnet, MCP, FHIR R4, SNOMED-CT, Python Clinical Calculators, LangSmith - CI/CD***
+
+🔒 `PRIVATE` • 🏥 `Clinical Decision Support` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
+
+**Architecture Insight** - **Type 6 Hybrid Framework:** Neural primary controller dynamically invokes symbolic clinical tools as subroutines, with deterministic validation at the output boundary.
+- **Adaptive Hypothesis Exploration:** The LLM autonomously navigates the differential diagnosis space, deciding which clinical scoring systems (Wells, HEART, CURB-65, APACHE) to invoke based on evolving patient narrative — no pre-encoded decision trees.
+- **Dynamic Tool Orchestration:** MCP-native tool registry exposes 30+ clinical APIs (drug interaction checker, lab value interpreter, temporal logic engine for washout periods, Orphanet rare disease KG). The LLM decides *which* tools, *when*, and *in what order* — not a fixed pipeline.
+- **Epistemic Confidence Scoring:** Each tool output is tagged with uncertainty metadata. The LLM performs meta-reasoning over confidence scores to determine when sufficient evidence exists or additional testing is required.
+- **L2 Symbolic Safety Boundary:** Final differential passes through a deterministic verifier ensuring all positive findings are addressed, no contraindicated diagnoses are suggested, and confidence thresholds meet institutional policy before human review.
+
+---
+
+### [Autonomous Research Synthesizer](https://github.com/aragit/autonomous-research-synthesizer) 🏆🏆
+
+***Self-Directed Scientific Discovery Engine via Type 6 Neuro-Symbolic Architecture***
+
+***Gemini 3 Pro, MCP, Semantic Scholar API, E2B Sandbox, Jupyter Kernel, Neo4j Citation Graph - CI/CD***
+
+🔒 `PRIVATE` • 📚 `Scientific Research` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
+
+**Architecture Insight** - **Type 6 Hybrid Framework:** Neural primary controller plans multi-step research workflows, dynamically calling symbolic tools for computation, retrieval, and verification — adapting strategy based on intermediate results.
+- **Opportunistic Research Planning:** The LLM decomposes open-ended research questions into sub-goals, decides which literature APIs to query (PubMed, Semantic Scholar, bioRxiv, arXiv), and adapts when sources conflict or gaps emerge — no static retrieval pipeline.
+- **Reproducible Analysis Execution:** E2B-sandboxed Jupyter kernel executes Python/R statistical analyses on raw datasets (GEO, Figshare) with full provenance tracking. The LLM generates analysis code, interprets outputs, and decides whether to re-run with modified parameters.
+- **Cross-Modal Synthesis:** Native multimodal reasoning over text, tables, figures, and code. The LLM decides when to regenerate visualizations, when to query structured databases, and when to perform citation verification via Crossref DOI resolution.
+- **L2 Symbolic Validation Boundary:** Citation verifier ensures all claims are grounded in retrieved sources. Conflict detector flags contradictory findings across papers. Human-in-the-loop gate for conclusions with >3 standard deviation novelty scores.
+
+---
+
+### [Regulatory Intelligence Agent](https://github.com/aragit/regulatory-intelligence-agent) 🏆🏆
+
+***Autonomous Compliance Monitoring Engine via Type 6 Neuro-Symbolic Architecture***
+
+***Claude Opus 4.6, MCP, Neo4j Policy Graph, QuantLib, SEC EDGAR API, OpenTelemetry - CI/CD***
+
+🔒 `PRIVATE` • 🏦 `FinTech / RegTech` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
+
+**Architecture Insight** - **Type 6 Hybrid Framework:** Neural primary controller monitors regulatory landscapes, dynamically orchestrating symbolic tools for impact quantification, policy tracing, and stakeholder notification — reasoning across jurisdictions and business lines.
+- **Cross-Domain Regulatory Reasoning:** The LLM reads unstructured regulatory text (SEC, FINRA, ECB, FCA), identifies affected internal policies via Neo4j knowledge graph traversal, and decides which risk models require re-validation — interpreting intent beyond keyword matching.
+- **Dynamic Impact Quantification:** Monte Carlo simulation (QuantLib) runs only when the LLM determines quantitative impact is material. The LLM decides simulation parameters, interprets tail-risk outputs, and decides whether to escalate to human risk officers.
+- **Multi-Channel Orchestration:** The LLM decides notification strategy — which trading desks (Slack), which compliance officers (email), which legal teams (Jira) — based on policy graph analysis of organizational ownership and historical response patterns.
+- **L2 Symbolic Audit Boundary:** Every regulatory text → tool call → output decision is fully traced (OpenTelemetry). Deterministic policy verifier ensures no recommendation violates hard constraints (capital requirements, position limits, blackout periods). Immutable audit trail for regulator examination.
+
+---
 # ⚙️ Execution Systems — Closing the Loop in the Real World
 
 ### *Systems that transform inference into measurable business or clinical action.*
@@ -346,23 +386,10 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 ---
 
-### [Agentic Sentiment-Driven Market Maker](#)  
-***Autonomous trading and liquidity provisioning system***  
-***Order book simulation, sentiment analysis, risk modeling***  
-🟡 `Coming Soon` • 📈 `Market Execution`  
-
-**Architecture insight**  
-- Market makers adjust spreads based on sentiment signals  
-- News-driven sentiment agent influences trading behavior  
-- Regulatory agent detects manipulation patterns  
-- Exchange engine simulates realistic market microstructure  
-
----
 
 # 🧬 Frontier Research — Beyond Conventional AI
 
 Systems that push beyond standard LLM/RAG pipelines into new computational frontiers.
-
 
 
 ### [Protein Binder Flow](https://github.com/aragit/Flow-Matching-Protein-Binder-Generator)  
