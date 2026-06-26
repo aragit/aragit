@@ -182,7 +182,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Pedagogy agent adapts teaching strategy per learner profile  
 - Progress tracking agent measures mastery and retention trends  
 
-
+---
 
 # 🧭 Dynamic Agentic Systems & Cognitive Orchestration
 
