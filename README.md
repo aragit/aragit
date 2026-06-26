@@ -45,23 +45,29 @@ The goal is to show how each project contributes to a larger agentic intelligenc
   <img src="assets/capability_map.png" alt="Capability Map" width="850px">
 </p>
 
-| Capability Layer | How It Is Categorized | What It Represents | Representative Projects | Typical Stack Signals |
-|---|---|---|---|---|
-| 👁️ Perception Systems** | Projects that convert raw input into structured signals | Extraction from text, images, motion, or clinical streams | `bionlp-llama3-service`, `surgical-vision-copilot`, `spatial-event-detector`, `edge-fall-detector` | Vision models, NLP extraction, stream processing, edge inference |
-| **🧠 Reasoning & Knowledge Cores** | Projects that validate, ground, and organize knowledge | Retrieval, verification, symbolic control, reasoning alignment | `speculative-clinical-graphrag`, `deepseek-reasoning-finetuning`, `neuro-symbolic-agentic-rag`, `research paper synthesis swarm` | RAG, graph databases, policy validation, fine-tuning, claim verification |
-| **🤖 Agentic Systems** | Projects built around autonomous multi-agent coordination | Negotiation, task delegation, strategy, and collaborative action | `enterprise-intelligence-crew`, `nash-marketing-agents`, `autonomous-procurement-swarm`, `supply chain response`, `smart city traffic`, `legal negotiation`, `disaster response`, `tutoring swarm` | Crew-based orchestration, game theory, negotiation, distributed control |
-| **⏱️ Temporal Intelligence** | Projects that model change over time | Forecasting, early warning, time-series reasoning | `zero-shot-demand-foundation`, `icu-vitals-transformer` | TSFMs, forecasting pipelines, event prediction, streaming telemetry |
-| **⚙️ Execution Systems** | Projects that turn intelligence into operational action | Pricing, authorization, personalization, resource allocation | `agentic-medicare-auth`, `realtime-intent-transformer`, `generative-dynamic-ad-renderer`, `spatial-dynamic-markdown-engine`, `recipe optimization`, `energy grid balancing`, `sentiment market maker` | Optimization, decision systems, market simulation, workflow automation |
-| **🧬 Frontier Research** | Projects that expand beyond standard LLM/RAG patterns | Novel scientific and generative research directions | `protein-binder-flow` | Flow matching, computational biology, structural generation |
+## ✨ Capability Architecture
 
-| Categorization Signal | What We Look For |
+| Capability Layer | Semantic Meaning | Representative Projects |
+|---|---|---|
+| 👁️ **Perception Systems** | Transform raw multimodal inputs (text, vision, spatial, sensor streams) into structured machine-understandable signals | `bionlp-llama3-service`, `surgical-vision-copilot`, `spatial-event-detector`, `edge-fall-detector` |
+| 🧠 **Reasoning & Knowledge Cores** | Ground, validate, retrieve, and structure knowledge with reasoning constraints | `speculative-clinical-graphrag`, `deepseek-reasoning-finetuning`, `neuro-symbolic-agentic-rag`, `research-paper-synthesis-swarm` |
+| ✨ **Agentic Orchestration & Autonomy** | Planning, memory, and tool-using control layer coordinating intelligent systems | `enterprise-intelligence-crew`, `autonomous-procurement-swarm`, `tutoring-swarm`, `legal-negotiation-system` |
+| 🤖 **Agentic Systems** | Distributed multi-agent interaction, negotiation, and collaboration systems | `nash-marketing-agents`, `supply-chain-response`, `smart-city-traffic`, `disaster-response-system` |
+| ⏱️ **Temporal Intelligence** | Time-based modeling, forecasting, and early signal detection | `zero-shot-demand-foundation`, `icu-vitals-transformer` |
+| ⚙️ **Execution Systems** | Real-world decisioning, optimization, and closed-loop action systems | `agentic-medicare-auth`, `realtime-intent-transformer`, `generative-dynamic-ad-renderer`, `spatial-dynamic-markdown-engine`, `recipe-optimization-engine`, `agentic-energy-grid-balancer`, `sentiment-market-maker` |
+| 🧬 **Frontier Research** | Experimental systems beyond standard LLM/RAG paradigms | `protein-binder-flow` |
+
+---
+
+## 🔍 Categorization Signals
+
+| Signal | Description |
 |---|---|
-| **Input type** | Does the project begin with text, video, telemetry, graphs, or time series? |
-| **Primary function** | Is it extracting, reasoning, coordinating, predicting, or executing? |
-| **Control style** | Is the system deterministic, agentic, probabilistic, or hybrid? |
-| **Core algorithm** | Does it rely on graph search, optimization, game theory, forecasting, or fine-tuning? |
-| **System role** | Does it feed perception, enforce truth, orchestrate agents, forecast future state, or close the loop operationally? |
-
+| **Input type** | Text, vision, telemetry, graphs, or time-series |
+| **Primary function** | Extract, reason, orchestrate, coordinate, predict, or execute |
+| **Control style** | Deterministic, agentic, probabilistic, hybrid |
+| **Core algorithm** | Graph reasoning, optimization, forecasting, game theory, fine-tuning |
+| **System role** | Perception → Reasoning → Orchestration → Agentic → Temporal → Execution |
 
 ---
 
