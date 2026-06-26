@@ -274,10 +274,10 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 
 
-### [Real-Time Intent Transformer](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20realtime-intent-transformer)  🏆
+### [Real-Time Intent Transformer](https://github.com/aragit/real-time-intent-transformer)  🏆
 ***Session-based e-commerce intent telemetry engine***  
 ***Clickstream ingestion, behavioral modeling, real-time inference***  
-🔒 `Private` • 🛒 `Commerce Execution`  
+ 🟢 `Active`  • 🛒 `Commerce Execution`  
 
 **Architecture insight**  
 - Interprets live user sessions into actionable intent signals  
