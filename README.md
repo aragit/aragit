@@ -184,7 +184,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 
 
-## 🧭 Dynamic Agentic Systems & Cognitive Orchestration
+# 🧭 Dynamic Agentic Systems & Cognitive Orchestration
 
 Autonomous reasoning engines where LLMs dynamically orchestrate symbolic tools, APIs, and deterministic solvers via adaptive multi-step planning.
 
