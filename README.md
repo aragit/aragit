@@ -65,43 +65,6 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 ---
 
-                 
-
-
-# 👁️ Perception Systems — Data Extraction from the Real World
-
-### *Systems that convert unstructured text, images, motion, and clinical streams into machine-readable representations.*
-
-
-
-### [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 🏆  
-***Clinical entity extraction from EHR pipelines***  
-***LLaMA3, Unsloth, FastAPI, LoRA***  
-🟢 `ACTIVE` • 💎 `CORE PERCEPTION SYSTEM`
-
-
-
-### [Surgical Vision Copilot](https://github.com/aragit/surgical-vision-copilot) 🏆 
-***Real-time surgical understanding with vision-language models***  
-***Video-LLaVA, OpenCV, Temporal Action Modeling***  
-🟢 `ACTIVE` • 🧪 `VISION PERCEPTION SYSTEM`
-
-
-
-### [Spatial Event Detector](https://github.com/aragit/spatial-event-detector)  
-***Kinematic telemetry → structured motion event extraction***  
-***YOLOv11-Pose, OpenCV, NumPy***  
-🟢 `ACTIVE` • ⚙️ `MOTION PERCEPTION SYSTEM`
-
-
-
-### [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
-***Real-time patient fall detection on edge devices***  
-***YOLOv11-Pose, TensorRT, MQTT, OpenCV***  
-🟢 `ACTIVE` • 🔒 `EDGE SAFETY SYSTEM`                      
-     
----
-
 # 🧠 Reasoning & Knowledge Cores 
 
 ### *Turn perception into structured reasoning, grounded answers, and verifiable decisions.*
@@ -146,9 +109,46 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 
 
+---                 
+
+
+# 👁️ Perception Systems — Data Extraction from the Real World
+
+### *Systems that convert unstructured text, images, motion, and clinical streams into machine-readable representations.*
+
+
+
+### [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 🏆  
+***Clinical entity extraction from EHR pipelines***  
+***LLaMA3, Unsloth, FastAPI, LoRA***  
+🟢 `ACTIVE` • 💎 `CORE PERCEPTION SYSTEM`
+
+
+
+### [Surgical Vision Copilot](https://github.com/aragit/surgical-vision-copilot) 🏆 
+***Real-time surgical understanding with vision-language models***  
+***Video-LLaVA, OpenCV, Temporal Action Modeling***  
+🟢 `ACTIVE` • 🧪 `VISION PERCEPTION SYSTEM`
+
+
+
+### [Spatial Event Detector](https://github.com/aragit/spatial-event-detector)  
+***Kinematic telemetry → structured motion event extraction***  
+***YOLOv11-Pose, OpenCV, NumPy***  
+🟢 `ACTIVE` • ⚙️ `MOTION PERCEPTION SYSTEM`
+
+
+
+### [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
+***Real-time patient fall detection on edge devices***  
+***YOLOv11-Pose, TensorRT, MQTT, OpenCV***  
+🟢 `ACTIVE` • 🔒 `EDGE SAFETY SYSTEM`                      
+     
 ---
 
-# ✨ Agentic Systems — Orchestration & Autonomy
+
+
+# ✨ Agentic Orchestration & Autonomy
 
 ### *These systems coordinate multiple agents, strategies, and tools to act in dynamic environments.*
 
@@ -360,6 +360,39 @@ Autonomous reasoning engines where LLMs dynamically orchestrate symbolic tools, 
 - Designed for early warning of patient deterioration  
 - Supports continuous temporal reasoning over ICU trajectories  
 
+# 👁️ Perception Systems — Data Extraction from the Real World
+
+### *Systems that convert unstructured text, images, motion, and clinical streams into machine-readable representations.*
+
+
+
+### [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 🏆  
+***Clinical entity extraction from EHR pipelines***  
+***LLaMA3, Unsloth, FastAPI, LoRA***  
+🟢 `ACTIVE` • 💎 `CORE PERCEPTION SYSTEM`
+
+
+
+### [Surgical Vision Copilot](https://github.com/aragit/surgical-vision-copilot) 🏆 
+***Real-time surgical understanding with vision-language models***  
+***Video-LLaVA, OpenCV, Temporal Action Modeling***  
+🟢 `ACTIVE` • 🧪 `VISION PERCEPTION SYSTEM`
+
+
+
+### [Spatial Event Detector](https://github.com/aragit/spatial-event-detector)  
+***Kinematic telemetry → structured motion event extraction***  
+***YOLOv11-Pose, OpenCV, NumPy***  
+🟢 `ACTIVE` • ⚙️ `MOTION PERCEPTION SYSTEM`
+
+
+
+### [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
+***Real-time patient fall detection on edge devices***  
+***YOLOv11-Pose, TensorRT, MQTT, OpenCV***  
+🟢 `ACTIVE` • 🔒 `EDGE SAFETY SYSTEM`                      
+     
+---
 
 
 # 🧬 Frontier Research — Beyond Conventional AI
