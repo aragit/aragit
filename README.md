@@ -132,18 +132,6 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 
 
-### [Neuro-Symbolic Agentic RAG](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20neuro-symbolic-agentic-rag)  🏆🏆🏆 
-***Neuro Symbolic multi-agent clinical reasoning core***  
-***OPA, multi-agent graphs, policy validation***  
-🔒 `PRIVATE` • 🧠 `CONTROL PLANE REASONING SYSTEM`
-
-**Architecture insight**  
-- Cyclic planning and execution across agent graphs  
-- Open Policy Agent (OPA) validation layer ensures safety  
-- Designed for deterministic clinical decision workflows  
-
-
-
 ### [Agentic Research Paper Review & Synthesis Swarm](#)  
 ***Multi-agent scientific reasoning and literature synthesis system***  
 ***ArXiv API, claim extraction, contradiction detection, graph reasoning***  
@@ -177,7 +165,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Memory synchronization across task pipelines  
 - Enforced schema validity via Pydantic output contracts  
 
----
+
 
 ### [Nash Marketing Agents](https://github.com/aragit/agentic-nash-marketing)  🏆🏆🏆  
 ***Multi-agent competitive market simulation engine***  
@@ -190,7 +178,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Prevents resource collapse in competitive bidding environments  
 - Enables pre-deployment experimentation of marketing strategies  
 
----
+
 
 ### [Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm) 🏆  
 ***Multi-agent contract negotiation swarm***  
@@ -203,7 +191,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Simulates pricing pressure, inventory constraints, and risk factors  
 - Designed for adversarial yet cooperative economic environments  
 
----
+
 
 ### [Agentic Smart City Traffic Optimization](#)  🏆 
 ***Multi-agent traffic signal and routing optimizer***  
@@ -216,7 +204,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Emergency agents override routing for critical response vehicles  
 - Global orchestrator resolves congestion and systemic deadlocks  
 
----
+
 
 
 ### [Agentic Educational Tutoring Swarm](#)  🏆🏆
@@ -252,7 +240,6 @@ Autonomous reasoning engines where LLMs dynamically orchestrate symbolic tools, 
 - **Epistemic Confidence Scoring:** Each tool output is tagged with uncertainty metadata. The LLM performs meta-reasoning over confidence scores to determine when sufficient evidence exists or additional testing is required.
 - **L2 Symbolic Safety Boundary:** Final differential passes through a deterministic verifier ensuring all positive findings are addressed, no contraindicated diagnoses are suggested, and confidence thresholds meet institutional policy before human review.
 
----
 
 ### [Autonomous Research Synthesizer](https://github.com/aragit/autonomous-research-synthesizer) 🏆🏆
 
@@ -268,7 +255,7 @@ Autonomous reasoning engines where LLMs dynamically orchestrate symbolic tools, 
 - **Cross-Modal Synthesis:** Native multimodal reasoning over text, tables, figures, and code. The LLM decides when to regenerate visualizations, when to query structured databases, and when to perform citation verification via Crossref DOI resolution.
 - **L2 Symbolic Validation Boundary:** Citation verifier ensures all claims are grounded in retrieved sources. Conflict detector flags contradictory findings across papers. Human-in-the-loop gate for conclusions with >3 standard deviation novelty scores.
 
----
+  
 
 ### [Regulatory Intelligence Agent](https://github.com/aragit/regulatory-intelligence-agent) 🏆🏆
 
@@ -302,7 +289,7 @@ Autonomous reasoning engines where LLMs dynamically orchestrate symbolic tools, 
 - **Deterministic Market Clearing:** Multi-agent supply and demand bids resolve through a formal, continuous double-sided auction engine to guarantee exact market clearing math.
 - **L6 Safety Governance:** The orchestrator runs an absolute physical guardrail loop, checking baseline line capacities and locking grid frequency within strict stability limits (±0.5 Hz).
 
----
+
 
 ### [Spatial Dynamic Markdown Engine](#)  
 ***Dynamic pricing and liquidation engine***  
@@ -315,7 +302,7 @@ Autonomous reasoning engines where LLMs dynamically orchestrate symbolic tools, 
 - Converts forecasts into immediate operational actions  
 - Bridges prediction systems with real-world pricing systems  
 
----
+
 
 ### [Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)  🏆🏆 
 ***Agentic prior authorization engine***  
@@ -328,7 +315,7 @@ Autonomous reasoning engines where LLMs dynamically orchestrate symbolic tools, 
 - Reduces administrative overhead in healthcare workflows  
 - Optimized for compliance-heavy decision environments  
 
----
+
 
 ### [Real-Time Intent Transformer](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20realtime-intent-transformer)  🏆
 ***Session-based e-commerce intent telemetry engine***  
@@ -341,7 +328,7 @@ Autonomous reasoning engines where LLMs dynamically orchestrate symbolic tools, 
 - Triggers contextual interventions based on inferred intent  
 - Enables adaptive real-time commerce optimization  
 
----
+
 
 ### [Generative Dynamic Ad Renderer](mailto:anicomanesh@gmail?subject=Access%20Request%3A%20generative-dynamic-ad-renderer)  🏆 
 ***Telemetry-driven ad generation pipeline***  
@@ -372,7 +359,7 @@ Autonomous reasoning engines where LLMs dynamically orchestrate symbolic tools, 
 - Incorporates exogenous signals for improved demand prediction  
 - Enables zero-shot forecasting across unseen domains  
 
----
+
 
 ### [ICU Vitals Transformer](#)  🏆
 ***Transformer-based ICU vitals forecaster***  
@@ -385,7 +372,7 @@ Autonomous reasoning engines where LLMs dynamically orchestrate symbolic tools, 
 - Designed for early warning of patient deterioration  
 - Supports continuous temporal reasoning over ICU trajectories  
 
----
+
 
 # 🧬 Frontier Research — Beyond Conventional AI
 
