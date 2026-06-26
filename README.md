@@ -117,7 +117,6 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### *These systems coordinate multiple agents, strategies, and tools to act in dynamic environments.*
 
 
-
 ### [Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main) 🏆 
 ***Autonomous content lifecycle platform***  
 ***CrewAI, LangChain, Pydantic, ChromaDB***  
@@ -186,9 +185,9 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 # 🧭 Dynamic Agentic Systems & Cognitive Orchestration
 
-Autonomous reasoning engines where LLMs dynamically orchestrate symbolic tools, APIs, and deterministic solvers via adaptive multi-step planning.
+### *Autonomous reasoning engines where LLMs dynamically orchestrate symbolic tools, APIs, and deterministic solvers via adaptive multi-step planning.*
 
----
+
 
 ### [Clinical Differential Diagnosis Copilot](https://github.com/aragit/clinical-differential-copilot) 🏆🏆🏆
 
