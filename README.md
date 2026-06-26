@@ -291,18 +291,6 @@ Autonomous reasoning engines where LLMs dynamically orchestrate symbolic tools, 
 
 
 
-### [Spatial Dynamic Markdown Engine](#)  
-***Dynamic pricing and liquidation engine***  
-***TimesFM 2.5, Ray, SciPy, PostgreSQL***  
-🟡 `Coming Soon` • 💰 `Commercial Execution`  
-
-**Architecture insight**  
-- Dynamically adjusts pricing based on temporal demand signals  
-- Reduces margin erosion through real-time decision execution  
-- Converts forecasts into immediate operational actions  
-- Bridges prediction systems with real-world pricing systems  
-
-
 
 ### [Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)  🏆🏆 
 ***Agentic prior authorization engine***  
