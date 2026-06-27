@@ -23,59 +23,40 @@
 </div>
 
 ---
-# The Composable Intelligence Stack
+## 🧠 Cross-Domain Neuro-Symbolic Architecture
 
-Over more than a decade of engineering high-stakes intelligence engines, my focus has shifted from standard deep learning models to engineering complete, deterministic-bounded cognitive workflows.
+> Projects that define the foundational neuro-symbolic stack and transfer across industries.
 
-My work targets the critical boundary where probabilistic neural models intersect with strict symbolic guardrails—specifically in highly constrained domains like clinical oncology, medical triage, and real-time enterprise orchestration. By combining state-of-the-art open-source execution engines (`vLLM`, `LangGraph`, `CrewAI`) with high-performance optimization layers (`Unsloth`, custom PEFT), I build systems that do not just predict outcomes, but safely execute and self-correct in production.
+### [- Speculative Graph RAG](https://github.com/aragit/speculative-clinical-graphrag)  🏆🏆🏆  
+**Self-correcting clinical knowledge core**  
+> LlamaIndex, Neo4j, vLLM, DeepSeek-R1      
+> 🟢 `ACTIVE` • 🧠 `CORE REASONING SYSTEM`
 
-### 🗺️ Repository Navigation
-*   **[✨ Capability Architecture](#-capability-architecture):** The holistic overview mapping out how components span from raw signal ingestion to programmatic execution.
-*   **[🧠 Reasoning & Planning Projects](#-reasoning--planning):** Deep dive into flagships like `AXIOMIS (MedriX)` and `Clinical Differential Diagnosis Copilot`.
-*   **[🔮 Simulation & Execution](#-simulation--forecasting):** Production-grade micro-actuators, temporal transformers, and stateful verification loops.
+**Architecture insight**  
+- Combines graph-based retrieval with structured verification  
+- Validates extracted clinical pathways against medical taxonomies  
+- Reduces hallucination via grounded reasoning constraints  
 
+### [DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)  🏆🏆 
+**Medical chain-of-thought LoRA alignment pipeline** 
+> Unsloth, PyTorch, Hugging Face, TRL          
+> 🟢 `ACTIVE` • ⚙️ `REASONING OPTIMIZATION LAYER`
 
-## System Overview & Architectural Philosophy
+**Architecture insight**  
+- Efficient 4-bit parameter fine-tuning for reasoning behavior  
+- Maps diagnostic reasoning patterns into model weights  
+- Improves structured clinical response generation  
 
-This repository documents a Composable Intelligence Stack.
+### [Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main) 🏆 
+**Autonomous content lifecycle platform**  
+> CrewAI, LangChain/LangGraph, Pydantic, ChromaDB              
+> 🟢 `Active` • ⚙️ `Multi-agent Orchestration`  
 
-The frontier of machine learning has moved beyond deploying single, monolithic models. Building reliable, production-grade AI is now an exercise in engineering Compound AI Systems. This portfolio showcases the architecture required to make that shift: transforming isolated probabilistic models into closed-loop, multi-agent pipelines that perceive environments, execute deterministic logic, and monitor their own real-world impact.
-
-> ***The future of AI is not about better Brains and Prompts,***  
-> ***it’s about better Systems and Body.***
-
-
-
-
-## 🗺️ Solutions Capability Map
-
-This composable intelligence stack  is organized by **capability layer** rather than by domain.  
-The goal is to show how each project contributes to a larger agentic intelligence stack: perception → reasoning & Planing → orchestration → prediction → execution → frontier research.
-
-## ✨ Capability Architecture
-
-| Capability Layer | Semantic Meaning | Dominant Architecture / Core Stack | Representative Projects |
-|---|---|---|---|
-| 👁️ **Perception Systems** | Transforming unstructured raw signals (text, vision, kinematics) into structured, machine-readable representations. | Computer Vision, LoRA, YOLOv11-Pose, Temporal Action Modeling | `bionlp-llama3-service`, `surgical-vision-copilot`, `spatial-event-detector`, `edge-fall-detector` |
-| 🧠 **Reasoning & Planning** | Grounding knowledge, validating logic, and dynamically planning multi-step workflows. | Neuro-Symbolic AI, RAG, vLLM, Prompt Engineering | `AXIOMIS (MedriX) Core`, `clinical-differential-copilot`, `speculative-clinical-graphrag` |
-| ✨ **Orchestration** | Coordinating distributed multi-agent swarms, resolving conflicts, and managing control flow. | Multi-Agent Frameworks (CrewAI, LangGraph), RLlib, Game Theory (Nash) | `enterprise-intelligence-crew`, `agentic-nash-marketing`, `autonomous-procurement-swarm`, `smart-city-traffic` |
-| 🔮 **Simulation & Forecasting** | Modeling counterfactuals, anticipating outcomes, and assessing trajectory risks prior to execution. | Foundation Time-Series Models, Digital Twins, Monte Carlo Simulation | `zero-shot-demand-foundation`, `icu-vitals-transformer`, `sentiment-market-maker`, `recipe-optimization-engine` |
-| ⚙️ **Execution Systems** | Closing the loop—transforming reasoning into deterministic optimization, programmatic API calls, and real-world action. | Deterministic Solvers, Combinatorial Governance, Strict Pydantic Guardrails | `agentic-medicare-auth`, `agentic-energy-grid-balancer`, `generative-dynamic-ad-renderer`, `realtime-intent-transformer` |
-| 🔄 **Observability & Feedback** | Monitoring system drift, validating safety bounds, fine-tuning for alignment, and triggering autonomous re-reasoning. | OpenTelemetry, Unsloth Parameter-Efficient FT, Automated Validation Loops | `AXIOMIS (Action-Aware Loop)`, `MedGemma-4B-IT Alignment`, `clinical-agent-eval-harness` |
-| 🧬 **Frontier Research** | Experimental architectures pushing beyond standard computational paradigms and commercial LLM pipelines. | Flow Matching, Generative Bio-Molecular Design, Advanced PyTorch | `protein-binder-flow` |
-
-
-
-## 🔍 Categorization Signals
-
-| Signal | Description | Example Application |
-|---|---|---|
-| **Input Type** | The raw medium the system ingests: Text, vision, spatial telemetry, graphs, or time-series streams. | *HL7 FHIR clinical streams or real-time YOLO pose kinematics.* |
-| **Primary Function** | The system's core verb: Extract, reason, plan, coordinate, forecast, or actuate. | *Dynamically calling an insurance API to verify an agentic hypothesis.* |
-| **Control Style** | The governance mechanism: Deterministic, probabilistic, agentic swarm, or hybrid neuro-symbolic. | *A Type-6 Neuro-Symbolic architecture with strict clinical safety guardrails.* |
-| **Core Algorithm** | The underlying mathematics or pattern: Graph traversal, flow matching, combinatorial optimization, or Nash equilibria. | *Simulating non-cooperative ad-bidding markets via Nash Equilibrium.* |
-| **System Role** | The project's position in the closed-loop intelligence stack. | *Transforming a probabilistic medical diagnosis into a deterministic, real-world treatment regimen.* |
-
+**Architecture insight**  
+- Hierarchical multi-agent workflow with structured delegation  
+- Specialized agents for trend research, risk analysis, and content generation  
+- Memory synchronization across task pipelines  
+- Enforced schema validity via Pydantic output contracts  
 
 ---
 
@@ -86,15 +67,16 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 > `LLaMA3` `Unsloth` `FastAPI` `LoRA`  
 > 🟢 ACTIVE • 💎 CORE PERCEPTION SYSTEM
 
-### [- Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
-**Real-time patient fall detection on edge devices**
-> `YOLOv11-Pose` `TensorRT` `MQTT` `OpenCV`  
-> 🟢 ACTIVE` • 🔒 EDGE SAFETY SYSTEM     
+### [- ICU Vitals Transformer](#)  🏆
+**Transformer-based ICU vitals forecaster**      
+> TimesFM 2.5, PatchTST, Kafka, FastAPI, WebSockets  
+> 🟡 `Coming Soon` • 🏥 `Clinical Temporal Monitoring`  
 
-### [- Surgical Vision Copilot](https://github.com/aragit/surgical-vision-copilot) 🏆 
-**Real-time surgical understanding with vision-language models** 
-> `Video-LLaVA` `OpenCV` `Temporal` `Action Modeling`                   
-> 🟢 ACTIVE • 🧪 VISION PERCEPTION SYSTEM
+**Architecture insight**  
+- Ingests high-frequency physiological streams via HL7 FHIR gateway  
+- Converts real-time vitals into structured forecasting windows  
+- Designed for early warning of patient deterioration  
+- Supports continuous temporal reasoning over ICU trajectories
 
 ### [Clinical Differential Diagnosis Copilot](https://github.com/aragit/clinical-differential-copilot) 🏆🏆🏆
 
@@ -108,6 +90,9 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - **Epistemic Confidence Scoring:** Each tool output is tagged with uncertainty metadata. The LLM performs meta-reasoning over confidence scores to determine when sufficient evidence exists or additional testing is required.
 - **L2 Symbolic Safety Boundary:** Final differential passes through a deterministic verifier ensuring all positive findings are addressed, no contraindicated diagnoses are suggested, and confidence thresholds meet institutional policy before human review.
 
+<details>
+<summary>🔥 MORE HEALTHCARE SOLUTIONS</summary>
+
 ### [- Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)  🏆🏆 
 **Agentic prior authorization engine**  
 > EHR ingestion, CMS policy mapping, document automation     
@@ -119,19 +104,15 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Reduces administrative overhead in healthcare workflows  
 - Optimized for compliance-heavy decision environments  
 
-### [- ICU Vitals Transformer](#)  🏆
-**Transformer-based ICU vitals forecaster**      
-> TimesFM 2.5, PatchTST, Kafka, FastAPI, WebSockets  
-> 🟡 `Coming Soon` • 🏥 `Clinical Temporal Monitoring`  
+### [- Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
+**Real-time patient fall detection on edge devices**
+> `YOLOv11-Pose` `TensorRT` `MQTT` `OpenCV`  
+> 🟢 ACTIVE` • 🔒 EDGE SAFETY SYSTEM     
 
-**Architecture insight**  
-- Ingests high-frequency physiological streams via HL7 FHIR gateway  
-- Converts real-time vitals into structured forecasting windows  
-- Designed for early warning of patient deterioration  
-- Supports continuous temporal reasoning over ICU trajectories
-
-<details>
-<summary>🔥 MORE HEALTHCARE SOLUTIONS</summary>
+### [- Surgical Vision Copilot](https://github.com/aragit/surgical-vision-copilot) 🏆 
+**Real-time surgical understanding with vision-language models** 
+> `Video-LLaVA` `OpenCV` `Temporal` `Action Modeling`                   
+> 🟢 ACTIVE • 🧪 VISION PERCEPTION SYSTEM
 
 ### [- Spatial Event Detector](https://github.com/aragit/spatial-event-detector)
 **Kinematic telemetry → structured motion event extraction**
@@ -166,8 +147,6 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Triggers contextual interventions based on inferred intent  
 - Enables adaptive real-time commerce optimization
 
-<details>
-<summary>🔥 MORE MARKETING SOLUTIONS</summary>
 
 ### [- Generative Dynamic Ad Renderer](mailto:anicomanesh@gmail?subject=Access%20Request%3A%20generative-dynamic-ad-renderer)  🏆 
 **Telemetry-driven ad generation pipeline**  
@@ -180,7 +159,32 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Enables real-time adaptive advertising generation  
 - Designed for continuous personalization loops  
 
-</details>
+
+
+---
+## 📦 Supply Chain & Logistics
+
+### [- Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  🏆🏆🏆 
+**Predictive supply-chain telemetry pipeline**     
+> Amazon Chronos-2, Google TimesFM 2.5, Hugging Face     
+> 🟢 `Active` • ⏱️ `Temporal Forecasting`     
+
+**Architecture insight**  
+- Moves beyond traditional ARIMA and LSTM-based forecasting  
+- Uses foundation models for long-context temporal reasoning  
+- Incorporates exogenous signals for improved demand prediction  
+- Enables zero-shot forecasting across unseen domains  
+
+### [- Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm) 🏆  
+**Multi-agent contract negotiation swarm**     
+> Ray/RLlib, CrewAI, vLLM          
+> 🟢 `Active` • 🤝 `Decentralized Negotiation`  
+
+**Architecture insight**  
+- Buyer and seller agents autonomously negotiate contracts  
+- Reinforcement learning used for adaptive bargaining strategies  
+- Simulates pricing pressure, inventory constraints, and risk factors  
+- Designed for adversarial yet cooperative economic environments  
 
 ---
 
@@ -225,31 +229,6 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 ---
 
-## 📦 Supply Chain & Logistics
-
-### [- Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  🏆🏆🏆 
-**Predictive supply-chain telemetry pipeline**     
-> Amazon Chronos-2, Google TimesFM 2.5, Hugging Face     
-> 🟢 `Active` • ⏱️ `Temporal Forecasting`     
-
-**Architecture insight**  
-- Moves beyond traditional ARIMA and LSTM-based forecasting  
-- Uses foundation models for long-context temporal reasoning  
-- Incorporates exogenous signals for improved demand prediction  
-- Enables zero-shot forecasting across unseen domains  
-
-### [- Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm) 🏆  
-**Multi-agent contract negotiation swarm**     
-> Ray/RLlib, CrewAI, vLLM          
-> 🟢 `Active` • 🤝 `Decentralized Negotiation`  
-
-**Architecture insight**  
-- Buyer and seller agents autonomously negotiate contracts  
-- Reinforcement learning used for adaptive bargaining strategies  
-- Simulates pricing pressure, inventory constraints, and risk factors  
-- Designed for adversarial yet cooperative economic environments  
-
----
 
 ## 🏙️ Smart Cities & Urban Systems
 
@@ -319,42 +298,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 ---
 
-## 🧠 Cross-Domain Neuro-Symbolic Architecture
 
-> Projects that define the foundational neuro-symbolic stack and transfer across industries.
-
-### [- Speculative Graph RAG](https://github.com/aragit/speculative-clinical-graphrag)  🏆🏆🏆  
-**Self-correcting clinical knowledge core**  
-> LlamaIndex, Neo4j, vLLM, DeepSeek-R1      
-> 🟢 `ACTIVE` • 🧠 `CORE REASONING SYSTEM`
-
-**Architecture insight**  
-- Combines graph-based retrieval with structured verification  
-- Validates extracted clinical pathways against medical taxonomies  
-- Reduces hallucination via grounded reasoning constraints  
-
-### [DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)  🏆🏆 
-**Medical chain-of-thought LoRA alignment pipeline** 
-> Unsloth, PyTorch, Hugging Face, TRL          
-> 🟢 `ACTIVE` • ⚙️ `REASONING OPTIMIZATION LAYER`
-
-**Architecture insight**  
-- Efficient 4-bit parameter fine-tuning for reasoning behavior  
-- Maps diagnostic reasoning patterns into model weights  
-- Improves structured clinical response generation  
-
-### [Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main) 🏆 
-**Autonomous content lifecycle platform**  
-> CrewAI, LangChain/LangGraph, Pydantic, ChromaDB              
-> 🟢 `Active` • ⚙️ `Multi-agent Orchestration`  
-
-**Architecture insight**  
-- Hierarchical multi-agent workflow with structured delegation  
-- Specialized agents for trend research, risk analysis, and content generation  
-- Memory synchronization across task pipelines  
-- Enforced schema validity via Pydantic output contracts  
-
----
 
 ## Vision: Aethron AI
 
