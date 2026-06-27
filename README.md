@@ -298,7 +298,9 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 ### [Sentiment Market Maker](#) 
 ***Liquidity simulation and market order book balancing***
+
 ***NumPy, SciPy, High-Frequency Telemetry***
+
 🔒 `PRIVATE` • 📈 `FINANCIAL SIMULATION`
 
 </details>
