@@ -91,7 +91,6 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ***YOLOv11-Pose, TensorRT, MQTT, OpenCV***  
 🟢 `ACTIVE` • 🔒 `EDGE SAFETY SYSTEM`       
 <br>
-<br>
 <details>
 <summary><b>📂 More Perception Systems...</b></summary>
 
@@ -101,7 +100,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 🟢 `ACTIVE` • ⚙️ `MOTION PERCEPTION SYSTEM`
 
 </details>
-<br>
+
 <br>
 
 ---
