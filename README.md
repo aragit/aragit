@@ -266,7 +266,9 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ---
 
 ## 🔮 Simulation & Forecasting
+
 *Modeling counterfactuals ("what-if"), predicting temporal trajectories, and assessing risks before execution.*
+
 ### [Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  🏆🏆🏆 
 ***Predictive supply-chain telemetry pipeline***  
 ***Amazon Chronos-2, Google TimesFM 2.5, Hugging Face***  
@@ -293,6 +295,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 <details>
 
 <summary>🔥 MORE SIMULATION SYSTEMS</summary>
+
 ### [Sentiment Market Maker](#) 
 ***Liquidity simulation and market order book balancing***
 ***NumPy, SciPy, High-Frequency Telemetry***
