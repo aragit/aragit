@@ -91,7 +91,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 ### - [Surgical Vision Copilot](https://github.com/aragit/surgical-vision-copilot) 🏆 
 **Real-time surgical understanding with vision-language models** 
-> `Video-LLaVA`  `OpenCV` `Temporal` `Action Modeling` 
+> ⚙️ `Video-LLaVA`  `OpenCV` `Temporal` `Action Modeling` 
 > 🟢 ACTIVE • 🧪 VISION PERCEPTION SYSTEM
  
 
