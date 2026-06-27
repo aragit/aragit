@@ -73,8 +73,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 ### - [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 🏆  
 **Clinical entity extraction from EHR pipelines**
-
-`LLaMA3`, `Unsloth`, `FastAPI`, `LoRA`  
+**`LLaMA3` `Unsloth` `FastAPI` `LoRA`**  
 🟢 `ACTIVE` • 💎 `CORE PERCEPTION SYSTEM`
 
 
@@ -142,14 +141,11 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Improves structured clinical response generation  
   
 <details>
-<summary>
+<summary>🔥 MORE PERCEPTION SOLUTIONS</summary>
 
-### 🔥 MORE REASONING SOLUTIONS
-
-</summary>
 ### [Autonomous Research Synthesizer](https://github.com/aragit/autonomous-research-synthesizer) 🏆🏆
 
-***Self-Directed Scientific Discovery Engine via Type 6 Architecture***
+**Self-Directed Scientific Discovery Engine via Type 6 Architecture**
 
 ***Gemini 3 Pro, MCP, Semantic Scholar API, E2B Sandbox, Jupyter Kernel, Neo4j Citation Graph - CI/CD***
 
