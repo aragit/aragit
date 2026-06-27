@@ -73,6 +73,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 ### - [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 🏆  
 **Clinical entity extraction from EHR pipelines**
+
 `LLaMA3`, `Unsloth`, `FastAPI`, `LoRA`  
 🟢 `ACTIVE` • 💎 `CORE PERCEPTION SYSTEM`
 
@@ -88,6 +89,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ***YOLOv11-Pose, TensorRT, MQTT, OpenCV***  
 🟢 `ACTIVE` • 🔒 `EDGE SAFETY SYSTEM`       
 
+<details>
 <summary>🔥 MORE PERCEPTION SOLUTIONS</summary>
 
 ### [Spatial Event Detector](https://github.com/aragit/spatial-event-detector)
