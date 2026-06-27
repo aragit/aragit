@@ -69,7 +69,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 | **Core algorithm** | Graph reasoning, optimization, forecasting, game theory, fine-tuning |
 | **System role** | Perception → Reasoning → Orchestration → Agentic → Temporal → Execution |
 
-# 👁️ Perception Systems — Data Extraction from the Real World
+# 👁️ Perception — Data Extraction from the Real World
 
 #### *Systems that convert unstructured text, images, motion, and clinical streams into machine-readable representations.*
 
@@ -103,7 +103,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 </details>
      
 ---
-
+---
 
 
 # 🧠 Reasoning & Knowledge Cores 
