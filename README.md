@@ -87,7 +87,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ***Real-time patient fall detection on edge devices***  
 ***YOLOv11-Pose, TensorRT, MQTT, OpenCV***  
 🟢 `ACTIVE` • 🔒 `EDGE SAFETY SYSTEM`       
-<br>
+
 <details>
 
 <summary>
@@ -239,6 +239,14 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Simulates pricing pressure, inventory constraints, and risk factors  
 - Designed for adversarial yet cooperative economic environments  
 
+<details>
+
+<summary>
+
+### 🔥 MORE PERCEPTION SYSTEMS
+
+</summary>
+
 
 
 ### [Agentic Smart City Traffic Optimization](#)  🏆 
@@ -265,8 +273,9 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Subject-specific agents provide targeted instruction  
 - Pedagogy agent adapts teaching strategy per learner profile  
 - Progress tracking agent measures mastery and retention trends  
-
+</details>
 ---
+
 ## 🔮 Simulation & Forecasting
 *Modeling counterfactuals ("what-if"), predicting temporal trajectories, and assessing risks before execution.*
 ### [Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  🏆🏆🏆 
@@ -292,12 +301,19 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Designed for early warning of patient deterioration  
 - Supports continuous temporal reasoning over ICU trajectories
 
+<details>
+
+<summary>
+
+### 🔥 MORE PERCEPTION SYSTEMS
+
+</summary>
 ### [Sentiment Market Maker](#) 
 ***Liquidity simulation and market order book balancing***
 ***NumPy, SciPy, High-Frequency Telemetry***
 🔒 `PRIVATE` • 📈 `FINANCIAL SIMULATION`
 
-
+</details>
 ---
 
 ## 🔮 Execution Systems — Closing the Loop in the Real World
