@@ -144,7 +144,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Efficient 4-bit parameter fine-tuning for reasoning behavior  
 - Maps diagnostic reasoning patterns into model weights  
 - Improves structured clinical response generation  
-<br>
+  
 <details>
 <summary>
 
