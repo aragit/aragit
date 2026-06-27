@@ -87,7 +87,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 > Projects that define the foundational neuro-symbolic stack and transfer across industries.
 
-#### 🟦 [Speculative Graph RAG](https://github.com/aragit/speculative-clinical-graphrag)  🏆🏆🏆  
+### 🔹 [Speculative Graph RAG](https://github.com/aragit/speculative-clinical-graphrag)  🏆🏆🏆  
 **Self-correcting clinical knowledge core**  
 > LlamaIndex, Neo4j, vLLM, DeepSeek-R1      
 > 🟢 `ACTIVE` • 🧠 `CORE REASONING SYSTEM`
@@ -97,7 +97,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Validates extracted clinical pathways against medical taxonomies  
 - Reduces hallucination via grounded reasoning constraints  
 
-### 🟦 [DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)  🏆🏆 
+### 🔹 [DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)  🏆🏆 
 **Medical chain-of-thought LoRA alignment pipeline** 
 > Unsloth, PyTorch, Hugging Face, TRL          
 > 🟢 `ACTIVE` • ⚙️ `REASONING OPTIMIZATION LAYER`
@@ -107,7 +107,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Maps diagnostic reasoning patterns into model weights  
 - Improves structured clinical response generation  
 
-### 🟦 [Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main) 🏆 
+### 🔹 [Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main) 🏆 
 **Autonomous content lifecycle platform**  
 > CrewAI, LangChain/LangGraph, Pydantic, ChromaDB              
 > 🟢 `Active` • ⚙️ `Multi-agent Orchestration`  
@@ -122,7 +122,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 🏥 Healthcare & Clinical
 
-### 🟦[BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 🏆  
+### [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 🏆  
 **Clinical entity extraction from EHR pipelines**
 > `LLaMA3` `Unsloth` `FastAPI` `LoRA`  
 > 🟢 ACTIVE • 💎 CORE PERCEPTION SYSTEM
