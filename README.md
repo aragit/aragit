@@ -74,20 +74,20 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 #### *Systems that convert unstructured text, images, motion, and clinical streams into machine-readable representations.*
 
 
-### [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 🏆  
+- ### [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 🏆  
 ***Clinical entity extraction from EHR pipelines***  
 ***LLaMA3, Unsloth, FastAPI, LoRA***  
 🟢 `ACTIVE` • 💎 `CORE PERCEPTION SYSTEM`
 
 
 
-### [Surgical Vision Copilot](https://github.com/aragit/surgical-vision-copilot) 🏆 
+- ### [Surgical Vision Copilot](https://github.com/aragit/surgical-vision-copilot) 🏆 
 ***Real-time surgical understanding with vision-language models***  
 ***Video-LLaVA, OpenCV, Temporal Action Modeling***  
 🟢 `ACTIVE` • 🧪 `VISION PERCEPTION SYSTEM`
 
 
-### [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
+- ### [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
 ***Real-time patient fall detection on edge devices***  
 ***YOLOv11-Pose, TensorRT, MQTT, OpenCV***  
 🟢 `ACTIVE` • 🔒 `EDGE SAFETY SYSTEM`       
