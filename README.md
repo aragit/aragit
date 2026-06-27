@@ -24,15 +24,12 @@
 
 ---
 # The Composable Intelligence Stack
-### *Principal Architectures for Neuro-Symbolic AI, Agentic Swarms, and Closed-Loop Systems*
 
 [![GitHub Strategy](https://img.shields.io/badge/Focus-Systems%20%3E%20Models-blueviolet?style=for-the-badge)](https://github.com)
 [![Domain](https://img.shields.io/badge/Specialization-Clinical%20%26%20Enterprise-critical?style=for-the-badge)](https://github.com)
 [![Engine](https://img.shields.io/badge/Runtime-vLLM%20%7C%20LangGraph%20%7C%20Unsloth-success?style=for-the-badge)](https://github.com)
 
 ---
-
-## Narrative
 
 Over more than a decade of engineering high-stakes intelligence engines, my focus has shifted from standard deep learning models to engineering complete, deterministic-bounded cognitive workflows.
 
@@ -44,7 +41,7 @@ My work targets the critical boundary where probabilistic neural models intersec
 *   **[🔮 Simulation & Execution](#-simulation--forecasting):** Production-grade micro-actuators, temporal transformers, and stateful verification loops.
 
 ---
-System Overview & Architectural Philosophy
+## System Overview & Architectural Philosophy
 
 This repository documents a Composable Intelligence Stack.
 
@@ -56,7 +53,7 @@ The frontier of machine learning has moved beyond deploying single, monolithic m
 ---
 
 
-# 🗺️ Projects Capability Map
+# 🗺️ Solutions Capability Map
 
 This composable intelligence stack  is organized by **capability layer** rather than by domain.  
 The goal is to show how each project contributes to a larger agentic intelligence stack: perception → reasoning & Planing → orchestration → prediction → execution → frontier research.
