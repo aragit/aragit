@@ -44,10 +44,10 @@ The frontier of machine learning has moved beyond deploying single, monolithic m
 > ***The future of AI is notabout better Brains and Prompts,***  
 > ***it’s about better Systems and Body.***
 
----
 
 
-# 🗺️ Solutions Capability Map
+
+## 🗺️ Solutions Capability Map
 
 This composable intelligence stack  is organized by **capability layer** rather than by domain.  
 The goal is to show how each project contributes to a larger agentic intelligence stack: perception → reasoning & Planing → orchestration → prediction → execution → frontier research.
