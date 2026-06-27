@@ -44,7 +44,7 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 
 ---
 
-## System Overview & Architectural Philosophy
+## Architectural Philosophy
 
 This repository documents a **Composable Intelligence Stack**—a living, evolving architecture that transfers across industries.
 
@@ -55,7 +55,7 @@ The frontier of machine learning has moved beyond deploying single, monolithic m
 
 ### Architecture as a Transferable Engine
 
-Every project in this portfolio implements a **full pipeline**, but each makes its **primary architectural contribution** to a specific layer of a 7-layer neuro-symbolic stack:
+Every project in this portfolio implements a **Production Grade Complete  Pipeline**, but each makes its **primary architectural contribution** to a specific layers:
 
 | Layer | Function | Cross-Domain Transfer |
 |-------|----------|----------------------|
@@ -67,7 +67,6 @@ Every project in this portfolio implements a **full pipeline**, but each makes i
 | **Governance** | Hard safety guardrails, policy enforcement, and audit | Clinical dosing limits → Brand safety rules → Frequency stability bounds |
 | **Meta-Cognition** | Self-monitoring, drift detection, and confidence scoring | Diagnostic confidence → Creative quality scoring → Yield prediction reliability |
 
-This is not a theoretical framework—it is a proven production architecture. The clinical domain was chosen as the first proving ground because it is the most regulated, safety-critical environment imaginable: if a system can safely reason about chemotherapy dosing with deterministic guardrails, the same architectural patterns transfer directly to financial compliance, energy grid stability, and competitive market bidding.
 
 ### Evolution: From Domain Proof to Cross-Domain Platform
 
