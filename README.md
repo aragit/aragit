@@ -69,7 +69,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 | **System role** | The project's position in the intelligence stack: **Perception → Reasoning & Planning → Orchestration → Prediction → Execution**. | *Transforming a probabilistic diagnosis into a deterministic, real-world treatment plan.* |
 
 
-## **Perception — Data Extraction from the Real World**
+## 🔮 Perception — Data Extraction from the Real World
 
 #### *Systems that convert unstructured text, images, motion, and clinical streams into machine-readable representations.*
 
@@ -104,7 +104,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ---
 
 
-## Reasoning & Planning
+## 🔮 Reasoning & Planning
 
 #### *Autonomous engines that ground knowledge, validate logic, and dynamically plan multi-step workflows using symbolic tools.*
 
@@ -191,7 +191,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ---                 
 
 
-# ✨ Agentic Orchestration & Autonomy
+## 🔮 Agentic Orchestration & Autonomy
 
 ### *These systems coordinate multiple agents, strategies, and tools to act in dynamic environments.*
 
@@ -263,7 +263,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ---
 
 
-# ⚙️ Execution Systems — Closing the Loop in the Real World
+## 🔮 Execution Systems — Closing the Loop in the Real World
 
 ### *Systems that transform inference into measurable business or clinical action.*
 
@@ -321,7 +321,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Designed for continuous personalization loops  
 
 ---
-# ⏱️ Temporal Intelligence — Prediction & Foresight
+## 🔮 Temporal Intelligence — Prediction & Foresight
 
 ### *Systems that model time, anticipate outcomes, and enable proactive decision-making.*
 
@@ -352,7 +352,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Supports continuous temporal reasoning over ICU trajectories  
 
 ---
-# 🧬 Frontier Research — Beyond Conventional AI
+## 🧬 Frontier Research — Beyond Conventional AI
 
 Systems that push beyond standard LLM/RAG pipelines into new computational frontiers.
 
