@@ -103,7 +103,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 ### [- Spatial Event Detector](https://github.com/aragit/spatial-event-detector)
 **Kinematic telemetry → structured motion event extraction**
-> `YOLOv11-Pose` `OpenCV` `NumPy`
+> `YOLOv11-Pose` `OpenCV` `NumPy`         
 > 🟢 ACTIVE • ⚙️ MOTION PERCEPTION SYSTEM
 
 </details>
@@ -116,10 +116,10 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 #### *Autonomous engines that ground knowledge, validate logic, and dynamically plan multi-step workflows using symbolic tools.*
 
 
-### [Speculative Graph RAG](https://github.com/aragit/speculative-clinical-graphrag)  🏆🏆🏆  
-***Self-correcting clinical knowledge core***  
-***LlamaIndex, Neo4j, vLLM, DeepSeek-R1***  
-🟢 `ACTIVE` • 🧠 `CORE REASONING SYSTEM`
+### [- Speculative Graph RAG](https://github.com/aragit/speculative-clinical-graphrag)  🏆🏆🏆  
+**Self-correcting clinical knowledge core**  
+> LlamaIndex, Neo4j, vLLM, DeepSeek-R1      
+> 🟢 `ACTIVE` • 🧠 `CORE REASONING SYSTEM`
 
 **Architecture insight**  
 - Combines graph-based retrieval with structured verification  
@@ -128,11 +128,9 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 ### [Clinical Differential Diagnosis Copilot](https://github.com/aragit/clinical-differential-copilot) 🏆🏆🏆
 
-***Autonomous Clinical Reasoning Engine via Type 6 Neuro-Symbolic Architecture***
-
-***Claude 4.5 Sonnet, MCP, FHIR R4, SNOMED-CT, Python Clinical Calculators, LangSmith - CI/CD***
-
-🔒 `PRIVATE` • 🏥 `Clinical Decision Support` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
+**Autonomous Clinical Reasoning Engine via Type 6 Neuro-Symbolic Architecture**    
+> Claude 4.5 Sonnet, MCP, FHIR R4, SNOMED-CT, Python Clinical Calculators, LangSmith - CI/CD
+> 🔒 `PRIVATE` • 🏥 `Clinical Decision Support` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
 
 **Architecture Insight** - **Type 6 Hybrid Framework:** Neural primary controller dynamically invokes symbolic clinical tools as subroutines, with deterministic validation at the output boundary.
 - **Adaptive Hypothesis Exploration:** The LLM autonomously navigates the differential diagnosis space, deciding which clinical scoring systems (Wells, HEART, CURB-65, APACHE) to invoke based on evolving patient narrative — no pre-encoded decision trees.
