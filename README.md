@@ -384,32 +384,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Targets novel protein–ligand binding discovery  
 - Expands AI systems into generative bio-molecular design  
 
-
-
-
-## Recent Articles & Insights
-
-### Agentic AI
-- [The Planning-Rubicon: Why the Vast Majority of AI Agents Are Just Expensive Chatbots — Part I](https://medium.com/@anicomanesh/the-planning-rubicon-why-the-vast-majority-of-ai-agents-are-just-expensive-chatbots-part-i-fa0409a10d8e)
-- [From Generative to Agentic AI: A Roadmap in 2026](https://medium.com/@anicomanesh/from-generative-to-agentic-ai-a-roadmap-in-2026-8e553b43aeda)
-- [Beyond the Hype of Expensive Chatbots: Bridging Strategic Business Intent with Adaptive Agentic Systems](https://medium.com/@anicomanesh/beyond-the-hype-of-expensive-chatbots-bridging-strategic-business-intent-with-adaptive-agentic-d1144e9df041)
-
-### Generative AI and LLM Engineering
-- [A Dive into Unsloth & Gemma 3](https://medium.com/@anicomanesh/a-dive-into-unsloth-gemma-3-fine-tune-gemma-3-12b-with-unsloth-trl-for-custommer-service-53e93692d4d6)
-- [A Dive Into LLM Output Configuration, Prompt Engineering Techniques and Guardrails Part I](https://medium.com/@anicomanesh/a-dive-into-advanced-prompt-engineering-techniques-for-llms-part-i-23c7b8459d51)
-- [Token Efficiency and Compression Techniques in Large Language Models](https://medium.com/@anicomanesh/token-efficiency-and-compression-techniques-in-large-language-models-navigating-context-length-05a61283412b)
-
-<details>
-<summary><b>📚 See all articles</b></summary>
-
-### Applied Machine Learning
-- [First Steps Toward Building an Autonomous Agentic AI for CBT](https://anicomanesh.substack.com/p/first-steps-toward-building-an-autonomous)
-- [Model Drift: Identifying and Monitoring for Model Drift](https://anicomanesh.substack.com/p/model-drift-identifying-and-monitoring)
-- [Evolution of Recommendation Algorithms, Part I](https://medium.com/@anicomanesh/evolution-of-recommendation-algorithms-part-i-fundamentals-and-classical-recommendation-bb1c0bce78a9)
-- [Machine Learning Interpretability (MLI) with XGBoost and SHAP](https://medium.com/@anicomanesh/interpretable-machine-learning-iml-with-xgboost-and-additive-tools-42258fb1f14)
-- [Data Leakage: Causes, Effects and Solutions](https://medium.com/@anicomanesh/data-leakage-causes-effects-and-solutions-6cc44a149e1c)
-
-</details>
+---
 
 
 ## Vision: Aethron AI
