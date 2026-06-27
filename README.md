@@ -129,7 +129,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Clinical Differential Diagnosis Copilot](https://github.com/aragit/clinical-differential-copilot) 🏆🏆🏆
 
 **Autonomous Clinical Reasoning Engine via Type 6 Neuro-Symbolic Architecture**    
-> Claude 4.5 Sonnet, MCP, FHIR R4, SNOMED-CT, Python Clinical Calculators, LangSmith - CI/CD
+> Claude 4.5 Sonnet, MCP, FHIR R4, SNOMED-CT, Python Clinical Calculators, LangSmith - CI/CD    
 > 🔒 `PRIVATE` • 🏥 `Clinical Decision Support` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
 
 **Architecture Insight** - **Type 6 Hybrid Framework:** Neural primary controller dynamically invokes symbolic clinical tools as subroutines, with deterministic validation at the output boundary.
@@ -139,9 +139,9 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - **L2 Symbolic Safety Boundary:** Final differential passes through a deterministic verifier ensuring all positive findings are addressed, no contraindicated diagnoses are suggested, and confidence thresholds meet institutional policy before human review.
 
 ### [DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)  🏆🏆 
-***Medical chain-of-thought LoRA alignment pipeline***  
-***Unsloth, PyTorch, Hugging Face, TRL***  
-🟢 `ACTIVE` • ⚙️ `REASONING OPTIMIZATION LAYER`
+**Medical chain-of-thought LoRA alignment pipeline** 
+> Unsloth, PyTorch, Hugging Face, TRL          
+> 🟢 `ACTIVE` • ⚙️ `REASONING OPTIMIZATION LAYER`
 
 **Architecture insight**  
 - Efficient 4-bit parameter fine-tuning for reasoning behavior  
@@ -154,10 +154,8 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [Autonomous Research Synthesizer](https://github.com/aragit/autonomous-research-synthesizer) 🏆🏆
 
 **Self-Directed Scientific Discovery Engine via Type 6 Architecture**
-
-***Gemini 3 Pro, MCP, Semantic Scholar API, E2B Sandbox, Jupyter Kernel, Neo4j Citation Graph - CI/CD***
-
-🔒 `PRIVATE` • 📚 `Scientific Research` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
+> Gemini 3 Pro, MCP, Semantic Scholar API, E2B Sandbox, Jupyter Kernel, Neo4j Citation Graph - CI/CD   
+> 🔒 `PRIVATE` • 📚 `Scientific Research` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
 
 **Architecture Insight** - **Type 6 Hybrid Framework:** Neural primary controller plans multi-step research workflows, dynamically calling symbolic tools for computation, retrieval, and verification — adapting strategy based on intermediate results.
 - **Opportunistic Research Planning:** The LLM decomposes open-ended research questions into sub-goals, decides which literature APIs to query (PubMed, Semantic Scholar, bioRxiv, arXiv), and adapts when sources conflict or gaps emerge — no static retrieval pipeline.
