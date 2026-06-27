@@ -69,6 +69,8 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 | **System role** | The project's position in the intelligence stack: **Perception → Reasoning & Planning → Orchestration → Prediction → Execution**. | *Transforming a probabilistic diagnosis into a deterministic, real-world treatment plan.* |
 ## Perception — Data Extraction from the Real World
 
+
+## [ x ] Perception
 #### *Systems that convert unstructured text, images, motion, and clinical streams into machine-readable representations.*
 
 
