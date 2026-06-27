@@ -398,7 +398,7 @@ Systems that push beyond standard LLM/RAG pipelines into new computational front
 
 
 
-# ✍️ Recent Articles & Insights
+## Recent Articles & Insights
 
 ### Agentic AI
 - [The Planning-Rubicon: Why the Vast Majority of AI Agents Are Just Expensive Chatbots — Part I](https://medium.com/@anicomanesh/the-planning-rubicon-why-the-vast-majority-of-ai-agents-are-just-expensive-chatbots-part-i-fa0409a10d8e)
@@ -423,7 +423,7 @@ Systems that push beyond standard LLM/RAG pipelines into new computational front
 </details>
 
 
-## 🏗️ Vision: Aethron AI
+## Vision: Aethron AI
 
 Transforming inference into measurable impact.
 
