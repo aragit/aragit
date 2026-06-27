@@ -92,7 +92,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 🟢 `ACTIVE` • 🔒 `EDGE SAFETY SYSTEM`       
 <br>
 <details>
-<summary><b>📂 More Perception Systems...</b></summary>
+<summary><b>▶️ More Perception Systems...</b></summary>
 
 ### [Spatial Event Detector](https://github.com/aragit/spatial-event-detector)
 ***Kinematic telemetry → structured motion event extraction***
