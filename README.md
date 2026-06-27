@@ -70,7 +70,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ## Perception — Data Extraction from the Real World
 
 
-## [ x ] Perception
+## [x] Perception
 #### *Systems that convert unstructured text, images, motion, and clinical streams into machine-readable representations.*
 
 
