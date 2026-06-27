@@ -23,6 +23,65 @@
 </div>
 
 ---
+# The Composable Intelligence Stack
+
+Over more than a decade of engineering high-stakes intelligence engines, my focus has shifted from standard deep learning models to engineering complete, deterministic-bounded cognitive workflows.
+
+My work targets the critical boundary where probabilistic neural models intersect with strict symbolic guardrails—specifically in highly constrained domains like clinical oncology, medical triage, energy grid optimization, financial compliance, and real-time enterprise orchestration. By combining state-of-the-art open-source execution engines (`vLLM`, `LangGraph`, `CrewAI`) with high-performance optimization layers (`Unsloth`, custom PEFT), I build systems that do not just predict outcomes, but safely execute and self-correct in production.
+
+### 🗺️ Repository Navigation
+This portfolio is organized by **domain and industry** to demonstrate how the same neuro-symbolic architecture principles transfer across verticals:
+
+*   **[🏥 Healthcare & Clinical](#-healthcare--clinical):** Medical perception, differential diagnosis, prior authorization, and ICU monitoring.
+*   **[🎯 Marketing & Advertising](#-marketing--advertising):** Competitive Nash equilibrium bidding, real-time intent transformation, and generative ad rendering.
+*   **[⚡ Energy & Utilities](#-energy--utilities):** Autonomous grid balancing with Type 2 neuro-symbolic safety guardrails.
+*   **[🏦 Finance & RegTech](#-finance--regtech):** Cross-jurisdictional compliance monitoring and market simulation.
+*   **[📦 Supply Chain & Logistics](#-supply-chain--logistics):** Zero-shot demand forecasting and autonomous procurement negotiation.
+*   **[🏙️ Smart Cities & Urban Systems](#-smart-cities--urban-systems):** Multi-agent traffic optimization and congestion resolution.
+*   **[🎓 Education & Research](#-education--research):** Scientific discovery engines and adaptive tutoring swarms.
+*   **[🧬 Computational Biology](#-computational-biology):** Flow-matching protein binder generation.
+*   **[🧠 Cross-Domain Neuro-Symbolic Architecture](#-cross-domain-neuro-symbolic-architecture):** Foundational reasoning, memory, and orchestration layers that transfer across all verticals.
+
+---
+
+## System Overview & Architectural Philosophy
+
+This repository documents a **Composable Intelligence Stack**—a living, evolving architecture that transfers across industries.
+
+The frontier of machine learning has moved beyond deploying single, monolithic models. Building reliable, production-grade AI is now an exercise in engineering **Compound AI Systems**. This portfolio showcases the architecture required to make that shift: transforming isolated probabilistic models into closed-loop, multi-agent pipelines that perceive environments, execute deterministic logic, and monitor their own real-world impact.
+
+> ***The future of AI is not about better Brains and Prompts,***  
+> ***it’s about better Systems and Body.***
+
+### Architecture as a Transferable Engine
+
+Every project in this portfolio implements a **full pipeline**, but each makes its **primary architectural contribution** to a specific layer of a 7-layer neuro-symbolic stack:
+
+| Layer | Function | Cross-Domain Transfer |
+|-------|----------|----------------------|
+| **Perception** | Transforming unstructured signals into structured intent | Clinical NLP → Manufacturing sensor fusion → Marketing sentiment analysis |
+| **Memory** | Temporal state persistence and episodic tracking | Patient care episodes → Customer journeys → Grid load history |
+| **Tool Registry** | Deterministic calculators, ontologies, and schema enforcement | Clinical scoring systems → Financial risk models → Grid stability solvers |
+| **Reasoning** | Dynamic planning, constraint satisfaction, and DAG compilation | Differential diagnosis → Credit underwriting → Load forecasting |
+| **Execution** | Tool dispatch, API actuation, and operational closure | Treatment authorization → Trade execution → Grid frequency control |
+| **Governance** | Hard safety guardrails, policy enforcement, and audit | Clinical dosing limits → Brand safety rules → Frequency stability bounds |
+| **Meta-Cognition** | Self-monitoring, drift detection, and confidence scoring | Diagnostic confidence → Creative quality scoring → Yield prediction reliability |
+
+This is not a theoretical framework—it is a proven production architecture. The clinical domain was chosen as the first proving ground because it is the most regulated, safety-critical environment imaginable: if a system can safely reason about chemotherapy dosing with deterministic guardrails, the same architectural patterns transfer directly to financial compliance, energy grid stability, and competitive market bidding.
+
+### Evolution: From Domain Proof to Cross-Domain Platform
+
+This portfolio represents a deliberate, phased evolution:
+
+1. **Phase 1 (Clinical Foundation):** Proved the full 7-layer stack in the hardest possible domain—FHIR-native episodic care, temporal workflow compilation, and deterministic safety guardrails for oncology protocols.
+2. **Phase 2 (Layer Extraction):** Extracted individual layers into standalone, production-grade systems across marketing (game-theoretic bidding), energy (grid balancing), finance (regulatory compliance), and supply chain (demand forecasting). Each extraction validates that the layer is domain-agnostic.
+3. **Phase 3 (Convergence):** Domain-specific implementations feed back into hardened core abstractions. The compliance kernel refines governance patterns for clinical systems; the energy grid balancer refines execution patterns for financial trading; the marketing simulator refines meta-cognitive scoring for scientific research.
+
+The result is a **genuinely transferable decision intelligence platform** with concrete implementations in 8+ industries, each sharing 55–90% core architectural patterns with the clinical reference implementation.
+
+---
+
+
 ## 🧠 Cross-Domain Neuro-Symbolic Architecture
 
 > Projects that define the foundational neuro-symbolic stack and transfer across industries.
