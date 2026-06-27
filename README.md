@@ -87,33 +87,30 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 > `LLaMA3` `Unsloth` `FastAPI` `LoRA`  
 > 🟢 ACTIVE • 💎 CORE PERCEPTION SYSTEM
 
+### [- Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
+**Real-time patient fall detection on edge devices**
+> `YOLOv11-Pose`, `TensorRT`, `MQTT`, `OpenCV`  
+> 🟢 `ACTIVE` • 🔒 `EDGE SAFETY SYSTEM`     
 
-
-### - [- Surgical Vision Copilot](https://github.com/aragit/surgical-vision-copilot) 🏆 
+### [- Surgical Vision Copilot](https://github.com/aragit/surgical-vision-copilot) 🏆 
 **Real-time surgical understanding with vision-language models** 
 > `Video-LLaVA` `OpenCV` `Temporal` `Action Modeling`          
 > 🟢 ACTIVE • 🧪 VISION PERCEPTION SYSTEM
- 
-
-
-### - [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
-***Real-time patient fall detection on edge devices***  
-***YOLOv11-Pose, TensorRT, MQTT, OpenCV***  
-🟢 `ACTIVE` • 🔒 `EDGE SAFETY SYSTEM`       
+   
 
 <details>
 <summary>🔥 MORE PERCEPTION SOLUTIONS</summary>
 
-### [Spatial Event Detector](https://github.com/aragit/spatial-event-detector)
-***Kinematic telemetry → structured motion event extraction***
-***YOLOv11-Pose, OpenCV, NumPy***
-🟢 `ACTIVE` • ⚙️ `MOTION PERCEPTION SYSTEM`
+### [- Spatial Event Detector](https://github.com/aragit/spatial-event-detector)
+**Kinematic telemetry → structured motion event extraction**
+> `YOLOv11-Pose` `OpenCV` `NumPy`
+> 🟢 `ACTIVE` • ⚙️ `MOTION PERCEPTION SYSTEM`
 
 </details>
 
 ---
 
-
+ 
 ## 🔮 Reasoning & Planning
 
 #### *Autonomous engines that ground knowledge, validate logic, and dynamically plan multi-step workflows using symbolic tools.*
