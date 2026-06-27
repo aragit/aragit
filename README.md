@@ -171,7 +171,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Verification agents cross-check citations and evidence  
 - Conflict agents detect contradictions across literature  
 - Synthesis agent generates research gap analysis and summaries  
-</details>
+
 
 ### [Regulatory Intelligence Agent](https://github.com/aragit/regulatory-intelligence-agent) 🏆🏆🏆 
 
@@ -187,6 +187,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - **Multi-Channel Orchestration:** The LLM decides notification strategy — which trading desks (Slack), which compliance officers (email), which legal teams (Jira) — based on policy graph analysis of organizational ownership and historical response patterns.
 - **L2 Symbolic Audit Boundary:** Every regulatory text → tool call → output decision is fully traced (OpenTelemetry). Deterministic policy verifier ensures no recommendation violates hard constraints (capital requirements, position limits, blackout periods). Immutable audit trail for regulator examination.
 
+</details>
 
 ---                 
 
