@@ -262,6 +262,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Pedagogy agent adapts teaching strategy per learner profile  
 - Progress tracking agent measures mastery and retention trends  
 </details>
+
 ---
 
 ## 🔮 Simulation & Forecasting
@@ -298,6 +299,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 🔒 `PRIVATE` • 📈 `FINANCIAL SIMULATION`
 
 </details>
+
 ---
 
 ## 🔮 Execution 
@@ -341,8 +343,9 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Interprets live user sessions into actionable intent signals  
 - Maintains dense behavioral memory across interactions  
 - Triggers contextual interventions based on inferred intent  
-- Enables adaptive real-time commerce optimization  
-<details
+- Enables adaptive real-time commerce optimization
+  
+<details>
 <summary>🔥 MORE EXECUTION SOLUTIONS</summary>
 
 ### [Generative Dynamic Ad Renderer](mailto:anicomanesh@gmail?subject=Access%20Request%3A%20generative-dynamic-ad-renderer)  🏆 
@@ -354,8 +357,10 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Converts user behavioral signals into generated creative content  
 - Connects inference pipelines directly to media rendering systems  
 - Enables real-time adaptive advertising generation  
-- Designed for continuous personalization loops  
+- Designed for continuous personalization loops
+  
 </details>
+
 ---
 
 ## 🧬 Frontier Research — Beyond Conventional AI
