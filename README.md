@@ -83,15 +83,14 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 
 ### - [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 🏆  
-**Clinical entity extraction from EHR pipelines**
-
-`LLaMA3` `Unsloth` `FastAPI` `LoRA`  
-🟢 `ACTIVE` • 💎 `CORE PERCEPTION SYSTEM`
+> **Clinical entity extraction from EHR pipelines**
+> `LLaMA3` `Unsloth` `FastAPI` `LoRA`  
+> 🟢 `ACTIVE` • 💎 `CORE PERCEPTION SYSTEM`
 
 
 
 ### - [Surgical Vision Copilot](https://github.com/aragit/surgical-vision-copilot) 🏆 
-**Real-time surgical understanding with vision-language models** 
+> **Real-time surgical understanding with vision-language models** 
 > `Video-LLaVA`  `OpenCV` `Temporal` `Action Modeling`  
 > 🟢 `ACTIVE` • 🧪 `VISION PERCEPTION SYSTEM`
 
