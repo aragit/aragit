@@ -47,28 +47,26 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 ## ✨ Capability Architecture
 
-| Capability Layer | Semantic Meaning | Representative Projects |
-|---|---|---|
-| 👁️ **Perception Systems** | Transform raw multimodal inputs (text, vision, spatial, sensor streams) into structured machine-understandable signals | `bionlp-llama3-service`, `surgical-vision-copilot`, `spatial-event-detector`, `edge-fall-detector` |
-| 🧠 **Reasoning & Knowledge Cores** | Ground, validate, retrieve, and structure knowledge with reasoning constraints | `speculative-clinical-graphrag`, `deepseek-reasoning-finetuning`, `neuro-symbolic-agentic-rag`, `research-paper-synthesis-swarm` |
-| ✨ **Agentic Orchestration & Autonomy** | Planning, memory, and tool-using control layer coordinating intelligent systems | `enterprise-intelligence-crew`, `autonomous-procurement-swarm`, `tutoring-swarm`, `legal-negotiation-system` |
-| 🤖 **Agentic Systems** | Distributed multi-agent interaction, negotiation, and collaboration systems | `nash-marketing-agents`, `supply-chain-response`, `smart-city-traffic`, `disaster-response-system` |
-| ⏱️ **Temporal Intelligence** | Time-based modeling, forecasting, and early signal detection | `zero-shot-demand-foundation`, `icu-vitals-transformer` |
-| ⚙️ **Execution Systems** | Real-world decisioning, optimization, and closed-loop action systems | `agentic-medicare-auth`, `realtime-intent-transformer`, `generative-dynamic-ad-renderer`, `spatial-dynamic-markdown-engine`, `recipe-optimization-engine`, `agentic-energy-grid-balancer`, `sentiment-market-maker` |
-| 🧬 **Frontier Research** | Experimental systems beyond standard LLM/RAG paradigms | `protein-binder-flow` |
+| Capability Layer | Semantic Meaning | Dominant Architecture / Core Stack | Representative Projects |
+|---|---|---|---|
+| 👁️ **Perception Systems** | Transforming unstructured raw signals (text, vision, kinematics) into structured, machine-readable representations. | Computer Vision, LoRA, YOLOv11-Pose, Temporal Action Modeling | `bionlp-llama3-service`, `surgical-vision-copilot`, `spatial-event-detector`, `edge-fall-detector` |
+| 🧠 **Reasoning & Planning** | Autonomous engines that ground knowledge, validate logic, and dynamically plan multi-step workflows using symbolic tools. | Neuro-Symbolic AI, MCP Tooling, GraphRAG, Parameter-Efficient Fine-Tuning | `AXIOMIS (MedriX)`, `clinical-differential-copilot`, `autonomous-research-synthesizer`, `speculative-clinical-graphrag`, `MedGemma-4B-IT Alignment` |
+| ✨ **Orchestration** | Coordinating distributed multi-agent swarms, resolving conflicts, and managing complex simulated environments. | Multi-Agent Frameworks (CrewAI, LangGraph), RLlib, Game Theory (Nash) | `enterprise-intelligence-crew`, `agentic-nash-marketing`, `autonomous-procurement-swarm`, `smart-city-traffic` |
+| ⏱️ **Prediction** | Temporal modeling, forecasting, and anticipating trajectories before they happen. | Foundation Time-Series Models, Transformers, High-Frequency Telemetry | `zero-shot-demand-foundation`, `icu-vitals-transformer` |
+| ⚙️ **Execution Systems** | Closing the loop—transforming reasoning into deterministic optimization, compliance mapping, and real-world action. | Deterministic Solvers, Combinatorial Governance, Strict Pydantic Output Contracts | `agentic-energy-grid-balancer`, `agentic-medicare-auth`, `generative-dynamic-ad-renderer`, `realtime-intent-transformer` |
+| 🧬 **Frontier Research** | Experimental systems pushing beyond standard computational paradigms and RAG pipelines. | Flow Matching, Generative Bio-Molecular Design | `protein-binder-flow` |
 
 ---
 
 ## 🔍 Categorization Signals
 
-| Signal | Description |
-|---|---|
-| **Input type** | Text, vision, telemetry, graphs, or time-series |
-| **Primary function** | Extract, reason, orchestrate, coordinate, predict, or execute |
-| **Control style** | Deterministic, agentic, probabilistic, hybrid |
-| **Core algorithm** | Graph reasoning, optimization, forecasting, game theory, fine-tuning |
-| **System role** | Perception → Reasoning → Orchestration → Agentic → Temporal → Execution |
-
+| Signal | Description | Example Application |
+|---|---|---|
+| **Input type** | The raw medium the system ingests: Text, vision, spatial telemetry, graphs, or time-series streams. | *HL7 FHIR clinical streams or real-time YOLO pose kinematics.* |
+| **Primary function** | The system's core verb: Extract, reason, plan, coordinate, forecast, or actuate. | *Dynamically calling a clinical API to verify a hypothesis.* |
+| **Control style** | The governance mechanism: Deterministic, probabilistic, agentic swarm, or hybrid neuro-symbolic. | *A Type-6 Neuro-Symbolic architecture with strict safety guardrails.* |
+| **Core algorithm** | The underlying mathematics or pattern: Graph traversal, flow matching, combinatorial optimization, or Nash equilibria. | *Simulating non-cooperative ad-bidding markets via Nash Equilibrium.* |
+| **System role** | The project's position in the intelligence stack: **Perception → Reasoning & Planning → Orchestration → Prediction → Execution**. | *Transforming a probabilistic diagnosis into a deterministic, real-world treatment plan.* |
 ## Perception — Data Extraction from the Real World
 
 #### *Systems that convert unstructured text, images, motion, and clinical streams into machine-readable representations.*
