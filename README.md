@@ -41,20 +41,17 @@ It is a **composable intelligence stack** — a portfolio of systems that transf
 This composable intelligence stack  is organized by **capability layer** rather than by domain.  
 The goal is to show how each project contributes to a larger agentic intelligence stack: perception → reasoning & Planing → orchestration → prediction → execution → frontier research.
 
-<p align="center">
-  <img src="assets/capability_map.png" alt="Capability Map" width="850px">
-</p>
-
 ## ✨ Capability Architecture
 
 | Capability Layer | Semantic Meaning | Dominant Architecture / Core Stack | Representative Projects |
 |---|---|---|---|
 | 👁️ **Perception Systems** | Transforming unstructured raw signals (text, vision, kinematics) into structured, machine-readable representations. | Computer Vision, LoRA, YOLOv11-Pose, Temporal Action Modeling | `bionlp-llama3-service`, `surgical-vision-copilot`, `spatial-event-detector`, `edge-fall-detector` |
-| 🧠 **Reasoning & Planning** | Autonomous engines that ground knowledge, validate logic, and dynamically plan multi-step workflows using symbolic tools. | Neuro-Symbolic AI, MCP Tooling, GraphRAG, Parameter-Efficient Fine-Tuning | `AXIOMIS (MedriX)`, `clinical-differential-copilot`, `autonomous-research-synthesizer`, `speculative-clinical-graphrag`, `MedGemma-4B-IT Alignment` |
-| ✨ **Orchestration** | Coordinating distributed multi-agent swarms, resolving conflicts, and managing complex simulated environments. | Multi-Agent Frameworks (CrewAI, LangGraph), RLlib, Game Theory (Nash) | `enterprise-intelligence-crew`, `agentic-nash-marketing`, `autonomous-procurement-swarm`, `smart-city-traffic` |
-| ⏱️ **Prediction** | Temporal modeling, forecasting, and anticipating trajectories before they happen. | Foundation Time-Series Models, Transformers, High-Frequency Telemetry | `zero-shot-demand-foundation`, `icu-vitals-transformer` |
-| ⚙️ **Execution Systems** | Closing the loop—transforming reasoning into deterministic optimization, compliance mapping, and real-world action. | Deterministic Solvers, Combinatorial Governance, Strict Pydantic Output Contracts | `agentic-energy-grid-balancer`, `agentic-medicare-auth`, `generative-dynamic-ad-renderer`, `realtime-intent-transformer` |
-| 🧬 **Frontier Research** | Experimental systems pushing beyond standard computational paradigms and RAG pipelines. | Flow Matching, Generative Bio-Molecular Design | `protein-binder-flow` |
+| 🧠 **Reasoning & Planning** | Grounding knowledge, validating logic, and dynamically planning multi-step workflows. | Neuro-Symbolic AI, RAG, vLLM, Prompt Engineering | `AXIOMIS (MedriX) Core`, `clinical-differential-copilot`, `speculative-clinical-graphrag` |
+| ✨ **Orchestration** | Coordinating distributed multi-agent swarms, resolving conflicts, and managing control flow. | Multi-Agent Frameworks (CrewAI, LangGraph), RLlib, Game Theory (Nash) | `enterprise-intelligence-crew`, `agentic-nash-marketing`, `autonomous-procurement-swarm`, `smart-city-traffic` |
+| 🔮 **Simulation & Forecasting** | Modeling counterfactuals, anticipating outcomes, and assessing trajectory risks prior to execution. | Foundation Time-Series Models, Digital Twins, Monte Carlo Simulation | `zero-shot-demand-foundation`, `icu-vitals-transformer`, `sentiment-market-maker`, `recipe-optimization-engine` |
+| ⚙️ **Execution Systems** | Closing the loop—transforming reasoning into deterministic optimization, programmatic API calls, and real-world action. | Deterministic Solvers, Combinatorial Governance, Strict Pydantic Guardrails | `agentic-medicare-auth`, `agentic-energy-grid-balancer`, `generative-dynamic-ad-renderer`, `realtime-intent-transformer` |
+| 🔄 **Observability & Feedback** | Monitoring system drift, validating safety bounds, fine-tuning for alignment, and triggering autonomous re-reasoning. | OpenTelemetry, Unsloth Parameter-Efficient FT, Automated Validation Loops | `AXIOMIS (Action-Aware Loop)`, `MedGemma-4B-IT Alignment`, `clinical-agent-eval-harness` |
+| 🧬 **Frontier Research** | Experimental architectures pushing beyond standard computational paradigms and commercial LLM pipelines. | Flow Matching, Generative Bio-Molecular Design, Advanced PyTorch | `protein-binder-flow` |
 
 ---
 
@@ -62,11 +59,11 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 | Signal | Description | Example Application |
 |---|---|---|
-| **Input type** | The raw medium the system ingests: Text, vision, spatial telemetry, graphs, or time-series streams. | *HL7 FHIR clinical streams or real-time YOLO pose kinematics.* |
-| **Primary function** | The system's core verb: Extract, reason, plan, coordinate, forecast, or actuate. | *Dynamically calling a clinical API to verify a hypothesis.* |
-| **Control style** | The governance mechanism: Deterministic, probabilistic, agentic swarm, or hybrid neuro-symbolic. | *A Type-6 Neuro-Symbolic architecture with strict safety guardrails.* |
-| **Core algorithm** | The underlying mathematics or pattern: Graph traversal, flow matching, combinatorial optimization, or Nash equilibria. | *Simulating non-cooperative ad-bidding markets via Nash Equilibrium.* |
-| **System role** | The project's position in the intelligence stack: **Perception → Reasoning & Planning → Orchestration → Prediction → Execution**. | *Transforming a probabilistic diagnosis into a deterministic, real-world treatment plan.* |
+| **Input Type** | The raw medium the system ingests: Text, vision, spatial telemetry, graphs, or time-series streams. | *HL7 FHIR clinical streams or real-time YOLO pose kinematics.* |
+| **Primary Function** | The system's core verb: Extract, reason, plan, coordinate, forecast, or actuate. | *Dynamically calling an insurance API to verify an agentic hypothesis.* |
+| **Control Style** | The governance mechanism: Deterministic, probabilistic, agentic swarm, or hybrid neuro-symbolic. | *A Type-6 Neuro-Symbolic architecture with strict clinical safety guardrails.* |
+| **Core Algorithm** | The underlying mathematics or pattern: Graph traversal, flow matching, combinatorial optimization, or Nash equilibria. | *Simulating non-cooperative ad-bidding markets via Nash Equilibrium.* |
+| **System Role** | The project's position in the closed-loop intelligence stack. | *Transforming a probabilistic medical diagnosis into a deterministic, real-world treatment regimen.* |
 
 
 ## 🔮 Perception — Data Extraction from the Real World
@@ -270,7 +267,38 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Progress tracking agent measures mastery and retention trends  
 
 ---
+## 🔮 Simulation & Forecasting
+*Modeling counterfactuals ("what-if"), predicting temporal trajectories, and assessing risks before execution.*
+### [Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  🏆🏆🏆 
+***Predictive supply-chain telemetry pipeline***  
+***Amazon Chronos-2, Google TimesFM 2.5, Hugging Face***  
+🟢 `Active` • ⏱️ `Temporal Forecasting`  
 
+**Architecture insight**  
+- Moves beyond traditional ARIMA and LSTM-based forecasting  
+- Uses foundation models for long-context temporal reasoning  
+- Incorporates exogenous signals for improved demand prediction  
+- Enables zero-shot forecasting across unseen domains  
+
+
+### [ICU Vitals Transformer](#)  🏆
+***Transformer-based ICU vitals forecaster***  
+***TimesFM 2.5, PatchTST, Kafka, FastAPI, WebSockets***  
+🟡 `Coming Soon` • 🏥 `Clinical Temporal Monitoring`  
+
+**Architecture insight**  
+- Ingests high-frequency physiological streams via HL7 FHIR gateway  
+- Converts real-time vitals into structured forecasting windows  
+- Designed for early warning of patient deterioration  
+- Supports continuous temporal reasoning over ICU trajectories
+
+### [Sentiment Market Maker](#) 
+***Liquidity simulation and market order book balancing***
+***NumPy, SciPy, High-Frequency Telemetry***
+🔒 `PRIVATE` • 📈 `FINANCIAL SIMULATION`
+
+
+---
 
 ## 🔮 Execution Systems — Closing the Loop in the Real World
 
@@ -330,37 +358,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Designed for continuous personalization loops  
 
 ---
-## 🔮 Temporal Intelligence — Prediction & Foresight
 
-### *Systems that model time, anticipate outcomes, and enable proactive decision-making.*
-
-
-
-### [Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  🏆🏆🏆 
-***Predictive supply-chain telemetry pipeline***  
-***Amazon Chronos-2, Google TimesFM 2.5, Hugging Face***  
-🟢 `Active` • ⏱️ `Temporal Forecasting`  
-
-**Architecture insight**  
-- Moves beyond traditional ARIMA and LSTM-based forecasting  
-- Uses foundation models for long-context temporal reasoning  
-- Incorporates exogenous signals for improved demand prediction  
-- Enables zero-shot forecasting across unseen domains  
-
-
-
-### [ICU Vitals Transformer](#)  🏆
-***Transformer-based ICU vitals forecaster***  
-***TimesFM 2.5, PatchTST, Kafka, FastAPI, WebSockets***  
-🟡 `Coming Soon` • 🏥 `Clinical Temporal Monitoring`  
-
-**Architecture insight**  
-- Ingests high-frequency physiological streams via HL7 FHIR gateway  
-- Converts real-time vitals into structured forecasting windows  
-- Designed for early warning of patient deterioration  
-- Supports continuous temporal reasoning over ICU trajectories  
-
----
 ## 🧬 Frontier Research — Beyond Conventional AI
 
 Systems that push beyond standard LLM/RAG pipelines into new computational frontiers.
