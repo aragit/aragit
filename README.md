@@ -89,14 +89,14 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 ### [- Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
 **Real-time patient fall detection on edge devices**
-> `YOLOv11-Pose`, `TensorRT`, `MQTT`, `OpenCV`  
-> 🟢 `ACTIVE` • 🔒 `EDGE SAFETY SYSTEM`     
+> `YOLOv11-Pose` `TensorRT` `MQTT` `OpenCV`  
+> 🟢 ACTIVE` • 🔒 EDGE SAFETY SYSTEM     
 
 ### [- Surgical Vision Copilot](https://github.com/aragit/surgical-vision-copilot) 🏆 
 **Real-time surgical understanding with vision-language models** 
-> `Video-LLaVA` `OpenCV` `Temporal` `Action Modeling`          
+> `Video-LLaVA` `OpenCV` `Temporal` `Action Modeling`                   
 > 🟢 ACTIVE • 🧪 VISION PERCEPTION SYSTEM
-   
+    
 
 <details>
 <summary>🔥 MORE PERCEPTION SOLUTIONS</summary>
@@ -104,7 +104,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ### [- Spatial Event Detector](https://github.com/aragit/spatial-event-detector)
 **Kinematic telemetry → structured motion event extraction**
 > `YOLOv11-Pose` `OpenCV` `NumPy`
-> 🟢 `ACTIVE` • ⚙️ `MOTION PERCEPTION SYSTEM`
+> 🟢 ACTIVE • ⚙️ MOTION PERCEPTION SYSTEM
 
 </details>
 
