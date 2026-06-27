@@ -189,7 +189,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 ---                 
 
 
-## 🔮 Agentic Orchestration & Autonomy
+## 🔮 Orchestration & Autonomy
 
 ### *These systems coordinate multiple agents, strategies, and tools to act in dynamic environments.*
 
@@ -233,11 +233,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 <details>
 
-<summary>
-
-### 🔥 MORE PERCEPTION SYSTEMS
-
-</summary>
+<summary>🔥 MORE ORCHESTRATION SOLUTIONS</summary>
 
 
 
@@ -295,11 +291,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 <details>
 
-<summary>
-
-### 🔥 MORE PERCEPTION SYSTEMS
-
-</summary>
+<summary>🔥 MORE SIMULATION SYSTEMS</summary>
 ### [Sentiment Market Maker](#) 
 ***Liquidity simulation and market order book balancing***
 ***NumPy, SciPy, High-Frequency Telemetry***
@@ -308,8 +300,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 </details>
 ---
 
-## 🔮 Execution Systems — Closing the Loop in the Real World
-
+## 🔮 Execution 
 ### *Systems that transform inference into measurable business or clinical action.*
 
 ### [Agentic Energy Grid Balancing System](https://github.com/aragit/agentic-energy-grid-balancer) 🏆🏆🏆
@@ -351,8 +342,8 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Maintains dense behavioral memory across interactions  
 - Triggers contextual interventions based on inferred intent  
 - Enables adaptive real-time commerce optimization  
-
-
+<details
+<summary>🔥 MORE EXECUTION SOLUTIONS</summary>
 
 ### [Generative Dynamic Ad Renderer](mailto:anicomanesh@gmail?subject=Access%20Request%3A%20generative-dynamic-ad-renderer)  🏆 
 ***Telemetry-driven ad generation pipeline***  
@@ -364,7 +355,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Connects inference pipelines directly to media rendering systems  
 - Enables real-time adaptive advertising generation  
 - Designed for continuous personalization loops  
-
+</details>
 ---
 
 ## 🧬 Frontier Research — Beyond Conventional AI
