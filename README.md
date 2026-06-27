@@ -95,7 +95,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 <summary>
 
-### 🔥 More Perception Systems
+### 🔥 MORE PERCEPTION SYSTEMS
 
 </summary>
 
@@ -149,7 +149,11 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Improves structured clinical response generation  
 <br>
 <details>
-<summary><b>📂 More Perception Systems...</b></summary>
+<summary>
+
+### 🔥 MORE REASONING SOLUTIONS
+
+</summary>
 ### [Autonomous Research Synthesizer](https://github.com/aragit/autonomous-research-synthesizer) 🏆🏆
 
 ***Self-Directed Scientific Discovery Engine via Type 6 Architecture***
