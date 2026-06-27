@@ -101,8 +101,6 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 </details>
 
-<br>
-
 ---
 
 
@@ -144,7 +142,7 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Efficient 4-bit parameter fine-tuning for reasoning behavior  
 - Maps diagnostic reasoning patterns into model weights  
 - Improves structured clinical response generation  
-
+<br>
 <details>
 <summary><b>📂 More Perception Systems...</b></summary>
 ### [Autonomous Research Synthesizer](https://github.com/aragit/autonomous-research-synthesizer) 🏆🏆
