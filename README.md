@@ -67,10 +67,10 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 | **Control style** | The governance mechanism: Deterministic, probabilistic, agentic swarm, or hybrid neuro-symbolic. | *A Type-6 Neuro-Symbolic architecture with strict safety guardrails.* |
 | **Core algorithm** | The underlying mathematics or pattern: Graph traversal, flow matching, combinatorial optimization, or Nash equilibria. | *Simulating non-cooperative ad-bidding markets via Nash Equilibrium.* |
 | **System role** | The project's position in the intelligence stack: **Perception → Reasoning & Planning → Orchestration → Prediction → Execution**. | *Transforming a probabilistic diagnosis into a deterministic, real-world treatment plan.* |
-## Perception — Data Extraction from the Real World
 
 
-##[x] Perception
+## **Perception — Data Extraction from the Real World**
+
 #### *Systems that convert unstructured text, images, motion, and clinical streams into machine-readable representations.*
 
 
