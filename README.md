@@ -77,10 +77,9 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 | **System Role** | The project's position in the closed-loop intelligence stack. | *Transforming a probabilistic medical diagnosis into a deterministic, real-world treatment regimen.* |
 
 
-## 🔮 Perception — Data Extraction from the Real World
+---
 
-#### Systems that convert unstructured text, images, motion, and clinical streams into machine-readable representations.
-
+## 🏥 Healthcare & Clinical
 
 ### [- BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 🏆  
 **Clinical entity extraction from EHR pipelines**
@@ -96,35 +95,6 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 **Real-time surgical understanding with vision-language models** 
 > `Video-LLaVA` `OpenCV` `Temporal` `Action Modeling`                   
 > 🟢 ACTIVE • 🧪 VISION PERCEPTION SYSTEM
-    
-
-<details>
-<summary>🔥 MORE PERCEPTION SOLUTIONS</summary>
-
-### [- Spatial Event Detector](https://github.com/aragit/spatial-event-detector)
-**Kinematic telemetry → structured motion event extraction**
-> `YOLOv11-Pose` `OpenCV` `NumPy`         
-> 🟢 ACTIVE • ⚙️ MOTION PERCEPTION SYSTEM
-
-</details>
-
----
-
- 
-## 🔮 Reasoning & Planning
-
-#### Autonomous engines that ground knowledge, validate logic, and dynamically plan multi-step workflows using symbolic tools.
-
-
-### [- Speculative Graph RAG](https://github.com/aragit/speculative-clinical-graphrag)  🏆🏆🏆  
-**Self-correcting clinical knowledge core**  
-> LlamaIndex, Neo4j, vLLM, DeepSeek-R1      
-> 🟢 `ACTIVE` • 🧠 `CORE REASONING SYSTEM`
-
-**Architecture insight**  
-- Combines graph-based retrieval with structured verification  
-- Validates extracted clinical pathways against medical taxonomies  
-- Reduces hallucination via grounded reasoning constraints  
 
 ### [Clinical Differential Diagnosis Copilot](https://github.com/aragit/clinical-differential-copilot) 🏆🏆🏆
 
@@ -138,151 +108,16 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - **Epistemic Confidence Scoring:** Each tool output is tagged with uncertainty metadata. The LLM performs meta-reasoning over confidence scores to determine when sufficient evidence exists or additional testing is required.
 - **L2 Symbolic Safety Boundary:** Final differential passes through a deterministic verifier ensuring all positive findings are addressed, no contraindicated diagnoses are suggested, and confidence thresholds meet institutional policy before human review.
 
-### [DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)  🏆🏆 
-**Medical chain-of-thought LoRA alignment pipeline** 
-> Unsloth, PyTorch, Hugging Face, TRL          
-> 🟢 `ACTIVE` • ⚙️ `REASONING OPTIMIZATION LAYER`
+### [- Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)  🏆🏆 
+**Agentic prior authorization engine**  
+> EHR ingestion, CMS policy mapping, document automation     
+> 🔒 `Private` • 🏥 `Healthcare Execution`     
 
 **Architecture insight**  
-- Efficient 4-bit parameter fine-tuning for reasoning behavior  
-- Maps diagnostic reasoning patterns into model weights  
-- Improves structured clinical response generation  
-  
-<details>
-<summary>🔥 MORE PERCEPTION SOLUTIONS</summary>
-
-### [Autonomous Research Synthesizer](https://github.com/aragit/autonomous-research-synthesizer) 🏆🏆
-
-**Self-Directed Scientific Discovery Engine via Type 6 Architecture**
-> Gemini 3 Pro, MCP, Semantic Scholar API, E2B Sandbox, Jupyter Kernel, Neo4j Citation Graph - CI/CD   
-> 🔒 `PRIVATE` • 📚 `Scientific Research` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
-
-**Architecture Insight** - **Type 6 Hybrid Framework:** Neural primary controller plans multi-step research workflows, dynamically calling symbolic tools for computation, retrieval, and verification — adapting strategy based on intermediate results.
-- **Opportunistic Research Planning:** The LLM decomposes open-ended research questions into sub-goals, decides which literature APIs to query (PubMed, Semantic Scholar, bioRxiv, arXiv), and adapts when sources conflict or gaps emerge — no static retrieval pipeline.
-- **Reproducible Analysis Execution:** E2B-sandboxed Jupyter kernel executes Python/R statistical analyses on raw datasets (GEO, Figshare) with full provenance tracking. The LLM generates analysis code, interprets outputs, and decides whether to re-run with modified parameters.
-- **Cross-Modal Synthesis:** Native multimodal reasoning over text, tables, figures, and code. The LLM decides when to regenerate visualizations, when to query structured databases, and when to perform citation verification via Crossref DOI resolution.
-- **L2 Symbolic Validation Boundary:** Citation verifier ensures all claims are grounded in retrieved sources. Conflict detector flags contradictory findings across papers. Human-in-the-loop gate for conclusions with >3 standard deviation novelty scores.
-
-
-### [- Agentic Research Paper Review & Synthesis Swarm](#)  
-**Multi-agent scientific reasoning and literature synthesis system**  
-> ArXiv API, claim extraction, contradiction detection, graph reasoning         
-> 🔵 `CONCEPT` • 📚 `RESEARCH REASONING LAYER`
-
-**Architecture insight**  
-- Ingestion agents structure academic papers into claims  
-- Verification agents cross-check citations and evidence  
-- Conflict agents detect contradictions across literature  
-- Synthesis agent generates research gap analysis and summaries  
-
-
-### [- Regulatory Intelligence Agent](https://github.com/aragit/regulatory-intelligence-agent) 🏆🏆🏆 
-**Autonomous Compliance Monitoring Engine via Type 6 Neuro-Symbolic Architecture**
-> Claude Opus 4.6, MCP, Neo4j Policy Graph, QuantLib, SEC EDGAR API, OpenTelemetry - CI/CD       
-> 🔒 `PRIVATE` • 🏦 `FinTech / RegTech` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
-
-**Architecture Insight** - **Type 6 Hybrid Framework:** Neural primary controller monitors regulatory landscapes, dynamically orchestrating symbolic tools for impact quantification, policy tracing, and stakeholder notification — reasoning across jurisdictions and business lines.
-- **Cross-Domain Regulatory Reasoning:** The LLM reads unstructured regulatory text (SEC, FINRA, ECB, FCA), identifies affected internal policies via Neo4j knowledge graph traversal, and decides which risk models require re-validation — interpreting intent beyond keyword matching.
-- **Dynamic Impact Quantification:** Monte Carlo simulation (QuantLib) runs only when the LLM determines quantitative impact is material. The LLM decides simulation parameters, interprets tail-risk outputs, and decides whether to escalate to human risk officers.
-- **Multi-Channel Orchestration:** The LLM decides notification strategy — which trading desks (Slack), which compliance officers (email), which legal teams (Jira) — based on policy graph analysis of organizational ownership and historical response patterns.
-- **L2 Symbolic Audit Boundary:** Every regulatory text → tool call → output decision is fully traced (OpenTelemetry). Deterministic policy verifier ensures no recommendation violates hard constraints (capital requirements, position limits, blackout periods). Immutable audit trail for regulator examination.
-
-</details>
-
----                 
-
-
-## 🔮 Orchestration & Autonomy
-
-#### These systems coordinate multiple agents, strategies, and tools to act in dynamic environments.
-
-
-### [Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main) 🏆 
-**Autonomous content lifecycle platform**  
-> CrewAI, LangChain/LangGraph, Pydantic, ChromaDB              
-> 🟢 `Active` • ⚙️ `Multi-agent Orchestration`  
-
-**Architecture insight**  
-- Hierarchical multi-agent workflow with structured delegation  
-- Specialized agents for trend research, risk analysis, and content generation  
-- Memory synchronization across task pipelines  
-- Enforced schema validity via Pydantic output contracts  
-
-
-
-### [- Nash Marketing Agents](https://github.com/aragit/agentic-nash-marketing)  🏆🏆🏆  
-**Multi-agent competitive market simulation engine**   
-> NumPy, SciPy, SQLite/PostgreSQL, FastAPI, Pydantic, SQLAlchemy, Docker, pytest          
-> 🟢 `Active` • 🎯 `Strategic Decision Simulation`      
-
-**Architecture insight**  
-- Models non-cooperative advertising markets using Nash equilibria  
-- Simulates autonomous brand agents under budget constraints  
-- Prevents resource collapse in competitive bidding environments  
-- Enables pre-deployment experimentation of marketing strategies  
-
-
-
-### [- Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm) 🏆  
-**Multi-agent contract negotiation swarm**     
-> Ray/RLlib, CrewAI, vLLM          
-> 🟢 `Active` • 🤝 `Decentralized Negotiation`  
-
-**Architecture insight**  
-- Buyer and seller agents autonomously negotiate contracts  
-- Reinforcement learning used for adaptive bargaining strategies  
-- Simulates pricing pressure, inventory constraints, and risk factors  
-- Designed for adversarial yet cooperative economic environments  
-
-<details>
-
-<summary>🔥 MORE ORCHESTRATION SOLUTIONS</summary>
-
-
-
-### [- Agentic Smart City Traffic Optimization](#)  🏆 
-**Multi-agent traffic signal and routing optimizer**  
-> Graph networks, city simulation, intersection agents, routing optimization        
-> 🔵 `Concept` • 🚦 `Urban Coordination`  
-
-**Architecture insight**  
-- Intersection agents negotiate real-time signal timing  
-- Transit agents optimize passenger flow across networks  
-- Emergency agents override routing for critical response vehicles  
-- Global orchestrator resolves congestion and systemic deadlocks  
-
-
-
-
-### [- Agentic Educational Tutoring Swarm](#)  🏆🏆
-**Adaptive tutoring system with concept mastery modeling**      
-> Knowledge graphs, tutoring agents, adaptive questioning, progress tracking      
-> 🔵 `Concept` • 🎓 `Adaptive Learning`  
-
-**Architecture insight**  
-- Assessment agents identify knowledge gaps dynamically  
-- Subject-specific agents provide targeted instruction  
-- Pedagogy agent adapts teaching strategy per learner profile  
-- Progress tracking agent measures mastery and retention trends  
-</details>
-
----
-
-## 🔮 Simulation & Forecasting
-
-#### Modeling counterfactuals ("what-if"), predicting temporal trajectories, and assessing risks before execution.
-
-### [- Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  🏆🏆🏆 
-**Predictive supply-chain telemetry pipeline**     
-> Amazon Chronos-2, Google TimesFM 2.5, Hugging Face     
-> 🟢 `Active` • ⏱️ `Temporal Forecasting`     
-
-**Architecture insight**  
-- Moves beyond traditional ARIMA and LSTM-based forecasting  
-- Uses foundation models for long-context temporal reasoning  
-- Incorporates exogenous signals for improved demand prediction  
-- Enables zero-shot forecasting across unseen domains  
-
+- Maps clinical evidence against regulatory requirements  
+- Generates structured authorization submissions automatically  
+- Reduces administrative overhead in healthcare workflows  
+- Optimized for compliance-heavy decision environments  
 
 ### [- ICU Vitals Transformer](#)  🏆
 **Transformer-based ICU vitals forecaster**      
@@ -296,20 +131,60 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - Supports continuous temporal reasoning over ICU trajectories
 
 <details>
+<summary>🔥 MORE HEALTHCARE SOLUTIONS</summary>
 
-<summary>🔥 MORE SIMULATION SYSTEMS</summary>
-
-### [- Sentiment Market Maker](#) 
-**Liquidity simulation and market order book balancing**
-> NumPy, SciPy, High-Frequency Telemetry    
-> 🔒 `PRIVATE` • 📈 `FINANCIAL SIMULATION`
+### [- Spatial Event Detector](https://github.com/aragit/spatial-event-detector)
+**Kinematic telemetry → structured motion event extraction**
+> `YOLOv11-Pose` `OpenCV` `NumPy`         
+> 🟢 ACTIVE • ⚙️ MOTION PERCEPTION SYSTEM
 
 </details>
 
 ---
 
-## 🔮 Execution 
-#### Systems that transform inference into measurable business or clinical action.
+## 🎯 Marketing & Advertising
+
+### [- Nash Marketing Agents](https://github.com/aragit/agentic-nash-marketing)  🏆🏆🏆  
+**Multi-agent competitive market simulation engine**   
+> NumPy, SciPy, SQLite/PostgreSQL, FastAPI, Pydantic, SQLAlchemy, Docker, pytest          
+> 🟢 `Active` • 🎯 `Strategic Decision Simulation`      
+
+**Architecture insight**  
+- Models non-cooperative advertising markets using Nash equilibria  
+- Simulates autonomous brand agents under budget constraints  
+- Prevents resource collapse in competitive bidding environments  
+- Enables pre-deployment experimentation of marketing strategies  
+
+### [- Real-Time Intent Transformer](https://github.com/aragit/real-time-intent-transformer)  🏆
+**Session-based e-commerce intent telemetry engine**     
+> Clickstream ingestion, behavioral modeling, real-time inference
+> 🟢 `Active`  • 🛒 `Commerce Execution`  
+
+**Architecture insight**  
+- Interprets live user sessions into actionable intent signals  
+- Maintains dense behavioral memory across interactions  
+- Triggers contextual interventions based on inferred intent  
+- Enables adaptive real-time commerce optimization
+
+<details>
+<summary>🔥 MORE MARKETING SOLUTIONS</summary>
+
+### [- Generative Dynamic Ad Renderer](mailto:anicomanesh@gmail?subject=Access%20Request%3A%20generative-dynamic-ad-renderer)  🏆 
+**Telemetry-driven ad generation pipeline**  
+> LLM generation, behavioral signals, rendering automation       
+> 🔒 `Private` • 🎯 `Media Execution`      
+
+**Architecture insight**  
+- Converts user behavioral signals into generated creative content  
+- Connects inference pipelines directly to media rendering systems  
+- Enables real-time adaptive advertising generation  
+- Designed for continuous personalization loops  
+
+</details>
+
+---
+
+## ⚡ Energy & Utilities
 
 ### [- Agentic Energy Grid Balancing System](https://github.com/aragit/agentic-energy-grid-balancer) 🏆🏆🏆
 
@@ -323,55 +198,113 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 - **Deterministic Market Clearing:** Multi-agent supply and demand bids resolve through a formal, continuous double-sided auction engine to guarantee exact market clearing math.
 - **L6 Safety Governance:** The orchestrator runs an absolute physical guardrail loop, checking baseline line capacities and locking grid frequency within strict stability limits (±0.5 Hz).
 
+---
 
+## 🏦 Finance & RegTech
 
+### [- Regulatory Intelligence Agent](https://github.com/aragit/regulatory-intelligence-agent) 🏆🏆🏆 
+**Autonomous Compliance Monitoring Engine via Type 6 Neuro-Symbolic Architecture**
+> Claude Opus 4.6, MCP, Neo4j Policy Graph, QuantLib, SEC EDGAR API, OpenTelemetry - CI/CD       
+> 🔒 `PRIVATE` • 🏦 `FinTech / RegTech` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
 
-### [- Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)  🏆🏆 
-**Agentic prior authorization engine**  
-> EHR ingestion, CMS policy mapping, document automation     
-> 🔒 `Private` • 🏥 `Healthcare Execution`     
+**Architecture Insight** - **Type 6 Hybrid Framework:** Neural primary controller monitors regulatory landscapes, dynamically orchestrating symbolic tools for impact quantification, policy tracing, and stakeholder notification — reasoning across jurisdictions and business lines.
+- **Cross-Domain Regulatory Reasoning:** The LLM reads unstructured regulatory text (SEC, FINRA, ECB, FCA), identifies affected internal policies via Neo4j knowledge graph traversal, and decides which risk models require re-validation — interpreting intent beyond keyword matching.
+- **Dynamic Impact Quantification:** Monte Carlo simulation (QuantLib) runs only when the LLM determines quantitative impact is material. The LLM decides simulation parameters, interprets tail-risk outputs, and decides whether to escalate to human risk officers.
+- **Multi-Channel Orchestration:** The LLM decides notification strategy — which trading desks (Slack), which compliance officers (email), which legal teams (Jira) — based on policy graph analysis of organizational ownership and historical response patterns.
+- **L2 Symbolic Audit Boundary:** Every regulatory text → tool call → output decision is fully traced (OpenTelemetry). Deterministic policy verifier ensures no recommendation violates hard constraints (capital requirements, position limits, blackout periods). Immutable audit trail for regulator examination.
 
-**Architecture insight**  
-- Maps clinical evidence against regulatory requirements  
-- Generates structured authorization submissions automatically  
-- Reduces administrative overhead in healthcare workflows  
-- Optimized for compliance-heavy decision environments  
-
-
-
-### [- Real-Time Intent Transformer](https://github.com/aragit/real-time-intent-transformer)  🏆
-**Session-based e-commerce intent telemetry engine**     
-> Clickstream ingestion, behavioral modeling, real-time inference
-> 🟢 `Active`  • 🛒 `Commerce Execution`  
-
-**Architecture insight**  
-- Interprets live user sessions into actionable intent signals  
-- Maintains dense behavioral memory across interactions  
-- Triggers contextual interventions based on inferred intent  
-- Enables adaptive real-time commerce optimization
-  
-<details>
-<summary>🔥 MORE EXECUTION SOLUTIONS</summary>
-
-### [- Generative Dynamic Ad Renderer](mailto:anicomanesh@gmail?subject=Access%20Request%3A%20generative-dynamic-ad-renderer)  🏆 
-**Telemetry-driven ad generation pipeline**  
-> LLM generation, behavioral signals, rendering automation       
-> 🔒 `Private` • 🎯 `Media Execution`      
+### [- Sentiment Market Maker](#) 
+**Liquidity simulation and market order book balancing**
+> NumPy, SciPy, High-Frequency Telemetry    
+> 🔒 `PRIVATE` • 📈 `FINANCIAL SIMULATION`
 
 **Architecture insight**  
-- Converts user behavioral signals into generated creative content  
-- Connects inference pipelines directly to media rendering systems  
-- Enables real-time adaptive advertising generation  
-- Designed for continuous personalization loops
-  
-</details>
+- Counterfactual market simulation under varying liquidity conditions  
+- Order book balancing via stochastic differential equations  
+- Risk assessment prior to live trading execution  
 
 ---
 
-## 🧬 Frontier Research — Beyond Conventional AI
+## 📦 Supply Chain & Logistics
 
-#### Systems that push beyond standard LLM/RAG pipelines into new computational frontiers.
+### [- Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  🏆🏆🏆 
+**Predictive supply-chain telemetry pipeline**     
+> Amazon Chronos-2, Google TimesFM 2.5, Hugging Face     
+> 🟢 `Active` • ⏱️ `Temporal Forecasting`     
 
+**Architecture insight**  
+- Moves beyond traditional ARIMA and LSTM-based forecasting  
+- Uses foundation models for long-context temporal reasoning  
+- Incorporates exogenous signals for improved demand prediction  
+- Enables zero-shot forecasting across unseen domains  
+
+### [- Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm) 🏆  
+**Multi-agent contract negotiation swarm**     
+> Ray/RLlib, CrewAI, vLLM          
+> 🟢 `Active` • 🤝 `Decentralized Negotiation`  
+
+**Architecture insight**  
+- Buyer and seller agents autonomously negotiate contracts  
+- Reinforcement learning used for adaptive bargaining strategies  
+- Simulates pricing pressure, inventory constraints, and risk factors  
+- Designed for adversarial yet cooperative economic environments  
+
+---
+
+## 🏙️ Smart Cities & Urban Systems
+
+### [- Agentic Smart City Traffic Optimization](#)  🏆 
+**Multi-agent traffic signal and routing optimizer**  
+> Graph networks, city simulation, intersection agents, routing optimization        
+> 🔵 `Concept` • 🚦 `Urban Coordination`  
+
+**Architecture insight**  
+- Intersection agents negotiate real-time signal timing  
+- Transit agents optimize passenger flow across networks  
+- Emergency agents override routing for critical response vehicles  
+- Global orchestrator resolves congestion and systemic deadlocks  
+
+---
+
+## 🎓 Education & Research
+
+### [Autonomous Research Synthesizer](https://github.com/aragit/autonomous-research-synthesizer) 🏆🏆
+
+**Self-Directed Scientific Discovery Engine via Type 6 Architecture**
+> Gemini 3 Pro, MCP, Semantic Scholar API, E2B Sandbox, Jupyter Kernel, Neo4j Citation Graph - CI/CD   
+> 🔒 `PRIVATE` • 📚 `Scientific Research` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
+
+**Architecture Insight** - **Type 6 Hybrid Framework:** Neural primary controller plans multi-step research workflows, dynamically calling symbolic tools for computation, retrieval, and verification — adapting strategy based on intermediate results.
+- **Opportunistic Research Planning:** The LLM decomposes open-ended research questions into sub-goals, decides which literature APIs to query (PubMed, Semantic Scholar, bioRxiv, arXiv), and adapts when sources conflict or gaps emerge — no static retrieval pipeline.
+- **Reproducible Analysis Execution:** E2B-sandboxed Jupyter kernel executes Python/R statistical analyses on raw datasets (GEO, Figshare) with full provenance tracking. The LLM generates analysis code, interprets outputs, and decides whether to re-run with modified parameters.
+- **Cross-Modal Synthesis:** Native multimodal reasoning over text, tables, figures, and code. The LLM decides when to regenerate visualizations, when to query structured databases, and when to perform citation verification via Crossref DOI resolution.
+- **L2 Symbolic Validation Boundary:** Citation verifier ensures all claims are grounded in retrieved sources. Conflict detector flags contradictory findings across papers. Human-in-the-loop gate for conclusions with >3 standard deviation novelty scores.
+
+### [- Agentic Research Paper Review & Synthesis Swarm](#)  
+**Multi-agent scientific reasoning and literature synthesis system**  
+> ArXiv API, claim extraction, contradiction detection, graph reasoning         
+> 🔵 `CONCEPT` • 📚 `RESEARCH REASONING LAYER`
+
+**Architecture insight**  
+- Ingestion agents structure academic papers into claims  
+- Verification agents cross-check citations and evidence  
+- Conflict agents detect contradictions across literature  
+- Synthesis agent generates research gap analysis and summaries  
+
+### [- Agentic Educational Tutoring Swarm](#)  🏆🏆
+**Adaptive tutoring system with concept mastery modeling**      
+> Knowledge graphs, tutoring agents, adaptive questioning, progress tracking      
+> 🔵 `Concept` • 🎓 `Adaptive Learning`  
+
+**Architecture insight**  
+- Assessment agents identify knowledge gaps dynamically  
+- Subject-specific agents provide targeted instruction  
+- Pedagogy agent adapts teaching strategy per learner profile  
+- Progress tracking agent measures mastery and retention trends  
+
+---
+
+## 🧬 Computational Biology
 
 ### [- Protein Binder Flow](https://github.com/aragit/Flow-Matching-Protein-Binder-Generator)  🏆
 **Flow-matching protein binder generator**  
@@ -386,6 +319,42 @@ The goal is to show how each project contributes to a larger agentic intelligenc
 
 ---
 
+## 🧠 Cross-Domain Neuro-Symbolic Architecture
+
+> Projects that define the foundational neuro-symbolic stack and transfer across industries.
+
+### [- Speculative Graph RAG](https://github.com/aragit/speculative-clinical-graphrag)  🏆🏆🏆  
+**Self-correcting clinical knowledge core**  
+> LlamaIndex, Neo4j, vLLM, DeepSeek-R1      
+> 🟢 `ACTIVE` • 🧠 `CORE REASONING SYSTEM`
+
+**Architecture insight**  
+- Combines graph-based retrieval with structured verification  
+- Validates extracted clinical pathways against medical taxonomies  
+- Reduces hallucination via grounded reasoning constraints  
+
+### [DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)  🏆🏆 
+**Medical chain-of-thought LoRA alignment pipeline** 
+> Unsloth, PyTorch, Hugging Face, TRL          
+> 🟢 `ACTIVE` • ⚙️ `REASONING OPTIMIZATION LAYER`
+
+**Architecture insight**  
+- Efficient 4-bit parameter fine-tuning for reasoning behavior  
+- Maps diagnostic reasoning patterns into model weights  
+- Improves structured clinical response generation  
+
+### [Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main) 🏆 
+**Autonomous content lifecycle platform**  
+> CrewAI, LangChain/LangGraph, Pydantic, ChromaDB              
+> 🟢 `Active` • ⚙️ `Multi-agent Orchestration`  
+
+**Architecture insight**  
+- Hierarchical multi-agent workflow with structured delegation  
+- Specialized agents for trend research, risk analysis, and content generation  
+- Memory synchronization across task pipelines  
+- Enforced schema validity via Pydantic output contracts  
+
+---
 
 ## Vision: Aethron AI
 
@@ -489,11 +458,4 @@ Aethron AI focuses on deploying next-generation Agentic AI that doesn't just exi
 
 
 
-
-
-
-
-
-
----
 
