@@ -67,7 +67,9 @@
   </a>
 
 </div>
+
 ---
+
 # The Composable Intelligence Stack
 
 Over more than a decade of engineering high-stakes intelligence engines, my focus has shifted from standard deep learning models to engineering complete, deterministic-bounded cognitive workflows.
