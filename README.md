@@ -145,13 +145,20 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [ICU Vitals Transformer](#)  🏆
 **Transformer-based ICU vitals forecaster**      
 > TimesFM 2.5, PatchTST, Kafka, FastAPI, WebSockets  
-> 🟡 `Coming Soon` • 🏥 `Clinical Temporal Monitoring`  
+> 🟡 `Coming Soon` • 🏥 `Clinical Temporal Monitoring`
 
+
+<details>
+<summary>Architecture Insight</summary>
+  
 **Architecture insight**  
 - Ingests high-frequency physiological streams via HL7 FHIR gateway  
 - Converts real-time vitals into structured forecasting windows  
 - Designed for early warning of patient deterioration  
 - Supports continuous temporal reasoning over ICU trajectories
+
+</details>
+
 
 ### [Autonomous Lab Interpretation & Critical Value Triage Agent](https://github.com/aragit/lab-interpretation-triage-agent) 🏆🏆🏆
 
@@ -176,13 +183,19 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)  🏆🏆 
 **Agentic prior authorization engine**  
 > EHR ingestion, CMS policy mapping, document automation     
-> 🔒 `Private` • 🏥 `Healthcare Execution`     
+> 🔒 `Private` • 🏥 `Healthcare Execution`
+
+<details>
+<summary>Architecture Insight</summary>
 
 **Architecture insight**  
 - Maps clinical evidence against regulatory requirements  
 - Generates structured authorization submissions automatically  
 - Reduces administrative overhead in healthcare workflows  
 - Optimized for compliance-heavy decision environments
+
+</details>
+
 
 ### [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
 **Real-time patient fall detection on edge devices**
@@ -234,11 +247,16 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > LLM generation, behavioral signals, rendering automation       
 > 🔒 `Private` • 🎯 `Media Execution`      
 
+<details>
+<summary>Architecture Insight</summary>
+  
 **Architecture insight**  
 - Converts user behavioral signals into generated creative content  
 - Connects inference pipelines directly to media rendering systems  
 - Enables real-time adaptive advertising generation  
 - Designed for continuous personalization loops  
+
+</details>
 
 ---
 
@@ -292,12 +310,18 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > Claude Opus 4.6, MCP, Neo4j Policy Graph, QuantLib, SEC EDGAR API, OpenTelemetry - CI/CD       
 > 🔒 `PRIVATE` • 🏦 `FinTech / RegTech` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
 
+<details>
+<summary>Architecture Insight</summary>
+
+
 **Architecture Insight**
 - **Hybrid Framework:** Neural primary controller monitors regulatory landscapes, dynamically orchestrating symbolic tools for impact quantification, policy tracing, and stakeholder notification — reasoning across jurisdictions and business lines.
 - **Cross-Domain Regulatory Reasoning:** The LLM reads unstructured regulatory text (SEC, FINRA, ECB, FCA), identifies affected internal policies via Neo4j knowledge graph traversal, and decides which risk models require re-validation — interpreting intent beyond keyword matching.
 - **Dynamic Impact Quantification:** Monte Carlo simulation (QuantLib) runs only when the LLM determines quantitative impact is material. The LLM decides simulation parameters, interprets tail-risk outputs, and decides whether to escalate to human risk officers.
 - **Multi-Channel Orchestration:** The LLM decides notification strategy — which trading desks (Slack), which compliance officers (email), which legal teams (Jira) — based on policy graph analysis of organizational ownership and historical response patterns.
 - **L2 Symbolic Audit Boundary:** Every regulatory text → tool call → output decision is fully traced (OpenTelemetry). Deterministic policy verifier ensures no recommendation violates hard constraints (capital requirements, position limits, blackout periods). Immutable audit trail for regulator examination.
+
+</details>
 
 <details>
 <summary>🔥 MORE FINANCE SOLUTIONS</summary>
@@ -321,12 +345,18 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > Ollama (gemma3:1b / qwen2.5:0.5b), MCP, LangGraph, FastAPI, Pydantic v2, Neo4j, ChromaDB, Polars, loguru, prometheus-client, pytest — CI/CD     
 > 🟢 `Active` • 🏦 `RegTech / Compliance` • 🧠 `Neuro-Symbolic AI` • 🛡️ `Governance & Safety`
 
+<details>
+<summary>Architecture Insight</summary>
+
+
 **Architecture Insight**
 - **Hybrid Framework:** Symbolic primary execution engine (LangGraph state machine, OPA-inspired Python rule engine) embeds probabilistic neural subroutines (local LLM for semantic document chunking, obligation extraction, and policy-to-regulation mapping) — deterministic safety invariants are never overridden by neural output.
 - **Autonomous Gap Discovery:** The system ingests regulations (GDPR, HIPAA, SOC2) and company policies, extracts obligations via regex + heuristic + LLM fallback, and maps policy clauses to regulatory requirements using embedding similarity + LLM verification — no manual compliance checklist required.
 - **Dynamic Tool Orchestration:** 5 MCP-native microservices (regulation-fetcher, policy-parser, gap-analyzer, risk-scorer, report-generator) communicate via standardized tool protocol. Each service is independently containerized, horizontally scalable, and implements Pydantic-validated input/output schemas with full error handling.
 - **Weighted Risk Scoring:** Risk formula combines obligation priority (critical/high/medium/low), gap severity (missing=1.0, insufficient=0.7, wrong_scope=0.5), and exposure factors (company size, data sensitivity, jurisdiction) into a 0-100 quantitative score with category breakdown and trend analysis.
 - **Symbolic Safety Boundary:** Every audit decision is immutably logged in Neo4j with full provenance (regulation version, policy version, mapping scores, confidence levels). The rule engine enforces hard constraints: no gap with severity >0.8 can be marked "monitor" (must be "fix immediately"); no report can be generated with <75% mapping coverage; all LLM-verified mappings require human review if confidence <0.6. Compliance is not suggested — it is enforced.
+
+</details>
 
 </details>
 
