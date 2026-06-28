@@ -254,14 +254,18 @@ The result is a **genuinely transferable decision intelligence platform** with c
 <summary><b>🔥 MORE HEALTHCARE SOLUTIONS</b></summary>
 
 ### [Clinical Differential Diagnosis Copilot](https://github.com/aragit/clinical-differential-copilot) 🏆🏆🏆
+
 [![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
+
 **Autonomous Clinical Reasoning Engine**    
 > Claude 4.5 Sonnet, MCP, FHIR R4, SNOMED-CT, Clinical Calculators, LangSmith - CI/CD       
 > `Clinical Decision Support` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
 
 
 ### [Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)  🏆🏆 
+
 [![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
+
 **Agentic prior authorization engine**  
 > EHR ingestion, CMS policy mapping, document automation     
 > `Healthcare Execution`
@@ -278,7 +282,6 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 </details>
 
-[![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
 
 ### [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
 **Real-time patient fall detection on edge devices**
