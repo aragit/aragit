@@ -10,28 +10,28 @@
 
 <!-- SECTION 1: Capability Architecture (Icons + consistent dark-slate colors) -->
 <a href="https://github.com/aragit" aria-label="Compound AI systems">
-  <img src="https://img.shields.io/badge/Compound%20AI-064e3b?style=for-the-badge&logo=brain&logoColor=white" alt="Compound AI">
+  <img src="https://img.shields.io/badge/Compound%20AI-2e1065?style=for-the-badge&logo=brain&logoColor=white" alt="Compound AI">
 </a>
 <a href="https://github.com/aragit" aria-label="Multi-agent orchestration">
-  <img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-065f46?style=for-the-badge&logo=users&logoColor=white" alt="Multi-Agent Orchestration">
+  <img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-4c1d95?style=for-the-badge&logo=users&logoColor=white" alt="Multi-Agent Orchestration">
 </a>
 <a href="https://github.com/aragit" aria-label="Neuro-symbolic reasoning">
-  <img src="https://img.shields.io/badge/Neuro--Symbolic%20Reasoning-047857?style=for-the-badge&logo=git-merge&logoColor=white" alt="Neuro-Symbolic Reasoning">
+  <img src="https://img.shields.io/badge/Neuro--Symbolic%20Reasoning-5b21b6?style=for-the-badge&logo=git-merge&logoColor=white" alt="Neuro-Symbolic Reasoning">
 </a>
 <a href="https://github.com/aragit" aria-label="Governance engine">
-  <img src="https://img.shields.io/badge/Governance%20Engine-059669?style=for-the-badge&logo=shield-check&logoColor=white" alt="Governance Engine">
+  <img src="https://img.shields.io/badge/Governance%20Engine-6d28d9?style=for-the-badge&logo=shield-check&logoColor=white" alt="Governance Engine">
 </a>
 <a href="https://github.com/aragit" aria-label="Meta-cognition layer">
-  <img src="https://img.shields.io/badge/Meta--Cognition-10b981?style=for-the-badge&logo=chart-line&logoColor=white" alt="Meta-Cognition">
+  <img src="https://img.shields.io/badge/Meta--Cognition-7c3aed?style=for-the-badge&logo=chart-line&logoColor=white" alt="Meta-Cognition">
 </a>
 <a href="https://github.com/aragit" aria-label="Multi-modal perception">
-  <img src="https://img.shields.io/badge/Multi--Modal%20Perception-0f766e?style=for-the-badge&logo=eye&logoColor=white" alt="Multi-Modal Perception">
+  <img src="https://img.shields.io/badge/Multi--Modal%20Perception-4338ca?style=for-the-badge&logo=eye&logoColor=white" alt="Multi-Modal Perception">
 </a>
 <a href="https://github.com/aragit" aria-label="Elastic scalability">
-  <img src="https://img.shields.io/badge/Elastic%20Scalability-115e59?style=for-the-badge&logo=server&logoColor=white" alt="Elastic Scalability">
+  <img src="https://img.shields.io/badge/Elastic%20Scalability-3730a3?style=for-the-badge&logo=server&logoColor=white" alt="Elastic Scalability">
 </a>
 <a href="https://github.com/aragit" aria-label="MCP native protocol">
-  <img src="https://img.shields.io/badge/MCP%20Native-134e4a?style=for-the-badge&logo=exchange-alt&logoColor=white" alt="MCP Native">
+  <img src="https://img.shields.io/badge/MCP%20Native-1e1b4b?style=for-the-badge&logo=exchange-alt&logoColor=white" alt="MCP Native">
 </a>
 <br><br>
 
