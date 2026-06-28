@@ -8,37 +8,37 @@
 
 <div align="center">
 
-  <!-- SECTION 1: Capability Architecture (Your exact badges — unchanged) -->
+  <!-- SECTION 1: Capability Architecture (Icons + consistent dark-slate colors) -->
   <p><sub><b>CAPABILITY ARCHITECTURE</b></sub></p>
 
   <a href="https://github.com/aragit" aria-label="Compound AI systems">
-    <img src="https://img.shields.io/badge/Compound%20AI-111827?style=for-the-badge&logo=brain&logoColor=white" alt="Compound AI">
+    <img src="https://img.shields.io/badge/Compound%20AI-0f172a?style=for-the-badge&logo=brain&logoColor=white" alt="Compound AI">
   </a>
   <a href="https://github.com/aragit" aria-label="Multi-agent orchestration">
-    <img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-1e3a8a?style=for-the-badge&logo=users&logoColor=white" alt="Multi-Agent Orchestration">
+    <img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-1e293b?style=for-the-badge&logo=users&logoColor=white" alt="Multi-Agent Orchestration">
   </a>
   <a href="https://github.com/aragit" aria-label="Neuro-symbolic reasoning">
-    <img src="https://img.shields.io/badge/Neuro--Symbolic%20Reasoning-581c87?style=for-the-badge&logo=git-merge&logoColor=white" alt="Neuro-Symbolic Reasoning">
+    <img src="https://img.shields.io/badge/Neuro--Symbolic%20Reasoning-334155?style=for-the-badge&logo=git-merge&logoColor=white" alt="Neuro-Symbolic Reasoning">
   </a>
   <a href="https://github.com/aragit" aria-label="Governance engine">
-    <img src="https://img.shields.io/badge/Governance%20Engine-7f1d1d?style=for-the-badge&logo=shield-check&logoColor=white" alt="Governance Engine">
+    <img src="https://img.shields.io/badge/Governance%20Engine-1e3a8a?style=for-the-badge&logo=shield-check&logoColor=white" alt="Governance Engine">
   </a>
   <a href="https://github.com/aragit" aria-label="Meta-cognition layer">
-    <img src="https://img.shields.io/badge/Meta--Cognition-312e81?style=for-the-badge&logo=chart-line&logoColor=white" alt="Meta-Cognition">
+    <img src="https://img.shields.io/badge/Meta--Cognition-0f172a?style=for-the-badge&logo=chart-line&logoColor=white" alt="Meta-Cognition">
   </a>
   <a href="https://github.com/aragit" aria-label="Multi-modal perception">
-    <img src="https://img.shields.io/badge/Multi--Modal%20Perception-9a3412?style=for-the-badge&logo=eye&logoColor=white" alt="Multi-Modal Perception">
+    <img src="https://img.shields.io/badge/Multi--Modal%20Perception-1e293b?style=for-the-badge&logo=eye&logoColor=white" alt="Multi-Modal Perception">
   </a>
   <a href="https://github.com/aragit" aria-label="Elastic scalability">
-    <img src="https://img.shields.io/badge/Elastic%20Scalability-0f172a?style=for-the-badge&logo=server&logoColor=white" alt="Elastic Scalability">
+    <img src="https://img.shields.io/badge/Elastic%20Scalability-334155?style=for-the-badge&logo=server&logoColor=white" alt="Elastic Scalability">
   </a>
   <a href="https://github.com/aragit" aria-label="MCP native protocol">
-    <img src="https://img.shields.io/badge/MCP%20Native-064e3b?style=for-the-badge&logo=exchange-alt&logoColor=white" alt="MCP Native">
+    <img src="https://img.shields.io/badge/MCP%20Native-1e3a8a?style=for-the-badge&logo=exchange-alt&logoColor=white" alt="MCP Native">
   </a>
 
   <br><br>
 
-  <!-- SECTION 2: Shipped Architecture & Evidence (Your design style + consistent professional colors) -->
+  <!-- SECTION 2: Shipped Architecture & Evidence -->
   <p><sub><b>SHIPPED ARCHITECTURE & EVIDENCE</b></sub></p>
 
   <a href="https://github.com/aragit" aria-label="Type 2 neuro-symbolic system">
@@ -62,8 +62,8 @@
   <a href="https://github.com/aragit" aria-label="Microservices architecture">
     <img src="https://img.shields.io/badge/Architecture-Microservices-334155?style=for-the-badge&logo=docker&logoColor=white" alt="Microservices">
   </a>
-  <a href="https://github.com/aragit" aria-label="Local first inference with Ollama">
-    <img src="https://img.shields.io/badge/Inference-Local--First%20%7C%20Ollama-1e3a8a?style=for-the-badge&logo=ollama&logoColor=white" alt="Local-First | Ollama">
+  <a href="https://github.com/aragit" aria-label="Hybrid inference vLLM local and cloud API">
+    <img src="https://img.shields.io/badge/Inference-vLLM%20%7C%20Cloud%20%7C%20API-1e3a8a?style=for-the-badge&logo=ollama&logoColor=white" alt="Inference: vLLM | Cloud | API">
   </a>
 
 </div>
