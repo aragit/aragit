@@ -234,7 +234,8 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [Autonomous Lab Interpretation & Critical Value Triage Agent](https://github.com/aragit/lab-interpretation-triage-agent) 🌟🌟🌟
 **Context-Aware Laboratory Intelligence Engine**
 > Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, HL7 v2, LOINC, FastAPI, Pydantic, SQLite, pytest — CI/CD              
-> `Clinical Laboratory` • `Neuro-Symbolic AI` • `Critical Value Management`     
+> `Clinical Laboratory` • `Neuro-Symbolic AI` • `Critical Value Management`
+
 [![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
 
 
@@ -242,17 +243,14 @@ The result is a **genuinely transferable decision intelligence platform** with c
 <summary><b>🔥 MORE HEALTHCARE SOLUTIONS</b></summary>
 
 ### [Clinical Differential Diagnosis Copilot](https://github.com/aragit/clinical-differential-copilot) 🌟🌟🌟
-
-[![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
-
 **Autonomous Clinical Reasoning Engine**    
 > Claude 4.5 Sonnet, MCP, FHIR R4, SNOMED-CT, Clinical Calculators, LangSmith - CI/CD       
 > `Clinical Decision Support` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
 
+[![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
 
 ### [Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)  🌟🌟 
 
-[![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
 
 **Agentic prior authorization engine**  
 > EHR ingestion, CMS policy mapping, document automation     
@@ -270,6 +268,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 </details>
 
+[![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
 
 ### [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
 **Real-time patient fall detection on edge devices**
@@ -324,7 +323,6 @@ The result is a **genuinely transferable decision intelligence platform** with c
 </details>
 
 ### [Generative Dynamic Ad Renderer](mailto:anicomanesh@gmail?subject=Access%20Request%3A%20generative-dynamic-ad-renderer)  🌟🌟🌟
-`Request Access`
 **Telemetry-driven ad generation pipeline**  
 > LLM generation, behavioral signals, rendering automation       
 > 🔒 `Private` • `Media Execution`      
@@ -399,7 +397,6 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ## 🏦 Finance & RegTech
 
 ### [Regulatory Intelligence Agent](https://github.com/aragit/regulatory-intelligence-agent) 🌟🌟🌟     
-
 **Autonomous Compliance Monitoring Engine**
 > Claude Opus 4.6, MCP, Neo4j Policy Graph, QuantLib, SEC EDGAR API, OpenTelemetry - CI/CD       
 > 🔒 `PRIVATE` • `FinTech / RegTech` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
@@ -421,7 +418,6 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 <details>
 <summary>🔥 MORE FINANCE SOLUTIONS</summary>
-
 ### [Sentiment Market Maker](#) 
 **Liquidity simulation and market order book balancing**
 > NumPy, SciPy, High-Frequency Telemetry    
@@ -435,9 +431,6 @@ The result is a **genuinely transferable decision intelligence platform** with c
 [![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
 
 ### [MCP Compliance Kernel](https://github.com/aragit/mcp-compliance-kernel) 🌟🌟🌟   
-
-`Request Access`
-
 **Autonomous Regulatory Compliance Auditor via  Neuro-Symbolic Architecture**    
 > Ollama (gemma3:1b / qwen2.5:0.5b), MCP, LangGraph, FastAPI, Pydantic v2, Neo4j, ChromaDB, Polars, loguru, prometheus-client, pytest — CI/CD     
 > 🟢 `Active` • `RegTech / Compliance` • `Neuro-Symbolic AI` • `Governance & Safety`
@@ -484,9 +477,6 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ## 🎓 Education & Research
 
 ### [Autonomous Research Synthesizer](https://github.com/aragit/autonomous-research-synthesizer) 🌟🌟
-
-`Request Access`
-
 **Self-Directed Scientific Discovery Engine**
 > Gemini 3 Pro, MCP, Semantic Scholar API, E2B Sandbox, Jupyter Kernel, Neo4j Citation Graph - CI/CD   
 > 🔒 `PRIVATE` • `Scientific Research` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
