@@ -250,7 +250,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 [![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
 
 <details>
-<summary>🔥 MORE HEALTHCARE SOLUTIONS</summary>
+<summary><strong>🔥 MORE HEALTHCARE SOLUTIONS</strong>strong></summary>
 
 ### [Clinical Differential Diagnosis Copilot](https://github.com/aragit/clinical-differential-copilot) 🏆🏆🏆
 `Request Access`
