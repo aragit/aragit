@@ -424,17 +424,20 @@ The result is a **genuinely transferable decision intelligence platform** with c
 [![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
 
 
-<details>
-<summary>🔥 MORE FINANCE SOLUTIONS</summary>
 ### [Sentiment Market Maker](#) 
 **Liquidity simulation and market order book balancing**
 > NumPy, SciPy, High-Frequency Telemetry    
-> 🔒 `PRIVATE` • `FINANCIAL SIMULATION`
+> `FINANCIAL SIMULATION`
 
-**Architecture insight**  
+
+<details>
+<summary><b><i>Architecture Insight ...</i></b></summary>
+
 - Counterfactual market simulation under varying liquidity conditions  
 - Order book balancing via stochastic differential equations  
-- Risk assessment prior to live trading execution  
+- Risk assessment prior to live trading execution
+
+</details>
 
 [![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
 
@@ -456,7 +459,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 </details>
 
-</details>
+
 
 <br>
 
@@ -492,7 +495,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [Autonomous Research Synthesizer](https://github.com/aragit/autonomous-research-synthesizer) 🌟🌟
 **Self-Directed Scientific Discovery Engine**
 > Gemini 3 Pro, MCP, Semantic Scholar API, E2B Sandbox, Jupyter Kernel, Neo4j Citation Graph - CI/CD   
-> 🔒 `PRIVATE` • `Scientific Research` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
+> `Scientific Research` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
 
 <details>
 <summary><b><i>Architecture Insight ...</i></b></summary>
