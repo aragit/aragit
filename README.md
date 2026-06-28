@@ -297,8 +297,8 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ### [Real-Time Intent Transformer](https://github.com/aragit/real-time-intent-transformer)  🏆
 **Session-based e-commerce intent telemetry engine**     
-> Clickstream ingestion, behavioral modeling, real-time inference
-> 🟢 `Active`  • `Commerce Execution`  
+> Clickstream ingestion, behavioral modeling, real-time inference    
+> 🟢 `Active`  • `Commerce Execution`     
 
 **Architecture insight**  
 - Interprets live user sessions into actionable intent signals  
@@ -357,8 +357,8 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [Agentic Energy Grid Balancing System](https://github.com/aragit/agentic-energy-grid-balancer) 🏆🏆🏆
 
 **Autonomous Smart Grid Simulation Engine**
-> FastAPI,  Pydantic, SciPy, Ollama / vLLM, Docker - CI/CD
-> 🟢 `Active` • `Energy Systems Optimization` • `Neuro-Symbolic AI`  
+> FastAPI,  Pydantic, SciPy, Ollama / vLLM, Docker - CI/CD    
+> 🟢 `Active` • `Energy Systems Optimization` • `Neuro-Symbolic AI`      
 
 **Architecture Insight** 
 - **Hybrid Framework:** Embeds probabilistic neural subroutines inside a mathematically deterministic symbolic execution.
