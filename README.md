@@ -331,7 +331,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [Generative Dynamic Ad Renderer](mailto:anicomanesh@gmail?subject=Access%20Request%3A%20generative-dynamic-ad-renderer)  🌟🌟🌟
 **Telemetry-driven ad generation pipeline**  
 > LLM generation, behavioral signals, rendering automation       
-> 🔒 `Private` • `Media Execution`      
+> `Media Execution`      
 
 <details>
 <summary><b><i>Architecture Insight ...</i></b></summary>
@@ -411,7 +411,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [Regulatory Intelligence Agent](https://github.com/aragit/regulatory-intelligence-agent) 🌟🌟🌟     
 **Autonomous Compliance Monitoring Engine**
 > Claude Opus 4.6, MCP, Neo4j Policy Graph, QuantLib, SEC EDGAR API, OpenTelemetry - CI/CD       
-> 🔒 `PRIVATE` • `FinTech / RegTech` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
+> `FinTech / RegTech` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
 
 <details>
 <summary><b><i>Architecture Insight ...</i></b></summary>
