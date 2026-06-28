@@ -205,7 +205,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 
 <details>
-<summary>Architecture Insight ...</summary>
+<summary>*Architecture Insight ...*</summary>
   
 
 - **Hybrid Framework:** Neural primary controller ingests medication lists from fragmented sources (EHR medication lists, pharmacy records, discharge summaries, patient-reported histories), normalizes free-text drug names to RxNorm concepts via local LLM inference, and dynamically invokes symbolic safety tools — with deterministic validation at the output boundary.
