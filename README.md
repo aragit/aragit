@@ -127,7 +127,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 <details>
 <summary>Architecture Insight</summary>
   
-**Architecture Insight**
+
 - **Hybrid Framework:** Neural primary controller ingests medication lists from fragmented sources (EHR medication lists, pharmacy records, discharge summaries, patient-reported histories), normalizes free-text drug names to RxNorm concepts via local LLM inference, and dynamically invokes symbolic safety tools — with deterministic validation at the output boundary.
 - **Cross-Source Discrepancy Detection:** The LLM autonomously identifies duplicates (same drug, different names), omissions (chronic medication missing from one source), and temporality conflicts (discontinued drug still active in another system) — no pre-encoded matching rules.
 - **Dynamic Tool Orchestration:** MCP-native tool registry exposes 8+ clinical APIs (RxNorm resolver, drug interaction checker, allergy cross-reference, therapeutic duplication detector, renal dose adjuster, pregnancy category checker, lab value interpreter for dose validation, temporal logic engine for washout periods). The LLM decides *which* tools, *when*, and *in what order* — not a fixed pipeline.
@@ -151,7 +151,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 <details>
 <summary>Architecture Insight</summary>
   
-**Architecture insight**  
+
 - Ingests high-frequency physiological streams via HL7 FHIR gateway  
 - Converts real-time vitals into structured forecasting windows  
 - Designed for early warning of patient deterioration  
@@ -188,7 +188,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 <details>
 <summary>Architecture Insight</summary>
 
-**Architecture insight**  
+
 - Maps clinical evidence against regulatory requirements  
 - Generates structured authorization submissions automatically  
 - Reduces administrative overhead in healthcare workflows  
@@ -250,7 +250,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 <details>
 <summary>Architecture Insight</summary>
   
-**Architecture insight**  
+
 - Converts user behavioral signals into generated creative content  
 - Connects inference pipelines directly to media rendering systems  
 - Enables real-time adaptive advertising generation  
@@ -298,7 +298,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **Hybrid Framework:** Embeds probabilistic neural subroutines inside a mathematically deterministic symbolic execution.
 - **Bounded Neural Reasoning:** Battery arbitrage agents execute local LLM/SLM subroutines constrained by strict Pydantic validation layers, preventing hallucinated actions from touching the grid state.
 - **Deterministic Market Clearing:** Multi-agent supply and demand bids resolve through a formal, continuous double-sided auction engine to guarantee exact market clearing math.
-- **L6 Safety Governance:** The orchestrator runs an absolute physical guardrail loop, checking baseline line capacities and locking grid frequency within strict stability limits (±0.5 Hz).
+- **Safety Governance:** The orchestrator runs an absolute physical guardrail loop, checking baseline line capacities and locking grid frequency within strict stability limits (±0.5 Hz).
 
 ---
 
@@ -314,12 +314,12 @@ The result is a **genuinely transferable decision intelligence platform** with c
 <summary>Architecture Insight</summary>
 
 
-**Architecture Insight**
+
 - **Hybrid Framework:** Neural primary controller monitors regulatory landscapes, dynamically orchestrating symbolic tools for impact quantification, policy tracing, and stakeholder notification — reasoning across jurisdictions and business lines.
 - **Cross-Domain Regulatory Reasoning:** The LLM reads unstructured regulatory text (SEC, FINRA, ECB, FCA), identifies affected internal policies via Neo4j knowledge graph traversal, and decides which risk models require re-validation — interpreting intent beyond keyword matching.
 - **Dynamic Impact Quantification:** Monte Carlo simulation (QuantLib) runs only when the LLM determines quantitative impact is material. The LLM decides simulation parameters, interprets tail-risk outputs, and decides whether to escalate to human risk officers.
 - **Multi-Channel Orchestration:** The LLM decides notification strategy — which trading desks (Slack), which compliance officers (email), which legal teams (Jira) — based on policy graph analysis of organizational ownership and historical response patterns.
-- **L2 Symbolic Audit Boundary:** Every regulatory text → tool call → output decision is fully traced (OpenTelemetry). Deterministic policy verifier ensures no recommendation violates hard constraints (capital requirements, position limits, blackout periods). Immutable audit trail for regulator examination.
+- **Symbolic Audit Boundary:** Every regulatory text → tool call → output decision is fully traced (OpenTelemetry). Deterministic policy verifier ensures no recommendation violates hard constraints (capital requirements, position limits, blackout periods). Immutable audit trail for regulator examination.
 
 </details>
 
@@ -349,7 +349,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 <summary>Architecture Insight</summary>
 
 
-**Architecture Insight**
+
 - **Hybrid Framework:** Symbolic primary execution engine (LangGraph state machine, OPA-inspired Python rule engine) embeds probabilistic neural subroutines (local LLM for semantic document chunking, obligation extraction, and policy-to-regulation mapping) — deterministic safety invariants are never overridden by neural output.
 - **Autonomous Gap Discovery:** The system ingests regulations (GDPR, HIPAA, SOC2) and company policies, extracts obligations via regex + heuristic + LLM fallback, and maps policy clauses to regulatory requirements using embedding similarity + LLM verification — no manual compliance checklist required.
 - **Dynamic Tool Orchestration:** 5 MCP-native microservices (regulation-fetcher, policy-parser, gap-analyzer, risk-scorer, report-generator) communicate via standardized tool protocol. Each service is independently containerized, horizontally scalable, and implements Pydantic-validated input/output schemas with full error handling.
@@ -388,12 +388,13 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > Gemini 3 Pro, MCP, Semantic Scholar API, E2B Sandbox, Jupyter Kernel, Neo4j Citation Graph - CI/CD   
 > 🔒 `PRIVATE` • 📚 `Scientific Research` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
 
+
 **Architecture Insight** 
 - **Hybrid Framework:** Neural primary controller plans multi-step research workflows, dynamically calling symbolic tools for computation, retrieval, and verification — adapting strategy based on intermediate results.
 - **Opportunistic Research Planning:** The LLM decomposes open-ended research questions into sub-goals, decides which literature APIs to query (PubMed, Semantic Scholar, bioRxiv, arXiv), and adapts when sources conflict or gaps emerge — no static retrieval pipeline.
 - **Reproducible Analysis Execution:** E2B-sandboxed Jupyter kernel executes Python/R statistical analyses on raw datasets (GEO, Figshare) with full provenance tracking. The LLM generates analysis code, interprets outputs, and decides whether to re-run with modified parameters.
 - **Cross-Modal Synthesis:** Native multimodal reasoning over text, tables, figures, and code. The LLM decides when to regenerate visualizations, when to query structured databases, and when to perform citation verification via Crossref DOI resolution.
-- **L2 Symbolic Validation Boundary:** Citation verifier ensures all claims are grounded in retrieved sources. Conflict detector flags contradictory findings across papers. Human-in-the-loop gate for conclusions with >3 standard deviation novelty scores.
+- **Validation Boundary:** Citation verifier ensures all claims are grounded in retrieved sources. Conflict detector flags contradictory findings across papers. Human-in-the-loop gate for conclusions with >3 standard deviation novelty scores.
 
 ### [Agentic Research Paper Review & Synthesis Swarm](#)  
 **Multi-agent scientific reasoning and literature synthesis system**  
