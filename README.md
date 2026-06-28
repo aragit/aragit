@@ -2,7 +2,7 @@
 
 <p align="center">
   Building multi-agent systems, clinical LLM pipelines, and neuro-symbolic AI infrastructure.
-  <a href="https://aragit.github.io/#home">Portfolio →</a>
+  
 </p>
 
 
@@ -524,6 +524,7 @@ Aethron AI focuses on deploying next-generation Agentic AI that doesn't just exi
 
 - LinkedIn: https://linkedin.com/in/arashnicoomanesh
 - GitHub: https://github.com/aragit
+- Website : https://aragit.github.io
 
 ---
 
