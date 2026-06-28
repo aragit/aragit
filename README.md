@@ -243,8 +243,8 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [Autonomous Lab Interpretation & Critical Value Triage Agent](https://github.com/aragit/lab-interpretation-triage-agent) 🌟🌟🌟
 **Context-Aware Laboratory Intelligence Engine**
 > Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, HL7 v2, LOINC, FastAPI, Pydantic, SQLite, pytest — CI/CD              
-> `Clinical Laboratory` • `Neuro-Symbolic AI` • `Critical Value Management` 
-> [![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
+> `Clinical Laboratory` • `Neuro-Symbolic AI` • `Critical Value Management`     
+[![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
 
 
 <details>
