@@ -12,7 +12,7 @@
 [![Neuro-Symbolic Reasoning](https://img.shields.io/badge/Neuro--Symbolic%20Reasoning-581c87?style=for-the-badge&logo=git-merge&logoColor=white)](https://github.com/aragit)
 [![Governance Engine](https://img.shields.io/badge/Governance%20Engine-7f1d1d?style=for-the-badge&logo=shield-check&logoColor=white)](https://github.com/aragit)
 [![Meta-Cognition](https://img.shields.io/badge/Meta--Cognition-312e81?style=for-the-badge&logo=chart-line&logoColor=white)](https://github.com/aragit)
-[![General Agentic Memory](https://img.shields.io/badge/Persistent%20Memory-14532d?style=for-the-badge&logo=database&logoColor=white)](https://github.com/aragit)
+[![General Agentic Memory (GAM)](https://img.shields.io/badge/Persistent%20Memory-14532d?style=for-the-badge&logo=database&logoColor=white)](https://github.com/aragit)
 [![Multi-Modal Perception](https://img.shields.io/badge/Multi--Modal%20Perception-9a3412?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/aragit)
 [![Elastic Scalability](https://img.shields.io/badge/Elastic%20Scalability-0f172a?style=for-the-badge&logo=server&logoColor=white)](https://github.com/aragit)
 [![MCP Native](https://img.shields.io/badge/MCP%20Native-064e3b?style=for-the-badge&logo=exchange-alt&logoColor=white)](https://github.com/aragit)
