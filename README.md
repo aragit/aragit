@@ -19,6 +19,30 @@
 
 </div>
 
+<div align="center">
+
+  <!-- Row 1: Architecture & Reasoning -->
+  <a href="#agentic-ai"><img src="https://img.shields.io/badge/Agentic_AI-111827?style=for-the-badge&logo=brain&logoColor=58a6ff" alt="Agentic AI"></a>
+  <a href="#neuro-symbolic"><img src="https://img.shields.io/badge/Neuro--Symbolic-581c87?style=for-the-badge&logo=git-merge&logoColor=white" alt="Neuro-Symbolic"></a>
+  <a href="#multi-agent"><img src="https://img.shields.io/badge/Multi--Agent-1e3a8a?style=for-the-badge&logo=users&logoColor=white" alt="Multi-Agent"></a>
+  <a href="#memory"><img src="https://img.shields.io/badge/Persistent_Memory-14532d?style=for-the-badge&logo=database&logoColor=white" alt="Persistent Memory"></a>
+  
+  <br>
+  
+  <!-- Row 2: Runtime & Protocol -->
+  <a href="#mcp"><img src="https://img.shields.io/badge/MCP-0f172a?style=for-the-badge&logo=exchange-alt&logoColor=white" alt="MCP"></a>
+  <a href="#planning"><img src="https://img.shields.io/badge/Planning_&_Reasoning-312e81?style=for-the-badge&logo=chart-line&logoColor=white" alt="Planning and Reasoning"></a>
+  <a href="#governance"><img src="https://img.shields.io/badge/Governance_&_Safety-7f1d1d?style=for-the-badge&logo=shield-check&logoColor=white" alt="Governance and Safety"></a>
+  <a href="#clinical"><img src="https://img.shields.io/badge/Clinical_AI-064e3b?style=for-the-badge&logo=heart-pulse&logoColor=white" alt="Clinical AI"></a>
+
+</div>
+
+
+
+
+
+
+
 ---
 # The Composable Intelligence Stack
 
