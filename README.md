@@ -76,20 +76,20 @@ Over more than a decade of engineering high-stakes intelligence engines, my focu
 
 My work targets the critical boundary where probabilistic neural models intersect with strict symbolic guardrails—specifically in highly constrained domains like clinical oncology, medical triage, energy grid optimization, financial compliance, and real-time enterprise orchestration. By combining state-of-the-art open-source execution engines (`vLLM`, `LangGraph`, `CrewAI`) with high-performance optimization layers (`Unsloth`, custom PEFT), I build systems that do not just predict outcomes, but safely execute and self-correct in production.
 
-### 🗺️ Repository Navigation
+### Repository Navigation
 This portfolio is organized by **domain and industry** to demonstrate how the same neuro-symbolic architecture principles transfer across verticals:
 
-*   **[🏥 Healthcare & Clinical](#-healthcare--clinical):** Medical perception, differential diagnosis, prior authorization, and ICU monitoring.
-*   **[🎯 Marketing & Advertising](#-marketing--advertising):** Competitive Nash equilibrium bidding, real-time intent transformation, and generative ad rendering.
-*   **[⚡ Energy & Utilities](#-energy--utilities):** Autonomous grid balancing with neuro-symbolic safety guardrails.
-*   **[🏦 Finance & RegTech](#-finance--regtech):** Cross-jurisdictional compliance monitoring and market simulation.
-*   **[📦 Supply Chain & Logistics](#-supply-chain--logistics):** Zero-shot demand forecasting and autonomous procurement negotiation.
-*   **[🏙️ Smart Cities & Urban Systems](#-smart-cities--urban-systems):** Multi-agent traffic optimization and congestion resolution.
-*   **[🎓 Education & Research](#-education--research):** Scientific discovery engines and adaptive tutoring swarms.
-*   **[🧬 Computational Biology](#-computational-biology):** Flow-matching protein binder generation.
-*   **[🧠 Cross-Domain Neuro-Symbolic Architecture](#-cross-domain-neuro-symbolic-architecture):** Foundational reasoning, memory, and orchestration layers that transfer across all verticals.
+*   **[Healthcare & Clinical](#-healthcare--clinical):** Medical perception, differential diagnosis, prior authorization, and ICU monitoring.
+*   **[Marketing & Advertising](#-marketing--advertising):** Competitive Nash equilibrium bidding, real-time intent transformation, and generative ad rendering.
+*   **[Energy & Utilities](#-energy--utilities):** Autonomous grid balancing with neuro-symbolic safety guardrails.
+*   **[Finance & RegTech](#-finance--regtech):** Cross-jurisdictional compliance monitoring and market simulation.
+*   **[Supply Chain & Logistics](#-supply-chain--logistics):** Zero-shot demand forecasting and autonomous procurement negotiation.
+*   **[Smart Cities & Urban Systems](#-smart-cities--urban-systems):** Multi-agent traffic optimization and congestion resolution.
+*   **[Education & Research](#-education--research):** Scientific discovery engines and adaptive tutoring swarms.
+*   **[Computational Biology](#-computational-biology):** Flow-matching protein binder generation.
+*   **[Cross-Domain Neuro-Symbolic Architecture](#-cross-domain-neuro-symbolic-architecture):** Foundational reasoning, memory, and orchestration layers that transfer across all verticals.
 
-## 🔐 Private Repositories
+## Private Repositories
 
 Some advanced components (neuro-symbolic core, orchestration engine, and production pipelines) are kept private.
 
@@ -149,7 +149,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [Speculative Graph RAG](https://github.com/aragit/speculative-clinical-graphrag)  🏆🏆🏆  
 **Self-correcting clinical knowledge core**  
 > LlamaIndex, Neo4j, vLLM, DeepSeek-R1      
-> 🟢 `ACTIVE` • 🧠 `CORE REASONING SYSTEM`
+> 🟢 `ACTIVE` • `CORE REASONING SYSTEM`
 
 **Architecture insight**  
 - Combines graph-based retrieval with structured verification  
@@ -159,7 +159,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)  🏆🏆 
 **Medical chain-of-thought LoRA alignment pipeline** 
 > Unsloth, PyTorch, Hugging Face, TRL          
-> 🟢 `ACTIVE` • ⚙️ `REASONING OPTIMIZATION LAYER`
+> 🟢 `ACTIVE` • `REASONING OPTIMIZATION LAYER`
 
 **Architecture insight**  
 - Efficient 4-bit parameter fine-tuning for reasoning behavior  
@@ -169,7 +169,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main) 🏆 
 **Autonomous content lifecycle platform**  
 > CrewAI, LangChain/LangGraph, Pydantic, ChromaDB              
-> 🟢 `Active` • ⚙️ `Multi-agent Orchestration`  
+> 🟢 `Active` • `Multi-agent Orchestration`  
 
 **Architecture insight**  
 - Hierarchical multi-agent workflow with structured delegation  
@@ -185,7 +185,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 **Cross-Source Medication Safety Engine**
 > Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, RxNorm, DrugBank, FastAPI, Pydantic, Neo4j, pytest — CI/CD      
-> 🟡 `Coming Soon` • 🏥 `Medication Safety` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
+> 🟡 `Coming Soon` • `Medication Safety` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
 
 
 
@@ -206,12 +206,12 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 🏆  
 **Clinical entity extraction from EHR pipelines**
 > `LLaMA3` `Unsloth` `FastAPI` `LoRA`  
-> 🟢 ACTIVE • 💎 CORE PERCEPTION SYSTEM
+> 🟢 ACTIVE • CORE PERCEPTION SYSTEM
 
 ### [ICU Vitals Transformer](#)  🏆
 **Transformer-based ICU vitals forecaster**      
 > TimesFM 2.5, PatchTST, Kafka, FastAPI, WebSockets  
-> 🟡 `Coming Soon` • 🏥 `Clinical Temporal Monitoring`
+> 🟡 `Coming Soon` • `Clinical Temporal Monitoring`
 
 
 <details>
@@ -232,7 +232,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 **Context-Aware Laboratory Intelligence Engine**
 > Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, HL7 v2, LOINC, FastAPI, Pydantic, SQLite, pytest — CI/CD         
-> 🔒 `PRIVATE` • 🏥 `Clinical Laboratory` • 🧠 `Neuro-Symbolic AI` • ⚡ `Critical Value Management`
+> 🔒 `PRIVATE` • `Clinical Laboratory` • `Neuro-Symbolic AI` • `Critical Value Management`
 
 
 
@@ -243,13 +243,13 @@ The result is a **genuinely transferable decision intelligence platform** with c
 `Request Access`
 **Autonomous Clinical Reasoning Engine**    
 > Claude 4.5 Sonnet, MCP, FHIR R4, SNOMED-CT, Clinical Calculators, LangSmith - CI/CD    
-> 🔒 `PRIVATE` • 🏥 `Clinical Decision Support` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
+> 🔒 `PRIVATE` • `Clinical Decision Support` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
 
 
 ### [Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)  🏆🏆 
 **Agentic prior authorization engine**  
 > EHR ingestion, CMS policy mapping, document automation     
-> 🔒 `Private` • 🏥 `Healthcare Execution`
+> 🔒 `Private` • `Healthcare Execution`
 
 <details>
 <summary>Architecture Insight</summary>
@@ -266,17 +266,17 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
 **Real-time patient fall detection on edge devices**
 > `YOLOv11-Pose` `TensorRT` `MQTT` `OpenCV`  
-> 🟢 ACTIVE` • 🔒 EDGE SAFETY SYSTEM     
+> 🟢 `ACTIVE` • `EDGE SAFETY SYSTEM`    
 
 ### [Surgical Vision Copilot](https://github.com/aragit/surgical-vision-copilot) 🏆 
 **Real-time surgical understanding with vision-language models** 
 > `Video-LLaVA` `OpenCV` `Temporal` `Action Modeling`                   
-> 🟢 ACTIVE • 🧪 VISION PERCEPTION SYSTEM
+> 🟢 `ACTIVE` •  `VISION PERCEPTION SYSTEM`
 
 ### [Spatial Event Detector](https://github.com/aragit/spatial-event-detector)
 **Kinematic telemetry → structured motion event extraction**
 > `YOLOv11-Pose` `OpenCV` `NumPy`         
-> 🟢 ACTIVE • ⚙️ MOTION PERCEPTION SYSTEM
+> 🟢 `ACTIVE` • `MOTION PERCEPTION SYSTEM`
 
 </details>
 
@@ -287,7 +287,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [Nash Marketing Agents](https://github.com/aragit/agentic-nash-marketing)  🏆🏆🏆  
 **Multi-agent competitive market simulation engine**   
 > NumPy, SciPy, SQLite/PostgreSQL, FastAPI, Pydantic, SQLAlchemy, Docker, pytest          
-> 🟢 `Active` • 🎯 `Strategic Decision Simulation`      
+> 🟢 `Active` • `Strategic Decision Simulation`      
 
 **Architecture insight**  
 - Models non-cooperative advertising markets using Nash equilibria  
@@ -298,7 +298,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [Real-Time Intent Transformer](https://github.com/aragit/real-time-intent-transformer)  🏆
 **Session-based e-commerce intent telemetry engine**     
 > Clickstream ingestion, behavioral modeling, real-time inference
-> 🟢 `Active`  • 🛒 `Commerce Execution`  
+> 🟢 `Active`  • `Commerce Execution`  
 
 **Architecture insight**  
 - Interprets live user sessions into actionable intent signals  
@@ -311,7 +311,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 `Request Access`
 **Telemetry-driven ad generation pipeline**  
 > LLM generation, behavioral signals, rendering automation       
-> 🔒 `Private` • 🎯 `Media Execution`      
+> 🔒 `Private` • `Media Execution`      
 
 <details>
 <summary>Architecture Insight</summary>
@@ -331,7 +331,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  🏆🏆🏆 
 **Predictive supply-chain telemetry pipeline**     
 > Amazon Chronos-2, Google TimesFM 2.5, Hugging Face     
-> 🟢 `Active` • ⏱️ `Temporal Forecasting`     
+> 🟢 `Active` • `Temporal Forecasting`     
 
 **Architecture insight**  
 - Moves beyond traditional ARIMA and LSTM-based forecasting  
@@ -358,7 +358,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 **Autonomous Smart Grid Simulation Engine**
 > FastAPI,  Pydantic, SciPy, Ollama / vLLM, Docker - CI/CD
-> 🟢 `Active` • ⚡ `Energy Systems Optimization` • 🧠 `Neuro-Symbolic AI`  
+> 🟢 `Active` • `Energy Systems Optimization` • `Neuro-Symbolic AI`  
 
 **Architecture Insight** 
 - **Hybrid Framework:** Embeds probabilistic neural subroutines inside a mathematically deterministic symbolic execution.
@@ -374,7 +374,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 **Autonomous Compliance Monitoring Engine**
 > Claude Opus 4.6, MCP, Neo4j Policy Graph, QuantLib, SEC EDGAR API, OpenTelemetry - CI/CD       
-> 🔒 `PRIVATE` • 🏦 `FinTech / RegTech` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
+> 🔒 `PRIVATE` • `FinTech / RegTech` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
 
 <details>
 <summary>Architecture Insight</summary>
@@ -395,7 +395,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [Sentiment Market Maker](#) 
 **Liquidity simulation and market order book balancing**
 > NumPy, SciPy, High-Frequency Telemetry    
-> 🔒 `PRIVATE` • 📈 `FINANCIAL SIMULATION`
+> 🔒 `PRIVATE` • `FINANCIAL SIMULATION`
 
 **Architecture insight**  
 - Counterfactual market simulation under varying liquidity conditions  
@@ -409,7 +409,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 **Autonomous Regulatory Compliance Auditor via  Neuro-Symbolic Architecture**    
 > Ollama (gemma3:1b / qwen2.5:0.5b), MCP, LangGraph, FastAPI, Pydantic v2, Neo4j, ChromaDB, Polars, loguru, prometheus-client, pytest — CI/CD     
-> 🟢 `Active` • 🏦 `RegTech / Compliance` • 🧠 `Neuro-Symbolic AI` • 🛡️ `Governance & Safety`
+> 🟢 `Active` • `RegTech / Compliance` • `Neuro-Symbolic AI` • `Governance & Safety`
 
 <details>
 <summary>Architecture Insight</summary>
@@ -434,7 +434,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [Agentic Smart City Traffic Optimization](#)  🏆 
 **Multi-agent traffic signal and routing optimizer**  
 > Graph networks, city simulation, intersection agents, routing optimization        
-> 🔵 `Concept` • 🚦 `Urban Coordination`  
+> 🔵 `Concept` • `Urban Coordination`  
 
 **Architecture insight**  
 - Intersection agents negotiate real-time signal timing  
@@ -452,7 +452,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 **Self-Directed Scientific Discovery Engine**
 > Gemini 3 Pro, MCP, Semantic Scholar API, E2B Sandbox, Jupyter Kernel, Neo4j Citation Graph - CI/CD   
-> 🔒 `PRIVATE` • 📚 `Scientific Research` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
+> 🔒 `PRIVATE` • `Scientific Research` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
 
 <details>
 <summary>Architecture Insight</summary>
@@ -470,7 +470,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [Agentic Research Paper Review & Synthesis Swarm](#)  
 **Multi-agent scientific reasoning and literature synthesis system**  
 > ArXiv API, claim extraction, contradiction detection, graph reasoning         
-> 🔵 `CONCEPT` • 📚 `RESEARCH REASONING LAYER`
+> 🔵 `CONCEPT` • `RESEARCH REASONING LAYER`
 
 **Architecture insight**  
 - Ingestion agents structure academic papers into claims  
