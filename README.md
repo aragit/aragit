@@ -9,29 +9,46 @@
 <div align="center">
 
 <!-- SECTION 1: Capability Architecture (Icons + consistent dark-slate colors) -->
-<a href="https://github.com/aragit" aria-label="Compound AI systems">
-  <img src="https://img.shields.io/badge/Compound%20AI-1565c0?style=for-the-badge&logo=brain&logoColor=white" alt="Compound AI">
+<a href="https://github.com/aragit" aria-label="Compound AI Architecture">
+  <img src="https://img.shields.io/badge/Compound%20AI%20Architecture-1565c0?style=for-the-badge&logo=cpu&logoColor=white" alt="Compound AI Architecture">
+</a>
+<a href="https://github.com/aragit" aria-label="Neuro-symbolic systems">
+  <img src="https://img.shields.io/badge/Neuro--Symbolic%20Systems-c62828?style=for-the-badge&logo=git-merge&logoColor=white" alt="Neuro-Symbolic Systems">
 </a>
 <a href="https://github.com/aragit" aria-label="Multi-agent orchestration">
-  <img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-2e7d32?style=for-the-badge&logo=users&logoColor=white" alt="Multi-Agent Orchestration">
+  <img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-2e7d32?style=for-the-badge&logo=network-wired&logoColor=white" alt="Multi-Agent Orchestration">
 </a>
-<a href="https://github.com/aragit" aria-label="Neuro-symbolic reasoning">
-  <img src="https://img.shields.io/badge/Neuro--Symbolic%20Reasoning-c62828?style=for-the-badge&logo=git-merge&logoColor=white" alt="Neuro-Symbolic Reasoning">
+<a href="https://github.com/aragit" aria-label="Cognitive architectures">
+  <img src="https://img.shields.io/badge/Cognitive%20Architectures-6a1b9a?style=for-the-badge&logo=brain&logoColor=white" alt="Cognitive Architectures">
 </a>
-<a href="https://github.com/aragit" aria-label="Governance engine">
-  <img src="https://img.shields.io/badge/Governance%20Engine-e65100?style=for-the-badge&logo=shield-check&logoColor=white" alt="Governance Engine">
+
+<!-- Production Governance, Validation, & Protocols -->
+<a href="https://github.com/aragit" aria-label="Deterministic governance">
+  <img src="https://img.shields.io/badge/Deterministic%20Governance-e65100?style=for-the-badge&logo=shield-check&logoColor=white" alt="Deterministic Governance">
 </a>
-<a href="https://github.com/aragit" aria-label="Meta-cognition layer">
-  <img src="https://img.shields.io/badge/Meta--Cognition-6a1b9a?style=for-the-badge&logo=chart-line&logoColor=white" alt="Meta-Cognition">
+<a href="https://github.com/aragit" aria-label="Action-aware validation loops">
+  <img src="https://img.shields.io/badge/Action--Aware%20Validation-37474f?style=for-the-badge&logo=check-circle&logoColor=white" alt="Action-Aware Validation">
 </a>
 <a href="https://github.com/aragit" aria-label="Multi-modal perception">
   <img src="https://img.shields.io/badge/Multi--Modal%20Perception-00838f?style=for-the-badge&logo=eye&logoColor=white" alt="Multi-Modal Perception">
 </a>
-<a href="https://github.com/aragit" aria-label="Elastic scalability">
-  <img src="https://img.shields.io/badge/Elastic%20Scalability-37474f?style=for-the-badge&logo=server&logoColor=white" alt="Elastic Scalability">
-</a>
 <a href="https://github.com/aragit" aria-label="MCP native protocol">
-  <img src="https://img.shields.io/badge/MCP%20Native-283593?style=for-the-badge&logo=exchange-alt&logoColor=white" alt="MCP Native">
+  <img src="https://img.shields.io/badge/MCP%20Native-283593?style=for-the-badge&logo=terminal&logoColor=white" alt="MCP Native">
+</a>
+<a href="https://github.com/aragit" aria-label="Test-time compute scaling">
+  <img src="https://img.shields.io/badge/Test--Time%20Compute%20Scaling-311b92?style=for-the-badge&logo=git-branch&logoColor=white" alt="Test-Time Compute">
+</a>
+<a href="https://github.com/aragit" aria-label="Edge SLM Optimization">
+  <img src="https://img.shields.io/badge/Edge%20SLM%20Optimization-004d40?style=for-the-badge&logo=microchip&logoColor=white" alt="Edge SLM Optimization">
+</a>
+<a href="https://github.com/aragit" aria-label="Stateful Memory Graphs">
+  <img src="https://img.shields.io/badge/Stateful%20Memory%20Graphs-01579b?style=for-the-badge&logo=share-2&logoColor=white" alt="Stateful Memory Graphs">
+</a>
+<a href="https://github.com/aragit" aria-label="Asynchronous Swarm Orchestration">
+  <img src="https://img.shields.io/badge/Async%20Swarm%20Orchestration-f57f17?style=for-the-badge&logo=activity&logoColor=white" alt="Async Swarm Orchestration">
+</a>
+<a href="https://github.com/aragit" aria-label="Vision-Language-Action Models">
+  <img src="https://img.shields.io/badge/VLA%20Native%20Execution-880e4f?style=for-the-badge&logo=play&logoColor=white" alt="VLA Native Execution">
 </a>
 <br><br>
 
