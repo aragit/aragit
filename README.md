@@ -77,7 +77,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ---
 
 
-## 🧠 Cross-Domain Neuro-Symbolic Architecture
+## 🔮 Cross-Domain Neuro-Symbolic Architecture
 
 > Projects that define the foundational neuro-symbolic stack and transfer across industries.
 
