@@ -130,13 +130,11 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ### [Autonomous Medication Reconciliation & Interaction Guard](https://github.com/aragit/medication-reconciliation-agent) 🏆🏆🏆
 
-`Request Access`
-
 **Cross-Source Medication Safety Engine**
 > Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, RxNorm, DrugBank, FastAPI, Pydantic, Neo4j, pytest — CI/CD      
 > 🟡 `Coming Soon` • 🏥 `Medication Safety` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
 
-[![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
+
 
 <details>
 <summary>Architecture Insight</summary>
@@ -150,6 +148,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
   
 </details>
 
+[![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
 
 ### [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 🏆  
 **Clinical entity extraction from EHR pipelines**
