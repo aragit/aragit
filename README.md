@@ -16,12 +16,6 @@
 
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Agentic+AI+Engineer;Medical+ML+Specialist;Multi-Agent+Systems+Architect;LLM+Engineering+Expert)](https://git.io/typing-svg)
-
-</div>
-
 ---
 # The Composable Intelligence Stack
 
@@ -291,7 +285,6 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ## 🏦 Finance & RegTech
 
 ### [Regulatory Intelligence Agent](https://github.com/aragit/regulatory-intelligence-agent) 🏆🏆🏆        
-`Request Access`
 
 **Autonomous Compliance Monitoring Engine via Type 6 Neuro-Symbolic Architecture**
 > Claude Opus 4.6, MCP, Neo4j Policy Graph, QuantLib, SEC EDGAR API, OpenTelemetry - CI/CD       
