@@ -8,9 +8,8 @@
 
 <div align="center">
 
-  <!-- SECTION 1: Capability Architecture (Icons + consistent dark-slate colors) -->
-  <p><sub><b>CAPABILITY ARCHITECTURE</b></sub></p>
-  <a href="https://github.com/aragit" aria-label="Compound AI systems">
+<!-- SECTION 1: Capability Architecture (Icons + consistent dark-slate colors) -->
+<a href="https://github.com/aragit" aria-label="Compound AI systems">
   <img src="https://img.shields.io/badge/Compound%20AI-020617?style=for-the-badge&logo=brain&logoColor=white" alt="Compound AI">
 </a>
 <a href="https://github.com/aragit" aria-label="Multi-agent orchestration">
