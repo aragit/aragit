@@ -141,7 +141,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
   
 </details>
 
----
+
 ### [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 🏆  
 **Clinical entity extraction from EHR pipelines**
 > `LLaMA3` `Unsloth` `FastAPI` `LoRA`  
