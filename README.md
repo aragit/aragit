@@ -126,11 +126,12 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 `Request Access`
 **Cross-Source Medication Safety Engine via Type 6 Neuro-Symbolic Architecture**
-> Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, RxNorm, DrugBank, FastAPI, Pydantic, Neo4j, pytest — CI/CD
-> 🟡 `Coming Soon` • 🏥 `Medication Safety` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
+> Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, RxNorm, DrugBank, FastAPI, Pydantic, Neo4j, pytest — CI/CD      
+> 🟡 `Coming Soon` • 🏥 `Medication Safety` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`    
 
 <details>
 <summary>Architecture Insight</summary>
+  
 **Architecture Insight**
 - **Hybrid Framework:** Neural primary controller ingests medication lists from fragmented sources (EHR medication lists, pharmacy records, discharge summaries, patient-reported histories), normalizes free-text drug names to RxNorm concepts via local LLM inference, and dynamically invokes symbolic safety tools — with deterministic validation at the output boundary.
 - **Cross-Source Discrepancy Detection:** The LLM autonomously identifies duplicates (same drug, different names), omissions (chronic medication missing from one source), and temporality conflicts (discontinued drug still active in another system) — no pre-encoded matching rules.
@@ -139,6 +140,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **Symbolic Safety Boundary:** Final reconciled medication list passes through a deterministic verifier ensuring no severe drug-drug interactions (Class X), no allergy conflicts, no therapeutic duplications, and dose limits within renal/hepatic function — all blocked from reaching the patient record without explicit pharmacist override and full audit trail.
   
 </details>
+
 ---
 ### [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 🏆  
 **Clinical entity extraction from EHR pipelines**
@@ -155,6 +157,15 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Converts real-time vitals into structured forecasting windows  
 - Designed for early warning of patient deterioration  
 - Supports continuous temporal reasoning over ICU trajectories
+
+### [Autonomous Lab Interpretation & Critical Value Triage Agent](https://github.com/aragit/lab-interpretation-triage-agent) 🏆🏆🏆
+
+`Request Access`
+**Context-Aware Laboratory Intelligence Engine via Type 6 Neuro-Symbolic Architecture**
+> Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, HL7 v2, LOINC, FastAPI, Pydantic, SQLite, pytest — CI/CD       
+> 🔒 `PRIVATE` • 🏥 `Clinical Laboratory` • 🧠 `Neuro-Symbolic AI` • ⚡ `Critical Value Management`
+
+
 
 <details>
 <summary>🔥 MORE HEALTHCARE SOLUTIONS</summary>
@@ -176,14 +187,6 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Generates structured authorization submissions automatically  
 - Reduces administrative overhead in healthcare workflows  
 - Optimized for compliance-heavy decision environments
-
-### [Autonomous Lab Interpretation & Critical Value Triage Agent](https://github.com/aragit/lab-interpretation-triage-agent) 🏆🏆🏆
-
-`Request Access`
-**Context-Aware Laboratory Intelligence Engine via Type 6 Neuro-Symbolic Architecture**
-> Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, HL7 v2, LOINC, FastAPI, Pydantic, SQLite, pytest — CI/CD
-> 🔒 `PRIVATE` • 🏥 `Clinical Laboratory` • 🧠 `Neuro-Symbolic AI` • ⚡ `Critical Value Management`
-
 
 ### [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
 **Real-time patient fall detection on edge devices**
