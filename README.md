@@ -47,40 +47,41 @@
 <a href="https://github.com/aragit" aria-label="Asynchronous Swarm Orchestration">
   <img src="https://img.shields.io/badge/Async%20Swarm%20Orchestration-f57f17?style=for-the-badge&logo=activity&logoColor=white" alt="Async Swarm Orchestration">
 </a>
-<a href="https://github.com/aragit" aria-label="Vision-Language-Action Models">
-  <img src="https://img.shields.io/badge/VLA%20Native%20Execution-880e4f?style=for-the-badge&logo=play&logoColor=white" alt="VLA Native Execution">
-</a>
 <br><br>
 
 
   
-  <!-- SECTION 2: Shipped Architecture & Evidence -->
-  <p><sub><b>SHIPPED ARCHITECTURE & EVIDENCE</b></sub></p>
+ <!-- SECTION 2: Shipped Architecture & Evidence -->
+<p><sub><b>SHIPPED ARCHITECTURE & EVIDENCE</b></sub></p>
 
-  <a href="https://github.com/aragit" aria-label="Type 2 neuro-symbolic system">
-    <img src="https://img.shields.io/badge/Neuro--Symbolic-Type%202%20%5BSymbolic%5BNeuro%5D%5D-0f172a?style=for-the-badge&logo=python&logoColor=white" alt="Type 2 [Symbolic[Neuro]]">
-  </a>
-  <a href="https://github.com/aragit" aria-label="Type 6 neuro-symbolic system">
-    <img src="https://img.shields.io/badge/Neuro--Symbolic-Type%206%20%5BNeuro%5BSymbolic%5D%5D-1e293b?style=for-the-badge&logo=python&logoColor=white" alt="Type 6 [Neuro[Symbolic]]">
-  </a>
-  <a href="https://github.com/aragit" aria-label="7-layer agent stack">
-    <img src="https://img.shields.io/badge/Architecture-7--Layer%20Stack-334155?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="7-Layer Stack">
-  </a>
-  <a href="https://github.com/aragit" aria-label="107 plus tests">
-    <img src="https://img.shields.io/badge/Quality-107%2B%20Tests-1e3a8a?style=for-the-badge&logo=checkmarx&logoColor=white" alt="107+ Tests">
-  </a>
-  <a href="https://github.com/aragit" aria-label="25 production tools">
-    <img src="https://img.shields.io/badge/Shipped-25%20Tools-0f172a?style=for-the-badge&logo=toolbox&logoColor=white" alt="25 Tools">
-  </a>
-  <a href="https://github.com/aragit" aria-label="MCP protocol native">
-    <img src="https://img.shields.io/badge/Protocol-MCP--Native-1e293b?style=for-the-badge&logo=protocols.io&logoColor=white" alt="MCP-Native">
-  </a>
-  <a href="https://github.com/aragit" aria-label="Microservices architecture">
-    <img src="https://img.shields.io/badge/Architecture-Microservices-334155?style=for-the-badge&logo=docker&logoColor=white" alt="Microservices">
-  </a>
-  <a href="https://github.com/aragit" aria-label="Hybrid inference vLLM local and cloud API">
-    <img src="https://img.shields.io/badge/Inference-vLLM%20%7C%20Cloud%20%7C%20API-1e3a8a?style=for-the-badge&logo=ollama&logoColor=white" alt="Inference: vLLM | Cloud | API">
-  </a>
+<a href="https://github.com/aragit" aria-label="Type 2 neuro-symbolic system">
+  <img src="https://img.shields.io/badge/Neuro--Symbolic-Type%202%20%5BSymbolic%5BNeuro%5D%5D-283593?style=for-the-badge&logo=fastapi&logoColor=white" alt="Type 2 [Symbolic[Neuro]]">
+</a>
+<a href="https://github.com/aragit" aria-label="Type 6 neuro-symbolic system">
+  <img src="https://img.shields.io/badge/Neuro--Symbolic-Type%206%20%5BIntegrated%5D-c62828?style=for-the-badge&logo=pytorch&logoColor=white" alt="Type 6 [Integrated]">
+</a>
+<a href="https://github.com/aragit" aria-label="7-layer cognitive agent stack">
+  <img src="https://img.shields.io/badge/Cognitive%20Stack-7--Layer%20Architecture-6a1b9a?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="7-Layer Architecture">
+</a>
+<a href="https://github.com/aragit" aria-label="Trajectory and E2E evaluation testing">
+  <img src="https://img.shields.io/badge/Trajectory%20Quality-100%2B%20E2E%20Tests-2e7d32?style=for-the-badge&logo=pytest&logoColor=white" alt="100+ E2E Tests">
+</a>
+<a href="https://github.com/aragit" aria-label="Production tool integrations built">
+  <img src="https://img.shields.io/badge/Shipped%20Tools-25%20Functional%20Integrations-00838f?style=for-the-badge&logo=postman&logoColor=white" alt="25 Functional Integrations">
+</a>
+<a href="https://github.com/aragit" aria-label="Event-driven async agent mesh">
+  <img src="https://img.shields.io/badge/Agentic%20Mesh-Event--Driven%20Async-e65100?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="Event-Driven Async Mesh">
+</a>
+<a href="https://github.com/aragit" aria-label="Distributed microservices architecture">
+  <img src="https://img.shields.io/badge/Deployment-Distributed%20Microservices-1565c0?style=for-the-badge&logo=docker&logoColor=white" alt="Distributed Microservices">
+</a>
+<a href="https://github.com/aragit" aria-label="High-throughput hybrid vLLM inference engine optimization">
+  <img src="https://img.shields.io/badge/Inference%20Engine-vLLM%20%7C%20TensorRT--LLM-37474f?style=for-the-badge&logo=nvidia&logoColor=white" alt="Inference Engine: vLLM | TensorRT-LLM">
+</a>
+<a href="https://github.com/aragit" aria-label="Distributed LLM tracing and observability">
+  <img src="https://img.shields.io/badge/Telemetry-OpenInference%20%7C%20Langfuse-9e9d24?style=for-the-badge&logo=prometheus&logoColor=white" alt="Telemetry: OpenInference | Langfuse">
+</a>
+<br><br>
 
 </div>
 
