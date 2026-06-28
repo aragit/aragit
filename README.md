@@ -248,23 +248,23 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, HL7 v2, LOINC, FastAPI, Pydantic, SQLite, pytest — CI/CD              
 > `Clinical Laboratory` • `Neuro-Symbolic AI` • `Critical Value Management`
 
-[![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
+
 
 <details>
 <summary><b>🔥 MORE HEALTHCARE SOLUTIONS</b></summary>
 
 ### [Clinical Differential Diagnosis Copilot](https://github.com/aragit/clinical-differential-copilot) 🏆🏆🏆
-`Request Access`
-**Autonomous Clinical Reasoning Engine**    
-> Claude 4.5 Sonnet, MCP, FHIR R4, SNOMED-CT, Clinical Calculators, LangSmith - CI/CD    
-> 🔒 `PRIVATE` • `Clinical Decision Support` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
-
 [![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
+**Autonomous Clinical Reasoning Engine**    
+> Claude 4.5 Sonnet, MCP, FHIR R4, SNOMED-CT, Clinical Calculators, LangSmith - CI/CD       
+> `Clinical Decision Support` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
+
 
 ### [Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)  🏆🏆 
+[![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
 **Agentic prior authorization engine**  
 > EHR ingestion, CMS policy mapping, document automation     
-> 🔒 `Private` • `Healthcare Execution`
+> `Healthcare Execution`
 
 
 <details>
