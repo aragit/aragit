@@ -19,28 +19,72 @@
 
 </div>
 
+
 <div align="center">
 
-  <!-- Row 1: Architecture & Reasoning -->
-  <a href="#agentic-ai"><img src="https://img.shields.io/badge/Agentic_AI-111827?style=for-the-badge&logo=brain&logoColor=58a6ff" alt="Agentic AI"></a>
-  <a href="#neuro-symbolic"><img src="https://img.shields.io/badge/Neuro--Symbolic-581c87?style=for-the-badge&logo=git-merge&logoColor=white" alt="Neuro-Symbolic"></a>
-  <a href="#multi-agent"><img src="https://img.shields.io/badge/Multi--Agent-1e3a8a?style=for-the-badge&logo=users&logoColor=white" alt="Multi-Agent"></a>
-  <a href="#memory"><img src="https://img.shields.io/badge/Persistent_Memory-14532d?style=for-the-badge&logo=database&logoColor=white" alt="Persistent Memory"></a>
-  
-  <br>
-  
-  <!-- Row 2: Runtime & Protocol -->
-  <a href="#mcp"><img src="https://img.shields.io/badge/MCP-0f172a?style=for-the-badge&logo=exchange-alt&logoColor=white" alt="MCP"></a>
-  <a href="#planning"><img src="https://img.shields.io/badge/Planning_&_Reasoning-312e81?style=for-the-badge&logo=chart-line&logoColor=white" alt="Planning and Reasoning"></a>
-  <a href="#governance"><img src="https://img.shields.io/badge/Governance_&_Safety-7f1d1d?style=for-the-badge&logo=shield-check&logoColor=white" alt="Governance and Safety"></a>
-  <a href="#clinical"><img src="https://img.shields.io/badge/Clinical_AI-064e3b?style=for-the-badge&logo=heart-pulse&logoColor=white" alt="Clinical AI"></a>
+  <!-- SECTION 1: Capabilities (Your exact badges, unchanged) -->
+  <p aria-label="Agentic AI capability architecture">
+    <sub><b>CAPABILITY ARCHITECTURE</b></sub>
+  </p>
+
+  <a href="https://github.com/aragit" aria-label="Compound AI systems">
+    <img src="https://img.shields.io/badge/Compound%20AI-111827?style=for-the-badge&logo=brain&logoColor=white" alt="Compound AI">
+  </a>
+  <a href="https://github.com/aragit" aria-label="Multi-agent orchestration">
+    <img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-1e3a8a?style=for-the-badge&logo=users&logoColor=white" alt="Multi-Agent Orchestration">
+  </a>
+  <a href="https://github.com/aragit" aria-label="Neuro-symbolic reasoning">
+    <img src="https://img.shields.io/badge/Neuro--Symbolic%20Reasoning-581c87?style=for-the-badge&logo=git-merge&logoColor=white" alt="Neuro-Symbolic Reasoning">
+  </a>
+  <a href="https://github.com/aragit" aria-label="Governance engine">
+    <img src="https://img.shields.io/badge/Governance%20Engine-7f1d1d?style=for-the-badge&logo=shield-check&logoColor=white" alt="Governance Engine">
+  </a>
+  <a href="https://github.com/aragit" aria-label="Meta-cognition layer">
+    <img src="https://img.shields.io/badge/Meta--Cognition-312e81?style=for-the-badge&logo=chart-line&logoColor=white" alt="Meta-Cognition">
+  </a>
+  <a href="https://github.com/aragit" aria-label="Multi-modal perception">
+    <img src="https://img.shields.io/badge/Multi--Modal%20Perception-9a3412?style=for-the-badge&logo=eye&logoColor=white" alt="Multi-Modal Perception">
+  </a>
+  <a href="https://github.com/aragit" aria-label="Elastic scalability">
+    <img src="https://img.shields.io/badge/Elastic%20Scalability-0f172a?style=for-the-badge&logo=server&logoColor=white" alt="Elastic Scalability">
+  </a>
+  <a href="https://github.com/aragit" aria-label="MCP native protocol">
+    <img src="https://img.shields.io/badge/MCP%20Native-064e3b?style=for-the-badge&logo=exchange-alt&logoColor=white" alt="MCP Native">
+  </a>
+
+  <br><br>
+
+  <!-- SECTION 2: Implementation & Evidence (Complementary) -->
+  <p aria-label="Production stack and shipped evidence">
+    <sub><b>SHIPPED STACK & EVIDENCE</b></sub>
+  </p>
+
+  <a href="https://github.com/aragit" aria-label="Type 2 to Type 6 migration">
+    <img src="https://img.shields.io/badge/Type%202%20%E2%86%92%20Type%206-1a1a2e?style=for-the-badge&logo=code&logoColor=58a6ff" alt="Type 2 to Type 6 Migration">
+  </a>
+  <a href="https://github.com/aragit" aria-label="25 production tools">
+    <img src="https://img.shields.io/badge/25%20Tools-1e3a8a?style=for-the-badge&logo=toolbox&logoColor=white" alt="25 Production Tools">
+  </a>
+  <a href="https://github.com/aragit" aria-label="GraphRAG memory system">
+    <img src="https://img.shields.io/badge/GraphRAG-581c87?style=for-the-badge&logo=neo4j&logoColor=white" alt="GraphRAG">
+  </a>
+  <a href="https://github.com/aragit" aria-label="FHIR R4 clinical integration">
+    <img src="https://img.shields.io/badge/FHIR%20R4-7f1d1d?style=for-the-badge&logo=heart-pulse&logoColor=white" alt="FHIR R4">
+  </a>
+  <a href="https://github.com/aragit" aria-label="107 plus tests">
+    <img src="https://img.shields.io/badge/107%2B%20Tests-312e81?style=for-the-badge&logo=check-circle&logoColor=white" alt="107+ Tests">
+  </a>
+  <a href="https://github.com/aragit" aria-label="Vector databases">
+    <img src="https://img.shields.io/badge/Vector%20DBs-9a3412?style=for-the-badge&logo=database&logoColor=white" alt="Vector Databases">
+  </a>
+  <a href="https://github.com/aragit" aria-label="FastAPI infrastructure">
+    <img src="https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI">
+  </a>
+  <a href="https://github.com/aragit" aria-label="R2 production status">
+    <img src="https://img.shields.io/badge/R2%20Production-064e3b?style=for-the-badge&logo=rocket&logoColor=white" alt="R2 Production">
+  </a>
 
 </div>
-
-
-
-
-
 
 
 ---
