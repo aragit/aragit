@@ -115,8 +115,6 @@ Access is granted upon request for:
 - Technical evaluation
 - Hiring processes
 
-[![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
-
 
 ---
 
@@ -207,7 +205,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 
 <details>
-<summary>Architecture Insight</summary>
+<summary>Architecture Insight ...</summary>
   
 
 - **Hybrid Framework:** Neural primary controller ingests medication lists from fragmented sources (EHR medication lists, pharmacy records, discharge summaries, patient-reported histories), normalizes free-text drug names to RxNorm concepts via local LLM inference, and dynamically invokes symbolic safety tools — with deterministic validation at the output boundary.
@@ -245,13 +243,11 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ### [Autonomous Lab Interpretation & Critical Value Triage Agent](https://github.com/aragit/lab-interpretation-triage-agent) 🏆🏆🏆
 
-`Request Access`
-
 **Context-Aware Laboratory Intelligence Engine**
 > Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, HL7 v2, LOINC, FastAPI, Pydantic, SQLite, pytest — CI/CD         
 > 🔒 `PRIVATE` • `Clinical Laboratory` • `Neuro-Symbolic AI` • `Critical Value Management`
 
-
+[![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
 
 <details>
 <summary>🔥 MORE HEALTHCARE SOLUTIONS</summary>
@@ -262,14 +258,16 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > Claude 4.5 Sonnet, MCP, FHIR R4, SNOMED-CT, Clinical Calculators, LangSmith - CI/CD    
 > 🔒 `PRIVATE` • `Clinical Decision Support` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
 
+[![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
 
 ### [Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)  🏆🏆 
 **Agentic prior authorization engine**  
 > EHR ingestion, CMS policy mapping, document automation     
 > 🔒 `Private` • `Healthcare Execution`
 
+
 <details>
-<summary>Architecture Insight</summary>
+<summary>Architecture Insight ...</summary>
 
 
 - Maps clinical evidence against regulatory requirements  
@@ -279,6 +277,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 </details>
 
+[![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
 
 ### [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
 **Real-time patient fall detection on edge devices**
@@ -306,16 +305,23 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > NumPy, SciPy, SQLite/PostgreSQL, FastAPI, Pydantic, SQLAlchemy, Docker, pytest          
 > 🟢 `Active` • `Strategic Decision Simulation`      
 
-**Architecture insight**  
+<details>
+<summary>Architecture Insight ...</summary>
+
 - Models non-cooperative advertising markets using Nash equilibria  
 - Simulates autonomous brand agents under budget constraints  
 - Prevents resource collapse in competitive bidding environments  
-- Enables pre-deployment experimentation of marketing strategies  
+- Enables pre-deployment experimentation of marketing strategies
+
+ </details> 
 
 ### [Real-Time Intent Transformer](https://github.com/aragit/real-time-intent-transformer)  🏆
 **Session-based e-commerce intent telemetry engine**     
 > Clickstream ingestion, behavioral modeling, real-time inference    
-> 🟢 `Active`  • `Commerce Execution`     
+> 🟢 `Active`  • `Commerce Execution`
+
+<details>
+<summary>Architecture Insight ...</summary>
 
 **Architecture insight**  
 - Interprets live user sessions into actionable intent signals  
@@ -323,6 +329,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Triggers contextual interventions based on inferred intent  
 - Enables adaptive real-time commerce optimization
 
+</details>
 
 ### [Generative Dynamic Ad Renderer](mailto:anicomanesh@gmail?subject=Access%20Request%3A%20generative-dynamic-ad-renderer)  🏆 
 `Request Access`
@@ -331,7 +338,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > 🔒 `Private` • `Media Execution`      
 
 <details>
-<summary>Architecture Insight</summary>
+<summary>Architecture Insight ...</summary>
   
 
 - Converts user behavioral signals into generated creative content  
@@ -340,6 +347,8 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Designed for continuous personalization loops  
 
 </details>
+
+[![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
 
 ---
 
@@ -350,22 +359,32 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > Amazon Chronos-2, Google TimesFM 2.5, Hugging Face     
 > 🟢 `Active` • `Temporal Forecasting`     
 
-**Architecture insight**  
+<details>
+<summary>Architecture Insight ...</summary>
+
 - Moves beyond traditional ARIMA and LSTM-based forecasting  
 - Uses foundation models for long-context temporal reasoning  
 - Incorporates exogenous signals for improved demand prediction  
-- Enables zero-shot forecasting across unseen domains  
+- Enables zero-shot forecasting across unseen domains
+
+<details>
+  
 
 ### [Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm) 🏆  
 **Multi-agent contract negotiation swarm**     
 > Ray/RLlib, CrewAI, vLLM          
-> 🟢 `Active` • 🤝 `Decentralized Negotiation`  
+> 🟢 `Active` • 🤝 `Decentralized Negotiation`
 
-**Architecture insight**  
+<details>
+<summary>Architecture Insight ...</summary>
+
+
 - Buyer and seller agents autonomously negotiate contracts  
 - Reinforcement learning used for adaptive bargaining strategies  
 - Simulates pricing pressure, inventory constraints, and risk factors  
-- Designed for adversarial yet cooperative economic environments  
+- Designed for adversarial yet cooperative economic environments
+
+</details>
 
 ---
 
@@ -397,7 +416,6 @@ The result is a **genuinely transferable decision intelligence platform** with c
 <summary>Architecture Insight</summary>
 
 
-
 - **Hybrid Framework:** Neural primary controller monitors regulatory landscapes, dynamically orchestrating symbolic tools for impact quantification, policy tracing, and stakeholder notification — reasoning across jurisdictions and business lines.
 - **Cross-Domain Regulatory Reasoning:** The LLM reads unstructured regulatory text (SEC, FINRA, ECB, FCA), identifies affected internal policies via Neo4j knowledge graph traversal, and decides which risk models require re-validation — interpreting intent beyond keyword matching.
 - **Dynamic Impact Quantification:** Monte Carlo simulation (QuantLib) runs only when the LLM determines quantitative impact is material. The LLM decides simulation parameters, interprets tail-risk outputs, and decides whether to escalate to human risk officers.
@@ -405,6 +423,9 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **Symbolic Audit Boundary:** Every regulatory text → tool call → output decision is fully traced (OpenTelemetry). Deterministic policy verifier ensures no recommendation violates hard constraints (capital requirements, position limits, blackout periods). Immutable audit trail for regulator examination.
 
 </details>
+
+[![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
+
 
 <details>
 <summary>🔥 MORE FINANCE SOLUTIONS</summary>
@@ -419,6 +440,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Order book balancing via stochastic differential equations  
 - Risk assessment prior to live trading execution  
 
+[![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
 
 ### [MCP Compliance Kernel](https://github.com/aragit/mcp-compliance-kernel) 🏆🏆🏆   
 
@@ -429,7 +451,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > 🟢 `Active` • `RegTech / Compliance` • `Neuro-Symbolic AI` • `Governance & Safety`
 
 <details>
-<summary>Architecture Insight</summary>
+<summary>Architecture Insight ...</summary>
 
 
 
@@ -453,11 +475,17 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > Graph networks, city simulation, intersection agents, routing optimization        
 > 🔵 `Concept` • `Urban Coordination`  
 
+<details>
+<summary>Architecture Insight ...</summary>
+
+
 **Architecture insight**  
 - Intersection agents negotiate real-time signal timing  
 - Transit agents optimize passenger flow across networks  
 - Emergency agents override routing for critical response vehicles  
-- Global orchestrator resolves congestion and systemic deadlocks  
+- Global orchestrator resolves congestion and systemic deadlocks
+
+</details>
 
 ---
 
@@ -472,7 +500,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > 🔒 `PRIVATE` • `Scientific Research` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
 
 <details>
-<summary>Architecture Insight</summary>
+<summary>Architecture Insight ...</summary>
 
 
 
@@ -484,27 +512,39 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 </details>
 
+[![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
+
+
 ### [Agentic Research Paper Review & Synthesis Swarm](#)  
 **Multi-agent scientific reasoning and literature synthesis system**  
 > ArXiv API, claim extraction, contradiction detection, graph reasoning         
 > 🔵 `CONCEPT` • `RESEARCH REASONING LAYER`
 
-**Architecture insight**  
+<details>
+<summary>Architecture Insight ...</summary>
+ 
 - Ingestion agents structure academic papers into claims  
 - Verification agents cross-check citations and evidence  
 - Conflict agents detect contradictions across literature  
-- Synthesis agent generates research gap analysis and summaries  
+- Synthesis agent generates research gap analysis and summaries
+
+</details>
 
 ### [Agentic Educational Tutoring Swarm](#)  🏆🏆
 **Adaptive tutoring system with concept mastery modeling**      
 > Knowledge graphs, tutoring agents, adaptive questioning, progress tracking      
 > 🔵 `Concept` • 🎓 `Adaptive Learning`  
 
+<details>
+<summary>Architecture Insight ...</summary>
+
 **Architecture insight**  
 - Assessment agents identify knowledge gaps dynamically  
 - Subject-specific agents provide targeted instruction  
 - Pedagogy agent adapts teaching strategy per learner profile  
-- Progress tracking agent measures mastery and retention trends  
+- Progress tracking agent measures mastery and retention trends
+
+</details>
 
 ---
 
@@ -515,11 +555,15 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > PyTorch, Biopython, Flow Matching, FoldSeek
 > 🟢 `Active` • 🧬 `Computational Biology Research`     
 
-**Architecture insight**  
+<details>
+<summary>Architecture Insight ...</summary>
+  
 - Uses flow matching for structural molecular generation  
 - Moves beyond diffusion-based protein design approaches  
 - Targets novel protein–ligand binding discovery  
 - Expands AI systems into generative bio-molecular design  
+
+</details>
 
 ---
 
