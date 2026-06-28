@@ -7,12 +7,13 @@
 
 <div align="center">
 
-[![Compound AI](https://img.shields.io/badge/Paradigm-Compound%20AI%20Systems-0A0A0A?style=for-the-badge&logo=brain&logoColor=white)](https://github.com/aragit)
-[![Neuro-Symbolic](https://img.shields.io/badge/Architecture-Neuro--Symbolic-2E1065?style=for-the-badge&logo=git-merge&logoColor=white)](https://github.com/aragit)
-[![Type 2 Safety](https://img.shields.io/badge/Safety-Type%202%20%5BSymbolic%5BNeuro%5D%5D-DC2626?style=for-the-badge&logo=shield-check&logoColor=white)](https://github.com/aragit)
-[![MCP Native](https://img.shields.io/badge/Protocol-MCP%20Native-059669?style=for-the-badge&logo=exchange-alt&logoColor=white)](https://github.com/aragit)
-[![Microservices](https://img.shields.io/badge/Architecture-Microservices-EA580C?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/aragit)
-[![Local First](https://img.shields.io/badge/Inference-Local--First-CA8A04?style=for-the-badge&logo=cpu&logoColor=black)](https://github.com/aragit)
+[![Compound AI](https://img.shields.io/badge/Compound%20AI-0A0A0A?style=for-the-badge&logo=brain&logoColor=white)](https://github.com/aragit)
+[![Multi-Agent Orchestration](https://img.shields.io/badge/Multi--Agent%20Orchestration-1E3A5F?style=for-the-badge&logo=users&logoColor=white)](https://github.com/aragit)
+[![Neuro-Symbolic Reasoning](https://img.shields.io/badge/Neuro--Symbolic%20Reasoning-4C1D95?style=for-the-badge&logo=git-merge&logoColor=white)](https://github.com/aragit)
+[![Episodic Semantic Procedural](https://img.shields.io/badge/Episodic%20%C2%B7%20Semantic%20%C2%B7%20Procedural-065F46?style=for-the-badge&logo=database&logoColor=white)](https://github.com/aragit)
+[![Multi-Modal Perception](https://img.shields.io/badge/Multi--Modal%20Perception-7C2D12?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/aragit)
+[![MCP Native](https://img.shields.io/badge/MCP%20Native-059669?style=for-the-badge&logo=exchange-alt&logoColor=white)](https://github.com/aragit)
+[![Local First](https://img.shields.io/badge/Local--First-CA8A04?style=for-the-badge&logo=cpu&logoColor=black)](https://github.com/aragit)
 
 </div>
 
