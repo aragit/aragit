@@ -367,7 +367,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Incorporates exogenous signals for improved demand prediction  
 - Enables zero-shot forecasting across unseen domains
 
-<details>
+</details>
   
 
 ### [Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm) 🏆  
