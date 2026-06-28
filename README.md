@@ -22,10 +22,8 @@
 
 <div align="center">
 
-  <!-- SECTION 1: Capabilities (Your exact badges, unchanged) -->
-  <p aria-label="Agentic AI capability architecture">
-    <sub><b>CAPABILITY ARCHITECTURE</b></sub>
-  </p>
+  <!-- SECTION 1: Capability Architecture (Your exact badges) -->
+  <p><sub><b>CAPABILITY ARCHITECTURE</b></sub></p>
 
   <a href="https://github.com/aragit" aria-label="Compound AI systems">
     <img src="https://img.shields.io/badge/Compound%20AI-111827?style=for-the-badge&logo=brain&logoColor=white" alt="Compound AI">
@@ -54,50 +52,35 @@
 
   <br><br>
 
-  <!-- SECTION 2: Implementation & Evidence (Complementary) -->
-  <p aria-label="Production stack and shipped evidence">
-    <sub><b>SHIPPED STACK & EVIDENCE</b></sub>
-  </p>
+  <!-- SECTION 2: Implementation & Evidence (Your design style) -->
+  <p><sub><b>SHIPPED ARCHITECTURE & STACK</b></sub></p>
 
-  <a href="https://github.com/aragit" aria-label="Type 2 to Type 6 migration">
-    <img src="https://img.shields.io/badge/Type%202%20%E2%86%92%20Type%206-1a1a2e?style=for-the-badge&logo=code&logoColor=58a6ff" alt="Type 2 to Type 6 Migration">
+  <a href="https://github.com/aragit" aria-label="Tripartite memory model">
+    <img src="https://img.shields.io/badge/Memory-Episodic%7CSemantic%7CProcedural-1e3a8a?style=for-the-badge&logo=database&logoColor=white" alt="Memory: Episodic | Semantic | Procedural">
   </a>
-  <a href="https://github.com/aragit" aria-label="25 production tools">
-    <img src="https://img.shields.io/badge/25%20Tools-1e3a8a?style=for-the-badge&logo=toolbox&logoColor=white" alt="25 Production Tools">
+  <a href="https://github.com/aragit" aria-label="Type 2 neuro-symbolic system">
+    <img src="https://img.shields.io/badge/Neuro--Symbolic-Type%202%20%5BSymbolic%5BNeuro%5D%5D-blue?style=for-the-badge&logo=python&logoColor=white" alt="Type 2 [Symbolic[Neuro]]">
   </a>
-  <a href="https://github.com/aragit" aria-label="GraphRAG memory system">
-    <img src="https://img.shields.io/badge/GraphRAG-581c87?style=for-the-badge&logo=neo4j&logoColor=white" alt="GraphRAG">
+  <a href="https://github.com/aragit" aria-label="Type 6 neuro-symbolic system">
+    <img src="https://img.shields.io/badge/Neuro--Symbolic-Type%206%20%5BNeuro%5BSymbolic%5D%5D-purple?style=for-the-badge&logo=python&logoColor=white" alt="Type 6 [Neuro[Symbolic]]">
   </a>
-  <a href="https://github.com/aragit" aria-label="FHIR R4 clinical integration">
-    <img src="https://img.shields.io/badge/FHIR%20R4-7f1d1d?style=for-the-badge&logo=heart-pulse&logoColor=white" alt="FHIR R4">
+  <a href="https://github.com/aragit" aria-label="7-layer agent stack">
+    <img src="https://img.shields.io/badge/Architecture-7--Layer%20Stack-red?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="7-Layer Stack">
   </a>
-  <a href="https://github.com/aragit" aria-label="107 plus tests">
-    <img src="https://img.shields.io/badge/107%2B%20Tests-312e81?style=for-the-badge&logo=check-circle&logoColor=white" alt="107+ Tests">
+  <a href="https://github.com/aragit" aria-label="Clinical FHIR R4 HIPAA compliance">
+    <img src="https://img.shields.io/badge/Clinical-FHIR%20R4%20%7C%20HIPAA-7f1d1d?style=for-the-badge&logo=heart-pulse&logoColor=white" alt="Clinical: FHIR R4 | HIPAA">
   </a>
-  <a href="https://github.com/aragit" aria-label="Vector databases">
-    <img src="https://img.shields.io/badge/Vector%20DBs-9a3412?style=for-the-badge&logo=database&logoColor=white" alt="Vector Databases">
+  <a href="https://github.com/aragit" aria-label="MCP protocol native">
+    <img src="https://img.shields.io/badge/Protocol-MCP--Native-green?style=for-the-badge&logo=protocols.io&logoColor=white" alt="MCP-Native">
   </a>
-  <a href="https://github.com/aragit" aria-label="FastAPI infrastructure">
-    <img src="https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI">
+  <a href="https://github.com/aragit" aria-label="Microservices architecture">
+    <img src="https://img.shields.io/badge/Architecture-Microservices-orange?style=for-the-badge&logo=docker&logoColor=white" alt="Microservices">
   </a>
-  <a href="https://github.com/aragit" aria-label="R2 production status">
-    <img src="https://img.shields.io/badge/R2%20Production-064e3b?style=for-the-badge&logo=rocket&logoColor=white" alt="R2 Production">
+  <a href="https://github.com/aragit" aria-label="Local first inference with Ollama">
+    <img src="https://img.shields.io/badge/Inference-Local--First%20%7C%20Ollama-yellow?style=for-the-badge&logo=ollama&logoColor=black" alt="Local-First | Ollama">
   </a>
 
 </div>
-
-
-<div align="center">
-
-[![Type 2](https://img.shields.io/badge/Neuro--Symbolic-Type%202%20%5BSymbolic%5BNeuro%5D%5D-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/aragit)
-[![Type 6](https://img.shields.io/badge/Neuro--Symbolic-Type%206%20%5BNeuro%5BSymbolic%5D%5D-purple?style=for-the-badge&logo=python&logoColor=white)](https://github.com/aragit)
-[![7-Layer Stack](https://img.shields.io/badge/Architecture-7--Layer%20Stack-red?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://github.com/aragit)
-[![MCP-Native](https://img.shields.io/badge/Protocol-MCP--Native-green?style=for-the-badge&logo=protocols.io&logoColor=white)](https://github.com/aragit)
-[![Microservices](https://img.shields.io/badge/Architecture-Microservices-orange?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/aragit)
-[![Local-First](https://img.shields.io/badge/Inference-Local--First%20%7C%20Ollama-yellow?style=for-the-badge&logo=ollama&logoColor=black)](https://github.com/aragit)
-
-</div>
-
 
 ---
 # The Composable Intelligence Stack
