@@ -7,12 +7,13 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arashnicoomanesh)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arashnic)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anicomanesh)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Arnic)
-[![Twitter/X](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/ANicoomanesh)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/profile/badges)
+[![Autonomous Goal Pursuit](https://img.shields.io/badge/Goal%20Pursuit-Partial%20%7C%20State%20Machine%20Bound-yellow?style=for-the-badge&logo=route&logoColor=black)](https://github.com/aragit)
+[![Tool-Mediated Action](https://img.shields.io/badge/Tool%20Action-Strong%20%7C%20MCP%20Registry%2030%2B-green?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/aragit)
+[![Persistent Memory](https://img.shields.io/badge/Memory-Strong%20%7C%20Neo4j%20%2B%20ChromaDB%20%2B%20Memoria-green?style=for-the-badge&logo=database&logoColor=white)](https://github.com/aragit)
+[![Multi-Agent Orchestration](https://img.shields.io/badge/Orchestration-Partial%20%7C%20Framework%20Dependent-yellow?style=for-the-badge&logo=users&logoColor=black)](https://github.com/aragit)
+[![Governance & Safety](https://img.shields.io/badge/Safety-Strongest%20%7C%20Type%202%20Invariants%20%7C%20Norma-brightgreen?style=for-the-badge&logo=shield-check&logoColor=white)](https://github.com/aragit)
+[![Adaptive Planning](https://img.shields.io/badge/Planning-Partial%20%7C%20Template%20Driven-yellow?style=for-the-badge&logo=project-diagram&logoColor=black)](https://github.com/aragit)
+[![Cross-Domain Transfer](https://img.shields.io/badge/Transfer-Partial%20%7C%20Analysis%20%3E%20Build-yellow?style=for-the-badge&logo=exchange-alt&logoColor=black)](https://github.com/aragit)
 
 </div>
 
