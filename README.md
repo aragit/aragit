@@ -44,32 +44,34 @@
  <!-- SECTION 2: Shipped Architecture & Evidence -->
 <p><sub><b>SHIPPED ARCHITECTURE</b></sub></p>
 
-<a href="https://github.com/aragit" aria-label="Type 2 neuro-symbolic system">
-  <img src="https://img.shields.io/badge/Neuro--Symbolic-Type%202%20%5BSymbolic%5BNeuro%5D%5D-283593?style=for-the-badge&logo=fastapi&logoColor=white" alt="Type 2 [Symbolic[Neuro]]">
+<a href="https://github.com/aragit">
+  <img src="https://img.shields.io/badge/Neuro--Symbolic-Type%202%20%5BSymbolic%5BNeuro%5D%5D-0F0F11?style=for-the-badge&logo=fastapi&logoColor=00FFC6">
 </a>
-<a href="https://github.com/aragit" aria-label="Type 6 neuro-symbolic system">
-  <img src="https://img.shields.io/badge/Neuro--Symbolic-Type%206%20%5BIntegrated%5D-c62828?style=for-the-badge&logo=pytorch&logoColor=white" alt="Type 6 [Integrated]">
+<a href="https://github.com/aragit">
+  <img src="https://img.shields.io/badge/Neuro--Symbolic-Type%206%20%5BIntegrated%5D-0F0F11?style=for-the-badge&logo=pytorch&logoColor=00FFC6">
 </a>
-<a href="https://github.com/aragit" aria-label="7-layer cognitive agent stack">
-  <img src="https://img.shields.io/badge/Cognitive%20Stack-7--Layer%20Architecture-6a1b9a?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="7-Layer Architecture">
+<a href="https://github.com/aragit">
+  <img src="https://img.shields.io/badge/Cognitive%20Stack-7--Layer%20Architecture-0F0F11?style=for-the-badge&logo=apacheairflow&logoColor=00FFC6">
 </a>
-<a href="https://github.com/aragit" aria-label="Trajectory and E2E evaluation testing">
-  <img src="https://img.shields.io/badge/Trajectory%20Quality-100%2B%20E2E%20Tests-2e7d32?style=for-the-badge&logo=pytest&logoColor=white" alt="100+ E2E Tests">
+
+<a href="https://github.com/aragit">
+  <img src="https://img.shields.io/badge/Trajectory%20Quality-100%2B%20E2E%20Tests-0F0F11?style=for-the-badge&logo=pytest&logoColor=00FFC6">
 </a>
-<a href="https://github.com/aragit" aria-label="Production tool integrations built">
-  <img src="https://img.shields.io/badge/Shipped%20Tools-25%20Functional%20Integrations-00838f?style=for-the-badge&logo=postman&logoColor=white" alt="25 Functional Integrations">
+<a href="https://github.com/aragit">
+  <img src="https://img.shields.io/badge/Shipped%20Tools-25%20Functional%20Integrations-0F0F11?style=for-the-badge&logo=postman&logoColor=00FFC6">
 </a>
-<a href="https://github.com/aragit" aria-label="Event-driven async agent mesh">
-  <img src="https://img.shields.io/badge/Agentic%20Mesh-Event--Driven%20Async-e65100?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="Event-Driven Async Mesh">
+<a href="https://github.com/aragit">
+  <img src="https://img.shields.io/badge/Agentic%20Mesh-Event--Driven%20Async-0F0F11?style=for-the-badge&logo=rabbitmq&logoColor=00FFC6">
 </a>
-<a href="https://github.com/aragit" aria-label="Distributed microservices architecture">
-  <img src="https://img.shields.io/badge/Deployment-Distributed%20Microservices-1565c0?style=for-the-badge&logo=docker&logoColor=white" alt="Distributed Microservices">
+
+<a href="https://github.com/aragit">
+  <img src="https://img.shields.io/badge/Deployment-Distributed%20Microservices-0F0F11?style=for-the-badge&logo=docker&logoColor=00FFC6">
 </a>
-<a href="https://github.com/aragit" aria-label="High-throughput hybrid vLLM inference engine optimization">
-  <img src="https://img.shields.io/badge/Inference%20Engine-vLLM%20%7C%20TensorRT--LLM-37474f?style=for-the-badge&logo=nvidia&logoColor=white" alt="Inference Engine: vLLM | TensorRT-LLM">
+<a href="https://github.com/aragit">
+  <img src="https://img.shields.io/badge/Inference%20Engine-vLLM%20%7C%20TensorRT--LLM-0F0F11?style=for-the-badge&logo=nvidia&logoColor=00FFC6">
 </a>
-<a href="https://github.com/aragit" aria-label="Distributed LLM tracing and observability">
-  <img src="https://img.shields.io/badge/Telemetry-OpenInference%20%7C%20Langfuse-9e9d24?style=for-the-badge&logo=prometheus&logoColor=white" alt="Telemetry: OpenInference | Langfuse">
+<a href="https://github.com/aragit">
+  <img src="https://img.shields.io/badge/Telemetry-OpenInference%20%7C%20Langfuse-0F0F11?style=for-the-badge&logo=prometheus&logoColor=00FFC6">
 </a>
 <br><br>
 
