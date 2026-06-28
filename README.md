@@ -43,7 +43,7 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 *   **[🧠 Cross-Domain Neuro-Symbolic Architecture](#-cross-domain-neuro-symbolic-architecture):** Foundational reasoning, memory, and orchestration layers that transfer across all verticals.
 
 ---
-> [ ] 
+
 ## Architectural Philosophy
 
 This repository documents a **Composable Intelligence Stack**—a living, evolving architecture that transfers across industries.
@@ -87,7 +87,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 > Projects that define the foundational neuro-symbolic stack and transfer across industries.
 
-### 🔹 [Speculative Graph RAG](https://github.com/aragit/speculative-clinical-graphrag)  🏆🏆🏆  
+### [Speculative Graph RAG](https://github.com/aragit/speculative-clinical-graphrag)  🏆🏆🏆  
 **Self-correcting clinical knowledge core**  
 > LlamaIndex, Neo4j, vLLM, DeepSeek-R1      
 > 🟢 `ACTIVE` • 🧠 `CORE REASONING SYSTEM`
@@ -97,7 +97,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Validates extracted clinical pathways against medical taxonomies  
 - Reduces hallucination via grounded reasoning constraints  
 
-### 🔹 [DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)  🏆🏆 
+### [DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)  🏆🏆 
 **Medical chain-of-thought LoRA alignment pipeline** 
 > Unsloth, PyTorch, Hugging Face, TRL          
 > 🟢 `ACTIVE` • ⚙️ `REASONING OPTIMIZATION LAYER`
@@ -107,7 +107,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Maps diagnostic reasoning patterns into model weights  
 - Improves structured clinical response generation  
 
-### 🔹 [Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main) 🏆 
+### [Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main) 🏆 
 **Autonomous content lifecycle platform**  
 > CrewAI, LangChain/LangGraph, Pydantic, ChromaDB              
 > 🟢 `Active` • ⚙️ `Multi-agent Orchestration`  
@@ -122,12 +122,30 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 🏥 Healthcare & Clinical
 
+### [Autonomous Medication Reconciliation & Interaction Guard](https://github.com/aragit/medication-reconciliation-agent) 🏆🏆🏆
+
+`Request Access`
+**Cross-Source Medication Safety Engine via Type 6 Neuro-Symbolic Architecture**
+> Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, RxNorm, DrugBank, FastAPI, Pydantic, Neo4j, pytest — CI/CD
+> 🟡 `Coming Soon` • 🏥 `Medication Safety` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
+
+<details>
+<summary>Architecture Insight</summary>
+**Architecture Insight**
+- **Hybrid Framework:** Neural primary controller ingests medication lists from fragmented sources (EHR medication lists, pharmacy records, discharge summaries, patient-reported histories), normalizes free-text drug names to RxNorm concepts via local LLM inference, and dynamically invokes symbolic safety tools — with deterministic validation at the output boundary.
+- **Cross-Source Discrepancy Detection:** The LLM autonomously identifies duplicates (same drug, different names), omissions (chronic medication missing from one source), and temporality conflicts (discontinued drug still active in another system) — no pre-encoded matching rules.
+- **Dynamic Tool Orchestration:** MCP-native tool registry exposes 8+ clinical APIs (RxNorm resolver, drug interaction checker, allergy cross-reference, therapeutic duplication detector, renal dose adjuster, pregnancy category checker, lab value interpreter for dose validation, temporal logic engine for washout periods). The LLM decides *which* tools, *when*, and *in what order* — not a fixed pipeline.
+- **Epistemic Confidence Scoring:** Each reconciliation step is tagged with uncertainty metadata. The LLM performs meta-reasoning over source reliability (EHR > pharmacy > patient-reported) and confidence scores to flag items requiring pharmacist verification.
+- **Symbolic Safety Boundary:** Final reconciled medication list passes through a deterministic verifier ensuring no severe drug-drug interactions (Class X), no allergy conflicts, no therapeutic duplications, and dose limits within renal/hepatic function — all blocked from reaching the patient record without explicit pharmacist override and full audit trail.
+  
+</details>
+---
 ### [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 🏆  
 **Clinical entity extraction from EHR pipelines**
 > `LLaMA3` `Unsloth` `FastAPI` `LoRA`  
 > 🟢 ACTIVE • 💎 CORE PERCEPTION SYSTEM
 
-### [- ICU Vitals Transformer](#)  🏆
+### [ICU Vitals Transformer](#)  🏆
 **Transformer-based ICU vitals forecaster**      
 > TimesFM 2.5, PatchTST, Kafka, FastAPI, WebSockets  
 > 🟡 `Coming Soon` • 🏥 `Clinical Temporal Monitoring`  
@@ -138,22 +156,17 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Designed for early warning of patient deterioration  
 - Supports continuous temporal reasoning over ICU trajectories
 
-### [Clinical Differential Diagnosis Copilot](https://github.com/aragit/clinical-differential-copilot) 🏆🏆🏆
-
-**Autonomous Clinical Reasoning Engine via Type 6 Neuro-Symbolic Architecture**    
-> Claude 4.5 Sonnet, MCP, FHIR R4, SNOMED-CT, Python Clinical Calculators, LangSmith - CI/CD    
-> 🔒 `PRIVATE` • 🏥 `Clinical Decision Support` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
-
-**Architecture Insight** - **Type 6 Hybrid Framework:** Neural primary controller dynamically invokes symbolic clinical tools as subroutines, with deterministic validation at the output boundary.
-- **Adaptive Hypothesis Exploration:** The LLM autonomously navigates the differential diagnosis space, deciding which clinical scoring systems (Wells, HEART, CURB-65, APACHE) to invoke based on evolving patient narrative — no pre-encoded decision trees.
-- **Dynamic Tool Orchestration:** MCP-native tool registry exposes 30+ clinical APIs (drug interaction checker, lab value interpreter, temporal logic engine for washout periods, Orphanet rare disease KG). The LLM decides *which* tools, *when*, and *in what order* — not a fixed pipeline.
-- **Epistemic Confidence Scoring:** Each tool output is tagged with uncertainty metadata. The LLM performs meta-reasoning over confidence scores to determine when sufficient evidence exists or additional testing is required.
-- **L2 Symbolic Safety Boundary:** Final differential passes through a deterministic verifier ensuring all positive findings are addressed, no contraindicated diagnoses are suggested, and confidence thresholds meet institutional policy before human review.
-
 <details>
 <summary>🔥 MORE HEALTHCARE SOLUTIONS</summary>
 
-### [- Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)  🏆🏆 
+### [Clinical Differential Diagnosis Copilot](https://github.com/aragit/clinical-differential-copilot) 🏆🏆🏆
+`Request Access`
+**Autonomous Clinical Reasoning Engine via Type 6 Neuro-Symbolic Architecture**    
+> Claude 4.5 Sonnet, MCP, FHIR R4, SNOMED-CT, Clinical Calculators, LangSmith - CI/CD    
+> 🔒 `PRIVATE` • 🏥 `Clinical Decision Support` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
+
+
+### [Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)  🏆🏆 
 **Agentic prior authorization engine**  
 > EHR ingestion, CMS policy mapping, document automation     
 > 🔒 `Private` • 🏥 `Healthcare Execution`     
@@ -162,19 +175,27 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Maps clinical evidence against regulatory requirements  
 - Generates structured authorization submissions automatically  
 - Reduces administrative overhead in healthcare workflows  
-- Optimized for compliance-heavy decision environments  
+- Optimized for compliance-heavy decision environments
 
-### [- Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
+### [Autonomous Lab Interpretation & Critical Value Triage Agent](https://github.com/aragit/lab-interpretation-triage-agent) 🏆🏆🏆
+
+`Request Access`
+**Context-Aware Laboratory Intelligence Engine via Type 6 Neuro-Symbolic Architecture**
+> Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, HL7 v2, LOINC, FastAPI, Pydantic, SQLite, pytest — CI/CD
+> 🔒 `PRIVATE` • 🏥 `Clinical Laboratory` • 🧠 `Neuro-Symbolic AI` • ⚡ `Critical Value Management`
+
+
+### [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
 **Real-time patient fall detection on edge devices**
 > `YOLOv11-Pose` `TensorRT` `MQTT` `OpenCV`  
 > 🟢 ACTIVE` • 🔒 EDGE SAFETY SYSTEM     
 
-### [- Surgical Vision Copilot](https://github.com/aragit/surgical-vision-copilot) 🏆 
+### [Surgical Vision Copilot](https://github.com/aragit/surgical-vision-copilot) 🏆 
 **Real-time surgical understanding with vision-language models** 
 > `Video-LLaVA` `OpenCV` `Temporal` `Action Modeling`                   
 > 🟢 ACTIVE • 🧪 VISION PERCEPTION SYSTEM
 
-### [- Spatial Event Detector](https://github.com/aragit/spatial-event-detector)
+### [Spatial Event Detector](https://github.com/aragit/spatial-event-detector)
 **Kinematic telemetry → structured motion event extraction**
 > `YOLOv11-Pose` `OpenCV` `NumPy`         
 > 🟢 ACTIVE • ⚙️ MOTION PERCEPTION SYSTEM
@@ -185,7 +206,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 🎯 Marketing & Advertising
 
-### [- Nash Marketing Agents](https://github.com/aragit/agentic-nash-marketing)  🏆🏆🏆  
+### [Nash Marketing Agents](https://github.com/aragit/agentic-nash-marketing)  🏆🏆🏆  
 **Multi-agent competitive market simulation engine**   
 > NumPy, SciPy, SQLite/PostgreSQL, FastAPI, Pydantic, SQLAlchemy, Docker, pytest          
 > 🟢 `Active` • 🎯 `Strategic Decision Simulation`      
@@ -196,7 +217,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Prevents resource collapse in competitive bidding environments  
 - Enables pre-deployment experimentation of marketing strategies  
 
-### [- Real-Time Intent Transformer](https://github.com/aragit/real-time-intent-transformer)  🏆
+### [Real-Time Intent Transformer](https://github.com/aragit/real-time-intent-transformer)  🏆
 **Session-based e-commerce intent telemetry engine**     
 > Clickstream ingestion, behavioral modeling, real-time inference
 > 🟢 `Active`  • 🛒 `Commerce Execution`  
@@ -208,7 +229,8 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Enables adaptive real-time commerce optimization
 
 
-### [- Generative Dynamic Ad Renderer](mailto:anicomanesh@gmail?subject=Access%20Request%3A%20generative-dynamic-ad-renderer)  🏆 
+### [Generative Dynamic Ad Renderer](mailto:anicomanesh@gmail?subject=Access%20Request%3A%20generative-dynamic-ad-renderer)  🏆 
+`Request Access`
 **Telemetry-driven ad generation pipeline**  
 > LLM generation, behavioral signals, rendering automation       
 > 🔒 `Private` • 🎯 `Media Execution`      
@@ -224,7 +246,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ---
 ## 📦 Supply Chain & Logistics
 
-### [- Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  🏆🏆🏆 
+### [Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  🏆🏆🏆 
 **Predictive supply-chain telemetry pipeline**     
 > Amazon Chronos-2, Google TimesFM 2.5, Hugging Face     
 > 🟢 `Active` • ⏱️ `Temporal Forecasting`     
@@ -235,7 +257,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Incorporates exogenous signals for improved demand prediction  
 - Enables zero-shot forecasting across unseen domains  
 
-### [- Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm) 🏆  
+### [Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm) 🏆  
 **Multi-agent contract negotiation swarm**     
 > Ray/RLlib, CrewAI, vLLM          
 > 🟢 `Active` • 🤝 `Decentralized Negotiation`  
@@ -250,7 +272,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## ⚡ Energy & Utilities
 
-### [- Agentic Energy Grid Balancing System](https://github.com/aragit/agentic-energy-grid-balancer) 🏆🏆🏆
+### [Agentic Energy Grid Balancing System](https://github.com/aragit/agentic-energy-grid-balancer) 🏆🏆🏆
 
 **Autonomous Smart Grid Simulation Engine via Type 2 Neuro-Symbolic Architecture**
 > FastAPI,  Pydantic, SciPy, Ollama / vLLM, Docker - CI/CD
@@ -266,7 +288,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 🏦 Finance & RegTech
 
-### [- Regulatory Intelligence Agent](https://github.com/aragit/regulatory-intelligence-agent) 🏆🏆🏆 
+### [Regulatory Intelligence Agent](https://github.com/aragit/regulatory-intelligence-agent) 🏆🏆🏆 
 **Autonomous Compliance Monitoring Engine via Type 6 Neuro-Symbolic Architecture**
 > Claude Opus 4.6, MCP, Neo4j Policy Graph, QuantLib, SEC EDGAR API, OpenTelemetry - CI/CD       
 > 🔒 `PRIVATE` • 🏦 `FinTech / RegTech` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
@@ -277,7 +299,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **Multi-Channel Orchestration:** The LLM decides notification strategy — which trading desks (Slack), which compliance officers (email), which legal teams (Jira) — based on policy graph analysis of organizational ownership and historical response patterns.
 - **L2 Symbolic Audit Boundary:** Every regulatory text → tool call → output decision is fully traced (OpenTelemetry). Deterministic policy verifier ensures no recommendation violates hard constraints (capital requirements, position limits, blackout periods). Immutable audit trail for regulator examination.
 
-### [- Sentiment Market Maker](#) 
+### [Sentiment Market Maker](#) 
 **Liquidity simulation and market order book balancing**
 > NumPy, SciPy, High-Frequency Telemetry    
 > 🔒 `PRIVATE` • 📈 `FINANCIAL SIMULATION`
@@ -292,7 +314,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 🏙️ Smart Cities & Urban Systems
 
-### [- Agentic Smart City Traffic Optimization](#)  🏆 
+### [Agentic Smart City Traffic Optimization](#)  🏆 
 **Multi-agent traffic signal and routing optimizer**  
 > Graph networks, city simulation, intersection agents, routing optimization        
 > 🔵 `Concept` • 🚦 `Urban Coordination`  
@@ -308,7 +330,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ## 🎓 Education & Research
 
 ### [Autonomous Research Synthesizer](https://github.com/aragit/autonomous-research-synthesizer) 🏆🏆
-
+`Request Access`
 **Self-Directed Scientific Discovery Engine via Type 6 Architecture**
 > Gemini 3 Pro, MCP, Semantic Scholar API, E2B Sandbox, Jupyter Kernel, Neo4j Citation Graph - CI/CD   
 > 🔒 `PRIVATE` • 📚 `Scientific Research` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
@@ -319,7 +341,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **Cross-Modal Synthesis:** Native multimodal reasoning over text, tables, figures, and code. The LLM decides when to regenerate visualizations, when to query structured databases, and when to perform citation verification via Crossref DOI resolution.
 - **L2 Symbolic Validation Boundary:** Citation verifier ensures all claims are grounded in retrieved sources. Conflict detector flags contradictory findings across papers. Human-in-the-loop gate for conclusions with >3 standard deviation novelty scores.
 
-### [- Agentic Research Paper Review & Synthesis Swarm](#)  
+### [Agentic Research Paper Review & Synthesis Swarm](#)  
 **Multi-agent scientific reasoning and literature synthesis system**  
 > ArXiv API, claim extraction, contradiction detection, graph reasoning         
 > 🔵 `CONCEPT` • 📚 `RESEARCH REASONING LAYER`
@@ -330,7 +352,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Conflict agents detect contradictions across literature  
 - Synthesis agent generates research gap analysis and summaries  
 
-### [- Agentic Educational Tutoring Swarm](#)  🏆🏆
+### [Agentic Educational Tutoring Swarm](#)  🏆🏆
 **Adaptive tutoring system with concept mastery modeling**      
 > Knowledge graphs, tutoring agents, adaptive questioning, progress tracking      
 > 🔵 `Concept` • 🎓 `Adaptive Learning`  
@@ -345,7 +367,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 🧬 Computational Biology
 
-### [- Protein Binder Flow](https://github.com/aragit/Flow-Matching-Protein-Binder-Generator)  🏆
+### [Protein Binder Flow](https://github.com/aragit/Flow-Matching-Protein-Binder-Generator)  🏆
 **Flow-matching protein binder generator**  
 > PyTorch, Biopython, Flow Matching, FoldSeek
 > 🟢 `Active` • 🧬 `Computational Biology Research`     
