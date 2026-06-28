@@ -9,9 +9,6 @@
 <div align="center">
 
 <!-- SECTION 1: Capability Architecture (Icons + consistent dark-slate colors) -->
-<a href="https://github.com/aragit" aria-label="Compound AI Architecture">
-  <img src="https://img.shields.io/badge/Compound%20AI%20Architecture-1565c0?style=for-the-badge&logo=cpu&logoColor=white" alt="Compound AI Architecture">
-</a>
 <a href="https://github.com/aragit" aria-label="Neuro-symbolic systems">
   <img src="https://img.shields.io/badge/Neuro--Symbolic%20Systems-c62828?style=for-the-badge&logo=git-merge&logoColor=white" alt="Neuro-Symbolic Systems">
 </a>
@@ -29,9 +26,6 @@
 <a href="https://github.com/aragit" aria-label="Action-aware validation loops">
   <img src="https://img.shields.io/badge/Action--Aware%20Validation-37474f?style=for-the-badge&logo=check-circle&logoColor=white" alt="Action-Aware Validation">
 </a>
-<a href="https://github.com/aragit" aria-label="Multi-modal perception">
-  <img src="https://img.shields.io/badge/Multi--Modal%20Perception-00838f?style=for-the-badge&logo=eye&logoColor=white" alt="Multi-Modal Perception">
-</a>
 <a href="https://github.com/aragit" aria-label="MCP native protocol">
   <img src="https://img.shields.io/badge/MCP%20Native-283593?style=for-the-badge&logo=terminal&logoColor=white" alt="MCP Native">
 </a>
@@ -41,11 +35,8 @@
 <a href="https://github.com/aragit" aria-label="Edge SLM Optimization">
   <img src="https://img.shields.io/badge/Edge%20SLM%20Optimization-004d40?style=for-the-badge&logo=microchip&logoColor=white" alt="Edge SLM Optimization">
 </a>
-<a href="https://github.com/aragit" aria-label="Stateful Memory Graphs">
+<a href="https://github.com/aragit" aria-label="General Agentic Memory">
   <img src="https://img.shields.io/badge/Stateful%20Memory%20Graphs-01579b?style=for-the-badge&logo=share-2&logoColor=white" alt="Stateful Memory Graphs">
-</a>
-<a href="https://github.com/aragit" aria-label="Asynchronous Swarm Orchestration">
-  <img src="https://img.shields.io/badge/Async%20Swarm%20Orchestration-f57f17?style=for-the-badge&logo=activity&logoColor=white" alt="Async Swarm Orchestration">
 </a>
 <br><br>
 
