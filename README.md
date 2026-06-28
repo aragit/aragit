@@ -45,35 +45,30 @@
 <p><sub><b>SHIPPED ARCHITECTURE</b></sub></p>
 
 <a href="https://github.com/aragit">
-  <img src="https://img.shields.io/badge/Neuro--Symbolic-Type%202%20(Symbolic→Neuro)-0F0F11?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-Type%202%20(Symbolic→Neuro)-8E24AA?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=4A148C">
 </a>
 <a href="https://github.com/aragit">
-  <img src="https://img.shields.io/badge/Neuro--Symbolic-Type%206%20(Integrated)-0F0F11?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-Type%206%20(Integrated)-8E24AA?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=4A148C">
 </a>
 <a href="https://github.com/aragit">
-  <img src="https://img.shields.io/badge/Cognitive%20Stack-7--Layer%20Architecture-0F0F11?style=for-the-badge&logo=apacheairflow&logoColor=white">
-</a>
-
-<!-- 🔥 Highlighted Metrics -->
-<a href="https://github.com/aragit">
-  <img src="https://img.shields.io/badge/Trajectory%20Quality-100%2B%20E2E%20Tests-0F0F11?style=for-the-badge&logo=pytest&logoColor=00FFC6">
-</a>
-<a href="https://github.com/aragit">
-  <img src="https://img.shields.io/badge/Shipped%20Tools-25%20Integrations-0F0F11?style=for-the-badge&logo=postman&logoColor=00FFC6">
+  <img src="https://img.shields.io/badge/AI-7--Layer%20Architecture-8E24AA?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=4A148C">
 </a>
 
-<!-- Infrastructure -->
 <a href="https://github.com/aragit">
-  <img src="https://img.shields.io/badge/Agentic%20Mesh-Event--Driven%20Async-0F0F11?style=for-the-badge&logo=rabbitmq&logoColor=white">
+  <img src="https://img.shields.io/badge/QUALITY-100%2B%20Tests-43A047?style=for-the-badge&logo=pytest&logoColor=white&labelColor=1B5E20">
 </a>
 <a href="https://github.com/aragit">
-  <img src="https://img.shields.io/badge/Deployment-Distributed%20Microservices-0F0F11?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/QUALITY-25%20Integrations-43A047?style=for-the-badge&logo=postman&logoColor=white&labelColor=1B5E20">
+</a>
+
+<a href="https://github.com/aragit">
+  <img src="https://img.shields.io/badge/INFRA-Async%20Mesh-1E88E5?style=for-the-badge&logo=rabbitmq&logoColor=white&labelColor=0D47A1">
 </a>
 <a href="https://github.com/aragit">
-  <img src="https://img.shields.io/badge/Inference-vLLM%20%7C%20TensorRT--LLM-0F0F11?style=for-the-badge&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/INFRA-Microservices-1E88E5?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D47A1">
 </a>
 <a href="https://github.com/aragit">
-  <img src="https://img.shields.io/badge/Telemetry-OpenInference%20%7C%20Langfuse-0F0F11?style=for-the-badge&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/INFRA-Inference%20Engine-1E88E5?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=0D47A1">
 </a>
 <br><br>
 
