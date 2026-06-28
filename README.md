@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  <!-- SECTION 1: Capability Architecture (Your exact badges) -->
+  <!-- SECTION 1: Capability Architecture (Your exact badges — unchanged) -->
   <p><sub><b>CAPABILITY ARCHITECTURE</b></sub></p>
 
   <a href="https://github.com/aragit" aria-label="Compound AI systems">
@@ -38,36 +38,35 @@
 
   <br><br>
 
-  <!-- SECTION 2: Implementation & Evidence (Your design style) -->
-  <p><sub><b>SHIPPED ARCHITECTURE & STACK</b></sub></p>
+  <!-- SECTION 2: Shipped Architecture & Evidence (Your design style + consistent professional colors) -->
+  <p><sub><b>SHIPPED ARCHITECTURE & EVIDENCE</b></sub></p>
 
-  <a href="https://github.com/aragit" aria-label="Tripartite memory model">
-    <img src="https://img.shields.io/badge/Memory-Episodic%7CSemantic%7CProcedural-1e3a8a?style=for-the-badge&logo=database&logoColor=white" alt="Memory: Episodic | Semantic | Procedural">
-  </a>
   <a href="https://github.com/aragit" aria-label="Type 2 neuro-symbolic system">
-    <img src="https://img.shields.io/badge/Neuro--Symbolic-Type%202%20%5BSymbolic%5BNeuro%5D%5D-blue?style=for-the-badge&logo=python&logoColor=white" alt="Type 2 [Symbolic[Neuro]]">
+    <img src="https://img.shields.io/badge/Neuro--Symbolic-Type%202%20%5BSymbolic%5BNeuro%5D%5D-0f172a?style=for-the-badge&logo=python&logoColor=white" alt="Type 2 [Symbolic[Neuro]]">
   </a>
   <a href="https://github.com/aragit" aria-label="Type 6 neuro-symbolic system">
-    <img src="https://img.shields.io/badge/Neuro--Symbolic-Type%206%20%5BNeuro%5BSymbolic%5D%5D-purple?style=for-the-badge&logo=python&logoColor=white" alt="Type 6 [Neuro[Symbolic]]">
+    <img src="https://img.shields.io/badge/Neuro--Symbolic-Type%206%20%5BNeuro%5BSymbolic%5D%5D-1e293b?style=for-the-badge&logo=python&logoColor=white" alt="Type 6 [Neuro[Symbolic]]">
   </a>
   <a href="https://github.com/aragit" aria-label="7-layer agent stack">
-    <img src="https://img.shields.io/badge/Architecture-7--Layer%20Stack-red?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="7-Layer Stack">
+    <img src="https://img.shields.io/badge/Architecture-7--Layer%20Stack-334155?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="7-Layer Stack">
   </a>
-  <a href="https://github.com/aragit" aria-label="Clinical FHIR R4 HIPAA compliance">
-    <img src="https://img.shields.io/badge/Clinical-FHIR%20R4%20%7C%20HIPAA-7f1d1d?style=for-the-badge&logo=heart-pulse&logoColor=white" alt="Clinical: FHIR R4 | HIPAA">
+  <a href="https://github.com/aragit" aria-label="107 plus tests">
+    <img src="https://img.shields.io/badge/Quality-107%2B%20Tests-1e3a8a?style=for-the-badge&logo=checkmarx&logoColor=white" alt="107+ Tests">
+  </a>
+  <a href="https://github.com/aragit" aria-label="25 production tools">
+    <img src="https://img.shields.io/badge/Shipped-25%20Tools-0f172a?style=for-the-badge&logo=toolbox&logoColor=white" alt="25 Tools">
   </a>
   <a href="https://github.com/aragit" aria-label="MCP protocol native">
-    <img src="https://img.shields.io/badge/Protocol-MCP--Native-green?style=for-the-badge&logo=protocols.io&logoColor=white" alt="MCP-Native">
+    <img src="https://img.shields.io/badge/Protocol-MCP--Native-1e293b?style=for-the-badge&logo=protocols.io&logoColor=white" alt="MCP-Native">
   </a>
   <a href="https://github.com/aragit" aria-label="Microservices architecture">
-    <img src="https://img.shields.io/badge/Architecture-Microservices-orange?style=for-the-badge&logo=docker&logoColor=white" alt="Microservices">
+    <img src="https://img.shields.io/badge/Architecture-Microservices-334155?style=for-the-badge&logo=docker&logoColor=white" alt="Microservices">
   </a>
   <a href="https://github.com/aragit" aria-label="Local first inference with Ollama">
-    <img src="https://img.shields.io/badge/Inference-Local--First%20%7C%20Ollama-yellow?style=for-the-badge&logo=ollama&logoColor=black" alt="Local-First | Ollama">
+    <img src="https://img.shields.io/badge/Inference-Local--First%20%7C%20Ollama-1e3a8a?style=for-the-badge&logo=ollama&logoColor=white" alt="Local-First | Ollama">
   </a>
 
 </div>
-
 ---
 # The Composable Intelligence Stack
 
