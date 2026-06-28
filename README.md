@@ -216,7 +216,6 @@ The result is a **genuinely transferable decision intelligence platform** with c
   
 </details>
 
-[![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
 
 ### [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 🏆  
 **Clinical entity extraction from EHR pipelines**
@@ -243,9 +242,11 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ### [Autonomous Lab Interpretation & Critical Value Triage Agent](https://github.com/aragit/lab-interpretation-triage-agent) 🏆🏆🏆
 
+[![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
+
 **Context-Aware Laboratory Intelligence Engine**
-> Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, HL7 v2, LOINC, FastAPI, Pydantic, SQLite, pytest — CI/CD         
-> 🔒 `PRIVATE` • `Clinical Laboratory` • `Neuro-Symbolic AI` • `Critical Value Management`
+> Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, HL7 v2, LOINC, FastAPI, Pydantic, SQLite, pytest — CI/CD              
+> `Clinical Laboratory` • `Neuro-Symbolic AI` • `Critical Value Management`
 
 [![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
 
