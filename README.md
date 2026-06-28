@@ -36,6 +36,18 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 *   **[🧬 Computational Biology](#-computational-biology):** Flow-matching protein binder generation.
 *   **[🧠 Cross-Domain Neuro-Symbolic Architecture](#-cross-domain-neuro-symbolic-architecture):** Foundational reasoning, memory, and orchestration layers that transfer across all verticals.
 
+## 🔐 Private Repositories
+
+Some advanced components (neuro-symbolic core, orchestration engine, and production pipelines) are kept private.
+
+Access is granted upon request for:
+- Research collaboration
+- Technical evaluation
+- Hiring processes
+
+[![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
+
+
 ---
 
 ## Architectural Philosophy
