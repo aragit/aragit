@@ -28,7 +28,7 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 
 *   **[🏥 Healthcare & Clinical](#-healthcare--clinical):** Medical perception, differential diagnosis, prior authorization, and ICU monitoring.
 *   **[🎯 Marketing & Advertising](#-marketing--advertising):** Competitive Nash equilibrium bidding, real-time intent transformation, and generative ad rendering.
-*   **[⚡ Energy & Utilities](#-energy--utilities):** Autonomous grid balancing with Type 2 neuro-symbolic safety guardrails.
+*   **[⚡ Energy & Utilities](#-energy--utilities):** Autonomous grid balancing with neuro-symbolic safety guardrails.
 *   **[🏦 Finance & RegTech](#-finance--regtech):** Cross-jurisdictional compliance monitoring and market simulation.
 *   **[📦 Supply Chain & Logistics](#-supply-chain--logistics):** Zero-shot demand forecasting and autonomous procurement negotiation.
 *   **[🏙️ Smart Cities & Urban Systems](#-smart-cities--urban-systems):** Multi-agent traffic optimization and congestion resolution.
@@ -119,7 +119,8 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [Autonomous Medication Reconciliation & Interaction Guard](https://github.com/aragit/medication-reconciliation-agent) 🏆🏆🏆
 
 `Request Access`
-**Cross-Source Medication Safety Engine via Type 6 Neuro-Symbolic Architecture**
+
+**Cross-Source Medication Safety Engine**
 > Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, RxNorm, DrugBank, FastAPI, Pydantic, Neo4j, pytest — CI/CD      
 > 🟡 `Coming Soon` • 🏥 `Medication Safety` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`    
 
@@ -155,7 +156,8 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [Autonomous Lab Interpretation & Critical Value Triage Agent](https://github.com/aragit/lab-interpretation-triage-agent) 🏆🏆🏆
 
 `Request Access`
-**Context-Aware Laboratory Intelligence Engine via Type 6 Neuro-Symbolic Architecture**
+
+**Context-Aware Laboratory Intelligence Engine**
 > Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, HL7 v2, LOINC, FastAPI, Pydantic, SQLite, pytest — CI/CD         
 > 🔒 `PRIVATE` • 🏥 `Clinical Laboratory` • 🧠 `Neuro-Symbolic AI` • ⚡ `Critical Value Management`
 
@@ -166,7 +168,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ### [Clinical Differential Diagnosis Copilot](https://github.com/aragit/clinical-differential-copilot) 🏆🏆🏆
 `Request Access`
-**Autonomous Clinical Reasoning Engine via Type 6 Neuro-Symbolic Architecture**    
+**Autonomous Clinical Reasoning Engine**    
 > Claude 4.5 Sonnet, MCP, FHIR R4, SNOMED-CT, Clinical Calculators, LangSmith - CI/CD    
 > 🔒 `PRIVATE` • 🏥 `Clinical Decision Support` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
 
@@ -270,12 +272,12 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ### [Agentic Energy Grid Balancing System](https://github.com/aragit/agentic-energy-grid-balancer) 🏆🏆🏆
 
-**Autonomous Smart Grid Simulation Engine via Type 2 Neuro-Symbolic Architecture**
+**Autonomous Smart Grid Simulation Engine**
 > FastAPI,  Pydantic, SciPy, Ollama / vLLM, Docker - CI/CD
 > 🟢 `Active` • ⚡ `Energy Systems Optimization` • 🧠 `Neuro-Symbolic AI`  
 
 **Architecture Insight** 
-- **Type 2 Hybrid Framework:** Embeds probabilistic neural subroutines inside a mathematically deterministic symbolic execution.
+- **Hybrid Framework:** Embeds probabilistic neural subroutines inside a mathematically deterministic symbolic execution.
 - **Bounded Neural Reasoning:** Battery arbitrage agents execute local LLM/SLM subroutines constrained by strict Pydantic validation layers, preventing hallucinated actions from touching the grid state.
 - **Deterministic Market Clearing:** Multi-agent supply and demand bids resolve through a formal, continuous double-sided auction engine to guarantee exact market clearing math.
 - **L6 Safety Governance:** The orchestrator runs an absolute physical guardrail loop, checking baseline line capacities and locking grid frequency within strict stability limits (±0.5 Hz).
@@ -286,11 +288,12 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ### [Regulatory Intelligence Agent](https://github.com/aragit/regulatory-intelligence-agent) 🏆🏆🏆        
 
-**Autonomous Compliance Monitoring Engine via Type 6 Neuro-Symbolic Architecture**
+**Autonomous Compliance Monitoring Engine**
 > Claude Opus 4.6, MCP, Neo4j Policy Graph, QuantLib, SEC EDGAR API, OpenTelemetry - CI/CD       
 > 🔒 `PRIVATE` • 🏦 `FinTech / RegTech` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
 
-**Architecture Insight** - **Type 6 Hybrid Framework:** Neural primary controller monitors regulatory landscapes, dynamically orchestrating symbolic tools for impact quantification, policy tracing, and stakeholder notification — reasoning across jurisdictions and business lines.
+**Architecture Insight**
+- **Hybrid Framework:** Neural primary controller monitors regulatory landscapes, dynamically orchestrating symbolic tools for impact quantification, policy tracing, and stakeholder notification — reasoning across jurisdictions and business lines.
 - **Cross-Domain Regulatory Reasoning:** The LLM reads unstructured regulatory text (SEC, FINRA, ECB, FCA), identifies affected internal policies via Neo4j knowledge graph traversal, and decides which risk models require re-validation — interpreting intent beyond keyword matching.
 - **Dynamic Impact Quantification:** Monte Carlo simulation (QuantLib) runs only when the LLM determines quantitative impact is material. The LLM decides simulation parameters, interprets tail-risk outputs, and decides whether to escalate to human risk officers.
 - **Multi-Channel Orchestration:** The LLM decides notification strategy — which trading desks (Slack), which compliance officers (email), which legal teams (Jira) — based on policy graph analysis of organizational ownership and historical response patterns.
@@ -314,7 +317,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 `Request Access`
 
-**Autonomous Regulatory Compliance Auditor via Type 2 Neuro-Symbolic Architecture**    
+**Autonomous Regulatory Compliance Auditor via  Neuro-Symbolic Architecture**    
 > Ollama (gemma3:1b / qwen2.5:0.5b), MCP, LangGraph, FastAPI, Pydantic v2, Neo4j, ChromaDB, Polars, loguru, prometheus-client, pytest — CI/CD     
 > 🟢 `Active` • 🏦 `RegTech / Compliance` • 🧠 `Neuro-Symbolic AI` • 🛡️ `Governance & Safety`
 
@@ -348,12 +351,15 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ## 🎓 Education & Research
 
 ### [Autonomous Research Synthesizer](https://github.com/aragit/autonomous-research-synthesizer) 🏆🏆
+
 `Request Access`
-**Self-Directed Scientific Discovery Engine via Type 6 Architecture**
+
+**Self-Directed Scientific Discovery Engine**
 > Gemini 3 Pro, MCP, Semantic Scholar API, E2B Sandbox, Jupyter Kernel, Neo4j Citation Graph - CI/CD   
 > 🔒 `PRIVATE` • 📚 `Scientific Research` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
 
-**Architecture Insight** - **Type 6 Hybrid Framework:** Neural primary controller plans multi-step research workflows, dynamically calling symbolic tools for computation, retrieval, and verification — adapting strategy based on intermediate results.
+**Architecture Insight** 
+- **Hybrid Framework:** Neural primary controller plans multi-step research workflows, dynamically calling symbolic tools for computation, retrieval, and verification — adapting strategy based on intermediate results.
 - **Opportunistic Research Planning:** The LLM decomposes open-ended research questions into sub-goals, decides which literature APIs to query (PubMed, Semantic Scholar, bioRxiv, arXiv), and adapts when sources conflict or gaps emerge — no static retrieval pipeline.
 - **Reproducible Analysis Execution:** E2B-sandboxed Jupyter kernel executes Python/R statistical analyses on raw datasets (GEO, Figshare) with full provenance tracking. The LLM generates analysis code, interprets outputs, and decides whether to re-run with modified parameters.
 - **Cross-Modal Synthesis:** Native multimodal reasoning over text, tables, figures, and code. The LLM decides when to regenerate visualizations, when to query structured databases, and when to perform citation verification via Crossref DOI resolution.
