@@ -87,6 +87,18 @@
 </div>
 
 
+<div align="center">
+
+[![Type 2](https://img.shields.io/badge/Neuro--Symbolic-Type%202%20%5BSymbolic%5BNeuro%5D%5D-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/aragit)
+[![Type 6](https://img.shields.io/badge/Neuro--Symbolic-Type%206%20%5BNeuro%5BSymbolic%5D%5D-purple?style=for-the-badge&logo=python&logoColor=white)](https://github.com/aragit)
+[![7-Layer Stack](https://img.shields.io/badge/Architecture-7--Layer%20Stack-red?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://github.com/aragit)
+[![MCP-Native](https://img.shields.io/badge/Protocol-MCP--Native-green?style=for-the-badge&logo=protocols.io&logoColor=white)](https://github.com/aragit)
+[![Microservices](https://img.shields.io/badge/Architecture-Microservices-orange?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/aragit)
+[![Local-First](https://img.shields.io/badge/Inference-Local--First%20%7C%20Ollama-yellow?style=for-the-badge&logo=ollama&logoColor=black)](https://github.com/aragit)
+
+</div>
+
+
 ---
 # The Composable Intelligence Stack
 
