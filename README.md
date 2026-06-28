@@ -15,7 +15,7 @@
 [![Multi-Modal Perception](https://img.shields.io/badge/Multi--Modal%20Perception-9a3412?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/aragit)
 [![Elastic Scalability](https://img.shields.io/badge/Elastic%20Scalability-0f172a?style=for-the-badge&logo=server&logoColor=white)](https://github.com/aragit)
 [![MCP Native](https://img.shields.io/badge/MCP%20Native-064e3b?style=for-the-badge&logo=exchange-alt&logoColor=white)](https://github.com/aragit)
-[![General Agentic Memory (GAM)](https://img.shields.io/badge/Persistent%20Memory-14532d?style=for-the-badge&logo=database&logoColor=white)](https://github.com/aragit)
+
 
 </div>
 
