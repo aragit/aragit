@@ -555,7 +555,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ### [Protein Binder Flow](https://github.com/aragit/Flow-Matching-Protein-Binder-Generator)  🏆
 **Flow-matching protein binder generator**  
-> PyTorch, Biopython, Flow Matching, FoldSeek
+> PyTorch, Biopython, Flow Matching, FoldSeek    
 > 🟢 `Active` • 🧬 `Computational Biology Research`     
 
 <details>
