@@ -229,7 +229,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 
 <details>
-<summary>Architecture Insight</summary>
+<summary><b><i>Architecture Insight ...</i></b></summary>
   
 
 - Ingests high-frequency physiological streams via HL7 FHIR gateway  
@@ -272,7 +272,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 
 <details>
-<summary>Architecture Insight ...</summary>
+<summary><b><i>Architecture Insight ...</i></b></summary>
 
 
 - Maps clinical evidence against regulatory requirements  
@@ -310,7 +310,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > 🟢 `Active` • `Strategic Decision Simulation`      
 
 <details>
-<summary>Architecture Insight ...</summary>
+<summary><b><i>Architecture Insight ...</i></b></summary>
 
 - Models non-cooperative advertising markets using Nash equilibria  
 - Simulates autonomous brand agents under budget constraints  
@@ -325,9 +325,9 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > 🟢 `Active`  • `Commerce Execution`
 
 <details>
-<summary>Architecture Insight ...</summary>
-
-**Architecture insight**  
+<summary><b><i>Architecture Insight ...</i></b></summary>
+  
+ 
 - Interprets live user sessions into actionable intent signals  
 - Maintains dense behavioral memory across interactions  
 - Triggers contextual interventions based on inferred intent  
@@ -342,7 +342,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > 🔒 `Private` • `Media Execution`      
 
 <details>
-<summary>Architecture Insight ...</summary>
+<summary><b><i>Architecture Insight ...</i></b></summary>
   
 
 - Converts user behavioral signals into generated creative content  
@@ -364,7 +364,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > 🟢 `Active` • `Temporal Forecasting`     
 
 <details>
-<summary>Architecture Insight ...</summary>
+<summary><b><i>Architecture Insight ...</i></b></summary>
 
 - Moves beyond traditional ARIMA and LSTM-based forecasting  
 - Uses foundation models for long-context temporal reasoning  
@@ -380,7 +380,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > 🟢 `Active` • 🤝 `Decentralized Negotiation`
 
 <details>
-<summary>Architecture Insight ...</summary>
+<summary><b><i>Architecture Insight ...</i></b></summary>
 
 
 - Buyer and seller agents autonomously negotiate contracts  
@@ -417,7 +417,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > 🔒 `PRIVATE` • `FinTech / RegTech` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
 
 <details>
-<summary>Architecture Insight</summary>
+<summary><b><i>Architecture Insight ...</i></b></summary>
 
 
 - **Hybrid Framework:** Neural primary controller monitors regulatory landscapes, dynamically orchestrating symbolic tools for impact quantification, policy tracing, and stakeholder notification — reasoning across jurisdictions and business lines.
@@ -455,7 +455,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > 🟢 `Active` • `RegTech / Compliance` • `Neuro-Symbolic AI` • `Governance & Safety`
 
 <details>
-<summary>Architecture Insight ...</summary>
+<summary><b><i>Architecture Insight ...</i></b></summary>
 
 
 
@@ -480,10 +480,10 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > 🔵 `Concept` • `Urban Coordination`  
 
 <details>
-<summary>Architecture Insight ...</summary>
+<summary><b><i>Architecture Insight ...</i></b></summary>
 
 
-**Architecture insight**  
+ 
 - Intersection agents negotiate real-time signal timing  
 - Transit agents optimize passenger flow across networks  
 - Emergency agents override routing for critical response vehicles  
@@ -504,8 +504,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > 🔒 `PRIVATE` • `Scientific Research` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
 
 <details>
-<summary>Architecture Insight ...</summary>
-
+<summary><b><i>Architecture Insight ...</i></b></summary>
 
 
 - **Hybrid Framework:** Neural primary controller plans multi-step research workflows, dynamically calling symbolic tools for computation, retrieval, and verification — adapting strategy based on intermediate results.
@@ -525,7 +524,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > 🔵 `CONCEPT` • `RESEARCH REASONING LAYER`
 
 <details>
-<summary>Architecture Insight ...</summary>
+<summary><b><i>Architecture Insight ...</i></b></summary>
  
 - Ingestion agents structure academic papers into claims  
 - Verification agents cross-check citations and evidence  
@@ -540,9 +539,9 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > 🔵 `Concept` • 🎓 `Adaptive Learning`  
 
 <details>
-<summary>Architecture Insight ...</summary>
+<summary><b><i>Architecture Insight ...</i></b></summary>
 
-**Architecture insight**  
+
 - Assessment agents identify knowledge gaps dynamically  
 - Subject-specific agents provide targeted instruction  
 - Pedagogy agent adapts teaching strategy per learner profile  
@@ -560,7 +559,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > 🟢 `Active` • 🧬 `Computational Biology Research`     
 
 <details>
-<summary>Architecture Insight ...</summary>
+<summary><b><i>Architecture Insight ...</i></b></summary>
   
 - Uses flow matching for structural molecular generation  
 - Moves beyond diffusion-based protein design approaches  
