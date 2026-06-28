@@ -287,6 +287,8 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 </details>
 
+<br>
+
 ---
 
 ## 🎯 Marketing & Advertising
@@ -340,6 +342,8 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 [![Request Access](https://img.shields.io/badge/Request%20Access-Apply%20Now-black?style=for-the-badge&logo=github&logoColor=white)](https://your-form-link.com)
 
+<br>
+
 ---
 
 ## 📦 Supply Chain & Logistics
@@ -376,6 +380,8 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 </details>
 
+<br>
+
 ---
 
 ## ⚡ Energy & Utilities
@@ -391,6 +397,8 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **Bounded Neural Reasoning:** Battery arbitrage agents execute local LLM/SLM subroutines constrained by strict Pydantic validation layers, preventing hallucinated actions from touching the grid state.
 - **Deterministic Market Clearing:** Multi-agent supply and demand bids resolve through a formal, continuous double-sided auction engine to guarantee exact market clearing math.
 - **Safety Governance:** The orchestrator runs an absolute physical guardrail loop, checking baseline line capacities and locking grid frequency within strict stability limits (±0.5 Hz).
+
+<br>
 
 ---
 
@@ -450,6 +458,8 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 </details>
 
+<br>
+
 ---
 
 
@@ -471,6 +481,9 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Global orchestrator resolves congestion and systemic deadlocks
 
 </details>
+
+
+<br>
 
 ---
 
@@ -527,6 +540,8 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 </details>
 
+<br>
+
 ---
 
 ## 🧬 Computational Biology
@@ -545,6 +560,8 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Expands AI systems into generative bio-molecular design  
 
 </details>
+
+<br>
 
 ---
 
