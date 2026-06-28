@@ -162,7 +162,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 `Request Access`
 **Context-Aware Laboratory Intelligence Engine via Type 6 Neuro-Symbolic Architecture**
-> Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, HL7 v2, LOINC, FastAPI, Pydantic, SQLite, pytest — CI/CD       
+> Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, HL7 v2, LOINC, FastAPI, Pydantic, SQLite, pytest — CI/CD         
 > 🔒 `PRIVATE` • 🏥 `Clinical Laboratory` • 🧠 `Neuro-Symbolic AI` • ⚡ `Critical Value Management`
 
 
@@ -290,8 +290,9 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 🏦 Finance & RegTech
 
-### [Regulatory Intelligence Agent](https://github.com/aragit/regulatory-intelligence-agent) 🏆🏆🏆 
+### [Regulatory Intelligence Agent](https://github.com/aragit/regulatory-intelligence-agent) 🏆🏆🏆        
 `Request Access`
+
 **Autonomous Compliance Monitoring Engine via Type 6 Neuro-Symbolic Architecture**
 > Claude Opus 4.6, MCP, Neo4j Policy Graph, QuantLib, SEC EDGAR API, OpenTelemetry - CI/CD       
 > 🔒 `PRIVATE` • 🏦 `FinTech / RegTech` • 🧠 `Neuro-Symbolic AI` • 🔬 `Dynamic Tool Use`
@@ -316,19 +317,20 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Risk assessment prior to live trading execution  
 
 
-### [MCP Compliance Kernel](https://github.com/aragit/mcp-compliance-kernel) 🏆🏆🏆
+### [MCP Compliance Kernel](https://github.com/aragit/mcp-compliance-kernel) 🏆🏆🏆   
 
 `Request Access`
-**Autonomous Regulatory Compliance Auditor via Type 2 Neuro-Symbolic Architecture**
-> Ollama (gemma3:1b / qwen2.5:0.5b), MCP, LangGraph, FastAPI, Pydantic v2, Neo4j, ChromaDB, Polars, loguru, prometheus-client, pytest — CI/CD
+
+**Autonomous Regulatory Compliance Auditor via Type 2 Neuro-Symbolic Architecture**    
+> Ollama (gemma3:1b / qwen2.5:0.5b), MCP, LangGraph, FastAPI, Pydantic v2, Neo4j, ChromaDB, Polars, loguru, prometheus-client, pytest — CI/CD     
 > 🟢 `Active` • 🏦 `RegTech / Compliance` • 🧠 `Neuro-Symbolic AI` • 🛡️ `Governance & Safety`
 
 **Architecture Insight**
-- **Type 2 Hybrid Framework:** Symbolic primary execution engine (LangGraph state machine, OPA-inspired Python rule engine) embeds probabilistic neural subroutines (local LLM for semantic document chunking, obligation extraction, and policy-to-regulation mapping) — deterministic safety invariants are never overridden by neural output.
+- **Hybrid Framework:** Symbolic primary execution engine (LangGraph state machine, OPA-inspired Python rule engine) embeds probabilistic neural subroutines (local LLM for semantic document chunking, obligation extraction, and policy-to-regulation mapping) — deterministic safety invariants are never overridden by neural output.
 - **Autonomous Gap Discovery:** The system ingests regulations (GDPR, HIPAA, SOC2) and company policies, extracts obligations via regex + heuristic + LLM fallback, and maps policy clauses to regulatory requirements using embedding similarity + LLM verification — no manual compliance checklist required.
 - **Dynamic Tool Orchestration:** 5 MCP-native microservices (regulation-fetcher, policy-parser, gap-analyzer, risk-scorer, report-generator) communicate via standardized tool protocol. Each service is independently containerized, horizontally scalable, and implements Pydantic-validated input/output schemas with full error handling.
 - **Weighted Risk Scoring:** Risk formula combines obligation priority (critical/high/medium/low), gap severity (missing=1.0, insufficient=0.7, wrong_scope=0.5), and exposure factors (company size, data sensitivity, jurisdiction) into a 0-100 quantitative score with category breakdown and trend analysis.
-- **L6 Symbolic Safety Boundary:** Every audit decision is immutably logged in Neo4j with full provenance (regulation version, policy version, mapping scores, confidence levels). The rule engine enforces hard constraints: no gap with severity >0.8 can be marked "monitor" (must be "fix immediately"); no report can be generated with <75% mapping coverage; all LLM-verified mappings require human review if confidence <0.6. Compliance is not suggested — it is enforced.
+- **Symbolic Safety Boundary:** Every audit decision is immutably logged in Neo4j with full provenance (regulation version, policy version, mapping scores, confidence levels). The rule engine enforces hard constraints: no gap with severity >0.8 can be marked "monitor" (must be "fix immediately"); no report can be generated with <75% mapping coverage; all LLM-verified mappings require human review if confidence <0.6. Compliance is not suggested — it is enforced.
 
 </details>
 
