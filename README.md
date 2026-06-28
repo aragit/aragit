@@ -46,10 +46,10 @@
 
 <!-- AI / NEURO-SYMBOLIC -->
 <a href="https://github.com/aragit">
-  <img src="https://img.shields.io/badge/Neuro--Symbolic-Type%202%20(Symbolic→Neuro)-c62828?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Symbolic--First-c62828?style=for-the-badge&logo=fastapi&logoColor=white&label=Neuro%20Symbolic">
 </a>
 <a href="https://github.com/aragit">
-  <img src="https://img.shields.io/badge/Neuro--Symbolic-Type%206%20(Integrated)-c62828?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Hybrid--Integrated-c62828?style=for-the-badge&logo=pytorch&logoColor=white&label=Neuro%20Symbolic">
 </a>
 <a href="https://github.com/aragit">
   <img src="https://img.shields.io/badge/Cognitive%20Stack-7--Layer%20Architecture-c62828?style=for-the-badge&logo=apacheairflow&logoColor=white">
