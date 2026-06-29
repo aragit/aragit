@@ -276,21 +276,25 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 
 
-### [Real-Time Intent Transformer](https://github.com/aragit/real-time-intent-transformer)  
-**Session-based e-commerce intent telemetry engine**     
-> Clickstream ingestion, behavioral modeling, real-time inference    
-> 🟢 `Active`  • `Commerce Execution`
+### [Real-Time Intent Transformer](https://github.com/aragit/real-time-intent-transformer) 3.3/5
+**Real-Time E-Commerce Intent Classification with Action Governance**  
+> FastAPI, Pydantic v2, Polars, scikit-learn, aiokafka, SQLite, OPA, pytest (84+ tests)  
+> 🟢 `Active` • `E-Commerce Personalization` • `Behavioral Analytics`
 
-<details>
-<summary><b><i>Architecture Insight ...</i></b></summary>
-  
- 
-- Interprets live user sessions into actionable intent signals  
-- Maintains dense behavioral memory across interactions  
-- Triggers contextual interventions based on inferred intent  
-- Enables adaptive real-time commerce optimization
+**Architecture Insight**
 
-</details>
+- **7-Layer Neuro-Symbolic Pipeline**: Ingestion → Perception (Polars feature engineering) → Reasoning (rule-based + ML ensemble) → Governance (OPA/Rego + Python fallback) → Execution (action dispatch with suppression) → Memory (SQLite session store) → Meta-Cognition (drift detection stub)
+- **18 Behavioral Features**: Session duration, page views, cart adds/removes, checkouts, searches, cart value, category switches, exploration ratio, conversion rates, inter-event time — engineered via Polars DataFrame operations
+- **Dual-Track Intent Classification**: Rule-based heuristic (<10ms, confidence ≥0.6 threshold) falls back to sklearn RandomForest/XGBoost ensemble (<50ms) if model file exists; 7 intent classes (BROWSE, COMPARE, CART_BUILDER, CHECKOUT_INTENT, PRICE_SENSITIVE, CHURN_RISK, LOYAL_RETURNER)
+- **6 Action Types with Suppression**: RECOMMEND_ALTERNATIVE, SHOW_COMPARISON_TOOL, APPLY_DISCOUNT, SHOW_URGENCY, SEND_ABANDON_EMAIL, LOYALTY_REWARD — 15-minute deduplication window per session, governance deny override
+- **Business Rules Governance**: Anti-gaming (max 3 discounts/month, 24h cooldown), minimum cart value ($50), inventory threshold for urgency, session duration for abandon email, demographic fairness guardrail (no pricing discrimination)
+- **Best-Effort Kafka Streaming**: aiokafka producer with start/stop lifecycle; SQLite is primary persistence, Kafka is fire-and-forget fallback when unavailable
+- **84+ Tests with 70%+ Coverage**: Intent classification, feature engineering, action dispatch, governance rules, event store, API endpoints
+- **Docker Compose Infrastructure**: Zookeeper + Kafka + OPA (Open Policy Agent) with healthchecks
+- **Synthetic Data Generation**: 34,148 events across 5,000 sessions with balanced intent distribution; perfect F1 on synthetic data (expected — labels derived from rules)
+
+
+
 
 ### [Generative Dynamic Ad Renderer](mailto:anicomanesh@gmail?subject=Access%20Request%3A%20generative-dynamic-ad-renderer)  
 **Telemetry-driven ad generation pipeline**  
