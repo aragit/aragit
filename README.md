@@ -116,7 +116,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ---
 
 
-## 🔮 Cross-Domain Neuro-Symbolic Architecture
+## ✨ Cross-Domain Neuro-Symbolic Architecture
 
 > Projects that define the foundational neuro-symbolic stack and transfer across industries.
 
@@ -259,10 +259,10 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 🎯 Marketing & Advertising
 
-### [Nash Marketing Agents](https://github.com/aragit/agentic-nash-marketing)  ***4.2***
+### [Nash Marketing Agents](https://github.com/aragit/agentic-nash-marketing) 
 **Neuro-Symbolic Multi-Agent Ad Auction Simulator with Nash Equilibrium Solver**  
 > FastAPI, Pydantic v2, SQLAlchemy 2.0, SciPy, SQLite/PostgreSQL, Docker, pytest (49 tests)  
-> 🟢 `Active` • `Neuro-Symbolic` • `Game Theory` • `Ad Tech Simulation`
+> 🟢 `Active` • `Neuro-Symbolic` • `Game Theory` • `Ad Tech Simulation` • `Avg: 4.2`   
 
 **Architecture Insight**
 
@@ -316,10 +316,10 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 📦 Supply Chain & Logistics
 
-### [Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  ***3.0***
+### [Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  
 **Zero-Shot Time-Series Demand Forecasting with Foundation Models**  
 > PyTorch, TimesFM, Transformers, Amazon Chronos-2, Pydantic v2, PyYAML  
-> 🟢 `Active` • `Zero-Shot Forecasting` • `Retail Demand Prediction`
+> 🟢 `Active` • `Zero-Shot Forecasting` • `Retail Demand Prediction` • `Avg: 3.0` 
 
 
 **Architecture Insight**
@@ -336,10 +336,10 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
   
 
-### [Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm) ***3.5***
+### [Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm) 
 **LLM-Powered Multi-Agent Contract Negotiation for Supply Chain Optimization**  
 > FastAPI, Pydantic v2,SciPy, Transformers, Matplotlib, pytest  
-> 🟢 `Active` • `Turn-Based Negotiation` • `Market Simulation`
+> 🟢 `Active` • `Turn-Based Negotiation` • `Market Simulation` • `Avg: 3.5`    
 
 **Architecture Insight**
 
@@ -356,10 +356,10 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## ⚡ Energy & Utilities
 
-### [Agentic Energy Grid Balancing System](https://github.com/aragit/agentic-energy-grid-balancer) ***4.7***
+### [Agentic Energy Grid Balancing System](https://github.com/aragit/agentic-energy-grid-balancer) 
 **Neuro-Symbolic Multi-Agent Energy Market Simulator**  
 > FastAPI, Pydantic v2, SQLAlchemy 2.0, Docker, CI/CD, pytest (~120 tests), black, flake8  
-> 🟢 `Active` • `Energy Market Simulation` • `Neuro-Symbolic Type 2`
+> 🟢 `Active` • `Energy Market Simulation` • `Neuro-Symbolic Type 2` • `Avg: 4.7` 
 
 
 **Architecture Insight**
