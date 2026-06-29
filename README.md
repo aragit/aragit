@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arash — Agentic AI & LLM Engineer</h1>
 
 <p align="center">
-  Building multi-agent systems, clinical LLM pipelines, and neuro-symbolic AI infrastructure.
+  Building multi-agent systems, LLM pipelines, and neuro-symbolic AI infrastructure.
   
 </p>
 
