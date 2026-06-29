@@ -121,7 +121,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 > Projects that define the foundational neuro-symbolic stack and transfer across industries.
 
-### [Edge SLM Optimizer]([https://github.com/aragit/edge-slm-optimizer](https://github.com/aragit/edge-slm-optimizer)) 
+### [Edge SLM Optimizer](https://github.com/aragit/edge-slm-optimizer) 
 **Edge-First Small Language Model Compression & Deployment Pipeline**  
 > PyTorch, ONNX Runtime Mobile, ExecuTorch, bitsandbytes, llama.cpp, pytest  
 > 🟢 `Active` • `Edge AI` • `Model Compression`
