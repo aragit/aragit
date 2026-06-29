@@ -355,19 +355,23 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ## 📦 Supply Chain & Logistics
 
 ### [Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  🌟🌟🌟
-**Predictive supply-chain telemetry pipeline**     
-> Amazon Chronos-2, Google TimesFM 2.5, Hugging Face     
-> 🟢 `Active` • `Temporal Forecasting`     
+**Zero-Shot Time-Series Demand Forecasting with Foundation Models**  
+> PyTorch, TimesFM, Transformers, Amazon Chronos-2, Pydantic v2, PyYAML  
+> 🟢 `Active` • `Zero-Shot Forecasting` • `Retail Demand Prediction`
 
-<details>
-<summary><b><i>Architecture Insight ...</i></b></summary>
 
-- Moves beyond traditional ARIMA and LSTM-based forecasting  
-- Uses foundation models for long-context temporal reasoning  
-- Incorporates exogenous signals for improved demand prediction  
-- Enables zero-shot forecasting across unseen domains
+**Architecture Insight**
 
-</details>
+- **Single Foundation Model**: Amazon Chronos-2 (`amazon/chronos-2`) via `BaseChronosPipeline` — zero-shot inference
+- **Dual-Track Evaluation**: Point forecast (Accuracy Track) + quantile/sample trajectory parsing (Uncertainty Track) aligned with M5 Competition framework
+- **3D Tensor Integration**: Strict `(n_series, n_variates, history_length)` input format; shape-agnostic output parser handles 3D point forecasts and 4D sample/quantile tensors via median extraction
+- **Pydantic Input Validation**: `TimeSeriesInputPayload` enforces context bounds [16, 16,000] timesteps, horizon [1, 1024], and exogenous array alignment (price_index, promo_flag must match `context + horizon` length)
+- **Pydantic Output Validation**: `ForecastOutputPayload` enforces mean prediction dimension match, optional p10/p90 quantile bands, model identifier tracking
+- **M5 Competition Benchmarking**: Evaluates against Walmart daily sales (3,049 products, 10 stores, 3 states) with WAPE and RMSSE metrics; 128-step backtest window with active high-volume item filtering
+- **Corporación Favorita Compatibility**: Secondary validation on Ecuadorian retail data with inflation markers and regional holidays for cross-locale zero-shot generalization testing
+- **Exogenous Signal Support**: Optional price elasticity (`price_index`) and binary promotional event flags (`promo_flag`) aligned chronologically with target + horizon
+
+
   
 
 ### [Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm) 🌟🌟  
@@ -396,7 +400,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > 🟢 `Active` • `Energy Market Simulation` • `Neuro-Symbolic Type 2`
 
 
-**rchitecture Insight**
+**Architecture Insight**
 
 - **Symbolic  First Architecture**: Symbolic `GridSimulation._run_step()` owns the hour-by-hour execution loop; neural LLM (ReasoningEngine rule-based or Ollama local) is a bounded, swappable subroutine for battery arbitrage only
 - **6 Agents**: SolarFarm, WindFarm, CoalPlant (ramp-limited, 820 gCO₂/kWh), NuclearPlant (must-run, 5% ramp), GridBattery (LLM-driven), MetroCity (price-elastic demand curve)
