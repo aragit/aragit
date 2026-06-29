@@ -184,58 +184,27 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 🏥 Healthcare & Clinical
 
-### [Speculative Clinical Graph RAG, Hybrid Architecture](https://github.com/aragit/speculative-clinical-graphrag) 
-**Hybrid Neuro-Symbolic Clinical Knowledge Core with Hybrid RAG and Reasoning-Aware Verification**  
-> FastAPI, Pydantic v2, LangGraph, Neo4j, LlamaIndex, vLLM, DeepSeek-R1-Distill-Qwen-32B, SNOMED-CT, ICD-10-CM, RxNorm, pytest  
-> 🟢 `Active` • `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `Hybrid RAG`
-
-**Architecture Insight**
-
-- **NS Type 2→6 Migration Path**: Current Type 2 (Symbolic[Neuro]) with LangGraph outer loop and LLM as bounded hypothesis generator; migration architecture to Type 6 (Neuro[Symbolic]) with DeepSeek-R1 reasoning core and symbolic safety invariants
-- **6-State LangGraph Workflow**: INGEST → SPECULATE → RETRIEVE → VERIFY → [VALIDATE|CORRECT|ESCALATE] → SYNTHESIZE → END; cyclic correction with max 3 iterations, recursion limit 10, full audit trace
-- **Hybrid RAG Stack**: LlamaIndex vector store (dense embeddings over SNOMED-CT/ICD-10 concepts) + Neo4j graph traversal (taxonomic relationships) + symbolic Cypher validation (existence proofs for every proposed edge)
-- **Real Medical Ontologies**: SNOMED-CT US Edition 2024 (clinical findings, disorders, procedures), ICD-10-CM 2024 (diagnosis classification), RxNorm (drug names, ingredients, dose forms), UMLS Metathesaurus 2024AB (cross-vocabulary mapping) — ingested via automated ETL pipeline
-- **Triple-Track LLM Backend**: 
-  - **MockLLM**: Deterministic keyword lookup for CI/testing (zero-dep, instant)
-  - **Ollama**: Local CPU inference (gemma2:2b, JSON-structured generation) for development
-  - **vLLM + DeepSeek-R1-Distill-Qwen-32B**: Production GPU inference with tensor-parallelism, OpenAI-compatible API, structured reasoning trace extraction
-- **DeepSeek-R1 Reasoning Integration**: Extracts Chain-of-Thought reasoning traces from R1's `<think>` tags, validates diagnostic logic against medical ontologies before surface generation, surfaces reasoning steps in API response for clinician review
-- **Self-Correcting Feedback with Reasoning Awareness**: On validation failure, violations + reasoning trace mismatches are fed back to R1 with correction prompt; confidence decay (-0.1 per correction) with reasoning coherence check
-- **Deterministic Escalation Guardrail**: Unvalidated paths after max iterations always route to human review with full reasoning trace, proposed path, and violation log — never to patient-facing output; zero PHI persistence
-- **FastAPI Production Gateway**: `/v1/speculate` principal endpoint, `/v1/reasoning_trace` for clinician review, `/health` with dependency probes, startup ontology seeding, graceful shutdown
-- **Docker Compose Production Stack**: vLLM container (GPU, tensor-parallel), Neo4j Community (ontology graph), LlamaIndex vector store (Qdrant/Pinecone), FastAPI orchestrator, OPA governance sidecar
-- **Comprehensive Test Suite**: Valid path (1 iteration), invalid-then-corrected (≤3 iterations), escalation after max iterations, reasoning trace extraction, ontology ETL validation, hybrid retrieval accuracy
-
-
-
 ### [Autonomous Medication Reconciliation & Interaction Guard](https://github.com/aragit/medication-reconciliation-agent) 
 
 **Cross-Source Medication Safety Engine**
 > Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, RxNorm, DrugBank, FastAPI, Pydantic, Neo4j, pytest — CI/CD      
 > 🟡 `Coming Soon` • `Medication Safety` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
 
-
-
-<details>
-<summary><b><i>Architecture Insight ...</i></b></summary>
+**Architecture Insight**
   
-
 - **Hybrid Framework:** Neural primary controller ingests medication lists from fragmented sources (EHR medication lists, pharmacy records, discharge summaries, patient-reported histories), normalizes free-text drug names to RxNorm concepts via local LLM inference, and dynamically invokes symbolic safety tools — with deterministic validation at the output boundary.
 - **Cross-Source Discrepancy Detection:** The LLM autonomously identifies duplicates (same drug, different names), omissions (chronic medication missing from one source), and temporality conflicts (discontinued drug still active in another system) — no pre-encoded matching rules.
 - **Dynamic Tool Orchestration:** MCP-native tool registry exposes 8+ clinical APIs (RxNorm resolver, drug interaction checker, allergy cross-reference, therapeutic duplication detector, renal dose adjuster, pregnancy category checker, lab value interpreter for dose validation, temporal logic engine for washout periods). The LLM decides *which* tools, *when*, and *in what order* — not a fixed pipeline.
 - **Epistemic Confidence Scoring:** Each reconciliation step is tagged with uncertainty metadata. The LLM performs meta-reasoning over source reliability (EHR > pharmacy > patient-reported) and confidence scores to flag items requiring pharmacist verification.
 - **Symbolic Safety Boundary:** Final reconciled medication list passes through a deterministic verifier ensuring no severe drug-drug interactions (Class X), no allergy conflicts, no therapeutic duplications, and dose limits within renal/hepatic function — all blocked from reaching the patient record without explicit pharmacist override and full audit trail.
   
-</details>
-
 
 ### [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 
 **Clinical entity extraction from EHR pipelines**
 > `LLaMA3` `Unsloth` `FastAPI` `LoRA`  
 > 🟢 ACTIVE • CORE PERCEPTION SYSTEM
 
-<details>
-<summary><b>🔥 MORE HEALTHCARE SOLUTIONS</b></summary>
+
 
 ### [ICU Vitals Transformer](#)  
 **Transformer-based ICU vitals forecaster**      
@@ -253,7 +222,35 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Supports continuous temporal reasoning over ICU trajectories
 
 </details>
+<br>
 
+<details>
+<summary><b>🔥 MORE HEALTHCARE SOLUTIONS</b></summary>
+  
+### [Speculative Clinical Graph RAG, Hybrid Architecture](https://github.com/aragit/speculative-clinical-graphrag) 
+**Hybrid Neuro-Symbolic Clinical Knowledge Core with Hybrid RAG and Reasoning-Aware Verification**  
+> FastAPI, Pydantic v2, LangGraph, Neo4j, LlamaIndex, vLLM, DeepSeek-R1-Distill-Qwen-32B, SNOMED-CT, ICD-10-CM, RxNorm, pytest  
+> 🟢 `Active` • `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `Hybrid RAG`
+
+<details>
+<summary><b><i>Architecture Insight ...</i></b></summary>
+
+- **NS Type 2→6 Migration Path**: Current Type 2 (Symbolic[Neuro]) with LangGraph outer loop and LLM as bounded hypothesis generator; migration architecture to Type 6 (Neuro[Symbolic]) with DeepSeek-R1 reasoning core and symbolic safety invariants
+- **6-State LangGraph Workflow**: INGEST → SPECULATE → RETRIEVE → VERIFY → [VALIDATE|CORRECT|ESCALATE] → SYNTHESIZE → END; cyclic correction with max 3 iterations, recursion limit 10, full audit trace
+- **Hybrid RAG Stack**: LlamaIndex vector store (dense embeddings over SNOMED-CT/ICD-10 concepts) + Neo4j graph traversal (taxonomic relationships) + symbolic Cypher validation (existence proofs for every proposed edge)
+- **Real Medical Ontologies**: SNOMED-CT US Edition 2024 (clinical findings, disorders, procedures), ICD-10-CM 2024 (diagnosis classification), RxNorm (drug names, ingredients, dose forms), UMLS Metathesaurus 2024AB (cross-vocabulary mapping) — ingested via automated ETL pipeline
+- **Triple-Track LLM Backend**: 
+  - **MockLLM**: Deterministic keyword lookup for CI/testing (zero-dep, instant)
+  - **Ollama**: Local CPU inference (gemma2:2b, JSON-structured generation) for development
+  - **vLLM + DeepSeek-R1-Distill-Qwen-32B**: Production GPU inference with tensor-parallelism, OpenAI-compatible API, structured reasoning trace extraction
+- **DeepSeek-R1 Reasoning Integration**: Extracts Chain-of-Thought reasoning traces from R1's `<think>` tags, validates diagnostic logic against medical ontologies before surface generation, surfaces reasoning steps in API response for clinician review
+- **Self-Correcting Feedback with Reasoning Awareness**: On validation failure, violations + reasoning trace mismatches are fed back to R1 with correction prompt; confidence decay (-0.1 per correction) with reasoning coherence check
+- **Deterministic Escalation Guardrail**: Unvalidated paths after max iterations always route to human review with full reasoning trace, proposed path, and violation log — never to patient-facing output; zero PHI persistence
+- **FastAPI Production Gateway**: `/v1/speculate` principal endpoint, `/v1/reasoning_trace` for clinician review, `/health` with dependency probes, startup ontology seeding, graceful shutdown
+- **Docker Compose Production Stack**: vLLM container (GPU, tensor-parallel), Neo4j Community (ontology graph), LlamaIndex vector store (Qdrant/Pinecone), FastAPI orchestrator, OPA governance sidecar
+- **Comprehensive Test Suite**: Valid path (1 iteration), invalid-then-corrected (≤3 iterations), escalation after max iterations, reasoning trace extraction, ontology ETL validation, hybrid retrieval accuracy
+
+</details>
 
 ### [Autonomous Lab Interpretation & Critical Value Triage Agent](https://github.com/aragit/lab-interpretation-triage-agent) 
 **Context-Aware Laboratory Intelligence Engine**
@@ -285,7 +282,6 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Optimized for compliance-heavy decision environments
 
 </details>
-
 
 
 ### [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
