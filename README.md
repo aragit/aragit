@@ -120,6 +120,22 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 > Projects that define the foundational neuro-symbolic stack and transfer across industries.
 
+### [Edge SLM Optimizer](https://github.com/aragit/edge-slm-optimizer) 3.5/5
+**Edge-First Small Language Model Compression & Deployment Pipeline**  
+> PyTorch, ONNX Runtime Mobile, ExecuTorch, bitsandbytes, llama.cpp, pytest  
+> 🟡 `In Development` • `Edge AI` • `Model Compression`
+
+**Architecture Insight**
+
+- **Multi-Stage Quantization Pipeline**: FP32 → INT8 (static) → INT4 (dynamic via bitsandbytes/auto-gptq) with perplexity guardrails on WikiText-2
+- **Dual Export Targets**: ONNX Runtime Mobile for cross-platform CPU inference; ExecuTorch XNNPACK delegate for ARM NEON optimization
+- **Raspberry Pi 5 Benchmarking**: Latency, memory, power draw (INA219 + vcgencmd), thermal throttle detection — all under 5W sustained
+- **Speculative Decoding**: 100M-parameter draft model distilled from main 1B model for 2× token generation speedup on edge
+- **Telemetry Suite**: Real-time watts-per-token, CPU frequency monitoring, thermal event logging for edge reliability validation
+- **Accuracy Preservation**: <15% perplexity degradation vs. FP32 baseline; MMLU subset evaluation for task-specific quality
+- **CI/CD Reproducibility**: GitHub Actions with lint, pytest, Docker build — benchmarks versioned per commit
+
+
 ### [Speculative Graph RAG](https://github.com/aragit/speculative-clinical-graphrag)  
 **Self-correcting clinical knowledge core**  
 > LlamaIndex, Neo4j, vLLM, DeepSeek-R1      
