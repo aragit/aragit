@@ -276,10 +276,10 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 
 
-### [Real-Time Intent Transformer](https://github.com/aragit/real-time-intent-transformer) 3.3/5
+### [Real-Time Intent Transformer](https://github.com/aragit/real-time-intent-transformer) 
 **Real-Time E-Commerce Intent Classification with Action Governance**  
 > FastAPI, Pydantic v2, Polars, scikit-learn, aiokafka, SQLite, OPA, pytest (84+ tests)  
-> 🟢 `Active` • `E-Commerce Personalization` • `Behavioral Analytics`
+> 🟢 `Active` • `E-Commerce Personalization` • `Behavioral Analytics` • `3.7`
 
 **Architecture Insight**
 
