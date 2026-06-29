@@ -184,7 +184,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 🏥 Healthcare & Clinical
 
-### [Speculative Graph RAG, Hybrid Architecture](https://github.com/aragit/speculative-clinical-graphrag) 4.3/5
+### [Speculative Clinical Graph RAG, Hybrid Architecture](https://github.com/aragit/speculative-clinical-graphrag) 
 **Hybrid Neuro-Symbolic Clinical Knowledge Core with Hybrid RAG and Reasoning-Aware Verification**  
 > FastAPI, Pydantic v2, LangGraph, Neo4j, LlamaIndex, vLLM, DeepSeek-R1-Distill-Qwen-32B, SNOMED-CT, ICD-10-CM, RxNorm, pytest  
 > 🟢 `Active` • `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `Hybrid RAG`
@@ -234,6 +234,9 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > `LLaMA3` `Unsloth` `FastAPI` `LoRA`  
 > 🟢 ACTIVE • CORE PERCEPTION SYSTEM
 
+<details>
+<summary><b>🔥 MORE HEALTHCARE SOLUTIONS</b></summary>
+
 ### [ICU Vitals Transformer](#)  
 **Transformer-based ICU vitals forecaster**      
 > TimesFM 2.5, PatchTST, Kafka, FastAPI, WebSockets  
@@ -257,10 +260,6 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, HL7 v2, LOINC, FastAPI, Pydantic, SQLite, pytest — CI/CD              
 > <span style="color:#8B0000">⬤</span> `Private` • `Clinical Laboratory` • `Neuro-Symbolic AI` • `Critical Value Management`
 
-
-
-<details>
-<summary><b>🔥 MORE HEALTHCARE SOLUTIONS</b></summary>
 
 ### [Clinical Differential Diagnosis Copilot](https://github.com/aragit/clinical-differential-copilot) 
 **Autonomous Clinical Reasoning Engine**    
