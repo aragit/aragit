@@ -297,7 +297,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 🎯 Marketing & Advertising
 
-### [Nash Marketing Agents](https://github.com/aragit/agentic-nash-marketing)  🌟🌟🌟
+### [Nash Marketing Agents](https://github.com/aragit/agentic-nash-marketing)  ●●●●○
 **Neuro-Symbolic Multi-Agent Ad Auction Simulator with Nash Equilibrium Solver**  
 > FastAPI, Pydantic v2, SQLAlchemy 2.0, SciPy, SQLite/PostgreSQL, Docker, pytest (49 tests)  
 > 🟢 `Active` • `Neuro-Symbolic` • `Game Theory` • `Ad Tech Simulation`
@@ -362,7 +362,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 **Architecture Insight**
 
-- **Single Foundation Model**: Amazon Chronos-2 (`amazon/chronos-2`) via `BaseChronosPipeline` — zero-shot inference
+- **Foundation Models**: google/timesfm-2.5-200m-pytorch , Amazon Chronos-2 (`amazon/chronos-2`) via `BaseChronosPipeline` — zero-shot inference
 - **Dual-Track Evaluation**: Point forecast (Accuracy Track) + quantile/sample trajectory parsing (Uncertainty Track) aligned with M5 Competition framework
 - **3D Tensor Integration**: Strict `(n_series, n_variates, history_length)` input format; shape-agnostic output parser handles 3D point forecasts and 4D sample/quantile tensors via median extraction
 - **Pydantic Input Validation**: `TimeSeriesInputPayload` enforces context bounds [16, 16,000] timesteps, horizon [1, 1024], and exogenous array alignment (price_index, promo_flag must match `context + horizon` length)
