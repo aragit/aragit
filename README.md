@@ -298,19 +298,21 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ## 🎯 Marketing & Advertising
 
 ### [Nash Marketing Agents](https://github.com/aragit/agentic-nash-marketing)  🌟🌟🌟
-**Multi-agent competitive market simulation engine**   
-> NumPy, SciPy, SQLite/PostgreSQL, FastAPI, Pydantic, SQLAlchemy, Docker, pytest          
-> 🟢 `Active` • `Strategic Decision Simulation`      
+**Neuro-Symbolic Multi-Agent Ad Auction Simulator with Nash Equilibrium Solver**  
+> FastAPI, Pydantic v2, SQLAlchemy 2.0, SciPy, SQLite/PostgreSQL, Docker, pytest (49 tests)  
+> 🟢 `Active` • `Neuro-Symbolic` • `Game Theory` • `Ad Tech Simulation`
 
-<details>
-<summary><b><i>Architecture Insight ...</i></b></summary>
+**Architecture Insight**
 
-- Models non-cooperative advertising markets using Nash equilibria  
-- Simulates autonomous brand agents under budget constraints  
-- Prevents resource collapse in competitive bidding environments  
-- Enables pre-deployment experimentation of marketing strategies
+- **Neuro-Symbolic Hybrid**: LLM engine proposes stochastic bidding strategies; symbolic Nash solver validates equilibrium via iterative best-response with softmax annealing
+- **VCG Second-Price Auction Engine**: Winners pay the next-highest bid; mathematical asserts enforce `paid ≤ bid` invariant on every round
+- **Multi-Layer Budget Guardrails**: Soft warning (20%), hard cap (10%), emergency mode (5%) prevent catastrophic depletion in competitive bidding wars
+- **Monte Carlo Nash Solver**: 5,000-sample stochastic win-probability estimation; converges to mixed-strategy equilibrium where no agent can improve utility unilaterally
+- **49-Test Suite with Property-Based Verification**: Monotonicity, individual rationality, Nash convergence bounds, VCG payment correctness, guardrail action validity
+- **Interactive Chart.js Dashboard**: Real-time simulation config, visualization panels , live event log
 
- </details> 
+
+
 
 ### [Real-Time Intent Transformer](https://github.com/aragit/real-time-intent-transformer)  🌟🌟
 **Session-based e-commerce intent telemetry engine**     
@@ -369,20 +371,18 @@ The result is a **genuinely transferable decision intelligence platform** with c
   
 
 ### [Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm) 🌟🌟  
-**Multi-agent contract negotiation swarm**     
-> Ray/RLlib, CrewAI, vLLM          
-> 🟢 `Active` • 🤝 `Decentralized Negotiation`
+**LLM-Powered Multi-Agent Contract Negotiation for Supply Chain Optimization**  
+> FastAPI, Pydantic v2,SciPy, Transformers, Matplotlib, pytest  
+> 🟢 `Active` • `Turn-Based Negotiation` • `Market Simulation`
 
-<details>
-<summary><b><i>Architecture Insight ...</i></b></summary>
+**Architecture Insight**
 
-
-- Buyer and seller agents autonomously negotiate contracts  
-- Reinforcement learning used for adaptive bargaining strategies  
-- Simulates pricing pressure, inventory constraints, and risk factors  
-- Designed for adversarial yet cooperative economic environments
-
-</details>
+- **4 Agents**: Buyer, Seller, Market Intelligence, and Arbiter — each with role-specific LLM system prompts and structured JSON output
+- **3 LLM Backends**: MockLLM (deterministic, instant, default), HuggingFace Transformers (CPU, ~2-6GB download), optional vLLM (CPU batched inference, manual build required)
+- **Stochastic Market Simulator**: Geometric Brownian Motion price dynamics with regime-switching drift/volatility, 4-state Markov chain geopolitical risk model (LOW→MEDIUM→HIGH→CRISIS), Poisson supply shocks with log-normal magnitude
+- **Reward Engineering**: Buyer reward = negative normalized total cost (purchase + risk premium + logistics + stockout penalty + spot-price bonus); Seller reward = normalized margin + capacity utilization bonus
+- **Centralized Episode Orchestrator**: `NegotiationEpisode` manages alternating buyer/seller turns, market context injection, arbiter validation, ledger logging, and terminal condition detection (ACCEPT/REJECT/timeout)
+- **Test Coverage**: 3 test modules covering ledger hash-chain integrity, market GBM/shock dynamics, and protocol message validation/terminal detection
 
 <br>
 
@@ -391,16 +391,25 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ## ⚡ Energy & Utilities
 
 ### [Agentic Energy Grid Balancing System](https://github.com/aragit/agentic-energy-grid-balancer) 🌟🌟🌟
+**Neuro-Symbolic Multi-Agent Energy Market Simulator**  
+> FastAPI, Pydantic v2, SQLAlchemy 2.0, Docker, CI/CD, pytest (~120 tests), black, flake8  
+> 🟢 `Active` • `Energy Market Simulation` • `Neuro-Symbolic Type 2`
 
-**Autonomous Smart Grid Simulation Engine**
-> FastAPI,  Pydantic, SciPy, Ollama / vLLM, Docker - CI/CD    
-> 🟢 `Active` • `Energy Systems Optimization` • `Neuro-Symbolic AI`      
 
-**Architecture Insight** 
-- **Hybrid Framework:** Embeds probabilistic neural subroutines inside a mathematically deterministic symbolic execution.
-- **Bounded Neural Reasoning:** Battery arbitrage agents execute local LLM/SLM subroutines constrained by strict Pydantic validation layers, preventing hallucinated actions from touching the grid state.
-- **Deterministic Market Clearing:** Multi-agent supply and demand bids resolve through a formal, continuous double-sided auction engine to guarantee exact market clearing math.
-- **Safety Governance:** The orchestrator runs an absolute physical guardrail loop, checking baseline line capacities and locking grid frequency within strict stability limits (±0.5 Hz).
+**rchitecture Insight**
+
+- **Symbolic  First Architecture**: Symbolic `GridSimulation._run_step()` owns the hour-by-hour execution loop; neural LLM (ReasoningEngine rule-based or Ollama local) is a bounded, swappable subroutine for battery arbitrage only
+- **6 Agents**: SolarFarm, WindFarm, CoalPlant (ramp-limited, 820 gCO₂/kWh), NuclearPlant (must-run, 5% ramp), GridBattery (LLM-driven), MetroCity (price-elastic demand curve)
+- **Pydantic Neural Boundary**: `BidStrategy` schema validates LLM JSON output with `bid_price ∈ [1.0, 200.0]`, canonical action normalization (9 valid actions), confidence ∈ [0.0, 1.0], non-empty reasoning — plus `ValidatedBid` for post-guardrail execution contract
+- **Battery SoC Guardrails**: LLM decision honored at 15%–85% SoC; forced charge below 5%, forced discharge above 95%, hold override at 15%/85% boundaries — symbolic clamps, not replacement
+- **Double-Sided Auction Engine**: Continuous matching at midpoint prices, carbon cost per trade ($25/ton, coal only), price clamped to [25, 120] USD/MWh, buyer/seller surplus computation
+- **Grid Physics**: Seasonal sinusoidal + Perlin noise weather (irradiance, wind speed, temperature, storm probability), piecewise demand model (hour-of-day + temperature + price elasticity), damped frequency model with inertia constant (clamped 47–53 Hz, stability window 49.5–50.5 Hz)
+- **Regulatory Oversight**: Frequency violation logging (±1 Hz bounds), per-agent carbon cap (50,000 kg), market manipulation detection (identical bid detection)
+- **Agent Memory**: Episodic `Experience` recording (price, profit, weather, decision, outcome), pattern recognition (best price range, storm frequency, peak demand hours), strategy advice generation
+- **CI/CD Pipeline**: GitHub Actions with 3 jobs — pytest with coverage, black + flake8 linting, Docker build + health check + 5 endpoint smoke tests
+- **~120 Tests Across 9 Modules**: Grid physics (17), auction (14), agents (9), API (14), simulation (12), orchestrator stabilization (8), bid validation (15), battery guardrails (12), Pydantic boundary (~18)
+
+
 
 <br>
 
