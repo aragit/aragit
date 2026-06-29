@@ -55,6 +55,7 @@ My work targets the critical boundary where probabilistic neural models intersec
 ### Repository Navigation
 This portfolio is organized by **domain and industry** to demonstrate how the same neuro-symbolic architecture principles transfer across verticals:
 
+*   **[Cross-Domain Neuro-Symbolic Architecture](#-cross-domain-neuro-symbolic-architecture):** Foundational reasoning, memory, and orchestration layers that transfer across all verticals.
 *   **[Healthcare & Clinical](#-healthcare--clinical):** Medical perception, differential diagnosis, prior authorization, and ICU monitoring.
 *   **[Marketing & Advertising](#-marketing--advertising):** Competitive Nash equilibrium bidding, real-time intent transformation, and generative ad rendering.
 *   **[Energy & Utilities](#-energy--utilities):** Autonomous grid balancing with neuro-symbolic safety guardrails.
@@ -63,7 +64,7 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 *   **[Smart Cities & Urban Systems](#-smart-cities--urban-systems):** Multi-agent traffic optimization and congestion resolution.
 *   **[Education & Research](#-education--research):** Scientific discovery engines and adaptive tutoring swarms.
 *   **[Computational Biology](#-computational-biology):** Flow-matching protein binder generation.
-*   **[Cross-Domain Neuro-Symbolic Architecture](#-cross-domain-neuro-symbolic-architecture):** Foundational reasoning, memory, and orchestration layers that transfer across all verticals.
+
 
 ## Private Repositories
 
