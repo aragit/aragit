@@ -171,15 +171,18 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Improves structured clinical response generation  
 
 ### [Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main)  
-**Autonomous content lifecycle platform**  
-> CrewAI, LangChain/LangGraph, Pydantic, ChromaDB              
-> 🟢 `Active` • `Multi-agent Orchestration`  
+**Autonomous enterprise trend intelligence pipeline**  
+> CrewAI, Ollama, FastAPI, ChromaDB, Pydantic V2  
+> 🟢 `Active` • `Local-First` • `3-Agent Sequential Pipeline`  
 
 **Architecture insight**  
-- Hierarchical multi-agent workflow with structured delegation  
-- Specialized agents for trend research, risk analysis, and content generation  
-- Memory synchronization across task pipelines  
-- Enforced schema validity via Pydantic output contracts  
+- **Sequential 3-agent pipeline**: Trend Investigator → Risk Analyst → Copywriter  
+- **LangGraph risk gate**: State-machine guardrail (`analyze → evaluate → approve|reject`) with circuit-breaker  
+- **Local-only LLM inference**: Native Ollama `/api/chat` adapter — zero API keys, zero cloud dependency  
+- **ChromaDB semantic memory**: Sentence-transformer embeddings for research persistence & recall  
+- **Enforced Pydantic V2 contracts**: `TrendPayload`, `RiskPayload`, `ContentPayload` validated at every stage  
+- **FastAPI + Prometheus**: Sync/async `/crew/run` endpoints, async polling, health checks, and metrics scraping
+
 
 ---
 
@@ -266,7 +269,6 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 
 ### [Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)   
-
 
 **Agentic prior authorization engine**  
 > EHR ingestion, CMS policy mapping, document automation     
