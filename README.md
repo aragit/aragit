@@ -204,10 +204,14 @@ The result is a **genuinely transferable decision intelligence platform** with c
   
 
 ### [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 
-**Clinical entity extraction from EHR pipelines**
-> `LLaMA3` `Unsloth` `FastAPI` `LoRA`  
-> 🟢 ACTIVE • CORE PERCEPTION SYSTEM
+**FastAPI microservice for biomedical NER via 4-bit quantized LLaMA-3 with deterministic structured output**
+> `LLaMA-3 8B` `Unsloth` `FastAPI` `Pydantic v2` `LoRA` `Triton`  
+> 🟢 ACTIVE • Dual runtime (`local` / `gpu`) • 5 entity types: DNA, RNA, protein, cell_type, cell_line
 
+**Architecture insight**
+- Decoupled ingestion-inference architecture isolates the FastAPI schema layer from the Unsloth/Triton compute chassis, enabling independent scaling of API and model execution
+- Environment-aware engine factory switches between MockEngine (local/CI validation) and TritonEngine (4-bit quantized GPU inference) via `RUNTIME_ENV` injection
+- Structured output pipeline forces Alpaca-formatted generation into deterministic tuples, bridged through terminal-delimiter truncation and Pydantic contract validation
 
 
 ### [ICU Vitals Transformer](#)  
