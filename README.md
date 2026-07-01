@@ -233,7 +233,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 <br>
 
 <details>
-<summary><b>🔥 MORE HEALTHCARE SOLUTIONS</b></summary>
+<summary><b>EXPAND MORE HEALTHCARE SOLUTIONS →</b></summary>
   
 ### [Speculative Clinical Graph RAG, Hybrid Architecture](https://github.com/aragit/speculative-clinical-graphrag) 
 **Hybrid Neuro-Symbolic Clinical Knowledge Core with Hybrid RAG and Reasoning-Aware Verification**  
