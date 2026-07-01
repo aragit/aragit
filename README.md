@@ -191,7 +191,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [Autonomous Medication Reconciliation & Interaction Guard](https://github.com/aragit/medication-reconciliation-agent) 
 
 **Cross-Source Medication Safety Engine**
-> Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, RxNorm, DrugBank, FastAPI, Pydantic, Neo4j, pytest — CI/CD      
+> Ggemma3 / Qwen2.5 , MCP, FHIR R4, RxNorm, DrugBank, FastAPI, Pydantic, Neo4j, pytest — CI/CD      
 > 🟡 `Coming Soon` • `Medication Safety` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
 
 **Architecture Insight**
