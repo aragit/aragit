@@ -56,7 +56,11 @@ My work targets the critical boundary where probabilistic neural models intersec
 This portfolio is organized by **domain and industry** to demonstrate how the same neuro-symbolic architecture principles transfer across verticals:
 
 *   **[Cross-Domain Neuro-Symbolic Architecture](#-cross-domain-neuro-symbolic-architecture):** Foundational reasoning, memory, and orchestration layers that transfer across all verticals.
-*   **[Healthcare & Clinical](#-healthcare--clinical):** Medical perception, differential diagnosis, prior authorization, and ICU monitoring.
+*   **[Healthcare & Clinical](#-healthcare--clinical):** Medical perception, differential diagnosis, prior authorization, and ICU monitoring.<details>
+<summary><b>Repos →</b></summary>
+  1212
+  asdasd
+
 *   **[Marketing & Advertising](#-marketing--advertising):** Competitive Nash equilibrium bidding, real-time intent transformation, and generative ad rendering.
 *   **[Energy & Utilities](#-energy--utilities):** Autonomous grid balancing with neuro-symbolic safety guardrails.
 *   **[Finance & RegTech](#-finance--regtech):** Cross-jurisdictional compliance monitoring and market simulation.
