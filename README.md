@@ -420,7 +420,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## ⚡ Energy & Utilities
 
-### [Agentic Energy Grid Balancing System](https://github.com/aragit/agentic-energy-grid-balancer) 
+### [20. Agentic Energy Grid Balancing System](https://github.com/aragit/agentic-energy-grid-balancer) 
 **Neuro-Symbolic Multi-Agent Energy Market Simulator**  
 > FastAPI, Pydantic v2, SQLAlchemy 2.0, Docker, CI/CD, pytest (~120 tests), black, flake8  
 > 🟢 `Active` • `Energy Market Simulation` • `Neuro-Symbolic Type 2` • `Avg: 4.7` 
@@ -447,7 +447,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 🏦 Finance & RegTech
 
-### [MCP Compliance Kernel](https://github.com/aragit/mcp-compliance-kernel)  
+### [21. MCP Compliance Kernel](https://github.com/aragit/mcp-compliance-kernel)  
 **Autonomous Regulatory Compliance Auditor via  Neuro-Symbolic Architecture**    
 > Ollama (gemma3:1b / qwen2.5:0.5b), MCP, LangGraph, FastAPI, Pydantic v2, Neo4j, ChromaDB, Polars, loguru, prometheus-client, pytest — CI/CD     
 > 🟢 `Active` • `RegTech / Compliance` • `Neuro-Symbolic AI` • `Governance & Safety`
@@ -463,7 +463,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 
 
-### [Regulatory Intelligence Agent](https://github.com/aragit/regulatory-intelligence-agent)      
+### [22. Regulatory Intelligence Agent](https://github.com/aragit/regulatory-intelligence-agent)      
 **Autonomous Compliance Monitoring Engine**
 > Claude Opus 4.6, MCP, Neo4j Policy Graph, QuantLib, SEC EDGAR API, OpenTelemetry - CI/CD       
 > <span style="color:#8B0000">⬤</span> `Private` • `FinTech / RegTech` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
@@ -482,7 +482,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 
 
-### [Sentiment Market Maker](#) 
+### [23. Sentiment Market Maker](#) 
 **Liquidity simulation and market order book balancing**
 > NumPy, SciPy, High-Frequency Telemetry    
 > <span style="color:#8B0000">⬤</span> `Private` • `FINANCIAL SIMULATION`
@@ -509,7 +509,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 🏙️ Smart Cities & Urban Systems
 
-### [Agentic Smart City Traffic Optimization](#)  
+### [24. Agentic Smart City Traffic Optimization](#)  
 **Multi-agent traffic signal and routing optimizer**  
 > Graph networks, city simulation, intersection agents, routing optimization        
 > 🔵 `Concept` • `Urban Coordination`  
