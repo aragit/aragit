@@ -142,7 +142,9 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > FastAPI, Pydantic v2, LangGraph, Neo4j, LlamaIndex, vLLM, DeepSeek-R1-Distill-Qwen-32B, SNOMED-CT, ICD-10-CM, RxNorm, pytest  
 > 🟢 `Active` • `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `Hybrid RAG`
 
-**Architecture Insight**
+<details>
+<summary><b>EXPAND Architecture Insight →</b></summary>
+
 
 - **NS Type 2→6 Migration Path**: Current Type 2 (Symbolic[Neuro]) with LangGraph outer loop and LLM as bounded hypothesis generator; migration architecture to Type 6 (Neuro[Symbolic]) with DeepSeek-R1 reasoning core and symbolic safety invariants
 - **6-State LangGraph Workflow**: INGEST → SPECULATE → RETRIEVE → VERIFY → [VALIDATE|CORRECT|ESCALATE] → SYNTHESIZE → END; cyclic correction with max 3 iterations, recursion limit 10, full audit trace
@@ -159,6 +161,8 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **Docker Compose Production Stack**: vLLM container (GPU, tensor-parallel), Neo4j Community (ontology graph), LlamaIndex vector store (Qdrant/Pinecone), FastAPI orchestrator, OPA governance sidecar
 - **Comprehensive Test Suite**: Valid path (1 iteration), invalid-then-corrected (≤3 iterations), escalation after max iterations, reasoning trace extraction, ontology ETL validation, hybrid retrieval accuracy
 
+
+</details>
 
 ### [DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)  
 **Medical chain-of-thought LoRA alignment pipeline** 
