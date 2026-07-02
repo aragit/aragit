@@ -143,7 +143,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > 🟢 `Active` • `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `Hybrid RAG`
 
 <details>
-<summary><b>EXPAND Architecture Insight →</b></summary>
+<summary><b>Expand Architecture Insight →</b></summary>
 
 
 - **NS Type 2→6 Migration Path**: Current Type 2 (Symbolic[Neuro]) with LangGraph outer loop and LLM as bounded hypothesis generator; migration architecture to Type 6 (Neuro[Symbolic]) with DeepSeek-R1 reasoning core and symbolic safety invariants
@@ -193,7 +193,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ## 🏥 Healthcare & Clinical
 
 
-### [ICU Vitals Transformer](https://github.com/aragit/icu-vitals-transformer)  
+### [5. ICU Vitals Transformer](https://github.com/aragit/icu-vitals-transformer)  
 **MCP Clinical Forecasting Skill**  
 > Deterministic vital sign forecasting • FHIR R4 • NEWS2 governance • Zero neural dependency  
 > 🟢 `Active` • `MCP Tool` • `Clinical Temporal Monitoring`
@@ -209,7 +209,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **Composable** — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[Symbolic]) agent architectures
 
 
-### [Autonomous Medication Reconciliation & Interaction Guard](https://github.com/aragit/medication-reconciliation-agent) 
+### [6. Autonomous Medication Reconciliation & Interaction Guard](https://github.com/aragit/medication-reconciliation-agent) 
 
 **Cross-Source Medication Safety Engine**
 > Ggemma3 / Qwen2.5 , MCP, FHIR R4, RxNorm, DrugBank, FastAPI, Pydantic, Neo4j, pytest — CI/CD      
@@ -224,7 +224,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **Symbolic Safety Boundary:** Final reconciled medication list passes through a deterministic verifier ensuring no severe drug-drug interactions (Class X), no allergy conflicts, no therapeutic duplications, and dose limits within renal/hepatic function — all blocked from reaching the patient record without explicit pharmacist override and full audit trail.
   
 
-### [Biomedical Entity Extraction Engine](https://github.com/aragit/bionlp-llama3-service) 
+### [7. Biomedical Entity Extraction Engine](https://github.com/aragit/bionlp-llama3-service) 
 **FastAPI microservice for biomedical NER via 4-bit quantized LLaMA-3 with deterministic structured output**
 > `LLaMA-3 8B` `Unsloth` `FastAPI` `Pydantic v2` `LoRA` `Triton`  
 > 🟢 `ACTIVE` • `Dual runtime (local / gpu)` • `5 entity types: DNA, RNA, protein, cell_type, cell_line`
@@ -240,7 +240,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 <details>
 <summary><b>EXPAND MORE HEALTHCARE SOLUTIONS →</b></summary>
   
-### [Speculative Clinical Graph RAG, Hybrid Architecture](https://github.com/aragit/speculative-clinical-graphrag) 
+### [8. Speculative Clinical Graph RAG, Hybrid Architecture](https://github.com/aragit/speculative-clinical-graphrag) 
 **Hybrid Neuro-Symbolic Clinical Knowledge Core with Hybrid RAG and Reasoning-Aware Verification**  
 > FastAPI, Pydantic v2, LangGraph, Neo4j, LlamaIndex, vLLM, DeepSeek-R1-Distill-Qwen-32B, SNOMED-CT, ICD-10-CM, RxNorm, pytest  
 > 🟢 `Active` • `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `Hybrid RAG`
@@ -265,19 +265,19 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 </details>
 
-### [Autonomous Lab Interpretation & Critical Value Triage Agent](https://github.com/aragit/lab-interpretation-triage-agent) 
+### [9. Autonomous Lab Interpretation & Critical Value Triage Agent](https://github.com/aragit/lab-interpretation-triage-agent) 
 **Context-Aware Laboratory Intelligence Engine**
 > Ollama (gemma3:1b / qwen2.5:0.5b), MCP, FHIR R4, HL7 v2, LOINC, FastAPI, Pydantic, SQLite, pytest — CI/CD              
 > <span style="color:#8B0000">⬤</span> `Private` • `Clinical Laboratory` • `Neuro-Symbolic AI` • `Critical Value Management`
 
 
-### [Clinical Differential Diagnosis Copilot](https://github.com/aragit/clinical-differential-copilot) 
+### [10. Clinical Differential Diagnosis Copilot](https://github.com/aragit/clinical-differential-copilot) 
 **Autonomous Clinical Reasoning Engine**    
 > Claude 4.5 Sonnet, MCP, FHIR R4, SNOMED-CT, Clinical Calculators, LangSmith - CI/CD       
 > <span style="color:#8B0000">⬤</span> `Private` • `Clinical Decision Support` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
 
 
-### [Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)   
+### [11. Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)   
 
 **Agentic prior authorization engine**  
 > EHR ingestion, CMS policy mapping, document automation     
@@ -296,17 +296,17 @@ The result is a **genuinely transferable decision intelligence platform** with c
 </details>
 
 
-### [Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
+### [12. Edge Fall Detector](https://github.com/aragit/edge-fall-detector)  
 **Real-time patient fall detection on edge devices**
 > `YOLOv11-Pose` `TensorRT` `MQTT` `OpenCV`  
 > 🟢 `ACTIVE` • `EDGE SAFETY SYSTEM`    
 
-### [Surgical Vision Copilot](https://github.com/aragit/surgical-vision-copilot) 
+### [13. Surgical Vision Copilot](https://github.com/aragit/surgical-vision-copilot) 
 **Real-time surgical understanding with vision-language models** 
 > `Video-LLaVA` `OpenCV` `Temporal` `Action Modeling`                   
 > 🟢 `ACTIVE` •  `VISION PERCEPTION SYSTEM`
 
-### [Spatial Event Detector](https://github.com/aragit/spatial-event-detector)
+### [14. Spatial Event Detector](https://github.com/aragit/spatial-event-detector)
 **Kinematic telemetry → structured motion event extraction**
 > `YOLOv11-Pose` `OpenCV` `NumPy`         
 > 🟢 `ACTIVE` • `MOTION PERCEPTION SYSTEM`
@@ -319,7 +319,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 🎯 Marketing & Advertising
 
-### [Nash Marketing Agents](https://github.com/aragit/agentic-nash-marketing) 
+### [15. Nash Marketing Agents](https://github.com/aragit/agentic-nash-marketing) 
 **Neuro-Symbolic Multi-Agent Ad Auction Simulator with Nash Equilibrium Solver**  
 > FastAPI, Pydantic v2, SQLAlchemy 2.0, SciPy, SQLite/PostgreSQL, Docker, pytest (49 tests)  
 > 🟢 `Active` • `Neuro-Symbolic` • `Game Theory` • `Ad Tech Simulation` • `Avg: 4.2`   
@@ -336,7 +336,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 
 
-### [Real-Time Intent Transformer](https://github.com/aragit/real-time-intent-transformer) 
+### [16. Real-Time Intent Transformer](https://github.com/aragit/real-time-intent-transformer) 
 **Real-Time E-Commerce Intent Classification with Action Governance**  
 > FastAPI, Pydantic v2, Polars, scikit-learn, aiokafka, SQLite, OPA, pytest (84+ tests)  
 > 🟢 `Active` • `E-Commerce Personalization` • `Behavioral Analytics` • `3.7`
@@ -356,7 +356,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 
 
-### [Generative Dynamic Ad Renderer](mailto:anicomanesh@gmail?subject=Access%20Request%3A%20generative-dynamic-ad-renderer)  
+### [17. Generative Dynamic Ad Renderer](mailto:anicomanesh@gmail?subject=Access%20Request%3A%20generative-dynamic-ad-renderer)  
 **Telemetry-driven ad generation pipeline**  
 > LLM generation, behavioral signals, rendering automation       
 > <span style="color:#8B0000">⬤</span> `Private` • `Media Execution`      
@@ -380,7 +380,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 📦 Supply Chain & Logistics
 
-### [Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  
+### [18. Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  
 **Zero-Shot Time-Series Demand Forecasting with Foundation Models**  
 > PyTorch, TimesFM, Transformers, Amazon Chronos-2, Pydantic v2, PyYAML  
 > 🟢 `Active` • `Zero-Shot Forecasting` • `Retail Demand Prediction` • `Avg: 3.0` 
@@ -400,7 +400,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
   
 
-### [Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm) 
+### [19. Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm) 
 **LLM-Powered Multi-Agent Contract Negotiation for Supply Chain Optimization**  
 > FastAPI, Pydantic v2,SciPy, Transformers, Matplotlib, pytest  
 > 🟢 `Active` • `Turn-Based Negotiation` • `Market Simulation` • `Avg: 3.5`    
