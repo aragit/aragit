@@ -214,7 +214,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Structured output pipeline forces Alpaca-formatted generation into deterministic tuples, bridged through terminal-delimiter truncation and Pydantic contract validation
 
 
-### [ICU Vitals Transformer](#)  
+### [ICU Vitals Transformer](https://github.com/aragit/icu-vitals-transformer)  
 **Transformer-based ICU vitals forecaster**      
 > TimesFM 2.5, PatchTST, Kafka, FastAPI, WebSockets  
 > 🟡 `Coming Soon` • `Clinical Temporal Monitoring`
