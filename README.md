@@ -381,8 +381,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > <span style="color:#8B0000">⬤</span> `Private` • `Media Execution`      
 
 <details>
-<summary><b><i>Architecture Insight ...</i></b></summary>
-  
+<summary><b>Expand Architecture Insight →</b></summary>
 
 - Converts user behavioral signals into generated creative content  
 - Connects inference pipelines directly to media rendering systems  
@@ -448,8 +447,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > FastAPI, Pydantic v2, SQLAlchemy 2.0, Docker, CI/CD, pytest (~120 tests), black, flake8  
 > 🟢 `Active` • `Energy Market Simulation` • `Neuro-Symbolic Type 2` • `Avg: 4.7` 
 
-<details>
-<summary><b>Expand Architecture Insight →</b></summary>
+**Architecture Insight**
 
 - **Symbolic  First Architecture**: Symbolic `GridSimulation._run_step()` owns the hour-by-hour execution loop; neural LLM (ReasoningEngine rule-based or Ollama local) is a bounded, swappable subroutine for battery arbitrage only
 - **6 Agents**: SolarFarm, WindFarm, CoalPlant (ramp-limited, 820 gCO₂/kWh), NuclearPlant (must-run, 5% ramp), GridBattery (LLM-driven), MetroCity (price-elastic demand curve)
@@ -462,7 +460,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **CI/CD Pipeline**: GitHub Actions with 3 jobs — pytest with coverage, black + flake8 linting, Docker build + health check + 5 endpoint smoke tests
 - **~120 Tests Across 9 Modules**: Grid physics (17), auction (14), agents (9), API (14), simulation (12), orchestrator stabilization (8), bid validation (15), battery guardrails (12), Pydantic boundary (~18)
 
-</details>
+
 
 
 <br>
