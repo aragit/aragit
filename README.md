@@ -188,6 +188,23 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 🏥 Healthcare & Clinical
 
+
+### [ICU Vitals Transformer](https://github.com/aragit/icu-vitals-transformer)  
+**MCP Clinical Forecasting Skill**  
+> Deterministic vital sign forecasting • FHIR R4 • NEWS2 governance • Zero neural dependency  
+> 🟢 `Active` • `MCP Tool` • `Clinical Temporal Monitoring`
+
+
+**Architecture Insight**
+
+- **MCP-native tool** — exposes `ingest_vitals`, `get_forecast`, `get_deterioration_index` via Model Context Protocol
+- **Deterministic forecasting** — multi-horizon trend extrapolation (1h/4h/12h) with clinical uncertainty bounds, no GPU required
+- **FHIR R4 ingestion** — parses LOINC-coded `Observation` resources into sliding 5-minute windows
+- **NEWS2-inspired governance** — deterministic deterioration index + severity classification (NORMAL → WARNING → ALERT → EMERGENCY)
+- **Stateless by design** — caller decides action; tool returns structured predictions only
+- **Composable** — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[Symbolic]) agent architectures
+
+
 ### [Autonomous Medication Reconciliation & Interaction Guard](https://github.com/aragit/medication-reconciliation-agent) 
 
 **Cross-Source Medication Safety Engine**
@@ -214,25 +231,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Structured output pipeline forces Alpaca-formatted generation into deterministic tuples, bridged through terminal-delimiter truncation and Pydantic contract validation
 
 
-### [ICU Vitals Transformer](https://github.com/aragit/icu-vitals-transformer)  
-**MCP Clinical Forecasting Skill**  
-> Deterministic vital sign forecasting • FHIR R4 • NEWS2 governance • Zero neural dependency  
-> 🟢 `Active` • `MCP Tool` • `Clinical Temporal Monitoring`
 
-<details>
-<summary><b><i>Architecture Insight ...</i></b></summary>
-
-- **MCP-native tool** — exposes `ingest_vitals`, `get_forecast`, `get_deterioration_index` via Model Context Protocol
-- **Deterministic forecasting** — multi-horizon trend extrapolation (1h/4h/12h) with clinical uncertainty bounds, no GPU required
-- **FHIR R4 ingestion** — parses LOINC-coded `Observation` resources into sliding 5-minute windows
-- **NEWS2-inspired governance** — deterministic deterioration index + severity classification (NORMAL → WARNING → ALERT → EMERGENCY)
-- **Stateless by design** — caller decides action; tool returns structured predictions only
-- **Composable** — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[Symbolic]) agent architectures
-
-
-</details>
-
-<br>
 
 <details>
 <summary><b>EXPAND MORE HEALTHCARE SOLUTIONS →</b></summary>
