@@ -57,7 +57,7 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 
 *   **[Cross-Domain Neuro-Symbolic Architecture](#-cross-domain-neuro-symbolic-architecture):** Foundational reasoning, memory, and orchestration layers that transfer across all verticals.
     * **Edge SLM Optimizer**: Edge-First Small Language Model Compression & Deployment Pipeline
-    * **Speculative Graph RAG**: Hybrid Architecture: Hybrid Neuro-Symbolic Clinical Knowledge Core with Hybrid RAG and Reasoning-Aware Verification
+    * **Speculative Graph RAG**: Hybrid Neuro-Symbolic Clinical Knowledge Core with Hybrid RAG and Reasoning-Aware Verification
     * **DeepSeek Reasoning Fine-Tuning**: Medical chain-of-thought LoRA alignment pipeline
     * **Enterprise Intelligence Crew**: Autonomous enterprise trend intelligence pipeline
 *   **[Healthcare & Clinical](#-healthcare--clinical):** Medical perception, differential diagnosis, prior authorization, and ICU monitoring.
