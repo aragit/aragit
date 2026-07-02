@@ -206,7 +206,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 
 **FastAPI microservice for biomedical NER via 4-bit quantized LLaMA-3 with deterministic structured output**
 > `LLaMA-3 8B` `Unsloth` `FastAPI` `Pydantic v2` `LoRA` `Triton`  
-> 🟢 ACTIVE • Dual runtime (`local` / `gpu`) • 5 entity types: DNA, RNA, protein, cell_type, cell_line
+> 🟢 `ACTIVE` • `Dual runtime (local / gpu)` • `5 entity types: DNA, RNA, protein, cell_type, cell_line`
 
 **Architecture insight**
 - Decoupled ingestion-inference architecture isolates the FastAPI schema layer from the Unsloth/Triton compute chassis, enabling independent scaling of API and model execution
@@ -215,21 +215,24 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 
 ### [ICU Vitals Transformer](https://github.com/aragit/icu-vitals-transformer)  
-**Transformer-based ICU vitals forecaster**      
-> TimesFM 2.5, PatchTST, Kafka, FastAPI, WebSockets  
-> 🟡 `Coming Soon` • `Clinical Temporal Monitoring`
-
+**MCP Clinical Forecasting Skill**  
+> Deterministic vital sign forecasting • FHIR R4 • NEWS2 governance • Zero neural dependency  
+> 🟢 `Active` • `MCP Tool` • `Clinical Temporal Monitoring`
 
 <details>
 <summary><b><i>Architecture Insight ...</i></b></summary>
-  
 
-- Ingests high-frequency physiological streams via HL7 FHIR gateway  
-- Converts real-time vitals into structured forecasting windows  
-- Designed for early warning of patient deterioration  
-- Supports continuous temporal reasoning over ICU trajectories
+- **MCP-native tool** — exposes `ingest_vitals`, `get_forecast`, `get_deterioration_index` via Model Context Protocol
+- **Deterministic forecasting** — multi-horizon trend extrapolation (1h/4h/12h) with clinical uncertainty bounds, no GPU required
+- **FHIR R4 ingestion** — parses LOINC-coded `Observation` resources into sliding 5-minute windows
+- **NEWS2-inspired governance** — deterministic deterioration index + severity classification (NORMAL → WARNING → ALERT → EMERGENCY)
+- **Stateless by design** — caller decides action; tool returns structured predictions only
+- **Composable** — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[Symbolic]) agent architectures
+
+**Stack:** Python 3.12 • FastAPI • Pydantic v2 • pytest • Prometheus • MCP
 
 </details>
+
 <br>
 
 <details>
