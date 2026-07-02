@@ -169,17 +169,25 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > Unsloth, PyTorch, Hugging Face, TRL          
 > 🟢 `ACTIVE` • `REASONING OPTIMIZATION LAYER`
 
+<details>
+<summary><b>Expand Architecture Insight →</b></summary>
+
 **Architecture insight**  
 - Efficient 4-bit parameter fine-tuning for reasoning behavior  
 - Maps diagnostic reasoning patterns into model weights  
-- Improves structured clinical response generation  
+- Improves structured clinical response generation
+
+</details>
 
 ### [4. Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main)  
 **Autonomous enterprise trend intelligence pipeline**  
 > CrewAI, Ollama, FastAPI, ChromaDB, Pydantic V2  
-> 🟢 `Active` • `Local-First` • `3-Agent Sequential Pipeline`  
+> 🟢 `Active` • `Local-First` • `3-Agent Sequential Pipeline`
 
-**Architecture insight**  
+<details>
+<summary><b>Expand Architecture Insight →</b></summary>
+
+
 - **Sequential 3-agent pipeline**: Trend Investigator → Risk Analyst → Copywriter  
 - **LangGraph risk gate**: State-machine guardrail (`analyze → evaluate → approve|reject`) with circuit-breaker  
 - **Local-only LLM inference**: Native Ollama `/api/chat` adapter — zero API keys, zero cloud dependency  
@@ -187,6 +195,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **Enforced Pydantic V2 contracts**: `TrendPayload`, `RiskPayload`, `ContentPayload` validated at every stage  
 - **FastAPI + Prometheus**: Sync/async `/crew/run` endpoints, async polling, health checks, and metrics scraping
 
+</details>
 
 ---
 
@@ -215,7 +224,9 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > Ggemma3 / Qwen2.5 , MCP, FHIR R4, RxNorm, DrugBank, FastAPI, Pydantic, Neo4j, pytest — CI/CD      
 > 🟡 `Coming Soon` • `Medication Safety` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
 
-**Architecture Insight**
+<details>
+<summary><b>Expand Architecture Insight →</b></summary>
+
   
 - **Hybrid Framework:** Neural primary controller ingests medication lists from fragmented sources (EHR medication lists, pharmacy records, discharge summaries, patient-reported histories), normalizes free-text drug names to RxNorm concepts via local LLM inference, and dynamically invokes symbolic safety tools — with deterministic validation at the output boundary.
 - **Cross-Source Discrepancy Detection:** The LLM autonomously identifies duplicates (same drug, different names), omissions (chronic medication missing from one source), and temporality conflicts (discontinued drug still active in another system) — no pre-encoded matching rules.
@@ -223,17 +234,24 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **Epistemic Confidence Scoring:** Each reconciliation step is tagged with uncertainty metadata. The LLM performs meta-reasoning over source reliability (EHR > pharmacy > patient-reported) and confidence scores to flag items requiring pharmacist verification.
 - **Symbolic Safety Boundary:** Final reconciled medication list passes through a deterministic verifier ensuring no severe drug-drug interactions (Class X), no allergy conflicts, no therapeutic duplications, and dose limits within renal/hepatic function — all blocked from reaching the patient record without explicit pharmacist override and full audit trail.
   
+</details>
+
+
 
 ### [7. Biomedical Entity Extraction Engine](https://github.com/aragit/bionlp-llama3-service) 
 **FastAPI microservice for biomedical NER via 4-bit quantized LLaMA-3 with deterministic structured output**
 > `LLaMA-3 8B` `Unsloth` `FastAPI` `Pydantic v2` `LoRA` `Triton`  
 > 🟢 `ACTIVE` • `Dual runtime (local / gpu)` • `5 entity types: DNA, RNA, protein, cell_type, cell_line`
 
+<details>
+<summary><b>Expand Architecture Insight →</b></summary>
+
 **Architecture insight**
 - Decoupled ingestion-inference architecture isolates the FastAPI schema layer from the Unsloth/Triton compute chassis, enabling independent scaling of API and model execution
 - Environment-aware engine factory switches between MockEngine (local/CI validation) and TritonEngine (4-bit quantized GPU inference) via `RUNTIME_ENV` injection
 - Structured output pipeline forces Alpaca-formatted generation into deterministic tuples, bridged through terminal-delimiter truncation and Pydantic contract validation
 
+</details>
 
 
 
@@ -341,7 +359,8 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > FastAPI, Pydantic v2, Polars, scikit-learn, aiokafka, SQLite, OPA, pytest (84+ tests)  
 > 🟢 `Active` • `E-Commerce Personalization` • `Behavioral Analytics` • `3.7`
 
-**Architecture Insight**
+<details>
+<summary><b>Expand Architecture Insight →</b></summary>
 
 - **7-Layer Neuro-Symbolic Pipeline**: Ingestion → Perception (Polars feature engineering) → Reasoning (rule-based + ML ensemble) → Governance (OPA/Rego + Python fallback) → Execution (action dispatch with suppression) → Memory (SQLite session store) → Meta-Cognition (drift detection stub)
 - **18 Behavioral Features**: Session duration, page views, cart adds/removes, checkouts, searches, cart value, category switches, exploration ratio, conversion rates, inter-event time — engineered via Polars DataFrame operations
@@ -353,7 +372,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **Docker Compose Infrastructure**: Zookeeper + Kafka + OPA (Open Policy Agent) with healthchecks
 - **Synthetic Data Generation**: 34,148 events across 5,000 sessions with balanced intent distribution; perfect F1 on synthetic data (expected — labels derived from rules)
 
-
+</details>
 
 
 ### [17. Generative Dynamic Ad Renderer](mailto:anicomanesh@gmail?subject=Access%20Request%3A%20generative-dynamic-ad-renderer)  
@@ -405,7 +424,9 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > FastAPI, Pydantic v2,SciPy, Transformers, Matplotlib, pytest  
 > 🟢 `Active` • `Turn-Based Negotiation` • `Market Simulation` • `Avg: 3.5`    
 
-**Architecture Insight**
+
+<details>
+<summary><b>Expand Architecture Insight →</b></summary>
 
 - **4 Agents**: Buyer, Seller, Market Intelligence, and Arbiter — each with role-specific LLM system prompts and structured JSON output
 - **3 LLM Backends**: MockLLM (deterministic, instant, default), HuggingFace Transformers (CPU, ~2-6GB download), optional vLLM (CPU batched inference, manual build required)
@@ -413,6 +434,8 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **Reward Engineering**: Buyer reward = negative normalized total cost (purchase + risk premium + logistics + stockout penalty + spot-price bonus); Seller reward = normalized margin + capacity utilization bonus
 - **Centralized Episode Orchestrator**: `NegotiationEpisode` manages alternating buyer/seller turns, market context injection, arbiter validation, ledger logging, and terminal condition detection (ACCEPT/REJECT/timeout)
 - **Test Coverage**: 3 test modules covering ledger hash-chain integrity, market GBM/shock dynamics, and protocol message validation/terminal detection
+
+</details>
 
 <br>
 
@@ -425,8 +448,8 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > FastAPI, Pydantic v2, SQLAlchemy 2.0, Docker, CI/CD, pytest (~120 tests), black, flake8  
 > 🟢 `Active` • `Energy Market Simulation` • `Neuro-Symbolic Type 2` • `Avg: 4.7` 
 
-
-**Architecture Insight**
+<details>
+<summary><b>Expand Architecture Insight →</b></summary>
 
 - **Symbolic  First Architecture**: Symbolic `GridSimulation._run_step()` owns the hour-by-hour execution loop; neural LLM (ReasoningEngine rule-based or Ollama local) is a bounded, swappable subroutine for battery arbitrage only
 - **6 Agents**: SolarFarm, WindFarm, CoalPlant (ramp-limited, 820 gCO₂/kWh), NuclearPlant (must-run, 5% ramp), GridBattery (LLM-driven), MetroCity (price-elastic demand curve)
@@ -439,6 +462,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **CI/CD Pipeline**: GitHub Actions with 3 jobs — pytest with coverage, black + flake8 linting, Docker build + health check + 5 endpoint smoke tests
 - **~120 Tests Across 9 Modules**: Grid physics (17), auction (14), agents (9), API (14), simulation (12), orchestrator stabilization (8), bid validation (15), battery guardrails (12), Pydantic boundary (~18)
 
+</details>
 
 
 <br>
@@ -469,7 +493,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > <span style="color:#8B0000">⬤</span> `Private` • `FinTech / RegTech` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
 
 <details>
-<summary><b><i>Architecture Insight ...</i></b></summary>
+<summary><b>Expand Architecture Insight →</b></summary>
 
 
 - **Hybrid Framework:** Neural primary controller monitors regulatory landscapes, dynamically orchestrating symbolic tools for impact quantification, policy tracing, and stakeholder notification — reasoning across jurisdictions and business lines.
@@ -489,7 +513,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 
 <details>
-<summary><b><i>Architecture Insight ...</i></b></summary>
+<summary><b>Expand Architecture Insight →</b></summary>
 
 - Counterfactual market simulation under varying liquidity conditions  
 - Order book balancing via stochastic differential equations  
@@ -515,7 +539,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > 🔵 `Concept` • `Urban Coordination`  
 
 <details>
-<summary><b><i>Architecture Insight ...</i></b></summary>
+<summary><b>Expand Architecture Insight →</b></summary>
 
 
  
@@ -539,7 +563,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > <span style="color:#8B0000">⬤</span> `Private` • `Scientific Research` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
 
 <details>
-<summary><b><i>Architecture Insight ...</i></b></summary>
+<summary><b>Expand Architecture Insight →</b></summary>
 
 
 - **Hybrid Framework:** Neural primary controller plans multi-step research workflows, dynamically calling symbolic tools for computation, retrieval, and verification — adapting strategy based on intermediate results.
@@ -557,7 +581,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > 🔵 `CONCEPT` • `RESEARCH REASONING LAYER`
 
 <details>
-<summary><b><i>Architecture Insight ...</i></b></summary>
+<summary><b>Expand Architecture Insight →</b></summary>
  
 - Ingestion agents structure academic papers into claims  
 - Verification agents cross-check citations and evidence  
@@ -572,7 +596,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > 🔵 `Concept` • 🎓 `Adaptive Learning`  
 
 <details>
-<summary><b><i>Architecture Insight ...</i></b></summary>
+<summary><b>Expand Architecture Insight →</b></summary>
 
 
 - Assessment agents identify knowledge gaps dynamically  
