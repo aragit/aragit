@@ -229,7 +229,6 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **Stateless by design** — caller decides action; tool returns structured predictions only
 - **Composable** — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[Symbolic]) agent architectures
 
-**Stack:** Python 3.12 • FastAPI • Pydantic v2 • pytest • Prometheus • MCP
 
 </details>
 
