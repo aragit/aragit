@@ -220,7 +220,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **Symbolic Safety Boundary:** Final reconciled medication list passes through a deterministic verifier ensuring no severe drug-drug interactions (Class X), no allergy conflicts, no therapeutic duplications, and dose limits within renal/hepatic function — all blocked from reaching the patient record without explicit pharmacist override and full audit trail.
   
 
-### [BioNLP LLaMA3 Service](https://github.com/aragit/bionlp-llama3-service) 
+### [Biomedical Entity Extraction Engine](https://github.com/aragit/bionlp-llama3-service) 
 **FastAPI microservice for biomedical NER via 4-bit quantized LLaMA-3 with deterministic structured output**
 > `LLaMA-3 8B` `Unsloth` `FastAPI` `Pydantic v2` `LoRA` `Triton`  
 > 🟢 `ACTIVE` • `Dual runtime (local / gpu)` • `5 entity types: DNA, RNA, protein, cell_type, cell_line`
