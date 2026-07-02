@@ -402,7 +402,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 📦 Supply Chain & Logistics
 
-### [18. Zero-Shot Demand Foundation](https://github.com/aragit/zero-shot-demand-foundation)  
+### [18. Zero-Shot Demand Foundation(MCP Agentic Forecaster)](https://github.com/aragit/zero-shot-demand-foundation)  
 **Zero-Shot Time-Series Demand Forecasting with Foundation Models**  
 > PyTorch, TimesFM, Transformers, Amazon Chronos-2, Pydantic v2, PyYAML  
 > 🟢 `Active` • `Zero-Shot Forecasting` • `Retail Demand Prediction` • `Avg: 3.0` 
