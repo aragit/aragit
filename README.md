@@ -121,7 +121,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 > Projects that define the foundational neuro-symbolic stack and transfer across industries.
 
-### [Edge SLM Optimizer](https://github.com/aragit/edge-slm-optimizer) 
+### [1. Edge SLM Optimizer](https://github.com/aragit/edge-slm-optimizer) 
 **Edge-First Small Language Model Compression & Deployment Pipeline**  
 > PyTorch, ONNX Runtime Mobile, ExecuTorch, bitsandbytes, llama.cpp, pytest  
 > 🟢 `Active` • `Edge AI` • `Model Compression`
@@ -137,7 +137,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **CI/CD Reproducibility**: GitHub Actions with lint, pytest, Docker build — benchmarks versioned per commit
 
 
-### [Speculative Graph RAG, Hybrid Architecture](https://github.com/aragit/speculative-clinical-graphrag) 
+### [2. Speculative Graph RAG, Hybrid Architecture](https://github.com/aragit/speculative-clinical-graphrag) 
 **Hybrid Neuro-Symbolic Clinical Knowledge Core with Hybrid RAG and Reasoning-Aware Verification**  
 > FastAPI, Pydantic v2, LangGraph, Neo4j, LlamaIndex, vLLM, DeepSeek-R1-Distill-Qwen-32B, SNOMED-CT, ICD-10-CM, RxNorm, pytest  
 > 🟢 `Active` • `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `Hybrid RAG`
@@ -164,7 +164,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 </details>
 
-### [DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)  
+### [3. DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)  
 **Medical chain-of-thought LoRA alignment pipeline** 
 > Unsloth, PyTorch, Hugging Face, TRL          
 > 🟢 `ACTIVE` • `REASONING OPTIMIZATION LAYER`
@@ -174,7 +174,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - Maps diagnostic reasoning patterns into model weights  
 - Improves structured clinical response generation  
 
-### [Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main)  
+### [4. Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main)  
 **Autonomous enterprise trend intelligence pipeline**  
 > CrewAI, Ollama, FastAPI, ChromaDB, Pydantic V2  
 > 🟢 `Active` • `Local-First` • `3-Agent Sequential Pipeline`  
