@@ -333,8 +333,8 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ### [15. Nash Marketing Agents](https://github.com/aragit/agentic-nash-marketing) 
 **Neuro-Symbolic Multi-Agent Ad Auction Simulator with Nash Equilibrium Solver**  
-> FastAPI, Pydantic v2, SQLAlchemy 2.0, SciPy, SQLite/PostgreSQL, Docker, pytest (49 tests)  
-> 🟢 `Active` • `Neuro-Symbolic` • `Game Theory` • `Ad Tech Simulation` • `Avg: 4.2`   
+> FastAPI, Pydantic v2, SQLAlchemy 2.0, SciPy, SQLite/PostgreSQL, Docker, pytest
+> 🟢 `Active` • `Neuro-Symbolic` • `Game Theory` • `Ad Tech Simulation` 
 
 **Architecture Insight**
 
@@ -351,7 +351,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [16. Real-Time Intent Transformer](https://github.com/aragit/real-time-intent-transformer) 
 **Real-Time E-Commerce Intent Classification with Action Governance**  
 > FastAPI, Pydantic v2, Polars, scikit-learn, aiokafka, SQLite, OPA, pytest (84+ tests)  
-> 🟢 `Active` • `E-Commerce Personalization` • `Behavioral Analytics` • `3.7`
+> 🟢 `Active` • `E-Commerce Personalization` • `Behavioral Analytics` 
 
 <details>
 <summary><b>Expand Architecture Insight →</b></summary>
@@ -392,10 +392,10 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 📦 Supply Chain & Logistics
 
-### [18. Zero-Shot Demand Foundation(MCP Agentic Forecaster)](https://github.com/aragit/zero-shot-demand-foundation)  
+### [18. Zero-Shot Demand Foundation(MCP Agentic Forecaster Skill)](https://github.com/aragit/zero-shot-demand-foundation)  
 **Zero-Shot Time-Series Demand Forecasting with Foundation Models**  
 > PyTorch, TimesFM, Transformers, Amazon Chronos-2, Pydantic v2, PyYAML  
-> 🟢 `Active` • `Zero-Shot Forecasting` • `Retail Demand Prediction` • `Avg: 3.0` 
+> 🟢 `Active` • `Zero-Shot Forecasting` • `Retail Demand Prediction` 
 
 
 **Architecture Insight**
