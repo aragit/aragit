@@ -70,16 +70,6 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 *   **[Computational Biology](#-computational-biology):** Flow-matching protein binder generation.
 
 
-## Private Repositories
-
-Some advanced components (neuro-symbolic core, orchestration engine, and production pipelines) are kept private.
-
-Access is granted upon request for:
-- Research collaboration
-- Technical evaluation
-- Hiring processes
-
-
 ---
 
 ## Architectural Philosophy
