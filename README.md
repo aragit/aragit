@@ -628,7 +628,7 @@ Composable — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[
 
 </details>
 
-<br>
+
 
 ### [29. Quantum-Bound Molecular Generator (QBMG)](https://github.com/aragit/quantum-bound-generator/tree/main)
 Zero-Waste Neuro-Symbolic Molecular Engine
