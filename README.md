@@ -196,7 +196,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ## 🏥 Healthcare & Clinical
 
 
-### [5. ICU Vitals Transformer](https://github.com/aragit/icu-vitals-transformer)  
+### [5. ICU Vitals Transformer(MCP-native tool)](https://github.com/aragit/icu-vitals-transformer)  
 **MCP Clinical Forecasting Skill**  
 > Deterministic vital sign forecasting • FHIR R4 • NEWS2 governance • Zero neural dependency  
 > 🟢 `Active` • `MCP Tool` • `Clinical Temporal Monitoring`
