@@ -56,11 +56,11 @@ My work targets the critical boundary where probabilistic neural models intersec
 This portfolio is organized by **domain and industry** to demonstrate how the same neuro-symbolic architecture principles transfer across verticals:
 
 *   **[Cross-Domain Neuro-Symbolic Architecture](#-cross-domain-neuro-symbolic-architecture):** Foundational reasoning, memory, and orchestration layers that transfer across all verticals.
-    * **Edge SLM Optimizer**: Edge-First Small Language Model Compression & Deployment Pipeline
-    * **Speculative Graph RAG**: Hybrid Neuro-Symbolic Clinical Knowledge Core with Hybrid RAG and Reasoning-Aware Verification
-    * **DeepSeek Reasoning Fine-Tuning**: Medical chain-of-thought LoRA alignment pipeline
-    * **Enterprise Intelligence Crew**: Autonomous enterprise trend intelligence pipeline
-*   **[Healthcare & Clinical](#-healthcare--clinical):** Medical perception, differential diagnosis, prior authorization, and ICU monitoring.
+    * **Edge SLM Optimizer**
+    * **Speculative Graph RAG**
+    * **DeepSeek Reasoning Fine-Tuning**
+    * **Enterprise Intelligence Crew**
+*   **[Healthcare & Clinical](#-healthcare--clinical)** 
     * **ICU Vitals Transformer(MCP-native tool)**
     * **Autonomous Medication Reconciliation**
     * **Biomedical Entity Extraction Engine**
@@ -71,12 +71,12 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
     * **Surgical Vision Copilot**
     * **Spatial Event Detector**
 *   **[Marketing & Advertising](#-marketing--advertising):** Competitive Nash equilibrium bidding, real-time intent transformation, and generative ad rendering.
-*   **[Energy & Utilities](#-energy--utilities):** Autonomous grid balancing with neuro-symbolic safety guardrails.
-*   **[Finance & RegTech](#-finance--regtech):** Cross-jurisdictional compliance monitoring and market simulation.
-*   **[Supply Chain & Logistics](#-supply-chain--logistics):** Zero-shot demand forecasting and autonomous procurement negotiation.
-*   **[Smart Cities & Urban Systems](#-smart-cities--urban-systems):** Multi-agent traffic optimization and congestion resolution.
-*   **[Education & Research](#-education--research):** Scientific discovery engines and adaptive tutoring swarms.
-*   **[Computational Biology](#-computational-biology):** Flow-matching protein binder generation.
+*   **[Energy & Utilities](#-energy--utilities)** 
+*   **[Finance & RegTech](#-finance--regtech)**
+*   **[Supply Chain & Logistics](#-supply-chain--logistics)** 
+*   **[Smart Cities & Urban Systems](#-smart-cities--urban-systems)** 
+*   **[Education & Research](#-education--research)** 
+*   **[Computational Biology](#-computational-biology)** 
 
 
 ---
