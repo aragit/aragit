@@ -611,7 +611,7 @@ Composable — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[
 
 ---
 
-## 🧬 Computational Biology
+## 🧬 Computational Biology & Chemistry
 
 ### [28. Protein Binder Flow](https://github.com/aragit/Flow-Matching-Protein-Binder-Generator)  
 **Flow-matching protein binder generator**  
