@@ -61,6 +61,15 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
     * **DeepSeek Reasoning Fine-Tuning**: Medical chain-of-thought LoRA alignment pipeline
     * **Enterprise Intelligence Crew**: Autonomous enterprise trend intelligence pipeline
 *   **[Healthcare & Clinical](#-healthcare--clinical):** Medical perception, differential diagnosis, prior authorization, and ICU monitoring.
+    * **ICU Vitals Transformer(MCP-native tool)**
+    * **Autonomous Medication Reconciliation**
+    * **Biomedical Entity Extraction Engine**
+    * **Autonomous Lab Interpretation & Critical Value Triage Agent**
+    * **Clinical Differential Diagnosis Copilot**
+    * **Agentic Medicare Authorization**
+    * **Edge Fall Detector**
+    * **Surgical Vision Copilot**
+    * **Spatial Event Detector**
 *   **[Marketing & Advertising](#-marketing--advertising):** Competitive Nash equilibrium bidding, real-time intent transformation, and generative ad rendering.
 *   **[Energy & Utilities](#-energy--utilities):** Autonomous grid balancing with neuro-symbolic safety guardrails.
 *   **[Finance & RegTech](#-finance--regtech):** Cross-jurisdictional compliance monitoring and market simulation.
@@ -212,7 +221,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **Composable** — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[Symbolic]) agent architectures
 
 
-### [6. Autonomous Medication Reconciliation & Interaction Guard](https://github.com/aragit/medication-reconciliation-agent) 
+### [6. Autonomous Medication Reconciliation](https://github.com/aragit/medication-reconciliation-agent) 
 
 **Cross-Source Medication Safety Engine**
 > Ggemma3 / Qwen2.5 , MCP, FHIR R4, RxNorm, DrugBank, FastAPI, Pydantic, Neo4j, pytest — CI/CD      
