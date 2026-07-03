@@ -205,20 +205,20 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ## 🏥 Healthcare & Clinical
 
 
-### [5. ICU Vitals Transformer(MCP-native tool)](https://github.com/aragit/icu-vitals-transformer)  
-**MCP Clinical Forecasting Skill**  
-> Deterministic vital sign forecasting • FHIR R4 • NEWS2 governance • Zero neural dependency  
-> 🟢 `Active` • `MCP Tool` • `Clinical Temporal Monitoring`
+5. ICU Vitals Transformer(MCP-native tool)
+MCP Clinical Forecasting Skill
 
+Deterministic vital sign forecasting • FHIR R4 • NEWS2 governance • Zero neural dependency
+🟢 Active • MCP Tool • Clinical Temporal Monitoring
 
-**Architecture Insight**
+Architecture Insight
 
-- **MCP-native tool** — exposes `ingest_vitals`, `get_forecast`, `get_deterioration_index` via Model Context Protocol
-- **Deterministic forecasting** — multi-horizon trend extrapolation (1h/4h/12h) with clinical uncertainty bounds, no GPU required
-- **FHIR R4 ingestion** — parses LOINC-coded `Observation` resources into sliding 5-minute windows
-- **NEWS2-inspired governance** — deterministic deterioration index + severity classification (NORMAL → WARNING → ALERT → EMERGENCY)
-- **Stateless by design** — caller decides action; tool returns structured predictions only
-- **Composable** — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[Symbolic]) agent architectures
+MCP-native tool — exposes ingest_vitals, get_forecast, get_deterioration_index via Model Context Protocol
+Deterministic forecasting — multi-horizon trend extrapolation (1h/4h/12h) with clinical uncertainty bounds, no GPU required
+FHIR R4 ingestion — parses LOINC-coded Observation resources into sliding 5-minute windows
+NEWS2-inspired governance — deterministic deterioration index + severity classification (NORMAL → WARNING → ALERT → EMERGENCY)
+Stateless by design — caller decides action; tool returns structured predictions only
+Composable — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[Symbolic]) agent architectures
 
 
 ### [6. Autonomous Medication Reconciliation](https://github.com/aragit/medication-reconciliation-agent) 
@@ -629,6 +629,23 @@ The result is a **genuinely transferable decision intelligence platform** with c
 </details>
 
 <br>
+
+[29. Quantum-Bound Molecular Generator (QBMG)](https://github.com/aragit/quantum-bound-generator/tree/main)
+Zero-Waste Neuro-Symbolic Molecular Engine
+
+**100% physically valid generation • Differentiable convex constraints • IFT gradient propagation • Zero compute waste**
+🟢 Active • Type 6 Architecture • Generative Chemistry
+
+**Architecture Insight**
+
+- Type 6 Neuro[Symbolic] core — symbolic physics (valency, symmetry, non-negativity) embedded directly into the PyTorch computation graph as a differentiable convex projection layer
+- Zero-waste generation — every forward pass outputs a chemically valid bond adjacency matrix; no post-generation filtering or discard pipelines required
+- Implicit Function Theorem (IFT) backprop — analytical Jacobian computation through the KKT equilibrium bypasses solver unrolling, enabling end-to-end gradient flow without memory explosion
+- Single substrate design — neural backbone (SE(3)-GNN / transformer) and physics engine exist on the same mathematical substrate; no API boundaries, no JSON orchestration
+- Hard valency enforcement — convex optimization boundary strictly caps per-atom bond sums (e.g., C≤4, O≤2) while minimizing Frobenius distortion from the neural guess
+- Modular backbone — hot-swappable generators: dense MLPs, E(n)-Equivariant GNNs, or text-conditioned projections (e.g., MedGemma-4B-IT) all feed into the same physics core
+- Composable — designed as a structural generative engine for Type 2 and Type 6 clinical intelligence pipelines, including multi-drug optimization and materials discovery
+
 
 ---
 
