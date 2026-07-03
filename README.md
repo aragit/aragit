@@ -140,10 +140,11 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **CI/CD Reproducibility**: GitHub Actions with lint, pytest, Docker build — benchmarks versioned per commit
 
 
-### [2. Speculative Graph RAG(Hybrid Architecture)](https://github.com/aragit/speculative-clinical-graphrag) 
+### [2. Speculative Graph RAG (Hybrid Architecture)](https://github.com/aragit/speculative-clinical-graphrag) 
 **Hybrid Neuro-Symbolic Clinical Knowledge Core with Hybrid RAG and Reasoning-Aware Verification**  
-> FastAPI, Pydantic v2, LangGraph, Neo4j, LlamaIndex, vLLM, DeepSeek-R1-Distill-Qwen-32B, SNOMED-CT, ICD-10-CM, RxNorm, pytest  
+> FastAPI, Pydantic v2, LangGraph, Neo4j, Qdrant, vLLM, DeepSeek-R1-Distill-Qwen-32B, SNOMED-CT/ICD-10-CM/RxNorm parsers, pytest  
 > 🟢 `Active` • `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `Hybrid RAG`
+
 
 <details>
 <summary><b>Expand Architecture Insight →</b></summary>
