@@ -631,10 +631,10 @@ Composable — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[
 
 
 ### [29. Quantum-Bound Molecular Generator (QBMG)](https://github.com/aragit/quantum-bound-generator/tree/main)
-Zero-Waste Neuro-Symbolic Molecular Engine
+**Zero-Waste Neuro-Symbolic Molecular Engine**
 
-**100% physically valid generation • Differentiable convex constraints • IFT gradient propagation • Zero compute waste**
-🟢 Active • Type 6 Architecture • Generative Chemistry
+> 100% physically valid generation • Differentiable convex constraints • IFT gradient propagation • Zero compute waste         
+> 🟢 Active • Type 6 Architecture • Generative Chemistry
 
 **Architecture Insight**
 
