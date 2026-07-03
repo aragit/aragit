@@ -331,9 +331,9 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 🎯 Marketing & Advertising
 
-### [15. Nash Marketing Agents](https://github.com/aragit/agentic-nash-marketing) 
+### [15. Nash Marketing Agents(Game Theory)](https://github.com/aragit/agentic-nash-marketing) 
 **Neuro-Symbolic Multi-Agent Ad Auction Simulator with Nash Equilibrium Solver**  
-> FastAPI, Pydantic v2, SQLAlchemy 2.0, SciPy, SQLite/PostgreSQL, Docker, pytest
+> FastAPI, Pydantic v2, SQLAlchemy 2.0, SciPy, SQLite/PostgreSQL, Docker, pytest     
 > 🟢 `Active` • `Neuro-Symbolic` • `Game Theory` • `Ad Tech Simulation` 
 
 **Architecture Insight**
