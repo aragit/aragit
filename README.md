@@ -630,7 +630,7 @@ Composable — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[
 
 <br>
 
-[29. Quantum-Bound Molecular Generator (QBMG)](https://github.com/aragit/quantum-bound-generator/tree/main)
+### [29. Quantum-Bound Molecular Generator (QBMG)](https://github.com/aragit/quantum-bound-generator/tree/main)
 Zero-Waste Neuro-Symbolic Molecular Engine
 
 **100% physically valid generation • Differentiable convex constraints • IFT gradient propagation • Zero compute waste**
@@ -638,13 +638,13 @@ Zero-Waste Neuro-Symbolic Molecular Engine
 
 **Architecture Insight**
 
-- Type 6 Neuro[Symbolic] core — symbolic physics (valency, symmetry, non-negativity) embedded directly into the PyTorch computation graph as a differentiable convex projection layer
-- Zero-waste generation — every forward pass outputs a chemically valid bond adjacency matrix; no post-generation filtering or discard pipelines required
-- Implicit Function Theorem (IFT) backprop — analytical Jacobian computation through the KKT equilibrium bypasses solver unrolling, enabling end-to-end gradient flow without memory explosion
-- Single substrate design — neural backbone (SE(3)-GNN / transformer) and physics engine exist on the same mathematical substrate; no API boundaries, no JSON orchestration
-- Hard valency enforcement — convex optimization boundary strictly caps per-atom bond sums (e.g., C≤4, O≤2) while minimizing Frobenius distortion from the neural guess
-- Modular backbone — hot-swappable generators: dense MLPs, E(n)-Equivariant GNNs, or text-conditioned projections (e.g., MedGemma-4B-IT) all feed into the same physics core
-- Composable — designed as a structural generative engine for Type 2 and Type 6 clinical intelligence pipelines, including multi-drug optimization and materials discovery
+- **Type 6 Neuro[Symbolic] core** — symbolic physics (valency, symmetry, non-negativity) embedded directly into the PyTorch computation graph as a differentiable convex projection layer
+- **Zero-waste generation** — every forward pass outputs a chemically valid bond adjacency matrix; no post-generation filtering or discard pipelines required
+- **Implicit Function Theorem (IFT) backprop** — analytical Jacobian computation through the KKT equilibrium bypasses solver unrolling, enabling end-to-end gradient flow without memory explosion
+- **Single substrate design** — neural backbone (SE(3)-GNN / transformer) and physics engine exist on the same mathematical substrate; no API boundaries, no JSON orchestration
+- **Hard valency enforcement** — convex optimization boundary strictly caps per-atom bond sums (e.g., C≤4, O≤2) while minimizing Frobenius distortion from the neural guess
+- **Modular backbone** — hot-swappable generators: dense MLPs, E(n)-Equivariant GNNs, or text-conditioned projections (e.g., MedGemma-4B-IT) all feed into the same physics core
+- **Composable** — designed as a structural generative engine for Type 2 and Type 6 clinical intelligence pipelines, including multi-drug optimization and materials discovery
 
 
 ---
