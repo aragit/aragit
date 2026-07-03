@@ -549,7 +549,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 🎓 Education & Research
 
-### [Autonomous Research Synthesizer](https://github.com/aragit/autonomous-research-synthesizer) 
+### [25. Autonomous Research Synthesizer](https://github.com/aragit/autonomous-research-synthesizer) 
 **Self-Directed Scientific Discovery Engine**
 > Gemini 3 Pro, MCP, Semantic Scholar API, E2B Sandbox, Jupyter Kernel, Neo4j Citation Graph - CI/CD   
 > <span style="color:#8B0000">⬤</span> `Private` • `Scientific Research` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
@@ -567,7 +567,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 </details>
 
 
-### [Agentic Research Paper Review & Synthesis Swarm](#)  
+### [26. Agentic Research Paper Review & Synthesis Swarm](#)  
 **Multi-agent scientific reasoning and literature synthesis system**  
 > ArXiv API, claim extraction, contradiction detection, graph reasoning         
 > 🔵 `CONCEPT` • `RESEARCH REASONING LAYER`
@@ -582,7 +582,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 </details>
 
-### [Agentic Educational Tutoring Swarm](#)  
+### [27. Agentic Educational Tutoring Swarm](#)  
 **Adaptive tutoring system with concept mastery modeling**      
 > Knowledge graphs, tutoring agents, adaptive questioning, progress tracking      
 > 🔵 `Concept` • 🎓 `Adaptive Learning`  
@@ -604,7 +604,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 🧬 Computational Biology
 
-### [Protein Binder Flow](https://github.com/aragit/Flow-Matching-Protein-Binder-Generator)  
+### [28. Protein Binder Flow](https://github.com/aragit/Flow-Matching-Protein-Binder-Generator)  
 **Flow-matching protein binder generator**  
 > PyTorch, Biopython, Flow Matching, FoldSeek    
 > 🟢 `Active` • 🧬 `Computational Biology Research`     
