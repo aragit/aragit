@@ -206,20 +206,20 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ## 🏥 Healthcare & Clinical
 
 
-5. ICU Vitals Transformer(MCP-native tool)
-MCP Clinical Forecasting Skill
+5.[ICU Vitals Transformer(MCP-native tool)](https://github.com/aragit/icu-vitals-transformer)
+**MCP Clinical Forecasting Skill**
 
-Deterministic vital sign forecasting • FHIR R4 • NEWS2 governance • Zero neural dependency
-🟢 Active • MCP Tool • Clinical Temporal Monitoring
+? Deterministic vital sign forecasting • FHIR R4 • NEWS2 governance • Zero neural dependency    
+> 🟢 `Active` • `MCP Tool` • `Clinical Temporal Monitoring`
 
 Architecture Insight
 
-MCP-native tool — exposes ingest_vitals, get_forecast, get_deterioration_index via Model Context Protocol
-Deterministic forecasting — multi-horizon trend extrapolation (1h/4h/12h) with clinical uncertainty bounds, no GPU required
-FHIR R4 ingestion — parses LOINC-coded Observation resources into sliding 5-minute windows
-NEWS2-inspired governance — deterministic deterioration index + severity classification (NORMAL → WARNING → ALERT → EMERGENCY)
-Stateless by design — caller decides action; tool returns structured predictions only
-Composable — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[Symbolic]) agent architectures
+- MCP-native tool — exposes ingest_vitals, get_forecast, get_deterioration_index via Model Context Protocol
+- Deterministic forecasting — multi-horizon trend extrapolation (1h/4h/12h) with clinical uncertainty bounds, no GPU required
+- FHIR R4 ingestion — parses LOINC-coded Observation resources into sliding 5-minute windows
+- NEWS2-inspired governance — deterministic deterioration index + severity classification (NORMAL → WARNING → ALERT → EMERGENCY)
+- Stateless by design — caller decides action; tool returns structured predictions only
+- Composable — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[Symbolic]) agent architectures
 
 
 ### [6. Autonomous Medication Reconciliation](https://github.com/aragit/medication-reconciliation-agent) 
@@ -473,23 +473,7 @@ Composable — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[
 
 ## 🏦 Finance & RegTech
 
-### [21. MCP Compliance Kernel](https://github.com/aragit/mcp-compliance-kernel)  
-**Autonomous Regulatory Compliance Auditor via  Neuro-Symbolic Architecture**    
-> Ollama (gemma3:1b / qwen2.5:0.5b), MCP, LangGraph, FastAPI, Pydantic v2, Neo4j, ChromaDB, Polars, loguru, prometheus-client, pytest — CI/CD     
-> 🟢 `Active` • `RegTech / Compliance` • `Neuro-Symbolic AI` • `Governance & Safety`
-
-
-**Architecture Insight**
-
-- **Hybrid Framework:** Symbolic primary execution engine (LangGraph state machine, OPA-inspired Python rule engine) embeds probabilistic neural subroutines (local LLM for semantic document chunking, obligation extraction, and policy-to-regulation mapping) — deterministic safety invariants are never overridden by neural output.
-- **Autonomous Gap Discovery:** The system ingests regulations (GDPR, HIPAA, SOC2) and company policies, extracts obligations via regex + heuristic + LLM fallback, and maps policy clauses to regulatory requirements using embedding similarity + LLM verification — no manual compliance checklist required.
-- **Dynamic Tool Orchestration:** 5 MCP-native microservices (regulation-fetcher, policy-parser, gap-analyzer, risk-scorer, report-generator) communicate via standardized tool protocol. Each service is independently containerized, horizontally scalable, and implements Pydantic-validated input/output schemas with full error handling.
-- **Weighted Risk Scoring:** Risk formula combines obligation priority (critical/high/medium/low), gap severity (missing=1.0, insufficient=0.7, wrong_scope=0.5), and exposure factors (company size, data sensitivity, jurisdiction) into a 0-100 quantitative score with category breakdown and trend analysis.
-- **Symbolic Safety Boundary:** Every audit decision is immutably logged in Neo4j with full provenance (regulation version, policy version, mapping scores, confidence levels). The rule engine enforces hard constraints: no gap with severity >0.8 can be marked "monitor" (must be "fix immediately"); no report can be generated with <75% mapping coverage; all LLM-verified mappings require human review if confidence <0.6. Compliance is not suggested — it is enforced.
-
-
-
-### [22. Regulatory Intelligence Agent](https://github.com/aragit/regulatory-intelligence-agent)      
+### [21. Regulatory Intelligence Agent](https://github.com/aragit/regulatory-intelligence-agent)      
 **Autonomous Compliance Monitoring Engine**
 > Claude Opus 4.6, MCP, Neo4j Policy Graph, QuantLib, SEC EDGAR API, OpenTelemetry - CI/CD       
 > <span style="color:#8B0000">⬤</span> `Private` • `FinTech / RegTech` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
@@ -508,7 +492,7 @@ Composable — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[
 
 
 
-### [23. Sentiment Market Maker](#) 
+### [22. Sentiment Market Maker](#) 
 **Liquidity simulation and market order book balancing**
 > NumPy, SciPy, High-Frequency Telemetry    
 > <span style="color:#8B0000">⬤</span> `Private` • `FINANCIAL SIMULATION`
@@ -535,7 +519,7 @@ Composable — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[
 
 ## 🏙️ Smart Cities & Urban Systems
 
-### [24. Agentic Smart City Traffic Optimization](#)  
+### [23. Agentic Smart City Traffic Optimization](#)  
 **Multi-agent traffic signal and routing optimizer**  
 > Graph networks, city simulation, intersection agents, routing optimization        
 > 🔵 `Concept` • `Urban Coordination`  
@@ -559,7 +543,7 @@ Composable — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[
 
 ## 🎓 Education & Research
 
-### [25. Autonomous Research Synthesizer](https://github.com/aragit/autonomous-research-synthesizer) 
+### [24. Autonomous Research Synthesizer](https://github.com/aragit/autonomous-research-synthesizer) 
 **Self-Directed Scientific Discovery Engine**
 > Gemini 3 Pro, MCP, Semantic Scholar API, E2B Sandbox, Jupyter Kernel, Neo4j Citation Graph - CI/CD   
 > <span style="color:#8B0000">⬤</span> `Private` • `Scientific Research` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
@@ -577,7 +561,7 @@ Composable — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[
 </details>
 
 
-### [26. Agentic Research Paper Review & Synthesis Swarm](#)  
+### [25. Agentic Research Paper Review & Synthesis Swarm](#)  
 **Multi-agent scientific reasoning and literature synthesis system**  
 > ArXiv API, claim extraction, contradiction detection, graph reasoning         
 > 🔵 `CONCEPT` • `RESEARCH REASONING LAYER`
@@ -592,7 +576,7 @@ Composable — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[
 
 </details>
 
-### [27. Agentic Educational Tutoring Swarm](#)  
+### [26. Agentic Educational Tutoring Swarm](#)  
 **Adaptive tutoring system with concept mastery modeling**      
 > Knowledge graphs, tutoring agents, adaptive questioning, progress tracking      
 > 🔵 `Concept` • 🎓 `Adaptive Learning`  
@@ -614,7 +598,7 @@ Composable — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[
 
 ## 🧬 Computational Biology & Chemistry
 
-### [28. Protein Binder Flow](https://github.com/aragit/Flow-Matching-Protein-Binder-Generator)  
+### [27. Protein Binder Flow](https://github.com/aragit/Flow-Matching-Protein-Binder-Generator)  
 **Flow-matching protein binder generator**  
 > PyTorch, Biopython, Flow Matching, FoldSeek    
 > 🟢 `Active` • 🧬 `Computational Biology Research`     
@@ -631,7 +615,7 @@ Composable — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[
 
 
 
-### [29. Quantum-Bound Molecular Generator (QBMG)](https://github.com/aragit/quantum-bound-generator/tree/main)
+### [28. Quantum-Bound Molecular Generator (QBMG)](https://github.com/aragit/quantum-bound-generator/tree/main)
 **Zero-Waste Neuro-Symbolic Molecular Engine**
 
 > 100% physically valid generation • Differentiable convex constraints • IFT gradient propagation • Zero compute waste         
