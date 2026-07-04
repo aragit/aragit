@@ -492,10 +492,10 @@ Architecture Insight
 
 
 
-### [22. KYC-Auto](https://github.com/aragit/kyc-auto)      
+### [22. KYC-Auto(Know Your Customer)](https://github.com/aragit/kyc-auto)      
 **Automated KYC & AML Screening Agent**
-> Qwen2.5-7B-Instruct, LangChain ReAct, OpenSanctions, Neo4j UBO Graph, PostgreSQL, Redis, FastAPI, OpenTelemetry — CPU-First / vLLM-Ready       
-> 🟡 `Coming Soon` • `FinTech / RegTech` • `SLM-First Agent` • `Deterministic Risk Scoring`
+> Qwen2.5-7B-Instruct, LangChain, OpenSanctions, Neo4j UBO Graph, PostgreSQL, Redis, FastAPI, OpenTelemetry — CPU-First / vLLM-Ready       
+> 🟢 `Active` • `FinTech / RegTech` • `SLM-First Agent` • `Deterministic Risk Scoring`
 
 <details>
 <summary><b>Expand Architecture Insight →</b></summary>
