@@ -71,12 +71,13 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
     * **Surgical Vision Copilot**
     * **Spatial Event Detector**
 *   **[Marketing & Advertising](#-marketing--advertising):** Competitive Nash equilibrium bidding, real-time intent transformation, and generative ad rendering.
-*   **[Energy & Utilities](#-energy--utilities)** 
-*   **[Finance & RegTech](#-finance--regtech)**
-*   **[Supply Chain & Logistics](#-supply-chain--logistics)** 
-*   **[Smart Cities & Urban Systems](#-smart-cities--urban-systems)** 
-*   **[Education & Research](#-education--research)** 
-*   **[Computational Biology](#-computational-biology)** 
+*   **[Supply Chain & Logistics](#-supply-chain--logistics)** Zero-Shot Demand Foundation(MCP Agentic Forecaster Skill),  Autonomous Procurement Swarm
+*   **[Energy & Utilities](#-energy--utilities):** Agentic Energy Grid Balancing System
+*   **[Computational Biology](#-computational-biology):** Protein Binder Flow,  Quantum-Bound Molecular Generator (QBMG, Zero-Waste Neuro-Symbolic Molecular Engine)
+*   **[Finance & RegTech](#-finance--regtech):** Automated KYC & AML Screening Agent, Regulatory Intelligence Agent
+*   **[Smart Cities & Urban Systems](#-smart-cities--urban-systems)** Agentic Smart City Traffic Optimization
+*   **[Education & Research](#-education--research):** Autonomous Research Synthesizer, Agentic Educational Tutoring Swarm
+
 
 
 ---
@@ -470,6 +471,44 @@ Architecture Insight
 <br>
 
 ---
+## 🧬 Computational Biology & Chemistry
+
+### [27. Protein Binder Flow](https://github.com/aragit/Flow-Matching-Protein-Binder-Generator)  
+**Flow-matching protein binder generator**  
+> PyTorch, Biopython, Flow Matching, FoldSeek    
+> 🟢 `Active` • 🧬 `Computational Biology Research`     
+
+<details>
+<summary><b><i>Architecture Insight ...</i></b></summary>
+  
+- Uses flow matching for structural molecular generation  
+- Moves beyond diffusion-based protein design approaches  
+- Targets novel protein–ligand binding discovery  
+- Expands AI systems into generative bio-molecular design  
+
+</details>
+
+
+
+### [28. Quantum-Bound Molecular Generator (QBMG)](https://github.com/aragit/quantum-bound-generator/tree/main)
+**Zero-Waste Neuro-Symbolic Molecular Engine**
+
+> 100% physically valid generation • Differentiable convex constraints • IFT gradient propagation • Zero compute waste         
+> 🟢 Active • Type 6 Architecture • Generative Chemistry
+
+**Architecture Insight**
+
+- **Type 6 Neuro[Symbolic] core** — symbolic physics (valency, symmetry, non-negativity) embedded directly into the PyTorch computation graph as a differentiable convex projection layer
+- **Zero-waste generation** — every forward pass outputs a chemically valid bond adjacency matrix; no post-generation filtering or discard pipelines required
+- **Implicit Function Theorem (IFT) backprop** — analytical Jacobian computation through the KKT equilibrium bypasses solver unrolling, enabling end-to-end gradient flow without memory explosion
+- **Single substrate design** — neural backbone (SE(3)-GNN / transformer) and physics engine exist on the same mathematical substrate; no API boundaries, no JSON orchestration
+- **Hard valency enforcement** — convex optimization boundary strictly caps per-atom bond sums (e.g., C≤4, O≤2) while minimizing Frobenius distortion from the neural guess
+- **Modular backbone** — hot-swappable generators: dense MLPs, E(n)-Equivariant GNNs, or text-conditioned projections (e.g., MedGemma-4B-IT) all feed into the same physics core
+- **Composable** — designed as a structural generative engine for Type 2 and Type 6 clinical intelligence pipelines, including multi-drug optimization and materials discovery
+
+
+---
+
 
 ## 🏦 Finance & RegTech
 
@@ -594,44 +633,6 @@ Architecture Insight
 </details>
 
 <br>
-
----
-
-## 🧬 Computational Biology & Chemistry
-
-### [27. Protein Binder Flow](https://github.com/aragit/Flow-Matching-Protein-Binder-Generator)  
-**Flow-matching protein binder generator**  
-> PyTorch, Biopython, Flow Matching, FoldSeek    
-> 🟢 `Active` • 🧬 `Computational Biology Research`     
-
-<details>
-<summary><b><i>Architecture Insight ...</i></b></summary>
-  
-- Uses flow matching for structural molecular generation  
-- Moves beyond diffusion-based protein design approaches  
-- Targets novel protein–ligand binding discovery  
-- Expands AI systems into generative bio-molecular design  
-
-</details>
-
-
-
-### [28. Quantum-Bound Molecular Generator (QBMG)](https://github.com/aragit/quantum-bound-generator/tree/main)
-**Zero-Waste Neuro-Symbolic Molecular Engine**
-
-> 100% physically valid generation • Differentiable convex constraints • IFT gradient propagation • Zero compute waste         
-> 🟢 Active • Type 6 Architecture • Generative Chemistry
-
-**Architecture Insight**
-
-- **Type 6 Neuro[Symbolic] core** — symbolic physics (valency, symmetry, non-negativity) embedded directly into the PyTorch computation graph as a differentiable convex projection layer
-- **Zero-waste generation** — every forward pass outputs a chemically valid bond adjacency matrix; no post-generation filtering or discard pipelines required
-- **Implicit Function Theorem (IFT) backprop** — analytical Jacobian computation through the KKT equilibrium bypasses solver unrolling, enabling end-to-end gradient flow without memory explosion
-- **Single substrate design** — neural backbone (SE(3)-GNN / transformer) and physics engine exist on the same mathematical substrate; no API boundaries, no JSON orchestration
-- **Hard valency enforcement** — convex optimization boundary strictly caps per-atom bond sums (e.g., C≤4, O≤2) while minimizing Frobenius distortion from the neural guess
-- **Modular backbone** — hot-swappable generators: dense MLPs, E(n)-Equivariant GNNs, or text-conditioned projections (e.g., MedGemma-4B-IT) all feed into the same physics core
-- **Composable** — designed as a structural generative engine for Type 2 and Type 6 clinical intelligence pipelines, including multi-drug optimization and materials discovery
-
 
 ---
 
