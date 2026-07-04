@@ -492,18 +492,19 @@ Architecture Insight
 
 
 
-### [22. Sentiment Market Maker](#) 
-**Liquidity simulation and market order book balancing**
-> NumPy, SciPy, High-Frequency Telemetry    
-> <span style="color:#8B0000">⬤</span> `Private` • `FINANCIAL SIMULATION`
-
+### [22. KYC-Auto](https://github.com/aragit/kyc-auto)      
+**Automated KYC & AML Screening Agent**
+> Qwen2.5-7B-Instruct, LangChain ReAct, OpenSanctions, Neo4j UBO Graph, PostgreSQL, Redis, FastAPI, OpenTelemetry — CPU-First / vLLM-Ready       
+> 🟡 `Coming Soon` • `FinTech / RegTech` • `SLM-First Agent` • `Deterministic Risk Scoring`
 
 <details>
 <summary><b>Expand Architecture Insight →</b></summary>
 
-- Counterfactual market simulation under varying liquidity conditions  
-- Order book balancing via stochastic differential equations  
-- Risk assessment prior to live trading execution
+- **SLM-First ReAct Agent:** Single-threaded LangChain ReAct loop runs entirely on CPU using 4-bit quantized Qwen2.5-7B-Instruct (GGUF via llama-cpp-python). No dependency on Claude or GPT-4o. Architected with a pluggable `BaseLLMBackend` abstraction so the agent swaps to vLLM GPU inference (Qwen-14B/70B, Mixtral-8x7B) via one-line config change when hardware is available.
+- **Deterministic Tool Orchestration:** The agent plans and executes exactly one tool per ReAct turn — `pep_screen`, `sanctions_check`, `adverse_media_search`, `ubo_extract`, `risk_score_combine`. The final `risk_score_combine` tool is a pure deterministic algorithm (no LLM), ensuring the overall risk rating is reproducible and regulator-auditable.
+- **Document-to-Graph UBO Extraction:** Corporate documents (PDF, CSV) are chunked into 500-token windows and parsed by the SLM with structured JSON prompts. Extracted beneficial owners are deduplicated via fuzzy matching (`rapidfuzz`) and written to a Neo4j graph as `(:Person)-[:OWNS]->(:CorporateBody)` relationships for network analysis.
+- **Offline-Resilient Screening:** OpenSanctions API responses are cached in Redis (24h TTL) and backed by a local SQLite mirror of OFAC SDN CSV. If external APIs fail, the agent degrades gracefully to offline deterministic screening with full trace logging.
+- **Structured Audit Boundary:** Every tool call, LLM reasoning step, and final `KYCPacket` output is validated by Pydantic v2 and persisted to PostgreSQL with immutable JSON audit trails. OpenTelemetry spans trace the full ReAct loop for regulator examination. FastAPI exposes `POST /screen` and `GET /case/{id}` for synchronous onboarding platform integration.
 
 </details>
 
