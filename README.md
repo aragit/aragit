@@ -8,11 +8,11 @@
 
 <!-- SECTION 1: Capability Architecture (Icons + consistent dark-slate colors) -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Type_6_Neuro--Symbolic-1E293B?style=flat-square&logo=git-merge&logoColor=white">
-  <img src="https://img.shields.io/badge/Multi--Agent_Orchestration-1E293B?style=flat-square&logo=network-wired&logoColor=white">
-  <img src="https://img.shields.io/badge/Deterministic_Guardrails-1E293B?style=flat-square&logo=shield-check&logoColor=white">
-  <img src="https://img.shields.io/badge/Model_Context_Protocol-1E293B?style=flat-square&logo=terminal&logoColor=white">
-  <img src="https://img.shields.io/badge/Edge_Quantization-1E293B?style=flat-square&logo=microchip&logoColor=white">
+  <img src="https://img.shields.io/badge/Architecture-Neuro--Symbolic_Hybrid-000000?style=for-the-badge&logo=codeigniter&logoColor=4F46E5&labelColor=27272A">
+  <img src="https://img.shields.io/badge/Orchestration-Multi--Agent_Systems-000000?style=for-the-badge&logo=share-nodes&logoColor=4F46E5&labelColor=27272A">
+  <img src="https://img.shields.io/badge/Constraint-Clinical_&_RegTech_Safety-000000?style=for-the-badge&logo=shield-halved&logoColor=4F46E5&labelColor=27272A">
+  <img src="https://img.shields.io/badge/Tooling-MCP_Native-000000?style=for-the-badge&logo=plug&logoColor=4F46E5&labelColor=27272A">
+  <img src="https://img.shields.io/badge/Telemetry-Execution_Tracing-000000?style=for-the-badge&logo=chart-line&logoColor=4F46E5&labelColor=27272A">
 </div>
 <br><br>
 
