@@ -44,18 +44,7 @@ All three pillars share a common type algebra — neuro-symbolic architectures w
 
 
 `PyTorch` • `vLLM` • `Unsloth` • `Triton Inference Server` • `ExecuTorch` • `ONNX Runtime` • `TensorRT` • `llama.cpp`
-
-
-`LangGraph` • `CrewAI` • `Model Context Protocol (MCP)` • `FastAPI` • `Pydantic v2` • `Python`
-
-
-`cvxpy` • `cvxpylayers` • `SciPy` • `NetworkX`
-
-
-`Neo4j` • `Qdrant` • `Redis` • `pgvector` • `Polars` • `SQLite (vec)`
-
-
-`Open Policy Agent (OPA)` • `OpenTelemetry` • `Jaeger` • `Prometheus` • `Docker` • `GitHub Actions CI/CD`
+`LangGraph` • `CrewAI` • `MCP` • `FastAPI` • `Pydantic v2` • `Qdrant` • `Redis` • `pgvector` • `Polars` • `Docker` • `GitHub Actions CI/CD`
 
 ---
 
