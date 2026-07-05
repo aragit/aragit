@@ -43,8 +43,8 @@ All three pillars share a common type algebra — neuro-symbolic architectures w
 ## Core Infrastructure & Stack
 
 
-`PyTorch` `vLLM` `Unsloth` `Triton Inference Server` `ExecuTorch` `ONNX Runtime` `TensorRT` `llama.cpp`
-`LangGraph` `CrewAI` `FastAPI` `MCP` `Pydantic` `Qdrant` `Redis` `pgvector` `Polars` `Docker` `GitHub Actions CI/CD` `OPA` `OpenTelemetry` `Prometheus` `cvxpy` `pgvector`
+`PyTorch` `vLLM` `Unsloth` `Triton Inference` `ExecuTorch` `ONNX Runtime` `TensorRT` `llama.cpp`
+`LangGraph` `CrewAI` `FastAPI` `MCP` `Pydantic` `Qdrant` `Redis` `pgvector` `Polars` `Docker` `GitHub Actions` `OPA` `OpenTelemetry` `Prometheus` `cvxpy` `pgvector`
 
 ---
 
