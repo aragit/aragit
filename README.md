@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Arash — Senior Agentic AI Engineer & Architect</h1>
 
 <p align="center">
-  <b>Building Enterprise-Grade, Neuro-Symbolic AI Systems for High-Stakes Domains</b><br>
-  <i>Moving AI from probabilistic generation to deterministic, safe execution.</i>
+  <b>Building Enterprise-Grade, Agentic AI Systems for High-Stakes Domains</b><br>
 </p>
 
 <div align="center">
@@ -34,9 +33,9 @@
 </div>
 
 ---
-## System Architecture
+## Agentic AI Architecture
 
-The stack is organized across three composable pillars. Each maps to a subset of the full 7-layer architecture documented in [`ARCHITECTURE.md`](./ARCHITECTURE.md).
+Agentic AI stack is organized across three composable pillars. Each maps to a subset of the full 7-layer architecture documented in [`ARCHITECTURE.md`](./ARCHITECTURE.md).
 
 | Pillar | Core Layers | Signal Flow |
 |--------|------------|-------------|
@@ -50,15 +49,14 @@ All three pillars share a common type algebra — neuro-symbolic architectures w
 
 ## Core Stack
 
-`Python` `PyTorch` `FastAPI` `LangGraph` `CrewAI` `vLLM` `Unsloth`  
-`Neo4j` `Qdrant` `OPA` `MCP` `OpenTelemetry` `Docker` `Pydantic v2`
+`Python` `PyTorch` `FastAPI` `LangGraph` `CrewAI` `vLLM` `Unsloth` `Neo4j` `Qdrant` `Redis` `OPA` `MCP` `OpenTelemetry` `Docker` `Pydantic v2`
 
 ---
 
 ## Deep Dives
 
-- [Architecture Specification](./ARCHITECTURE.md) — 7-layer transferability matrix, 3-phase evolution narrative, full repository breakdowns with per-project engineering details
-- [Technical Publications](https://github.com/aragit) — case studies and engineering notes across 8+ industry verticals
+- [Architecture Specification](./ARCHITECTURE.md) — Multi-layer transferability matrix, 3-phase evolution narrative, full repository breakdowns with per-project engineering details
+- [Technical Publications](https://github.com/aragit) — case studies and engineering notes across 8 industry verticals
 
 ---
 
