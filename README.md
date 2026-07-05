@@ -56,9 +56,22 @@ All three pillars share a common type algebra — neuro-symbolic architectures w
 
 ---
 
-## Core Stack
+## Core Infrastructure & Stack
 
-`Python` `PyTorch` `FastAPI` `LangGraph` `CrewAI` `vLLM` `Unsloth` `Neo4j` `Qdrant` `Redis` `OPA` `MCP` `OpenTelemetry` `Docker` `Pydantic v2`
+### Compute, Acceleration & Edge
+`PyTorch` • `vLLM` • `Unsloth` • `Triton Inference Server` • `ExecuTorch` • `ONNX Runtime` • `TensorRT` • `llama.cpp`
+
+### Orchestration & Cognition
+`LangGraph` • `CrewAI` • `Model Context Protocol (MCP)` • `FastAPI` • `Pydantic v2` • `Python`
+
+### Neuro-Symbolic & Mathematical Optimization
+`cvxpy` • `cvxpylayers` • `SciPy` • `NetworkX`
+
+### Data, Vector & Knowledge Memory
+`Neo4j` • `Qdrant` • `Redis` • `pgvector` • `Polars` • `SQLite (vec)`
+
+### Governance, Observability & DevOps
+`Open Policy Agent (OPA)` • `OpenTelemetry` • `Jaeger` • `Prometheus` • `Docker` • `GitHub Actions CI/CD`
 
 ---
 
