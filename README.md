@@ -8,11 +8,11 @@
 
 <!-- SECTION 1: Capability Architecture (Icons + consistent dark-slate colors) -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Architecture-Compound_AI_Systems-7C3AED?style=for-the-badge&logo=codeigniter&logoColor=white&labelColor=171717">
-  <img src="https://img.shields.io/badge/Orchestration-Multi--Agent_Workflows-7C3AED?style=for-the-badge&logo=share-nodes&logoColor=white&labelColor=171717">
-  <img src="https://img.shields.io/badge/Governance-Deterministic_Guardrails-7C3AED?style=for-the-badge&logo=shield-halved&logoColor=white&labelColor=171717">
-  <img src="https://img.shields.io/badge/Integration-Model_Context_Protocol-7C3AED?style=for-the-badge&logo=plug&logoColor=white&labelColor=171717">
-  <img src="https://img.shields.io/badge/Optimization-Edge_SLM_Inference-7C3AED?style=for-the-badge&logo=microchip&logoColor=white&labelColor=171717">
+  <img src="https://img.shields.io/badge/Architecture-Compound_AI_Systems-2563EB?style=for-the-badge&logo=codeigniter&logoColor=white&labelColor=0F172A">
+  <img src="https://img.shields.io/badge/Orchestration-Multi--Agent_Workflows-2563EB?style=for-the-badge&logo=share-nodes&logoColor=white&labelColor=0F172A">
+  <img src="https://img.shields.io/badge/Governance-Deterministic_Guardrails-2563EB?style=for-the-badge&logo=shield-halved&logoColor=white&labelColor=0F172A">
+  <img src="https://img.shields.io/badge/Integration-Model_Context_Protocol-2563EB?style=for-the-badge&logo=plug&logoColor=white&labelColor=0F172A">
+  <img src="https://img.shields.io/badge/Optimization-Edge_SLM_Inference-2563EB?style=for-the-badge&logo=microchip&logoColor=white&labelColor=0F172A">
 </div>
 <br><br>
 
