@@ -4,33 +4,19 @@
   <b>Building Enterprise-Grade, Agentic AI Systems for High-Stakes Domains</b><br>
 </p>
 
-<div align="center">
+
 
 <!-- SECTION 1: Capability Architecture (Icons + consistent dark-slate colors) -->
-<a href="https://github.com/arashnicoomanesh">
-  <img src="https://img.shields.io/badge/Neuro--Symbolic%20Systems-0F0F11?style=for-the-badge&logo=git-merge&logoColor=00FFC6">
-</a>
-<a href="https://github.com/arashnicoomanesh">
-  <img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-0F0F11?style=for-the-badge&logo=network-wired&logoColor=00FFC6">
-</a>
-<a href="https://github.com/arashnicoomanesh">
-  <img src="https://img.shields.io/badge/Cognitive%20Architectures-0F0F11?style=for-the-badge&logo=brain&logoColor=00FFC6">
-</a>
-<a href="https://github.com/arashnicoomanesh">
-  <img src="https://img.shields.io/badge/Deterministic%20Governance-0F0F11?style=for-the-badge&logo=shield-check&logoColor=00FFC6">
-</a>
-<a href="https://github.com/arashnicoomanesh">
-  <img src="https://img.shields.io/badge/Action--Aware%20Validation-0F0F11?style=for-the-badge&logo=check-circle&logoColor=00FFC6">
-</a>
-<a href="https://github.com/arashnicoomanesh">
-  <img src="https://img.shields.io/badge/MCP%20Native-0F0F11?style=for-the-badge&logo=terminal&logoColor=00FFC6">
-</a>
-<a href="https://github.com/arashnicoomanesh">
-  <img src="https://img.shields.io/badge/Edge%20SLM%20Optimization-0F0F11?style=for-the-badge&logo=microchip&logoColor=00FFC6">
-</a>
+<div align="center">
+  <img src="https://img.shields.io/badge/Type_6_Neuro--Symbolic-1E293B?style=flat-square&logo=git-merge&logoColor=white">
+  <img src="https://img.shields.io/badge/Multi--Agent_Orchestration-1E293B?style=flat-square&logo=network-wired&logoColor=white">
+  <img src="https://img.shields.io/badge/Deterministic_Guardrails-1E293B?style=flat-square&logo=shield-check&logoColor=white">
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-1E293B?style=flat-square&logo=terminal&logoColor=white">
+  <img src="https://img.shields.io/badge/Edge_Quantization-1E293B?style=flat-square&logo=microchip&logoColor=white">
+</div>
 <br><br>
 
-</div>
+
 
 ---
 ## Agentic AI Architecture
@@ -58,19 +44,19 @@ All three pillars share a common type algebra — neuro-symbolic architectures w
 
 ## Core Infrastructure & Stack
 
-### Compute, Acceleration & Edge
+### - Compute, Acceleration & Edge
 `PyTorch` • `vLLM` • `Unsloth` • `Triton Inference Server` • `ExecuTorch` • `ONNX Runtime` • `TensorRT` • `llama.cpp`
 
-### Orchestration & Cognition
+### -  Orchestration & Cognition
 `LangGraph` • `CrewAI` • `Model Context Protocol (MCP)` • `FastAPI` • `Pydantic v2` • `Python`
 
-### Neuro-Symbolic & Mathematical Optimization
+### - Neuro-Symbolic & Mathematical Optimization
 `cvxpy` • `cvxpylayers` • `SciPy` • `NetworkX`
 
-### Data, Vector & Knowledge Memory
+### - Data, Vector & Knowledge Memory
 `Neo4j` • `Qdrant` • `Redis` • `pgvector` • `Polars` • `SQLite (vec)`
 
-### Governance, Observability & DevOps
+### - Governance, Observability & DevOps
 `Open Policy Agent (OPA)` • `OpenTelemetry` • `Jaeger` • `Prometheus` • `Docker` • `GitHub Actions CI/CD`
 
 ---
