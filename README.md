@@ -25,16 +25,16 @@ Agentic AI stack is organized across three composable pillars. Each maps to a su
 
 
 *   Perception & Infrastructure
-    Layers: Ingestion, Memory, Tool Registry
-    *Flow: Unstructured signals → structured state
+    - Layers: Ingestion, Memory, Tool Registry
+    - Flow: Unstructured signals → structured state
 
 *   Reasoning & Context
-    Layers: Planning, Execution, Meta-Cognition
-    Flow: State → decision → verified action
+    - Layers: Planning, Execution, Meta-Cognition
+    - Flow: State → decision → verified action
 
 *   Governance & Security
-    Layers: Deterministic Guardrails, Audit, Escalation
-    Flow: Safety invariants enforced at every structural boundary
+    - Layers: Deterministic Guardrails, Audit, Escalation
+    - Flow: Safety invariants enforced at every structural boundary
 
 All three pillars share a common type algebra — neuro-symbolic architectures where neural components propose and symbolic components verify — enabling transfer across clinical, financial, energy, and marketing domains with 55–90% architectural reuse.
 
