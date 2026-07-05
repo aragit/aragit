@@ -8,11 +8,11 @@
 
 <!-- SECTION 1: Capability Architecture (Icons + consistent dark-slate colors) -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Architecture-Neuro--Symbolic_Hybrid-000000?style=for-the-badge&logo=codeigniter&logoColor=4F46E5&labelColor=27272A">
-  <img src="https://img.shields.io/badge/Orchestration-Multi--Agent_Systems-000000?style=for-the-badge&logo=share-nodes&logoColor=4F46E5&labelColor=27272A">
-  <img src="https://img.shields.io/badge/Constraint-Clinical_&_RegTech_Safety-000000?style=for-the-badge&logo=shield-halved&logoColor=4F46E5&labelColor=27272A">
-  <img src="https://img.shields.io/badge/Tooling-MCP_Native-000000?style=for-the-badge&logo=plug&logoColor=4F46E5&labelColor=27272A">
-  <img src="https://img.shields.io/badge/Telemetry-Execution_Tracing-000000?style=for-the-badge&logo=chart-line&logoColor=4F46E5&labelColor=27272A">
+  <img src="https://img.shields.io/badge/Neuro--Symbolic-vLLM_|_cvxpylayers-333333?style=flat&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Multi--Agent-LangGraph_|_AutoGen-333333?style=flat&logo=diagram-project&logoColor=white">
+  <img src="https://img.shields.io/badge/Dynamic_Tooling-Model_Context_Protocol-333333?style=flat&logo=server&logoColor=white">
+  <img src="https://img.shields.io/badge/Edge_SLMs-Unsloth_|_ExecuTorch-333333?style=flat&logo=bolt&logoColor=white">
+  <img src="https://img.shields.io/badge/Auditability-OpenTelemetry-333333?style=flat&logo=check-double&logoColor=white">
 </div>
 <br><br>
 
