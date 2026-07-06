@@ -11,23 +11,24 @@
 </p>
 
 ---
-## Agentic AI Architecture
+## About
 
-Agentic AI stack in my git repos is organized across three composable pillars. Each maps to a subset of the full Multi-layered architecture documented in the [ARCHITECTURE](./ARCHITECTURE.md) doc or visit my [website](https://aragit.github.io).
+I  do not just deploy models or optimize prompts. I engineer compound systems — architectures where neural reasoning and symbolic governance are composed into standardized layers that transfer across high-liability industries.
+The agentic stack across my repositories is organized into three composable architectural pillars. Each pillar maps directly to specific operational layers of my **Multi-Layer Composable Intelligence Stack** (detailed fully in my [Architecture Specification](./ARCHITECTURE.md) or on my [website](https://github.com/aragit/aragit/tree/main):
 
-*   Perception & Infrastructure
-    - Layers: Ingestion, Memory, Tool Registry
-    - Flow: Unstructured signals → structured state
+### 01 / Perception & Infrastructure
+* **Layers Wrapped:** `01 // Perception`, `02 // Memory`, `03 // Tool Registry` (via Model Context Protocol)
+* **Data Flow:** Unstructured enterprise telemetry $\rightarrow$ Validated, context-hydrated semantic state.
 
-*   Reasoning & Context
-    - Layers: Planning, Execution, Meta-Cognition
-    - Flow: State → decision → verified action
+### 02 / Reasoning & Context
+* **Layers Wrapped:** `04 // Reasoning`, `05 // Execution`, `07 // Meta-Cognition`
+* **Data Flow:** State evaluation $\rightarrow$ Dynamic planning state-machines $\rightarrow$ Verified, idempotent execution.
 
-*   Governance & Security
-    - Layers: Deterministic Guardrails, Audit, Escalation
-    - Flow: Safety invariants enforced at every structural boundary
+### 03 / Governance & Security
+* **Layers Wrapped:** `06 // Governance` (Policy-as-Code / Hard Mathematical Invariants)
+* **Data Flow:** Explicit logical guardrails enforced natively at every structural component boundary.
 
-All three pillars share a common type algebra — neuro-symbolic architectures where neural components propose and symbolic components verify — enabling transfer across clinical, financial, energy, and marketing domains with 55–90% architectural reuse.
+> **The Reusability Moat:** All pillars share a unified neuro-symbolic type algebra where neural networks propose and symbolic components verify. This mathematical separation allows for **55%–90% core architectural reuse** across seemingly divergent verticals, including clinical oncology, game-theoretic marketing, and predictive forecasting.
 
 ---
 
