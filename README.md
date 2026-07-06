@@ -40,7 +40,7 @@ The agentic stack across my repositories is organized into three composable arch
 
 ---
 
-### Agentic AI Repositories Navigation
+## Agentic AI Repositories Navigation
 This portfolio is organized by **domain and industry** to demonstrate how the same neuro-symbolic architecture principles transfer across verticals:
 
 *   **[Cross-Domain Neuro-Symbolic Architecture](#-cross-domain-neuro-symbolic-architecture):** Foundational reasoning, memory, and orchestration layers that transfer across all verticals.
