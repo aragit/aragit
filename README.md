@@ -92,8 +92,6 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 </details>
 <br>
 
-## Core Infrastructure & Stack
-
 
 ## Core Infrastructure & Stack
 
