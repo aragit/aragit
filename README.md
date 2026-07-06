@@ -66,6 +66,8 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 *   **[Smart Cities & Urban Systems](#-smart-cities--urban-systems)** Agentic Smart City Traffic Optimization
 *   **[Education & Research](#-education--research):** Autonomous Research Synthesizer, Agentic Educational Tutoring Swarm
 
+<br> 
+
 #### **Example: From ✨ Cross-Domain Neuro-Symbolic Architecture category**
 
 ### [2. Speculative GraphRAG](https://github.com/aragit/speculative-clinical-graphrag) 
