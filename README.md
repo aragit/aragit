@@ -23,7 +23,9 @@ The agentic stack across my repositories is organized into three composable arch
 | Reasoning & Context | 04 // Reasoning, 05 // Execution, 07 // Meta-Cognition | State evaluation → Dynamic planning state-machines → Verified, idempotent execution |
 | Governance & Security | 06 // Governance (Policy-as-Code / Hard Mathematical Invariants) | Explicit logical guardrails enforced natively at every structural component boundary |
 
-> **The Reusability Moat:** All pillars share a unified neuro-symbolic type algebra where neural networks propose and symbolic components verify. This mathematical separation allows for **55%–90% core architectural reuse** across seemingly divergent verticals, including clinical oncology, game-theoretic marketing, and predictive forecasting.
+<br>
+
+> ***The Reusability Moat:*** *All pillars share a unified neuro-symbolic type algebra where neural networks propose and symbolic components verify. This mathematical separation allows for **55%–90% core architectural reuse** across seemingly divergent verticals, including clinical oncology, game-theoretic marketing, and predictive forecasting.*
 
 ## Evolution: From Domain Proof to Cross-Domain Platform
 
@@ -33,7 +35,9 @@ This portfolio represents a deliberate, phased evolution:
 2. **Phase 2 (Layer Extraction):** Extracted individual layers into standalone, production-grade systems across marketing (game-theoretic bidding), energy (grid balancing), finance (regulatory compliance), and supply chain (demand forecasting). Each extraction validates that the layer is domain-agnostic.
 3. **Phase 3 (Convergence):** Domain-specific implementations feed back into hardened core abstractions. The compliance kernel refines governance patterns for clinical systems; the energy grid balancer refines execution patterns for financial trading; the marketing simulator refines meta-cognitive scoring for scientific research.
 
-The result is a **genuinely transferable decision intelligence platform** with concrete implementations in 8+ industries, each sharing 55–90% core architectural patterns with the clinical reference implementation.
+<br>
+
+> *The result is a **genuinely transferable decision intelligence platform** with concrete implementations in 8+ industries, each sharing 55–90% core architectural patterns with the clinical reference implementation.*
 
 ---
 
