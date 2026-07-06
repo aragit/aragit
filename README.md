@@ -68,7 +68,7 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 
 #### [Speculative GraphRAG](https://github.com/aragit/speculative-clinical-graphrag) 
 *Hybrid Neuro-Symbolic Clinical Knowledge Core with Hybrid RAG and Reasoning-Aware Verification*
-> FastAPI, Pydantic v2, LangGraph, Neo4j, Qdrant, vLLM, DeepSeek-R1-Distill-Qwen-32B, pytest          
+> FastAPI, Pydantic v2, LangGraph, Neo4j, Qdrant, vLLM, DeepSeek-R1, pytest          
 > 🟢 `Active` • `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `Hybrid RAG`
 
 <details>
