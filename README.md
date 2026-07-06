@@ -64,7 +64,7 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 
 <br> 
 
-#### **Example: From ✨ Cross-Domain Neuro-Symbolic Architecture category**
+#### **Example: From ✨ Cross-Domain Architecture Category**
 
 #### [Speculative GraphRAG](https://github.com/aragit/speculative-clinical-graphrag) 
 *Hybrid Neuro-Symbolic Clinical Knowledge Core with Hybrid RAG and Reasoning-Aware Verification*
