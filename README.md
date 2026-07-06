@@ -31,13 +31,8 @@ The agentic stack across my repositories is organized into three composable arch
 
 > **The Reusability Moat:** All pillars share a unified neuro-symbolic type algebra where neural networks propose and symbolic components verify. This mathematical separation allows for **55%–90% core architectural reuse** across seemingly divergent verticals, including clinical oncology, game-theoretic marketing, and predictive forecasting.
 
----
-
-## Core Infrastructure & Stack
 
 
-`PyTorch` `vLLM` `Unsloth` `Triton Inference` `ExecuTorch` `ONNX Runtime` `TensorRT` `llama.cpp`
-`LangGraph` `CrewAI` `FastAPI` `MCP` `Pydantic` `Qdrant` `Redis` `pgvector` `Polars` `Docker` `GitHub Actions` `OPA` `OpenTelemetry` `Prometheus` `cvxpy` `pgvector`
 
 ---
 
@@ -45,6 +40,14 @@ The agentic stack across my repositories is organized into three composable arch
 
 - [Architecture Specification](./ARCHITECTURE.md) — Multi-layer transferability matrix, 3-phase evolution narrative, full repository breakdowns with per-project engineering details
 - [Technical Publications](https://aragit.github.io/) — case studies and engineering notes across 8 industry verticals
+
+---
+
+## Core Infrastructure & Stack
+
+
+`PyTorch` `vLLM` `Unsloth` `Triton Inference` `ExecuTorch` `ONNX Runtime` `TensorRT` `llama.cpp`
+`LangGraph` `CrewAI` `FastAPI` `MCP` `Pydantic` `Qdrant` `Redis` `pgvector` `Polars` `Docker` `GitHub Actions` `OPA` `OpenTelemetry` `Prometheus` `cvxpy`
 
 ---
 
