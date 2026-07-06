@@ -29,7 +29,7 @@ The agentic stack across my repositories is organized into three composable arch
 
 ## Evolution: From Domain Proof to Cross-Domain Platform
 
-This portfolio represents a deliberate, phased evolution:
+Agentic AI repos represents a deliberate, phased evolution:
 
 1. **Phase 1 (Clinical Foundation):** Proved the full 7-layer stack in the hardest possible domain—FHIR-native episodic care, temporal workflow compilation, and deterministic safety guardrails for oncology protocols.
 2. **Phase 2 (Layer Extraction):** Extracted individual layers into standalone, production-grade systems across marketing (game-theoretic bidding), energy (grid balancing), finance (regulatory compliance), and supply chain (demand forecasting). Each extraction validates that the layer is domain-agnostic.
