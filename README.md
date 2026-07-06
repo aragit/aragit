@@ -123,9 +123,7 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 ![cvxpy](https://img.shields.io/badge/cvxpy-306998?style=flat-square&logo=python&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![ORTools](https://img.shields.io/badge/ORTools-4285F4?style=flat-square&logo=google&logoColor=white)
-![Z3](https://img.shields.io/badge/Z3_Solver-2C2C2C?style=flat-square&logo=microsoft&logoColor=white)
-![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=flat-square&logo=sympy&logoColor=white)
+
 
 </div>
 
