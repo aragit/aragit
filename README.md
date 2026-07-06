@@ -42,7 +42,7 @@ All three pillars share a common type algebra — neuro-symbolic architectures w
 ## Deep Dives
 
 - [Architecture Specification](./ARCHITECTURE.md) — Multi-layer transferability matrix, 3-phase evolution narrative, full repository breakdowns with per-project engineering details
-- [Technical Publications](https://github.com/aragit) — case studies and engineering notes across 8 industry verticals
+- [Technical Publications](https://aragit.github.io/) — case studies and engineering notes across 8 industry verticals
 
 ---
 
