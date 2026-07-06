@@ -1,22 +1,10 @@
-<h1 align="center">Hi, I'm Arash — Agentic AI Engineer & Architect</h1>
+<h1 align="center">Arash Nicoomanesh</h1>
 
 <p align="center">
-  <b>Building Enterprise-Grade, Agentic AI Systems for High-Stakes Domains</b><br>
+  <a href="https://aragit.github.io">
+    <img src="https://img.shields.io/badge/Website-aragit.github.io-00FFC6?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0F172A">
+  </a>
 </p>
-
-
-
-<!-- SECTION 1: Capability Architecture (Icons + consistent dark-slate colors) -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Architecture-Compound_AI_Systems-2563EB?style=for-the-badge&logo=codeigniter&logoColor=white&labelColor=0F172A">
-  <img src="https://img.shields.io/badge/Orchestration-Multi--Agent_Workflows-2563EB?style=for-the-badge&logo=share-nodes&logoColor=white&labelColor=0F172A">
-  <img src="https://img.shields.io/badge/Governance-Deterministic_Guardrails-2563EB?style=for-the-badge&logo=shield-halved&logoColor=white&labelColor=0F172A">
-  <img src="https://img.shields.io/badge/Integration-Model_Context_Protocol-2563EB?style=for-the-badge&logo=plug&logoColor=white&labelColor=0F172A">
-  <img src="https://img.shields.io/badge/Optimization-Edge_SLM_Inference-2563EB?style=for-the-badge&logo=microchip&logoColor=white&labelColor=0F172A">
-</div>
-<br><br>
-
-
 
 ---
 ## Agentic AI Architecture
