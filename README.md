@@ -95,29 +95,38 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 ## Core Infrastructure & Stack
 
 
+## Core Infrastructure & Stack
+
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-000000?style=flat-square&logoColor=white)
-![Unsloth](https://img.shields.io/badge/Unsloth-00A86B?style=flat-square&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-000000?style=flat-square&logo=apachespark&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-00A86B?style=flat-square&logo=leaflet&logoColor=white)
 ![Triton Inference](https://img.shields.io/badge/Triton_Inference-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![ExecuTorch](https://img.shields.io/badge/ExecuTorch-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
 ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-333333?style=flat-square&logo=nvidia&logoColor=white)
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-2F4F4F?style=flat-square&logo=c&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square&logo=apacheairflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-E25822?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=protocols.io&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-E25822?style=flat-square&logo=qdrant&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-CD7925?style=flat-square&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD7925?style=flat-square&logo=polars&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![OPA](https://img.shields.io/badge/OPA-34495E?style=flat-square&logoColor=white)
+![OPA](https://img.shields.io/badge/OPA-34495E?style=flat-square&logo=openpolicyagent&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-7B5CA8?style=flat-square&logo=opentelemetry&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![cvxpy](https://img.shields.io/badge/cvxpy-306998?style=flat-square&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![ORTools](https://img.shields.io/badge/ORTools-4285F4?style=flat-square&logo=google&logoColor=white)
+![Z3](https://img.shields.io/badge/Z3_Solver-2C2C2C?style=flat-square&logo=microsoft&logoColor=white)
+![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=flat-square&logo=sympy&logoColor=white)
+
 
 ---
 
