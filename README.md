@@ -13,7 +13,7 @@
 ---
 ## Agentic AI Architecture
 
-Agentic AI stack is organized across three composable pillars. Each maps to a subset of the full 7-layer architecture documented in the [ARCHITECTURE doc](./ARCHITECTURE.md) or on my [website](https://aragit.github.io).
+Agentic AI stack in my git repos is organized across three composable pillars. Each maps to a subset of the full Multi-layered architecture documented in the [ARCHITECTURE] doc(./ARCHITECTURE.md) or visit my [website](https://aragit.github.io).
 
 *   Perception & Infrastructure
     - Layers: Ingestion, Memory, Tool Registry
