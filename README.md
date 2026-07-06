@@ -97,6 +97,7 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 
 ## Core Infrastructure & Stack
 
+<div align="center">
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-000000?style=flat-square&logo=apachespark&logoColor=white)
@@ -127,6 +128,7 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 ![Z3](https://img.shields.io/badge/Z3_Solver-2C2C2C?style=flat-square&logo=microsoft&logoColor=white)
 ![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=flat-square&logo=sympy&logoColor=white)
 
+</div>
 
 ---
 
