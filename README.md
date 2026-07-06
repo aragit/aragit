@@ -15,7 +15,7 @@
 
 I  do not just deploy models or optimize prompts. I engineer compound Agentic AI systems — architectures where neural reasoning and symbolic governance are composed into standardized layers that transfer across high-liability industries.
 
-The agentic stack across my repositories is organized into three composable architectural pillars. Each pillar maps directly to specific operational layers of my **Multi-Layer Composable Intelligence Stack**, detailed fully in my [Architecture Specification](./ARCHITECTURE.md) or on my [website](https://github.com/aragit/aragit/tree/main):
+The agentic stack across my repositories is organized into three composable architectural pillars. Each pillar maps directly to specific operational layers of my **Multi-Layer Composable Intelligence Stack**:
 
 ### 01 / Perception & Infrastructure
 * **Layers Wrapped:** `01 // Perception`, `02 // Memory`, `03 // Tool Registry` (via Model Context Protocol)
