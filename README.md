@@ -43,15 +43,15 @@ The agentic stack across my repositories is organized into three composable arch
 ## Agentic AI Repositories Navigation
 This portfolio is organized by **domain and industry** to demonstrate how the same neuro-symbolic architecture principles transfer across verticals:
 
-*   **[Cross-Domain Neuro-Symbolic Architecture](#-cross-domain-neuro-symbolic-architecture): Foundational reasoning, memory, and orchestration layers that transfer across all verticals. `Edge SLM Optimizer` `Speculative Graph RAG` `DeepSeek Reasoning Fine-Tuning` `Enterprise Intelligence Crew`. 
-*   **[Healthcare & Clinical](#-healthcare--clinical): `ICU Vitals Transformer(MCP-native tool)` `Autonomous Medication Reconciliation` `Biomedical Entity Extraction Engine` `Autonomous Lab Interpretation & Critical Value Triage Agent` `Clinical Differential Diagnosis Copilot` `Agentic Medicare Authorization` `Edge Fall Detector` `Surgical Vision Copilot` `Spatial Event Detector`.
-*   **[Marketing & Advertising](#-marketing--advertising):`Competitive Nash equilibrium bidding` `real-time intent transformation` `generative ad rendering`.
-*   **[Supply Chain & Logistics](#-supply-chain--logistics): `Zero-Shot Demand Foundation(MCP Agentic Forecaster Skill)` `Autonomous Procurement Swarm`.
-*   **[Energy & Utilities](#-energy--utilities):`Agentic Energy Grid Balancing System`.
-*   **[Computational Biology](#-computational-biology):`Protein Binder Flow` `Quantum-Bound Molecular Generator (QBMG, Zero-Waste Neuro-Symbolic Molecular Engine)`.
-*   **[Finance & RegTech](#-finance--regtech):`Automated KYC & AML Screening Agent` `Regulatory Intelligence Agent`.
-*   **[Smart Cities & Urban Systems](#-smart-cities--urban-systems): `Agentic Smart City Traffic Optimization`
-*   **[Education & Research](#-education--research):`Autonomous Research Synthesizer` `Agentic Educational Tutoring Swarm`.
+*   [Cross-Domain Neuro-Symbolic Architecture](#-cross-domain-neuro-symbolic-architecture): Foundational reasoning, memory, and orchestration layers that transfer across all verticals. `Edge SLM Optimizer` `Speculative Graph RAG` `DeepSeek Reasoning Fine-Tuning` `Enterprise Intelligence Crew`. 
+*   [Healthcare & Clinical](#-healthcare--clinical): `ICU Vitals Transformer(MCP-native tool)` `Autonomous Medication Reconciliation` `Biomedical Entity Extraction Engine` `Autonomous Lab Interpretation & Critical Value Triage Agent` `Clinical Differential Diagnosis Copilot` `Agentic Medicare Authorization` `Edge Fall Detector` `Surgical Vision Copilot` `Spatial Event Detector`.
+*   [Marketing & Advertising](#-marketing--advertising):`Competitive Nash equilibrium bidding` `real-time intent transformation` `generative ad rendering`.
+*   [Supply Chain & Logistics](#-supply-chain--logistics): `Zero-Shot Demand Foundation(MCP Agentic Forecaster Skill)` `Autonomous Procurement Swarm`.
+*   [Energy & Utilities](#-energy--utilities):`Agentic Energy Grid Balancing System`.
+*   [Computational Biology](#-computational-biology):`Protein Binder Flow` `Quantum-Bound Molecular Generator (QBMG, Zero-Waste Neuro-Symbolic Molecular Engine)`.
+*   [Finance & RegTech](#-finance--regtech):`Automated KYC & AML Screening Agent` `Regulatory Intelligence Agent`.
+*   [Smart Cities & Urban Systems](#-smart-cities--urban-systems): `Agentic Smart City Traffic Optimization`
+*   [Education & Research](#-education--research):`Autonomous Research Synthesizer` `Agentic Educational Tutoring Swarm`.
 
 <br> 
 
