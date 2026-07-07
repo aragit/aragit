@@ -67,7 +67,10 @@ An implementation of timeseries foundation models (TimesFM, Chronos-2) integrate
 A high-throughput async proxy layer implementing consistent hashing algorithms over prompt payloads. Routes client traffic to localized vLLM distributed nodes based on prefix cache states to optimize context-reuse multi-tenancy.
 
 <br>
+
 > ***The Reusability Moat:*** *All pillars share a unified neuro-symbolic type algebra where neural networks propose and symbolic components verify. This mathematical separation allows for **55%–90% core architectural reuse** across seemingly divergent verticals, including clinical oncology, game-theoretic marketing, and predictive forecasting.*
+
+
 <br>
 
 ###  Deep Dives
