@@ -92,7 +92,7 @@ Here are vanguard repos and solutions:
 
 ---
 
-**`INFRASTRUCTURE_ENV`**    
+**INFRASTRUCTURE_ENV**    
 `TRAINING_&_PEFT`      : PyTorch, Unsloth, QLoRA, GGUF, Weights & Biases   
 `INFERENCE_ENGINES`    : vLLM, Triton, TensorRT, ExecuTorch, llama.cpp, ONNX   
 `AGENT_ORCHESTRATION`  : LangGraph, CrewAI, Model Context Protocol (MCP), FastAPI, Pydantic   
@@ -101,7 +101,7 @@ Here are vanguard repos and solutions:
 `GOVERNANCE_&_EVAL`    : Open Policy Agent (OPA), LiteLLM, Deterministic Guardrails   
 `OBSERVABILITY_&_OPS`  : OpenTelemetry, Prometheus, Docker, Kubernetes, GitHub Actions    
 
-**`NETWORK`**
+**NETWORK**
 [`Research Portfolio`](https://aragit.github.io) • [`LinkedIn`](https://linkedin.com/in/arashnicoomanesh) • [`GitHub`](https://github.com/aragit)
 
 
