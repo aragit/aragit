@@ -40,25 +40,25 @@ The agentic stack across my repositories is organized into three composable arch
 
 Here are vanguard repos and solutions:
 
-#### [Speculative Clinical Graphrag](https://github.com/aragit/speculative-clinical-graphrag)
+#### -  [Speculative Clinical Graphrag](https://github.com/aragit/speculative-clinical-graphrag)
 *Hybrid Neuro-Symbolic Clinical Knowledge Core*
 
 *A multi-node cyclic validation network integrating graph neural perception with deterministic medical ontology verification. Features automatic trace extraction from reasoning models, cross-validation against SNOMED-CT and ICD-10 schemas, and deterministic safety escalation layers.*    
 > `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `Hybrid RAG`
 
-#### [Nash Marketing Agents (Game Theory)](https://github.com/aragit/agentic-nash-marketing)
+#### [- Nash Marketing Agents (Game Theory)](https://github.com/aragit/agentic-nash-marketing)
 *Neuro-Symbolic Multi-Agent Ad Auction Simulator with Nash Equilibrium Solver*
 
 *Inverts the control loop using a Type 2 Symbolic[Neuro] Architecture. A deterministic Symbolic Planner decomposes each clinical case into bounded sub-goals.*
 > `Neuro-Symbolic` • `Game Theory` • `Ad Tech Simulation`
 
-### [KYC-Auto (Know Your Customer)](https://github.com/aragit/kyc-auto)
+#### [KYC-Auto (Know Your Customer)](https://github.com/aragit/kyc-auto)
 *Automated KYC & AML Screening Agent*
 
 *Production-grade ReAct agent for PEP/sanctions screening, UBO extraction, and adverse media monitoring — CPU-first with optional GPU acceleration.*
 >  `FinTech / RegTech` • `SLM-First Agent` • `Deterministic Risk Scoring`
 
-### [ICU Vitals Transformer (MCP-native tool)](https://github.com/aragit/icu-vitals-transformer)
+#### [ICU Vitals Transformer (MCP-native tool)](https://github.com/aragit/icu-vitals-transformer)
 *MCP Clinical Forecasting Skill* 
 
 *A reusable, deterministic clinical tool — not an agent. It ingests FHIR R4 vital signs, generates deterioration forecasts using deterministic trend extrapolation, and returns severity-classified predictions via the Model Context Protocol (MCP).*   
