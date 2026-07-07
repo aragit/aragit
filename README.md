@@ -70,6 +70,21 @@ Inverts the control loop using a Type 2 Symbolic[Neuro] Architecture. A determin
 A population-level statistical monitoring engine tracking embedding distribution decay over time. Utilizes Principal Component Analysis for dimensionality reduction and Gaussian Kernel Density Estimation to calculate Jensen-Shannon Divergence bounds ($D_{JS}$) across competing RAG topologies.    
 > `Embedding Drift Telemetry` • `Comparative RAG Evaluation` • `Statistical MLOps`
 
+#### [🟢 Zero-Shot Demand Foundation (MCP Agentic Forecaster Skill)](https://github.com/aragit/zero-shot-demand-foundation)
+*Zero-Shot Time-Series Demand Forecasting with Foundation Models*
+
+> PyTorch, TimesFM, Transformers, Amazon Chronos-2, Pydantic v2, PyYAML    
+>  `Zero-Shot Forecasting` • `Retail Demand Prediction`
+
+#### [🟢 Quantum-Bound Molecular Generator (QBMG)](https://github.com/aragit/quantum-bound-generator/tree/main)
+*Zero-Waste Neuro-Symbolic Molecular Engine*
+
+> 100% physically valid generation • Differentiable convex constraints • IFT gradient propagation • Zero compute waste   
+> `Active` • `Type 6 Architecture` • `Generative Chemistry`
+
+
+
+
 
 ###  Deep Dives
 
