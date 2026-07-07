@@ -19,7 +19,7 @@ I design and deploy Compound AI Systems that bridge the gap between probabilisti
 
 I  do not just deploy models or optimize prompts. I engineer compound Agentic AI systems — architectures where neural reasoning and symbolic governance are composed into standardized layers that transfer across high-liability industries.
 
----
+<br>
 
 ## Current Research & Engineering Focus
 
@@ -35,7 +35,7 @@ Architecting `AgenticForecaster-MCP`, a production-grade forecasting framework f
 **Medical Entity Mapping & Triage**
 Developed autonomous triage agents utilizing advanced Chain-of-Thought (CoT) prompting paradigms to achieve high-fidelity SNOMED and ICD-10 entity resolution.
 
----
+<br>
 
 
 ## Open-Source Architecture & Implementations
@@ -55,7 +55,9 @@ An implementation of timeseries foundation models (TimesFM, Chronos-2) integrate
 - **vllm-context-cache-router**
 *Asynchronous Prefix-Aware Routing Proxy for LLM Replicas*
 A high-throughput async proxy layer implementing consistent hashing algorithms over prompt payloads. Routes client traffic to localized vLLM distributed nodes based on prefix cache states to optimize context-reuse multi-tenancy.
----
+
+
+<br>
 
 
 
@@ -74,14 +76,14 @@ The agentic stack across my repositories is organized into three composable arch
 
 > ***The Reusability Moat:*** *All pillars share a unified neuro-symbolic type algebra where neural networks propose and symbolic components verify. This mathematical separation allows for **55%–90% core architectural reuse** across seemingly divergent verticals, including clinical oncology, game-theoretic marketing, and predictive forecasting.*
 
-
+<br>
 
 ###  Deep Dives
 
 - [Architecture Specification](./ARCHITECTURE.md) — Multi-layer transferability matrix, 3-phase evolution narrative, full repository breakdowns with per-project engineering details
 - [My Website](https://aragit.github.io/) — Learn more about Neuro Symbolic Architecure and Patterns as well as mapping to domain specific use cases and repos. 
 
----
+<br>
 
 ## Leadership & Mentorship
 
@@ -91,6 +93,8 @@ The advancement of the AI discipline requires systematic knowledge transfer.
 *   **Academic Foundation:** Background rooted in Mathematics and Artificial Intelligence.
 *   **Community Mentorship:** Served as an AI project mentor within the KaggleX program, guiding the next generation of engineers in applied machine learning.
 *   **Future Initiatives:** Currently conceptualizing an autonomous multi-agent framework tailored for cognitive behavioral therapy and psychological counseling.
+
+---
 
 <div align="center">
 
