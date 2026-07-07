@@ -14,7 +14,68 @@
 
 ## About
 
+
+I design and deploy Compound AI Systems that bridge the gap between probabilistic neural perception and deterministic symbolic governance. With 12 years of experience scaling machine learning solutions across the healthcare, finance, marketing, and manufacturing sectors, my work focuses on the architectural rigor required for autonomous agents to operate safely in high-stakes environments. I prioritize AI governance, safety compliance, and protocol-driven interoperability, executing complex orchestration through directed acyclic graphs and temporal workflows.
+
 I  do not just deploy models or optimize prompts. I engineer compound Agentic AI systems — architectures where neural reasoning and symbolic governance are composed into standardized layers that transfer across high-liability industries.
+
+---
+
+## Current Research & Engineering Focus
+
+**Neuro-Symbolic Architecture in Clinical Oncology**
+Leading the development and production integration of the AXIOMIS (MedriX) core. This involves implementing robust neuro-symbolic correction loops for multi-drug regimen optimization, ensuring strict adherence to medical safety guardrails.
+
+**Domain-Specific LLM Fine-Tuning**
+Executing parameter-efficient fine-tuning (PEFT) regimens on `google/MedGemma-4B-IT`. This research targets the optimization of specialized medical reasoning pipelines using quantization techniques (QLoRA, GGUF) and high-throughput inference engines (vLLM, Unsloth).
+
+**Temporal Forecasting Orchestration**
+Architecting `AgenticForecaster-MCP`, a production-grade forecasting framework for supply chain optimization. The system leverages timeseries foundation models, including TimesFM and Chronos-2, to drive deterministic business logic.
+
+**Medical Entity Mapping & Triage**
+Developed autonomous triage agents utilizing advanced Chain-of-Thought (CoT) prompting paradigms to achieve high-fidelity SNOMED and ICD-10 entity resolution.
+
+---
+
+## Technical Foundations
+
+**Core Paradigms:** Compound AI Systems, Retrieval-Augmented Generation (RAG), Autonomous Agentic Systems, Temporal Workflows.
+**Orchestration & State:** LangGraph, DAG-based workflow engines.
+**Infrastructure & MLOps:** Kubernetes, Docker, Vector Database Architecture, Advanced Observability.
+**Optimization:** Parameter-Efficient Fine-Tuning (PEFT), Quantization, Inference scaling.
+
+---
+
+## Open-Source Architecture & Implementations
+
+**speculative-clinical-graphrag**
+*Hybrid Neuro-Symbolic Clinical Knowledge Core*
+A 9-node cyclic validation network integrating graph neural perception with deterministic medical ontology verification. Features automatic trace extraction from reasoning models, cross-validation against SNOMED-CT and ICD-10 schemas, and deterministic safety escalation layers.
+
+**post-rag-drift-evaluator**
+*Automated Latent Space Drift Telemetry & Benchmarking Harness*
+A population-level statistical monitoring engine tracking embedding distribution decay over time. Utilizes Principal Component Analysis for dimensionality reduction and Gaussian Kernel Density Estimation to calculate Jensen-Shannon Divergence bounds ($D_{JS}$) across competing RAG topologies.
+
+**agentic-forecaster-mcp**
+*Production-Grade Supply Chain Forecasting Engine*
+An implementation of timeseries foundation models (TimesFM, Chronos-2) integrated into a Model Context Protocol (MCP) framework. Translates probabilistic neural trend estimations into bounded, execution-safe procurement workflows.
+
+**vllm-context-cache-router**
+*Asynchronous Prefix-Aware Routing Proxy for LLM Replicas*
+A high-throughput async proxy layer implementing consistent hashing algorithms over prompt payloads. Routes client traffic to localized vLLM distributed nodes based on prefix cache states to optimize context-reuse multi-tenancy.
+---
+
+## Leadership & Mentorship
+
+The advancement of the AI discipline requires systematic knowledge transfer. 
+
+*   **Engineering Leadership:** Track record of leading technical delivery and scaling intelligent systems at organizations including Barnabus, KeyLeadHealth, and Saman Bank.
+*   **Academic Foundation:** Background rooted in Mathematics and Artificial Intelligence.
+*   **Community Mentorship:** Served as an AI project mentor within the KaggleX program, guiding the next generation of engineers in applied machine learning.
+*   **Future Initiatives:** Currently conceptualizing an autonomous multi-agent framework tailored for cognitive behavioral therapy and psychological counseling.
+
+
+## Architecture Focus 
 
 The agentic stack across my repositories is organized into three composable architectural pillars. Each pillar maps directly to specific operational layers of my **Multi-Layer Composable Intelligence Stack**:
 
@@ -28,18 +89,6 @@ The agentic stack across my repositories is organized into three composable arch
 
 > ***The Reusability Moat:*** *All pillars share a unified neuro-symbolic type algebra where neural networks propose and symbolic components verify. This mathematical separation allows for **55%–90% core architectural reuse** across seemingly divergent verticals, including clinical oncology, game-theoretic marketing, and predictive forecasting.*
 
-## Evolution: From Domain Proof to Cross-Domain Platform
-
-Agentic AI repos represents a deliberate, phased evolution:
-
-1. **Phase 1 (Clinical Foundation):** Proved the full 7-layer stack in the hardest possible domain—FHIR-native episodic care, temporal workflow compilation, and deterministic safety guardrails for oncology protocols.
-2. **Phase 2 (Layer Extraction):** Extracted individual layers into standalone, production-grade systems across marketing (game-theoretic bidding), energy (grid balancing), finance (regulatory compliance), and supply chain (demand forecasting). Each extraction validates that the layer is domain-agnostic.
-3. **Phase 3 (Convergence):** Domain-specific implementations feed back into hardened core abstractions. The compliance kernel refines governance patterns for clinical systems; the energy grid balancer refines execution patterns for financial trading; the marketing simulator refines meta-cognitive scoring for scientific research.
-
-<br>
-
-> *The result is a **genuinely transferable decision intelligence platform** with concrete implementations in 8+ industries, each sharing 55–90% core architectural patterns with the clinical reference implementation.*
-
 ---
 
 ## Deep Dives
@@ -48,53 +97,6 @@ Agentic AI repos represents a deliberate, phased evolution:
 - [My Website](https://aragit.github.io/) — Learn more about Neuro Symbolic Architecure and Patterns as well as mapping to domain specific use cases and repos. 
 
 ---
-
-## Agentic AI Repositories Navigation
-This portfolio is organized by **domain and industry** to demonstrate how the same neuro-symbolic architecture principles transfer across verticals:
-
-*   [Cross-Domain Neuro-Symbolic Architecture](./ARCHITECTURE.md#-cross-domain-neuro-symbolic-architecture): Foundational reasoning, memory, and orchestration layers that transfer across all verticals. `Edge SLM Optimizer` `Speculative Graph RAG` `DeepSeek Reasoning Fine-Tuning` `Enterprise Intelligence Crew`. 
-*   [Healthcare & Clinical](./ARCHITECTURE.md#-healthcare--clinical): `ICU Vitals Transformer(MCP-native tool)` `Autonomous Medication Reconciliation` `Biomedical Entity Extraction Engine` `Autonomous Lab Interpretation & Critical Value Triage Agent` `Clinical Differential Diagnosis Copilot` `Agentic Medicare Authorization` `Edge Fall Detector` `Surgical Vision Copilot` `Spatial Event Detector`.
-*   [Marketing & Advertising](./ARCHITECTURE.md#-marketing--advertising): `Competitive Nash equilibrium bidding` `real-time intent transformation` `generative ad rendering`.
-*   [Supply Chain & Logistics](./ARCHITECTURE.md#-supply-chain--logistics): `Zero-Shot Demand Foundation(MCP Agentic Forecaster Skill)` `Autonomous Procurement Swarm`.
-*   [Energy & Utilities](./ARCHITECTURE.md#-energy--utilities): `Agentic Energy Grid Balancing System`.
-*   [Computational Biology & Chemistry](./ARCHITECTURE.md#-computational-biology--chemistry): `Protein Binder Flow` `Quantum-Bound Molecular Generator (QBMG, Zero-Waste Neuro-Symbolic Molecular Engine)`.
-*   [Finance & RegTech](./ARCHITECTURE.md#-finance--regtech): `Automated KYC & AML Screening Agent` `Regulatory Intelligence Agent`.
-*   [Smart Cities & Urban Systems](./ARCHITECTURE.md#-smart-cities--urban-systems): `Agentic Smart City Traffic Optimization`
-*   [Education & Research](./ARCHITECTURE.md#-education--research): `Autonomous Research Synthesizer` `Agentic Educational Tutoring Swarm`.
-
-<br> 
-
-#### **Example: ✨ Cross-Domain Architecture Category**
-
-#### [Speculative GraphRAG](https://github.com/aragit/speculative-clinical-graphrag) 
-*Hybrid Neuro-Symbolic Clinical Knowledge Core with Hybrid RAG and Reasoning-Aware Verification*
-> FastAPI, Pydantic v2, LangGraph, Neo4j, Qdrant, vLLM, DeepSeek-R1, pytest          
-> 🟢 `Active` • `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `Hybrid RAG`
-
-<details>
-<summary><b>Expand Architecture Insight →</b></summary>
-
-- **9-Node LangGraph Workflow**: INGEST → RETRIEVE_CONTEXT → EXTRACT_SYMPTOMS → MAP_TO_ONTOLOGY → ASSESS_DIFFERENTIAL → VERIFY_SAFETY → [CORRECT_DIFFERENTIAL → ASSESS_DIFFERENTIAL (loop) | SYNTHESIZE | ESCALATE]; cyclic correction with max 3 iterations, recursion limit 20, full audit trace
-- **Hybrid RAG Stack**: Qdrant vector store (384-d sentence-transformer embeddings over ontology concepts) + Neo4j graph traversal (taxonomic relationships, fallback to in-memory EDGES) + symbolic Cypher validation (existence proofs for every proposed edge) + fusion scoring (α=0.7)
-- **Medical Ontology Support**: ETL pipeline parsers for SNOMED-CT RF2, ICD-10-CM text, RxNorm RRF formats; 178 in-memory ontology triples (126 unique clinical concepts) ship with repo; real data requires licensed SNOMED-CT/UMLS files
-- **Quad-Track LLM Backend**:
-  - **MockLLM**: Deterministic keyword lookup for CI/testing (zero-dep, 20 categories, 65 triplets)
-  - **Ollama**: Local CPU inference (gemma2:2b, JSON-structured generation) for development
-  - **DeepSeekR1Backend**: OpenAI-compatible, extracts `<think>` reasoning traces, bounded extract_symptoms/assess_differential
-  - **VLLMBackend**: Any OpenAI-compatible server, same bounded subroutine contract
-  - **SemanticRouter**: Classifies patient notes to select optimal backend automatically
-- **DeepSeek-R1 Reasoning Integration**: Extracts Chain-of-Thought reasoning traces from `<think>` tags via `OpenAICompatBackend.generate_path()`, validates diagnostic logic against medical ontologies before surface generation, surfaces reasoning steps in API response for clinician review
-- **Self-Correcting Feedback with Reasoning Awareness**: On validation failure, violations + prior reasoning are fed back via `regenerate_with_feedback()`; confidence decay (-0.1 per correction) with `validate_reasoning_coherence()` check; violations from all 3 verifiers (Neo4j, SymbolicVerifier, OPA) included in correction prompt
-- **Deterministic Escalation Guardrail**: Unvalidated paths after max iterations always route to human review with full reasoning trace, proposed path, and violation log — never to patient-facing output; zero PHI persistence (in-memory only, no DB writes of patient data)
-- **FastAPI Production Gateway**: `/v1/speculate` principal endpoint, `/v1/reasoning_trace/{trace_id}` for clinician review, `/health` with Neo4j/Qdrant/OPA/Redis probes, asynccontextmanager lifespan with startup ontology seeding; RequestID/APIKey/RateLimit middleware
-- **Docker Compose Production Stack**: vLLM container (GPU profile), Neo4j Community (ontology graph), Qdrant (vector store), FastAPI orchestrator, OPA governance sidecar, Redis (idempotency/session), Jaeger (tracing profile)
-- **Comprehensive Test Suite**: 53 tests (4 skipped without Docker: Neo4j×2, OPA×1, Ollama×1): valid path (1 iteration), invalid→escalate after 3 correction attempts, nonsensical input escalation, reasoning trace presence, all 4 backends + semantic router, hybrid retrieval with fusion scoring, ontology ETL not-found paths, symbolic drug interaction detection, API middleware (auth/rate-limit/request-id), full pipeline via FastAPI TestClient
-
-</details>
-<br>
-
-
-## Core Infrastructure & Stack
 
 <div align="center">
 
