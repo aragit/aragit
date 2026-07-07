@@ -15,7 +15,7 @@
 ## About
 
 
-I engineer **Compound Agentic AI Systems**, bridging probabilistic neural perception with deterministic symbolic governance. Over 12 years of scaling machine learning across high-liability sectors (healthcare, finance, marketing, manufacturing), I have focused on the architectural rigor required for safe, autonomous operation. Rather than simply deploying models or optimizing prompts, I build composable neuro-symbolic layers—orchestrated via directed acyclic graphs and temporal workflows—that guarantee AI governance, compliance, and cross-industry transferability. My current engineering and applied research focuses on advancing these architectures through:
+Senior Agentic AI Engineer specializing in compound, neuro-symbolic systems. I bridge neural perception and deterministic governance to deliver safe, scalable autonomy for high-liability industries.. My current engineering and applied research focuses on advancing these architectures through:
 
 
 *   **Test-Time Compute Scaling & Process Supervision:** Architecting "System 2" reasoning pipelines that dynamically allocate inference compute based on task complexity. This involves integrating Process-Supervised Reward Models (PRMs) and multi-agent verification loops to explicitly validate intermediate logic steps before committing to output generation.
