@@ -50,30 +50,23 @@ The agentic stack across my repositories is organized into three composable arch
 
 Here is some flagship and SOTA solutions:
 
-- **speculative-clinical-graphrag**
+#### [🟢 speculative-clinical-graphrag(https://github.com/aragit/speculative-clinical-graphrag)
 *Hybrid Neuro-Symbolic Clinical Knowledge Core*
-A 9-node cyclic validation network integrating graph neural perception with deterministic medical ontology verification. Features automatic trace extraction from reasoning models, cross-validation against SNOMED-CT and ICD-10 schemas, and deterministic safety escalation layers.
+A 9-node cyclic validation network integrating graph neural perception with deterministic medical ontology verification. Features automatic trace extraction from reasoning models, cross-validation against SNOMED-CT and ICD-10 schemas, and deterministic safety escalation layers.     
+> `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `Hybrid RAG`
+
+#### [🟢 Nash Marketing Agents (Game Theory)](https://github.com/aragit/agentic-nash-marketing)
+*Neuro-Symbolic Multi-Agent Ad Auction Simulator with Nash Equilibrium Solver*
+
+> `Neuro-Symbolic` • `Game Theory` • `Ad Tech Simulation`
+
+
 
 #### [🟢 Post-RAG Drift Evaluator](https://github.com/aragit/post-rag-drift-evaluator)
 *Automated Latent Space Drift Telemetry & Comparative RAG Architecture Benchmark*
 A population-level statistical monitoring engine tracking embedding distribution decay over time. Utilizes Principal Component Analysis for dimensionality reduction and Gaussian Kernel Density Estimation to calculate Jensen-Shannon Divergence bounds ($D_{JS}$) across competing RAG topologies.    
 > `Embedding Drift Telemetry` • `Comparative RAG Evaluation` • `Statistical MLOps`
 
-<details>
-<summary><b>Expand Architecture Insight →</b></summary>
-
-- **Multidimensional Drift Pipeline**: Projects 1536-dimensional embedding vectors using Principal Component Analysis (PCA) to isolate primary variance coordinates; fits non-parametric continuous distributions using Gaussian Kernel Density Estimation (KDE) to calculate population-level Jensen-Shannon Divergence ($D_{JS}$) bounded strictly between $0 \le D_{JS} \le 1$.
-- **Dual-Configuration Duality**: Features a zero-cost local fallback engine that applies additive noise ($\sigma=0.10$) to mimic real semantic distributions, shifting dynamically to live, non-blocking asynchronous inference paths through `litellm` when validated provider keys are present in the runtime lifecycle.
-- **Native Vector Infrastructure**: Executes raw `<=>` cosine distance operations directly against containerized PostgreSQL and `pgvector` backends; profiles live performance metrics across parallel processing branches to analyze structural trade-offs between Naive RAG and multi-hop Agentic RAG state machines.
-- **Deterministic Quality Judges**: Implements automated context precision and answer faithfulness evaluation layers utilizing structured `json_object` configurations, enforcing a strict fallback penalty of `0.0` on any validation or parsing anomaly to eliminate silent scoring failures.
-- **Spatial Telemetry Observability**: Renders a dedicated Streamlit metrics interface graphing real-time 2D PCA coordinate transformations to isolate live production query distribution shifts from historical data manifolds.
-- **Rigorous Production Quality Gates**: Enforces a multi-stage Docker build separating dependency compilation from the final runtime container; backed by GitHub Actions workflows driving automated execution runs via `pytest`, strict static type audits via `mypy`, and syntax validation via `ruff`.
-
-</details>
-
-- **post-rag-drift-evaluator**
-*Automated Latent Space Drift Telemetry & Benchmarking Harness*
-A population-level statistical monitoring engine tracking embedding distribution decay over time. Utilizes Principal Component Analysis for dimensionality reduction and Gaussian Kernel Density Estimation to calculate Jensen-Shannon Divergence bounds ($D_{JS}$) across competing RAG topologies.
 
 - **agentic-forecaster-mcp**
 *Production-Grade Supply Chain Forecasting Engine*
