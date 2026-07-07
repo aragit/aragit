@@ -12,7 +12,7 @@
 
 
 
-## About
+---
 
 
 Senior Agentic AI Engineer specializing in compound, neuro-symbolic systems. I bridge neural perception and deterministic governance to deliver safe, scalable autonomy for high-liability industries.. My current engineering and applied research focuses on advancing these architectures through:
