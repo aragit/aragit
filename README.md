@@ -37,45 +37,30 @@ Developed autonomous triage agents utilizing advanced Chain-of-Thought (CoT) pro
 
 ---
 
-## Technical Foundations
-
-**Core Paradigms:** Compound AI Systems, Retrieval-Augmented Generation (RAG), Autonomous Agentic Systems, Temporal Workflows.
-**Orchestration & State:** LangGraph, DAG-based workflow engines.
-**Infrastructure & MLOps:** Kubernetes, Docker, Vector Database Architecture, Advanced Observability.
-**Optimization:** Parameter-Efficient Fine-Tuning (PEFT), Quantization, Inference scaling.
-
----
 
 ## Open-Source Architecture & Implementations
 
-**speculative-clinical-graphrag**
+- **speculative-clinical-graphrag**
 *Hybrid Neuro-Symbolic Clinical Knowledge Core*
 A 9-node cyclic validation network integrating graph neural perception with deterministic medical ontology verification. Features automatic trace extraction from reasoning models, cross-validation against SNOMED-CT and ICD-10 schemas, and deterministic safety escalation layers.
 
-**post-rag-drift-evaluator**
+- **post-rag-drift-evaluator**
 *Automated Latent Space Drift Telemetry & Benchmarking Harness*
 A population-level statistical monitoring engine tracking embedding distribution decay over time. Utilizes Principal Component Analysis for dimensionality reduction and Gaussian Kernel Density Estimation to calculate Jensen-Shannon Divergence bounds ($D_{JS}$) across competing RAG topologies.
 
-**agentic-forecaster-mcp**
+- **agentic-forecaster-mcp**
 *Production-Grade Supply Chain Forecasting Engine*
 An implementation of timeseries foundation models (TimesFM, Chronos-2) integrated into a Model Context Protocol (MCP) framework. Translates probabilistic neural trend estimations into bounded, execution-safe procurement workflows.
 
-**vllm-context-cache-router**
+- **vllm-context-cache-router**
 *Asynchronous Prefix-Aware Routing Proxy for LLM Replicas*
 A high-throughput async proxy layer implementing consistent hashing algorithms over prompt payloads. Routes client traffic to localized vLLM distributed nodes based on prefix cache states to optimize context-reuse multi-tenancy.
 ---
 
-## Leadership & Mentorship
-
-The advancement of the AI discipline requires systematic knowledge transfer. 
-
-*   **Engineering Leadership:** Track record of leading technical delivery and scaling intelligent systems at organizations including Barnabus, KeyLeadHealth, and Saman Bank.
-*   **Academic Foundation:** Background rooted in Mathematics and Artificial Intelligence.
-*   **Community Mentorship:** Served as an AI project mentor within the KaggleX program, guiding the next generation of engineers in applied machine learning.
-*   **Future Initiatives:** Currently conceptualizing an autonomous multi-agent framework tailored for cognitive behavioral therapy and psychological counseling.
 
 
-## Architecture Focus 
+
+## Technical Foundations and Architecture Focus 
 
 The agentic stack across my repositories is organized into three composable architectural pillars. Each pillar maps directly to specific operational layers of my **Multi-Layer Composable Intelligence Stack**:
 
@@ -89,14 +74,23 @@ The agentic stack across my repositories is organized into three composable arch
 
 > ***The Reusability Moat:*** *All pillars share a unified neuro-symbolic type algebra where neural networks propose and symbolic components verify. This mathematical separation allows for **55%–90% core architectural reuse** across seemingly divergent verticals, including clinical oncology, game-theoretic marketing, and predictive forecasting.*
 
----
 
-## Deep Dives
+
+###  Deep Dives
 
 - [Architecture Specification](./ARCHITECTURE.md) — Multi-layer transferability matrix, 3-phase evolution narrative, full repository breakdowns with per-project engineering details
 - [My Website](https://aragit.github.io/) — Learn more about Neuro Symbolic Architecure and Patterns as well as mapping to domain specific use cases and repos. 
 
 ---
+
+## Leadership & Mentorship
+
+The advancement of the AI discipline requires systematic knowledge transfer. 
+
+*   **Engineering Leadership:** Track record of leading technical delivery and scaling intelligent systems at organizations including Barnabus, KeyLeadHealth, and Saman Bank.
+*   **Academic Foundation:** Background rooted in Mathematics and Artificial Intelligence.
+*   **Community Mentorship:** Served as an AI project mentor within the KaggleX program, guiding the next generation of engineers in applied machine learning.
+*   **Future Initiatives:** Currently conceptualizing an autonomous multi-agent framework tailored for cognitive behavioral therapy and psychological counseling.
 
 <div align="center">
 
