@@ -22,7 +22,7 @@ I engineer **Compound Agentic AI Systems**, bridging probabilistic neural percep
 *   **Autonomous Latent Space Drift Mitigation:** Extending statistical telemetry frameworks into closed-loop auto-remediation systems. Building architectures that detect semantic shifts in vector index distributions (via PCA dimensionality reduction and Jensen-Shannon Divergence) and automatically trigger localized SLM fine-tuning or dynamic re-indexing without human intervention.
 *   **Extreme Edge Quantization & Speculative Decoding:** Optimizing Small Language Models (SLMs) and foundational timeseries models for high-throughput, localized edge inference. 
 *   **Continuous Graph Ontology Hydration:** Advancing Hybrid RAG architectures by shifting from static medical taxonomies to dynamic, self-constructing knowledge graphs.
-*   *   **Neuro-Symbolic Architectures in Oncology & Marketing:** Leading core development for multi-drug regimen optimization via cyclic correction loops and strict medical safety guardrails. 
+*   **Neuro-Symbolic Architectures in Oncology & Marketing:** Leading core development for multi-drug regimen optimization via cyclic correction loops and strict medical safety guardrails. 
 
 
 <br>
@@ -87,21 +87,21 @@ Here are vanguard repos and solutions:
 
 ###  Deep Dives
 
-• [Architecture Specification](./ARCHITECTURE.md) — Multi-layer transferability matrix, full repository breakdowns with per-project engineering details
-• [My Website](https://aragit.github.io/) — Learn more about Neuro Symbolic Architecure and Patterns as well as mapping to domain specific use cases and repos. 
+- [Architecture Specification](./ARCHITECTURE.md) — Multi-layer transferability matrix, full repository breakdowns with per-project engineering details
+- [My Website](https://aragit.github.io/) — Learn more about Neuro Symbolic Architecure and Patterns as well as mapping to domain specific use cases and repos. 
 
 ---
 
-**`// INFRASTRUCTURE_ENV`**
-`TRAINING_&_PEFT`      : PyTorch, Unsloth, QLoRA, GGUF, Weights & Biases
-`INFERENCE_ENGINES`    : vLLM, Triton, TensorRT, ExecuTorch, llama.cpp, ONNX
-`AGENT_ORCHESTRATION`  : LangGraph, CrewAI, Model Context Protocol (MCP), FastAPI, Pydantic
-`MEMORY_&_STATE`       : DuckDB, Neo4j, Qdrant, pgvector, Redis
-`COMPUTE_&_ANALYTICS`  : Polars, NumPy, SciPy, cvxpy, scikit-learn
-`GOVERNANCE_&_EVAL`    : Open Policy Agent (OPA), LiteLLM, Deterministic Guardrails
-`OBSERVABILITY_&_OPS`  : OpenTelemetry, Prometheus, Docker, Kubernetes, GitHub Actions
+**`INFRASTRUCTURE_ENV`**    
+`TRAINING_&_PEFT`      : PyTorch, Unsloth, QLoRA, GGUF, Weights & Biases   
+`INFERENCE_ENGINES`    : vLLM, Triton, TensorRT, ExecuTorch, llama.cpp, ONNX   
+`AGENT_ORCHESTRATION`  : LangGraph, CrewAI, Model Context Protocol (MCP), FastAPI, Pydantic   
+`MEMORY_&_STATE`       : DuckDB, Neo4j, Qdrant, pgvector, Redis   
+`COMPUTE_&_ANALYTICS`  : Polars, NumPy, SciPy, cvxpy, scikit-learn   
+`GOVERNANCE_&_EVAL`    : Open Policy Agent (OPA), LiteLLM, Deterministic Guardrails   
+`OBSERVABILITY_&_OPS`  : OpenTelemetry, Prometheus, Docker, Kubernetes, GitHub Actions    
 
-**`// NETWORK`**
+**`NETWORK`**
 [`Research Portfolio`](https://aragit.github.io) • [`LinkedIn`](https://linkedin.com/in/arashnicoomanesh) • [`GitHub`](https://github.com/aragit)
 
 
