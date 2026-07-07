@@ -50,38 +50,26 @@ The agentic stack across my repositories is organized into three composable arch
 
 Here is some flagship and SOTA solutions:
 
-#### [🟢 speculative-clinical-graphrag(https://github.com/aragit/speculative-clinical-graphrag)
+#### [🟢 speculative-clinical-graphrag](https://github.com/aragit/speculative-clinical-graphrag)
 *Hybrid Neuro-Symbolic Clinical Knowledge Core*
+
 A 9-node cyclic validation network integrating graph neural perception with deterministic medical ontology verification. Features automatic trace extraction from reasoning models, cross-validation against SNOMED-CT and ICD-10 schemas, and deterministic safety escalation layers.     
 > `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `Hybrid RAG`
 
 #### [🟢 Nash Marketing Agents (Game Theory)](https://github.com/aragit/agentic-nash-marketing)
 *Neuro-Symbolic Multi-Agent Ad Auction Simulator with Nash Equilibrium Solver*
 
+Inverts the control loop using a Type 2 Symbolic[Neuro] Architecture. A deterministic Symbolic Planner decomposes each clinical case into bounded sub-goals.
 > `Neuro-Symbolic` • `Game Theory` • `Ad Tech Simulation`
 
 
 
 #### [🟢 Post-RAG Drift Evaluator](https://github.com/aragit/post-rag-drift-evaluator)
 *Automated Latent Space Drift Telemetry & Comparative RAG Architecture Benchmark*
+
 A population-level statistical monitoring engine tracking embedding distribution decay over time. Utilizes Principal Component Analysis for dimensionality reduction and Gaussian Kernel Density Estimation to calculate Jensen-Shannon Divergence bounds ($D_{JS}$) across competing RAG topologies.    
 > `Embedding Drift Telemetry` • `Comparative RAG Evaluation` • `Statistical MLOps`
 
-
-- **agentic-forecaster-mcp**
-*Production-Grade Supply Chain Forecasting Engine*
-An implementation of timeseries foundation models (TimesFM, Chronos-2) integrated into a Model Context Protocol (MCP) framework. Translates probabilistic neural trend estimations into bounded, execution-safe procurement workflows.
-
-- **vllm-context-cache-router**
-*Asynchronous Prefix-Aware Routing Proxy for LLM Replicas*
-A high-throughput async proxy layer implementing consistent hashing algorithms over prompt payloads. Routes client traffic to localized vLLM distributed nodes based on prefix cache states to optimize context-reuse multi-tenancy.
-
-<br>
-
-> ***The Reusability Moat:*** *All pillars share a unified neuro-symbolic type algebra where neural networks propose and symbolic components verify. This mathematical separation allows for **55%–90% core architectural reuse** across seemingly divergent verticals, including clinical oncology, game-theoretic marketing, and predictive forecasting.*
-
-
-<br>
 
 ###  Deep Dives
 
