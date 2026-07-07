@@ -38,7 +38,17 @@ Developed autonomous triage agents utilizing advanced Chain-of-Thought (CoT) pro
 <br>
 
 
-## Open-Source Architecture & Implementations
+## Sample Open-Source Architecture & Implementations repos
+
+The agentic stack across my repositories is organized into three composable architectural pillars. Each pillar maps directly to specific operational layers of my **Multi-Layer Composable Intelligence Stack**:
+
+| Pillar | Layers Wrapped | Data Flow |
+|:---|:---|:---|
+| Perception & Infrastructure | 01 // Perception, 02 // Memory, 03 // Tool Registry (via Model Context Protocol) | Unstructured enterprise telemetry → Validated, context-hydrated semantic state |
+| Reasoning & Context | 04 // Reasoning, 05 // Execution, 07 // Meta-Cognition | State evaluation → Dynamic planning state-machines → Verified, idempotent execution |
+| Governance & Security | 06 // Governance (Policy-as-Code / Hard Mathematical Invariants) | Explicit logical guardrails enforced natively at every structural component boundary |
+
+Here is some flagship and SOTA solutions:
 
 - **speculative-clinical-graphrag**
 *Hybrid Neuro-Symbolic Clinical Knowledge Core*
@@ -56,26 +66,8 @@ An implementation of timeseries foundation models (TimesFM, Chronos-2) integrate
 *Asynchronous Prefix-Aware Routing Proxy for LLM Replicas*
 A high-throughput async proxy layer implementing consistent hashing algorithms over prompt payloads. Routes client traffic to localized vLLM distributed nodes based on prefix cache states to optimize context-reuse multi-tenancy.
 
-
 <br>
-
-
-
-
-## Technical Foundations and Architecture Focus 
-
-The agentic stack across my repositories is organized into three composable architectural pillars. Each pillar maps directly to specific operational layers of my **Multi-Layer Composable Intelligence Stack**:
-
-| Pillar | Layers Wrapped | Data Flow |
-|:---|:---|:---|
-| Perception & Infrastructure | 01 // Perception, 02 // Memory, 03 // Tool Registry (via Model Context Protocol) | Unstructured enterprise telemetry → Validated, context-hydrated semantic state |
-| Reasoning & Context | 04 // Reasoning, 05 // Execution, 07 // Meta-Cognition | State evaluation → Dynamic planning state-machines → Verified, idempotent execution |
-| Governance & Security | 06 // Governance (Policy-as-Code / Hard Mathematical Invariants) | Explicit logical guardrails enforced natively at every structural component boundary |
-
-<br>
-
 > ***The Reusability Moat:*** *All pillars share a unified neuro-symbolic type algebra where neural networks propose and symbolic components verify. This mathematical separation allows for **55%–90% core architectural reuse** across seemingly divergent verticals, including clinical oncology, game-theoretic marketing, and predictive forecasting.*
-
 <br>
 
 ###  Deep Dives
