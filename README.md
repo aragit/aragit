@@ -18,8 +18,8 @@
 Senior Agentic AI Engineer specializing in compound, neuro-symbolic systems. I bridge neural perception and deterministic governance to deliver safe, scalable autonomy for high-liability industries.. My current engineering and applied research focuses on advancing these architectures through:
 
 
-*   **Test-Time Compute Scaling & Process Supervision:** Architecting "System 2" reasoning pipelines that dynamically allocate inference compute based on task complexity. This involves integrating Process-Supervised Reward Models (PRMs) and multi-agent verification loops to explicitly validate intermediate logic steps before committing to output generation.
-*   **Autonomous Latent Space Drift Mitigation:** Extending statistical telemetry frameworks into closed-loop auto-remediation systems. Building architectures that detect semantic shifts in vector index distributions (via PCA dimensionality reduction and Jensen-Shannon Divergence) and automatically trigger localized SLM fine-tuning or dynamic re-indexing without human intervention.
+*   **Test-Time Compute Scaling & Process Supervision:** Architecting "System 2" reasoning pipelines that dynamically allocate inference compute based on task complexity. 
+*   **Autonomous Latent Space Drift Mitigation:** Extending statistical telemetry frameworks into closed-loop auto-remediation systems. B
 *   **Extreme Edge Quantization & Speculative Decoding:** Optimizing Small Language Models (SLMs) and foundational timeseries models for high-throughput, localized edge inference. 
 *   **Continuous Graph Ontology Hydration:** Advancing Hybrid RAG architectures by shifting from static medical taxonomies to dynamic, self-constructing knowledge graphs.
 *   **Neuro-Symbolic Architectures in Oncology & Marketing:** Leading core development for multi-drug regimen optimization via cyclic correction loops and strict medical safety guardrails. 
