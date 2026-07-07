@@ -91,7 +91,7 @@ Here are vanguard repos and solutions:
 
 **NETWORK**
 
-[`Research Portfolio`](https://aragit.github.io) • [`LinkedIn`](https://linkedin.com/in/arashnicoomanesh) • [`GitHub`](https://github.com/aragit)
+[`Website`](https://aragit.github.io) • [`LinkedIn`](https://linkedin.com/in/arashnicoomanesh) • [`GitHub`](https://github.com/aragit)
 
 
 
