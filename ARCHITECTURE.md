@@ -73,7 +73,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 > Projects that define the foundational neuro-symbolic stack and transfer across industries.
 
-### [1. Edge SLM Optimizer](https://github.com/aragit/edge-slm-optimizer)
+### [• Edge SLM Optimizer](https://github.com/aragit/edge-slm-optimizer)
 **Edge-First Small Language Model Compression & Deployment Pipeline**
 > PyTorch, ONNX Runtime Mobile, ExecuTorch, bitsandbytes, llama.cpp, pytest   
 > 🟢 `Active` • `Edge AI` • `Model Compression`
@@ -111,6 +111,23 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **FastAPI Production Gateway**: `/v1/speculate` principal endpoint, `/v1/reasoning_trace/{trace_id}` for clinician review, `/health` with Neo4j/Qdrant/OPA/Redis probes, asynccontextmanager lifespan with startup ontology seeding; RequestID/APIKey/RateLimit middleware
 - **Docker Compose Production Stack**: vLLM container (GPU profile), Neo4j Community (ontology graph), Qdrant (vector store), FastAPI orchestrator, OPA governance sidecar, Redis (idempotency/session), Jaeger (tracing profile)
 - **Comprehensive Test Suite**: 53 tests (4 skipped without Docker: Neo4j×2, OPA×1, Ollama×1): valid path (1 iteration), invalid→escalate after 3 correction attempts, nonsensical input escalation, reasoning trace presence, all 4 backends + semantic router, hybrid retrieval with fusion scoring, ontology ETL not-found paths, symbolic drug interaction detection, API middleware (auth/rate-limit/request-id), full pipeline via FastAPI TestClient
+
+</details>
+
+### [3. Post-RAG Drift Evaluator](https://github.com/aragit/post-rag-drift-evaluator)
+**Automated Latent Space Drift Telemetry & Comparative RAG Architecture Benchmark**
+> Python 3.12, LiteLLM, Polars, pgvector, scikit-learn, SciPy, Streamlit, Docker, pytest, ruff, mypy
+> 🟢 `Active` • `Embedding Drift Telemetry` • `Comparative RAG Evaluation` • `Statistical MLOps`
+
+<details>
+<summary><b>Expand Architecture Insight →</b></summary>
+
+- **Multidimensional Drift Pipeline**: Projects 1536-dimensional embedding vectors using Principal Component Analysis (PCA) to isolate primary variance coordinates; fits non-parametric continuous distributions using Gaussian Kernel Density Estimation (KDE) to calculate population-level Jensen-Shannon Divergence ($D_{JS}$) bounded strictly between $0 \le D_{JS} \le 1$.
+- **Dual-Configuration Duality**: Features a zero-cost local fallback engine that applies additive noise ($\sigma=0.10$) to mimic real semantic distributions, shifting dynamically to live, non-blocking asynchronous inference paths through `litellm` when validated provider keys are present in the runtime lifecycle.
+- **Native Vector Infrastructure**: Executes raw `<=>` cosine distance operations directly against containerized PostgreSQL and `pgvector` backends; profiles live performance metrics across parallel processing branches to analyze structural trade-offs between Naive RAG and multi-hop Agentic RAG state machines.
+- **Deterministic Quality Judges**: Implements automated context precision and answer faithfulness evaluation layers utilizing structured `json_object` configurations, enforcing a strict fallback penalty of `0.0` on any validation or parsing anomaly to eliminate silent scoring failures.
+- **Spatial Telemetry Observability**: Renders a dedicated Streamlit metrics interface graphing real-time 2D PCA coordinate transformations to isolate live production query distribution shifts from historical data manifolds.
+- **Rigorous Production Quality Gates**: Enforces a multi-stage Docker build separating dependency compilation from the final runtime container; backed by GitHub Actions workflows driving automated execution runs via `pytest`, strict static type audits via `mypy`, and syntax validation via `ruff`.
 
 </details>
 
