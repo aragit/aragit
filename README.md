@@ -38,7 +38,7 @@ Developed autonomous triage agents utilizing advanced Chain-of-Thought (CoT) pro
 <br>
 
 
-## Sample Open-Source Architecture & Implementations repos
+## Open-Source Architecture & Implementations 
 
 The agentic stack across my repositories is organized into three composable architectural pillars. Each pillar maps directly to specific operational layers of my **Multi-Layer Composable Intelligence Stack**:
 
