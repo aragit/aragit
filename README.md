@@ -41,33 +41,29 @@ The agentic stack across my repositories is organized into three composable arch
 #### Here are vanguard repos and solutions:
 
 - **Speculative Clinical GraphRAG** | [View Repo](https://github.com/aragit/speculative-clinical-graphrag)  
-  Hybrid Neuro-Symbolic Clinical Knowledge Core                
+  *Hybrid Neuro-Symbolic Clinical Knowledge Core*                
   > *A multi-node cyclic validation network integrating graph neural perception with deterministic medical ontology verification.*        
   > `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `Hybrid RAG`       
 
-#### - [Nash Marketing Agents (Game Theory)](https://github.com/aragit/agentic-nash-marketing)
-*Neuro-Symbolic Multi-Agent Ad Auction Simulator with Nash Equilibrium Solver*
+- **Nash Marketing Agents (Game Theory)** | [View Repo](https://github.com/aragit/agentic-nash-marketing)
+ *Neuro-Symbolic Multi-Agent Ad Auction Simulator with Nash Equilibrium Solver*   
+ > *Inverts the control loop using a Type 2 Symbolic[Neuro] Architecture. A deterministic Symbolic Planner decomposes each clinical case into bounded sub-goals.*   
+ > `Neuro-Symbolic` • `Game Theory` • `Ad Tech Simulation`   
 
-*Inverts the control loop using a Type 2 Symbolic[Neuro] Architecture. A deterministic Symbolic Planner decomposes each clinical case into bounded sub-goals.*
-> `Neuro-Symbolic` • `Game Theory` • `Ad Tech Simulation`
+- **KYC-Auto (Know Your Customer)** | [View Repo](https://github.com/aragit/kyc-auto)
+ *Automated KYC & AML Screening Agent*   
+ > *Production-grade ReAct agent for PEP/sanctions screening, UBO extraction, and adverse media monitoring — CPU-first with optional GPU acceleration.*   
+ >  `FinTech / RegTech` • `SLM-First Agent` • `Deterministic Risk Scoring`
 
-#### - [KYC-Auto (Know Your Customer)](https://github.com/aragit/kyc-auto)
-*Automated KYC & AML Screening Agent*
+- **ICU Vitals Transformer (MCP-native tool)** | [View Repo](https://github.com/aragit/icu-vitals-transformer)
+ *MCP Clinical Forecasting Skill* 
+ > *A reusable, deterministic clinical tool — not an agent. It ingests FHIR R4 vital signs, generates deterioration forecasts using deterministic trend extrapolation, and returns severity-classified predictions via the Model Context Protocol (MCP).*   
+ >  `MCP Tool` • `Clinical Temporal Monitoring`
 
-*Production-grade ReAct agent for PEP/sanctions screening, UBO extraction, and adverse media monitoring — CPU-first with optional GPU acceleration.*
->  `FinTech / RegTech` • `SLM-First Agent` • `Deterministic Risk Scoring`
-
-#### - [ICU Vitals Transformer (MCP-native tool)](https://github.com/aragit/icu-vitals-transformer)
-*MCP Clinical Forecasting Skill* 
-
-*A reusable, deterministic clinical tool — not an agent. It ingests FHIR R4 vital signs, generates deterioration forecasts using deterministic trend extrapolation, and returns severity-classified predictions via the Model Context Protocol (MCP).*   
->  `MCP Tool` • `Clinical Temporal Monitoring`
-
-#### - [Post-RAG Drift Evaluator](https://github.com/aragit/post-rag-drift-evaluator)
-*Automated Latent Space Drift Telemetry & Comparative RAG Architecture Benchmark*
-
-*A population-level statistical monitoring engine tracking embedding distribution decay over time. Utilizes Principal Component Analysis for dimensionality reduction and Gaussian Kernel Density Estimation to calculate Jensen-Shannon Divergence bounds ($D_{JS}$) across competing RAG topologies.*   
-> `Embedding Drift Telemetry` • `Comparative RAG Evaluation` • `Statistical MLOps`
+- **Post-RAG Drift Evaluator** | [View Repo](https://github.com/aragit/post-rag-drift-evaluator)
+ *Automated Latent Space Drift Telemetry & Comparative RAG Architecture Benchmark*
+ >*A population-level statistical monitoring engine tracking embedding distribution decay over time. Utilizes Principal Component Analysis for dimensionality reduction and Gaussian Kernel Density Estimation to calculate Jensen-Shannon Divergence bounds ($D_{JS}$) across competing RAG topologies.*   
+ > `Embedding Drift Telemetry` • `Comparative RAG Evaluation` • `Statistical MLOps`
 
 <br> 
 
