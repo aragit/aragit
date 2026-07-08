@@ -22,7 +22,7 @@ Senior Agentic AI Engineer specializing in compound, neuro-symbolic systems. I b
 *   **Autonomous Latent Space Drift Mitigation:** Extending statistical telemetry frameworks into closed-loop auto-remediation systems. B
 *   **Extreme Edge Quantization & Speculative Decoding:** Optimizing Small Language Models (SLMs) and foundational timeseries models for high-throughput, localized edge inference. 
 *   **Continuous Graph Ontology Hydration:** Advancing Hybrid RAG architectures by shifting from static medical taxonomies to dynamic, self-constructing knowledge graphs.
-*   **Neuro-Symbolic Architectures in Oncology & Marketing:** Leading core development for multi-drug regimen optimization via cyclic correction loops and strict medical safety guardrails. 
+*   **Neuro-Symbolic Architectures in Oncology:** Leading core development for multi-drug regimen optimization via cyclic correction loops and strict medical safety guardrails. 
 
 
 <br>
