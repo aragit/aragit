@@ -38,9 +38,9 @@ The agentic stack across my repositories is organized into three composable arch
 | Reasoning & Context | 04 // Reasoning, 05 // Execution, 07 // Meta-Cognition | State evaluation → Dynamic planning state-machines → Verified, idempotent execution |
 | Governance & Security | 06 // Governance (Policy-as-Code / Hard Mathematical Invariants) | Explicit logical guardrails enforced natively at every structural component boundary |
 
-**Here are vanguard repos and solutions:**
+#### Here are vanguard repos and solutions:
 
-**- Speculative Clinical GraphRAG |** [View Repo](https://github.com/aragit/speculative-clinical-graphrag)
+- Speculative Clinical GraphRAG | [View Repo](https://github.com/aragit/speculative-clinical-graphrag)
 *Hybrid Neuro-Symbolic Clinical Knowledge Core*
 
 *A multi-node cyclic validation network integrating graph neural perception with deterministic medical ontology verification. Features automatic trace extraction from reasoning models, cross-validation against SNOMED-CT and ICD-10 schemas, and deterministic safety escalation layers.*    
