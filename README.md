@@ -67,10 +67,8 @@ The agentic stack across my repositories is organized into three composable arch
 
 <br> 
 
-###  Deep Dives
 
-- [Architecture Specification](./ARCHITECTURE.md) — Multi-layer transferability matrix, full repository breakdowns with per-project engineering details
-- [My Website](https://aragit.github.io/) — Learn more about Neuro Symbolic Architecure and Patterns as well as mapping to domain specific use cases and repos. 
+**Deep Dives** — Explore the [Architecture Specification](./ARCHITECTURE.md) for the multi-layer transferability matrix and per-project engineering breakdowns, or visit my [My Website](https://aragit.github.io/) for the full neuro-symbolic pattern taxonomy with domain-specific use case mappings across all repositories.
 
 ---
 
