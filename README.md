@@ -86,6 +86,6 @@ The agentic stack across my repositories is organized into three composable arch
 
 [`Website`](https://aragit.github.io) • [`LinkedIn`](https://linkedin.com/in/arashnicoomanesh) • [`GitHub`](https://github.com/aragit)
 
-
+[![Profile views](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/aragit)
 
 
