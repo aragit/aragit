@@ -178,7 +178,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - FHIR R4 ingestion — parses LOINC-coded Observation resources into sliding 5-minute windows
 - NEWS2-inspired governance — deterministic deterioration index + severity classification (NORMAL → WARNING → ALERT → EMERGENCY)
 - Stateless by design — caller decides action; tool returns structured predictions only
-- Composable — designed to plug into Type 2 (Symbolic[Neuro]) and Type 6 (Neuro[Symbolic]) agent architectures
+
 
 ### [• Autonomous Medication Reconciliation](https://github.com/aragit/medication-reconciliation-agent)
 **Cross-Source Medication Safety Engine**  
@@ -199,7 +199,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [• Biomedical Entity Extraction Engine](https://github.com/aragit/bionlp-llama3-service)
 **FastAPI microservice for biomedical NER via 4-bit quantized LLaMA-3 with deterministic structured output**
 > LLaMA-3 8B, Unsloth, FastAPI, Pydantic v2, LoRA, Triton    
-> 🟢 `ACTIVE` • `Dual runtime (local / gpu)` • `5 entity types: DNA, RNA, protein, cell_type, cell_line`
+> 🟢 `ACTIVE` • `Dual runtime (local / gpu)` • `Five entity types: DNA, RNA, protein, cell_type, cell_line`
 
 <details>
 <summary><b>Expand Architecture Insight →</b></summary>
@@ -222,8 +222,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 <details>
 <summary><b><i>Architecture Insight ...</i></b></summary>
 
-- **NS Type 2→6 Migration Path**: Current Type 2 (Symbolic[Neuro]) with LangGraph outer loop and LLM as bounded hypothesis generator; migration architecture to Type 6 (Neuro[Symbolic]) with DeepSeek-R1 reasoning core and symbolic safety invariants
-- **6-State LangGraph Workflow**: INGEST → SPECULATE → RETRIEVE → VERIFY → [VALIDATE|CORRECT|ESCALATE] → SYNTHESIZE → END; cyclic correction with max 3 iterations, recursion limit 10, full audit trace
+- **Six-State LangGraph Workflow**: INGEST → SPECULATE → RETRIEVE → VERIFY → [VALIDATE|CORRECT|ESCALATE] → SYNTHESIZE → END; cyclic correction with max 3 iterations, recursion limit 10, full audit trace
 - **Hybrid RAG Stack**: LlamaIndex vector store (dense embeddings over SNOMED-CT/ICD-10 concepts) + Neo4j graph traversal (taxonomic relationships) + symbolic Cypher validation (existence proofs for every proposed edge)
 - **Real Medical Ontologies**: SNOMED-CT US Edition 2024 (clinical findings, disorders, procedures), ICD-10-CM 2024 (diagnosis classification), RxNorm (drug names, ingredients, dose forms), UMLS Metathesaurus 2024AB (cross-vocabulary mapping) — ingested via automated ETL pipeline
 - **Triple-Track LLM Backend**:
@@ -312,7 +311,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **7-Layer Neuro-Symbolic Pipeline**: Ingestion → Perception (Polars feature engineering) → Reasoning (rule-based + ML ensemble) → Governance (OPA/Rego + Python fallback) → Execution (action dispatch with suppression) → Memory (SQLite session store) → Meta-Cognition (drift detection stub)
 - **18 Behavioral Features**: Session duration, page views, cart adds/removes, checkouts, searches, cart value, category switches, exploration ratio, conversion rates, inter-event time — engineered via Polars DataFrame operations
 - **Dual-Track Intent Classification**: Rule-based heuristic (<10ms, confidence ≥0.6 threshold) falls back to sklearn RandomForest/XGBoost ensemble (<50ms) if model file exists; 7 intent classes (BROWSE, COMPARE, CART_BUILDER, CHECKOUT_INTENT, PRICE_SENSITIVE, CHURN_RISK, LOYAL_RETURNER)
-- **6 Action Types with Suppression**: RECOMMEND_ALTERNATIVE, SHOW_COMPARISON_TOOL, APPLY_DISCOUNT, SHOW_URGENCY, SEND_ABANDON_EMAIL, LOYALITY_REWARD — 15-minute deduplication window per session, governance deny override
+- **Six Action Types with Suppression**: RECOMMEND_ALTERNATIVE, SHOW_COMPARISON_TOOL, APPLY_DISCOUNT, SHOW_URGENCY, SEND_ABANDON_EMAIL, LOYALITY_REWARD — 15-minute deduplication window per session, governance deny override
 - **Business Rules Governance**: Anti-gaming (max 3 discounts/month, 24h cooldown), minimum cart value ($50), inventory threshold for urgency, session duration for abandon email, demographic fairness guardrail (no pricing discrimination)
 - **Best-Effort Kafka Streaming**: aiokafka producer with start/stop lifecycle; SQLite is primary persistence, Kafka is fire-and-forget fallback when unavailable
 - **84+ Tests with 70%+ Coverage**: Intent classification, feature engineering, action dispatch, governance rules, event store, API endpoints
@@ -361,7 +360,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [• Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm)
 **LLM-Powered Multi-Agent Contract Negotiation for Supply Chain Optimization**
 > FastAPI, Pydantic v2, SciPy, Transformers, Matplotlib, pytest   
-> 🟢 `Active` • `Turn-Based Negotiation` • `Market Simulation` • `Avg: 3.5`
+> 🟢 `Active` • `Turn-Based Negotiation` • `Market Simulation` 
 
 <details>
 <summary><b>Expand Architecture Insight →</b></summary>
@@ -384,7 +383,7 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [• Agentic Energy Grid Balancing System](https://github.com/aragit/agentic-energy-grid-balancer)
 **Neuro-Symbolic Multi-Agent Energy Market Simulator**
 > FastAPI, Pydantic v2, SQLAlchemy 2.0, Docker, CI/CD, pytest (~120 tests), black, flake8    
-> 🟢 `Active` • `Energy Market Simulation` • `Neuro-Symbolic Type 2` • `Avg: 4.7`
+> 🟢 `Active` • `Energy Market Simulation` 
 
 **Architecture Insight**
 
@@ -423,11 +422,10 @@ The result is a **genuinely transferable decision intelligence platform** with c
 ### [• Quantum-Bound Molecular Generator (QBMG)](https://github.com/aragit/quantum-bound-generator/tree/main)
 **Zero-Waste Neuro-Symbolic Molecular Engine**
 > 100% physically valid generation • Differentiable convex constraints • IFT gradient propagation • Zero compute waste   
-> 🟢 `Active` • `Type 6 Architecture` • `Generative Chemistry`
+> 🟢 `Active` • `Generative Chemistry`
 
 **Architecture Insight**
 
-- **Type 6 Neuro[Symbolic] core** — symbolic physics (valency, symmetry, non-negativity) embedded directly into the PyTorch computation graph as a differentiable convex projection layer
 - **Zero-waste generation** — every forward pass outputs a chemically valid bond adjacency matrix; no post-generation filtering or discard pipelines required
 - **Implicit Function Theorem (IFT) backprop** — analytical Jacobian computation through the KKT equilibrium bypasses solver unrolling, enabling end-to-end gradient flow without memory explosion
 - **Single substrate design** — neural backbone (SE(3)-GNN / transformer) and physics engine exist on the same mathematical substrate; no API boundaries, no JSON orchestration
