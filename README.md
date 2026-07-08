@@ -42,8 +42,8 @@ The agentic stack across my repositories is organized into three composable arch
 
 - Speculative Clinical GraphRAG | [View Repo](https://github.com/aragit/speculative-clinical-graphrag)  
   Hybrid Neuro-Symbolic Clinical Knowledge Core          
-> *A multi-node cyclic validation network integrating graph neural perception with deterministic medical ontology verification.*        
-> `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `Hybrid RAG`       
+ > *A multi-node cyclic validation network integrating graph neural perception with deterministic medical ontology verification.*        
+ > `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `Hybrid RAG`       
 
 #### - [Nash Marketing Agents (Game Theory)](https://github.com/aragit/agentic-nash-marketing)
 *Neuro-Symbolic Multi-Agent Ad Auction Simulator with Nash Equilibrium Solver*
