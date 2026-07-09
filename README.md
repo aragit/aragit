@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://aragit.github.io">
-    <img src="https://img.shields.io/badge/Website-aragit.github.io-14B8A6?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0F172A">
+    <img src="https://img.shields.io/badge/Website-aragit.github.io-DC143C?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=333333">
   </a>
 </p>
 
