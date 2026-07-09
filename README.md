@@ -15,14 +15,22 @@
 ---
 
 
-Senior Agentic AI Engineer specializing in compound, neuro-symbolic systems. I bridge neural perception and deterministic governance to deliver safe, scalable autonomy for high-liability industries.. My current engineering and applied research focuses on advancing these architectures through:
+Senior Agentic AI Engineer specializing in compound, neuro-symbolic systems. I bridge neural perception and deterministic governance to deliver safe, scalable autonomy for high-liability industries.
+
+> *I build agentic architectures that survive in high-liability environments — clinical decisions where a wrong action causes irreversible harm, competitive markets where untrusted actors share resources, and scientific discovery where conclusions must be correctable. The same architectural principle transfers across all three: neural components propose, symbolic components verify, and the system either self-corrects or escalates. Every pipeline compiles to a DAG before execution, every node passes pre-flight validation, and every trace is committed to an immutable ledger. Validated by 49–120+ property-based tests per system, benchmark alignment, and cryptographically signed audit trails.*
 
 
+
+
+
+My current engineering and applied research focuses on advancing these architectures through:
+
+*   **Neuro-Symbolic Architectures in Oncology:** Leading core development for multi-drug regimen optimization via cyclic correction loops and strict medical safety guardrails. 
 *   **Test-Time Compute Scaling & Process Supervision:** Architecting "System 2" reasoning pipelines that dynamically allocate inference compute based on task complexity. 
 *   **Autonomous Latent Space Drift Mitigation:** Extending statistical telemetry frameworks into closed-loop auto-remediation systems. B
 *   **Extreme Edge Quantization & Speculative Decoding:** Optimizing Small Language Models (SLMs) and foundational timeseries models for high-throughput, localized edge inference. 
 *   **Continuous Graph Ontology Hydration:** Advancing Hybrid RAG architectures by shifting from static medical taxonomies to dynamic, self-constructing knowledge graphs.
-*   **Neuro-Symbolic Architectures in Oncology:** Leading core development for multi-drug regimen optimization via cyclic correction loops and strict medical safety guardrails. 
+
 
 
 <br>
