@@ -82,11 +82,13 @@ The agentic stack across my repositories is organized into three composable arch
 `GOVERNANCE_&_EVAL`    : Open Policy Agent (OPA), LiteLLM, Deterministic Guardrails   
 `OBSERVABILITY_&_OPS`  : OpenTelemetry, Prometheus, Docker, Kubernetes, GitHub Actions    
 
-<br>
+
 
 #### **NETWORK**
 
 [`Website`](https://aragit.github.io) • [`LinkedIn`](https://linkedin.com/in/arashnicoomanesh) • [`GitHub`](https://github.com/aragit) • [`Medium`](https://medium.com/@anicomanesh) 
+
+<br> 
 
 ---
 
