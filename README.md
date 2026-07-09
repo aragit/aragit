@@ -72,7 +72,7 @@ The agentic stack across my repositories is organized into three composable arch
 
 ---
 
-**INFRASTRUCTURE_ENV**    
+#### **INFRASTRUCTURE_ENV**    
 
 `TRAINING_&_PEFT`      : PyTorch, Unsloth, QLoRA, GGUF, Weights & Biases   
 `INFERENCE_ENGINES`    : vLLM, Triton, TensorRT, ExecuTorch, llama.cpp, ONNX   
@@ -82,10 +82,19 @@ The agentic stack across my repositories is organized into three composable arch
 `GOVERNANCE_&_EVAL`    : Open Policy Agent (OPA), LiteLLM, Deterministic Guardrails   
 `OBSERVABILITY_&_OPS`  : OpenTelemetry, Prometheus, Docker, Kubernetes, GitHub Actions    
 
-**NETWORK**
+<br>
 
-[`Website`](https://aragit.github.io) • [`LinkedIn`](https://linkedin.com/in/arashnicoomanesh) • [`GitHub`](https://github.com/aragit)
+#### **NETWORK**
 
-[![Profile views](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/aragit)
+[`Website`](https://aragit.github.io) • [`LinkedIn`](https://linkedin.com/in/arashnicoomanesh) • [`GitHub`](https://github.com/aragit) • [`Medium`](https://medium.com/@anicomanesh) 
+
+---
+
+
+<p align="center">
+  <a href="https://u8views.com/github/aragit">
+    <img src="https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg" alt="Profile views">
+  </a>
+</p>
 
 
