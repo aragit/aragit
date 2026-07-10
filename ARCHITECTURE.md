@@ -248,21 +248,6 @@ The result is a **genuinely transferable decision intelligence platform** with c
 > Claude 4.5 Sonnet, MCP, FHIR R4, SNOMED-CT, Clinical Calculators, LangSmith - CI/CD    
 > <span style="color:#8B0000">⬤</span> `Private` • `Clinical Decision Support` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
 
-### [• Agentic Medicare Authorization](mailto:anicomanesh@gmail.com?subject=Access%20Request%3A%20agentic-medicare-auth)
-**Agentic prior authorization engine**
-> EHR ingestion, CMS policy mapping, document automation   
-> <span style="color:#8B0000">⬤</span> `Private` • `Healthcare Execution`
-
-<details>
-<summary><b><i>Architecture Insight ...</i></b></summary>
-
-- Maps clinical evidence against regulatory requirements
-- Generates structured authorization submissions automatically
-- Reduces administrative overhead in healthcare workflows
-- Optimized for compliance-heavy decision environments
-
-</details>
-
 ### [• Edge Fall Detector](https://github.com/aragit/edge-fall-detector)
 **Real-time patient fall detection on edge devices**
 > `YOLOv11-Pose` `TensorRT` `MQTT` `OpenCV`     
@@ -509,21 +494,6 @@ The result is a **genuinely transferable decision intelligence platform** with c
 - **Reproducible Analysis Execution:** E2B-sandboxed Jupyter kernel executes Python/R statistical analyses on raw datasets (GEO, Figshare) with full provenance tracking. The LLM generates analysis code, interprets outputs, and decides whether to re-run with modified parameters.
 - **Cross-Modal Synthesis:** Native multimodal reasoning over text, tables, figures, and code. The LLM decides when to regenerate visualizations, when to query structured databases, and when to perform citation verification via Crossref DOI resolution.
 - **Validation Boundary:** Citation verifier ensures all claims are grounded in retrieved sources. Conflict detector flags contradictory findings across papers. Human-in-the-loop gate for conclusions with >3 standard deviation novelty scores.
-
-</details>
-
-### [• Agentic Research Paper Review & Synthesis Swarm](#)
-**Multi-agent scientific reasoning and literature synthesis system**
-> ArXiv API, claim extraction, contradiction detection, graph reasoning    
-> 🔵 `CONCEPT` • `RESEARCH REASONING LAYER`
-
-<details>
-<summary><b>Expand Architecture Insight →</b></summary>
-
-- Ingestion agents structure academic papers into claims
-- Verification agents cross-check citations and evidence
-- Conflict agents detect contradictions across literature
-- Synthesis agent generates research gap analysis and summaries
 
 </details>
 
