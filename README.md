@@ -48,7 +48,7 @@ The agentic stack across my repositories is organized into three composable arch
 
 #### Here are vanguard repos and solutions:
 
-- **vLLM Distributed Context Cache Router (vLLM-CCR)** | [View Repo](https://github.com/aragit/vllm-context-cache-router/tree/main)
+- **vLLM Distributed Context Cache Router (vLLM-CCR)** | [View Repo](https://github.com/aragit/vllm-context-cache-router/tree/main)      
   *State-Aware Max-Prefix Orchestration Fabric for Distributed Inference*      
   > *Eliminates cross-node cache fragmentation in 2026 Compound AI workflows. Synchronizes a global Radix Tree prefix-matching topology with a concurrency-hardened RLock memory    abstraction to neutralize TOCTOU allocation panics under extreme multi-threaded agentic load.*       
   > `Inference Infrastructure` • `Distributed Systems` • `Concurrency Hardening`       
