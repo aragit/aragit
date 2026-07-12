@@ -180,13 +180,16 @@ The clinical domain was chosen as the first proving ground because it is the mos
 **MCP Clinical Forecasting Skill**     
 > 🟢 `Active` • `MCP Tool` • `Clinical Temporal Monitoring`
 
-**Architecture Insight**
+<details>
+<summary><b>Expand Architecture Insight →</b></summary>
 
 - MCP-native tool — exposes ingest_vitals, get_forecast, get_deterioration_index via Model Context Protocol
 - Deterministic forecasting — multi-horizon trend extrapolation (1h/4h/12h) with clinical uncertainty bounds, no GPU required
 - FHIR R4 ingestion — parses LOINC-coded Observation resources into sliding 5-minute windows
 - NEWS2-inspired governance — deterministic deterioration index + severity classification (NORMAL → WARNING → ALERT → EMERGENCY)
 - Stateless by design — caller decides action; tool returns structured predictions only
+
+</details>
 
 
 ### [• Autonomous Medication Reconciliation](https://github.com/aragit/medication-reconciliation-agent)
@@ -340,7 +343,8 @@ The clinical domain was chosen as the first proving ground because it is the mos
 > PyTorch, TimesFM, Transformers, Amazon Chronos-2, Pydantic v2, PyYAML    
 > 🟢 `Active` • `Zero-Shot Forecasting` • `Retail Demand Prediction`
 
-**Architecture Insight**
+<details>
+<summary><b>Expand Architecture Insight →</b></summary>
 
 - **Foundation Models**: google/timesfm-2.5-200m-pytorch, Amazon Chronos-2 (`amazon/chronos-2`) via `BaseChronosPipeline` — zero-shot inference
 - **Dual-Track Evaluation**: Point forecast (Accuracy Track) + quantile/sample trajectory parsing (Uncertainty Track) aligned with M5 Competition framework
@@ -350,6 +354,8 @@ The clinical domain was chosen as the first proving ground because it is the mos
 - **M5 Competition Benchmarking**: Evaluates against Walmart daily sales (3,049 products, 10 stores, 3 states) with WAPE and RMSSE metrics; 128-step backtest window with active high-volume item filtering
 - **Corporación Favorita Compatibility**: Secondary validation on Ecuadorian retail data with inflation markers and regional holidays for cross-locale zero-shot generalization testing
 - **Exogenous Signal Support**: Optional price elasticity (`price_index`) and binary promotional event flags (`promo_flag`) aligned chronologically with target + horizon
+
+</details>
 
 ### [• Autonomous Procurement Swarm](https://github.com/aragit/autonomous-procurement-swarm)
 **LLM-Powered Multi-Agent Contract Negotiation for Supply Chain Optimization**
@@ -379,7 +385,8 @@ The clinical domain was chosen as the first proving ground because it is the mos
 > FastAPI, Pydantic v2, SQLAlchemy 2.0, Docker, CI/CD, pytest (~120 tests), black, flake8    
 > 🟢 `Active` • `Energy Market Simulation` 
 
-**Architecture Insight**
+<details>
+<summary><b>Expand Architecture Insight →</b></summary>
 
 - **Symbolic First Architecture**: Symbolic `GridSimulation._run_step()` owns the hour-by-hour execution loop; neural LLM (ReasoningEngine rule-based or Ollama local) is a bounded, swappable subroutine for battery arbitrage only
 - **6 Agents**: SolarFarm, WindFarm, CoalPlant (ramp-limited, 820 gCO₂/kWh), NuclearPlant (must-run, 5% ramp), GridBattery (LLM-driven), MetroCity (price-elastic demand curve)
@@ -391,6 +398,8 @@ The clinical domain was chosen as the first proving ground because it is the mos
 - **Agent Memory**: Episodic `Experience` recording (price, profit, weather, decision, outcome), pattern recognition (best price range, storm frequency, peak demand hours), strategy advice generation
 - **CI/CD Pipeline**: GitHub Actions with 3 jobs — pytest with coverage, black + flake8 linting, Docker build + health check + 5 endpoint smoke tests
 - **~120 Tests Across 9 Modules**: Grid physics (17), auction (14), agents (9), API (14), simulation (12), orchestrator stabilization (8), bid validation (15), battery guardrails (12), Pydantic boundary (~18)
+
+</details>
 
 <br>
 
@@ -418,7 +427,9 @@ The clinical domain was chosen as the first proving ground because it is the mos
 > 100% physically valid generation • Differentiable convex constraints • IFT gradient propagation • Zero compute waste   
 > 🟢 `Active` • `Generative Chemistry`
 
-**Architecture Insight**
+
+<details>
+<summary><b>Expand Architecture Insight →</b></summary>
 
 - **Zero-waste generation** — every forward pass outputs a chemically valid bond adjacency matrix; no post-generation filtering or discard pipelines required
 - **Implicit Function Theorem (IFT) backprop** — analytical Jacobian computation through the KKT equilibrium bypasses solver unrolling, enabling end-to-end gradient flow without memory explosion
@@ -426,6 +437,8 @@ The clinical domain was chosen as the first proving ground because it is the mos
 - **Hard valency enforcement** — convex optimization boundary strictly caps per-atom bond sums (e.g., C≤4, O≤2) while minimizing Frobenius distortion from the neural guess
 - **Modular backbone** — hot-swappable generators: dense MLPs, E(n)-Equivariant GNNs, or text-conditioned projections (e.g., MedGemma-4B-IT) all feed into the same physics core
 - **Composable** — designed as a structural generative engine for Type 2 and Type 6 clinical intelligence pipelines, including multi-drug optimization and materials discovery
+
+</details>
 
 ---
 
