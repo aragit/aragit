@@ -519,18 +519,26 @@ The clinical domain was chosen as the first proving ground because it is the mos
 
 </details>
 
-### [• Agentic Educational Tutoring Swarm](#)
-**Adaptive tutoring system with concept mastery modeling**
-> Knowledge graphs, tutoring agents, adaptive questioning, progress tracking    
-> 🔵 `Concept` • 🎓 `Adaptive Learning`
+### [Agentic Neuro-Symbolic Tutoring Swarm)](https://github.com/aragit/agentic-educational-tutoring-swarm)
+**Closed-Loop Multi-Agent Neuro-Symbolic Educational Platform**     
+> LangGraph, LangChain, NetworkX, Pydantic v2, FastAPI, Redpanda, OPA, HTMX+SSE, Docker Compose, confluent-kafka, SQLite Checkpointer, PEFT LoRA — CPU-First / vLLM-Ready     
+> 🟢 `Active` • `EdTech / AI Education` • `SLM-First Agent` • `Neuro-Symbolic Architecture`
+
 
 <details>
 <summary><b>Expand Architecture Insight →</b></summary>
+   
+- **Neuro-Symbolic Dual-Layer Architecture:** The system enforces a strict boundary between symbolic orchestration (LangGraph state machine + NetworkX knowledge graph) and neural execution (engine-level guided decoding via vLLM's `guided_json` logit masking). Pydantic schemas are compiled into grammar FSMs that mask invalid tokens at the logits level, mathematically guaranteeing 0% schema violation probability during inference.
+- **Closed-Loop Multi-Agent Workflow:** Four specialized nodes execute in a deterministic LangGraph pipeline: `Assessment` (sandbox-informed LLM scoring) → `Progress Tracker` (EMA mastery arithmetic with α=0.4/0.6 blending) → `Pedagogy Governor` (dynamic ontology routing with runtime graph mutations at <0.35 critical failure) → `SME Instructor` (curriculum-grounded conversational teaching via vector store retrieval). Each node returns partial state mutations that flow through a persistent SQLite checkpointer.
+- **Dynamic Curriculum Graph Mutation:** The `DynamicOntologyManager` allows the pedagogy node to programmatically inject remedial nodes and dependency edges into the NetworkX curriculum graph at runtime when a student exhibits critical prerequisite failures (<0.35 mastery score). The symbolic graph physically evolves based on learner performance data.
+- **Sandbox-Informed Assessment:** Student code submissions are detected via markdown fence parsing, executed in an isolated Python sandbox with stdout/stderr capture, and the raw execution telemetry (compilation status, runtime errors, created variables) is injected directly into the logit-masked LLM evaluator. The model grades based on hard execution facts, not probabilistic guesswork.
+- **Event-Driven Distributed Architecture:** The FastAPI gateway publishes student turns to Redpanda (Kafka-compatible) via `student.turn.submitted`. A background `Swarm Worker` consumes events, executes the full LangGraph pipeline, calls OPA for governance validation, and publishes resolved responses to `student.turn.resolved`. The gateway streams results back to the frontend via SSE.
+- **Semantic Governance Layer (OPA):** Every agent output passes through an Open Policy Agent sidecar that enforces deterministic Rego policies. The `governance.rego` policy blocks `[CRITICAL_SYSTEM_BYPASS]` markers and prevents raw code spoon-feeding when mastery scores fall below 0.50, ensuring pedagogical compliance at the network boundary.
+- **Zero-Build Real-Time Dashboard:** HTMX + SSE + Tailwind CSS frontend served directly by FastAPI's Jinja2 templates. Three SSE event channels (`agent_state`, `metrics`, `telemetry_log`) stream live execution grid status, token economics (Refinement Cost Ratio), and alignment telemetry to the browser without any JavaScript build toolchain.
+- **Alignment Telemetry & Offline Fine-Tuning:** The `AlignmentLogger` captures every teacher-student interaction pair as JSONL SFT training data. The `train_lora.py` script runs PEFT LoRA fine-tuning on harvested datasets to progressively reduce logit masking overhead and improve structured output compliance across optimization cycles.
+- **Multi-Provider LLM Factory:** `get_llm()` auto-detects the runtime environment — returns a deterministic `_MockChatModel` when no endpoint is configured (tests/simulation), connects to llama-cpp-python CPU server, or targets any OpenAI-compatible cloud API. `configure_guided_decoding()` attempts vLLM `guided_json` binding first, falls back to `with_structured_output()` for compatibility across providers.
+- **111-Test Suite with 84% Coverage:** Unit tests cover KG traversal, EMA arithmetic, sandbox execution, ontology mutation, OPA fallback, graceful shutdown, and malformed payload handling. E2E tests validate session CRUD, Kafka publishing, SSE streaming, SQLite persistence, and edge cases. All passing with 0 lint errors and 0 type errors under `ruff` and `mypy --strict`.
 
-- Assessment agents identify knowledge gaps dynamically
-- Subject-specific agents provide targeted instruction
-- Pedagogy agent adapts teaching strategy per learner profile
-- Progress tracking agent measures mastery and retention trends
 
 </details>
 
