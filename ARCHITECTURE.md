@@ -167,6 +167,30 @@ The result is a **genuinely transferable decision intelligence platform** with c
 
 ## 🏥 Healthcare & Clinical
 
+### [• Clinical Triage Agentic Orchestrator](https://github.com/aragit/clinical-triage-agentic-orchestrator)
+**Neuro-Symbolic Agentic Orchestrator for High-Stakes Clinical Triage with OPA Guardrails**
+> FastAPI, llama-cpp-python, Gemma 3n E4B, Qdrant (Hybrid BM25+Dense+RRF), SNOMED-CT/ICD-10-CM, Pydantic v2, Streamlit, Docker Compose, pytest
+> 🟢 Active • Neuro-Symbolic • Clinical Decision Support • Edge-First
+
+<details>
+<summary><b>Expand Architecture Insight →</b></summary>
+   
+- Multi-Step Agentic Pipeline: Perception (episodic history retrieval) → OPA Guardrails (deterministic emergency bypass) → Memory (Qdrant hybrid guideline lookup) → Executor (SNOMED/ICD-10 entity extraction) → Cognition (llama-cpp + Gemma 3n instructor-forced JSON) → Action (FSM state transition); LLM is ONLY invoked AFTER passing guardrails + context enrichment — the neuro-symbolic boundary
+- Dual-Pathway Execution Pattern: Fast-Path (emergency bypass) short-circuits the entire LLM tier — OPA detects life-threatening patterns, extracts clinical codes, transitions FSM to escalation, returns in 24.4ms with zero model hallucination risk; Slow-Path (cognitive loop) runs full 6-step pipeline for non-emergent cases (~1.2-2.5s)
+- OPA-Style Policy Engine (opa_policies.py): 3-rule deterministic evaluation chain — (1) Emergency detection: 30+ regex patterns across cardiac, respiratory, psychiatric, neurological, hemorrhagic, toxicological, airway categories → instant ROUTE_TO_EMERGENCY with llm_bypassed: true; (2) Escalation detection: 6 patterns (obstetric, pediatric, medication, allergy) → ESCALATE_TO_HUMAN with LLM processing but human-review flag; (3) Content safety: minimum-length gate → ALLOW_TRIAGE or DENY
+- Hybrid Vector Store (vector_store.py): Qdrant in-memory backend with dual retrieval — dense semantic search (384-dim pseudo-embeddings, cosine distance) + sparse BM25 keyword search (Okapi BM25, k1=1.5, b=0.75) — fused via Reciprocal Rank Fusion (k=60) for clinical guideline lookup; 5 seed guidelines (chest pain, stroke, asthma, diabetic emergency, anaphylaxis) pre-loaded at startup
+- Atomic FSM State Machine (episodic_state.py): 7 clinical state nodes (intake → symptom_extraction → guideline_lookup → risk_assessment → triage_decision → escalation → resolved) with strict valid-transition guard; StateTransitionError prevents illegal state mutations; TTL-based session expiry (7200s) replaces Redis for local deployment
+- Clinical NLP Entity Extraction (healthcare_nl.py): 40+ curated SNOMED CT + ICD-10-CM terminology entries covering cardiac, respiratory, neurological, gastrointestinal, endocrine, musculoskeletal, psychiatric, immunological, infectious, and hematological systems; regex-based extraction with severity escalation detection (5 severity patterns); deterministic output with confidence: 1.0
+- DiagnosticCoT Schema (triage_agent.py): Instructor-wrapped local LLM forced into strict Pydantic output — clinical_observations (array), step_by_step_rationale (array), urgency_level (emergent/urgent/semi-urgent/non-urgent/deferrable), next_state_action (maps to FSM), extracted_symptoms (array), recommended_department (ER/urgent_care/primary_care/telehealth/self_care), confidence (0-1); fail-safe: non-JSON or LLM failure always over-triages to ER — never under-triages
+- FastAPI Production Gateway: /webhook/fulfillment principal endpoint, /health with LLM reachability + guideline count probes; asynccontextmanager lifespan with startup subsystem initialization (episodic store, vector store, guardrail, extractor, LLM client, triage agent) + guideline seeding; CORS middleware, structured logging
+- Docker Compose Production Stack: 4-service architecture — llama-cpp-server (CPU-native GGUF inference, port 8000, 4G memory limit, health check via /v1/models), redis (session cache, port 6379), orchestrator-api (FastAPI, port 8080, depends on LLM + Redis healthy), streamlit-ui (observability dashboard, port 8501, depends on API healthy); all services have health checks with start periods
+- Streamlit Observability Dashboard: Dual-column layout showing real-time FSM state tracking, ontology extraction matrix (SNOMED/ICD-10 codes), conversation history, and pipeline latency metrics; chat interface for clinical input with live triage feedback
+- Production Verification: Emergency scenario "severe chest pain and difficulty breathing" → OPA triggers cardiac-emergency + respiratory-emergency → FSM transitions intake → escalation → extracts SNOMED:29857009 (Chest Pain) + ICD-10:R07.9 → LLM bypassed → 24.4ms total pipeline latency (vs 90+ seconds for raw CPU LLM generation)
+  
+</details>
+
+---
+
 ### [• ICU Vitals Transformer (MCP-native tool)](https://github.com/aragit/icu-vitals-transformer)
 **MCP Clinical Forecasting Skill**     
 > 🟢 `Active` • `MCP Tool` • `Clinical Temporal Monitoring`
