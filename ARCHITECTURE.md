@@ -153,9 +153,9 @@ The clinical domain was chosen as the first proving ground because it is the mos
 ## 🏥 Healthcare & Clinical
 
 ### [• Clinical Triage Agentic Orchestrator](https://github.com/aragit/clinical-triage-agentic-orchestrator)
-**Neuro-Symbolic Agentic Orchestrator for High-Stakes Clinical Triage with OPA Guardrails**
-> FastAPI, llama-cpp-python, Gemma 3n E4B, Qdrant (Hybrid BM25+Dense+RRF), SNOMED-CT/ICD-10-CM, Pydantic v2, Streamlit, Docker Compose, pytest
-> 🟢 Active • Neuro-Symbolic • Clinical Decision Support • Edge-First
+**Neuro-Symbolic Agentic Orchestrator for High-Stakes Clinical Triage with OPA Guardrails**     
+> FastAPI, llama-cpp-python, Gemma 3n E4B, Qdrant (Hybrid BM25+Dense+RRF), SNOMED-CT/ICD-10-CM, Pydantic v2, Streamlit, Docker Compose, pytest     
+> 🟢 Active • Neuro-Symbolic • Clinical Decision Support • Edge-First      
 
 <details>
 <summary><b>Expand Architecture Insight →</b></summary>
