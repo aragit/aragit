@@ -7,21 +7,15 @@ My work targets the critical boundary where probabilistic neural models intersec
 ### Repository Navigation
 This portfolio is organized by **domain and industry** to demonstrate how the same neuro-symbolic architecture principles transfer across verticals:
 
-*   **[Cross-Domain Neuro-Symbolic Architecture](#-cross-domain-neuro-symbolic-architecture):** Foundational reasoning, memory, and orchestration layers that transfer across all verticals.
-    * **Edge SLM Optimizer**
-    * **Speculative Graph RAG**
-    * **DeepSeek Reasoning Fine-Tuning**
-    * **Enterprise Intelligence Crew**
+*   **[Cross-Domain Neuro-Symbolic Architecture](#-cross-domain-neuro-symbolic-architecture):** Foundational reasoning, memory, and orchestration layers that transfer across all verticals.    
 *   **[Healthcare & Clinical](#-healthcare--clinical)**
+    * **Speculative Clinical GraphRAG (Hybrid Architecture)**
+    * **Clinical Triage Agentic Orchestrator**
     * **ICU Vitals Transformer(MCP-native tool)**
     * **Autonomous Medication Reconciliation**
     * **Biomedical Entity Extraction Engine**
     * **Autonomous Lab Interpretation & Critical Value Triage Agent**
-    * **Clinical Differential Diagnosis Copilot**
-    * **Agentic Medicare Authorization**
-    * **Edge Fall Detector**
-    * **Surgical Vision Copilot**
-    * **Spatial Event Detector**
+    * **Clinical Differential Diagnosis Copilot**    
 *   **[Marketing & Advertising](#-marketing--advertising):** Competitive Nash equilibrium bidding, real-time intent transformation, and generative ad rendering.
 *   **[Supply Chain & Logistics](#-supply-chain--logistics)** Zero-Shot Demand Foundation(MCP Agentic Forecaster Skill),  Autonomous Procurement Swarm
 *   **[Energy & Utilities](#-energy--utilities):** Agentic Energy Grid Balancing System
@@ -57,15 +51,6 @@ Every project in this portfolio implements a **Production Grade Complete  Pipeli
 
 The clinical domain was chosen as the first proving ground because it is the most regulated, safety-critical environment imaginable: if a system can safely reason about chemotherapy dosing with deterministic guardrails, the same architectural patterns transfer directly to financial compliance, energy grid stability, and competitive market bidding.
 
-### Evolution: From Domain Proof to Cross-Domain Platform
-
-This portfolio represents a deliberate, phased evolution:
-
-1. **Phase 1 (Clinical Foundation):** Proved the full 7-layer stack in the hardest possible domain—FHIR-native episodic care, temporal workflow compilation, and deterministic safety guardrails for oncology protocols.
-2. **Phase 2 (Layer Extraction):** Extracted individual layers into standalone, production-grade systems across marketing (game-theoretic bidding), energy (grid balancing), finance (regulatory compliance), and supply chain (demand forecasting). Each extraction validates that the layer is domain-agnostic.
-3. **Phase 3 (Convergence):** Domain-specific implementations feed back into hardened core abstractions. The compliance kernel refines governance patterns for clinical systems; the energy grid balancer refines execution patterns for financial trading; the marketing simulator refines meta-cognitive scoring for scientific research.
-
-The result is a **genuinely transferable decision intelligence platform** with concrete implementations in 8+ industries, each sharing 55–90% core architectural patterns with the clinical reference implementation.
 
 ---
 
