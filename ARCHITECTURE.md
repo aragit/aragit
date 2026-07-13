@@ -26,33 +26,7 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 
 ---
 
-## Architectural Philosophy
 
-This repository documents a **Composable Intelligence Stack**—a living, evolving architecture that transfers across industries.
-
-The frontier of machine learning has moved beyond deploying single, monolithic models. Building reliable, production-grade AI is now an exercise in engineering **Compound AI Systems**. This portfolio showcases the architecture required to make that shift: transforming isolated probabilistic models into closed-loop, multi-agent pipelines that perceive environments, execute deterministic logic, and monitor their own real-world impact.
-
-> ***The future of AI is not about better Brains and Prompts,***
-> ***it's about better Systems and Body.***
-
-### Architecture as a Transferable Engine
-
-Every project in this portfolio implements a **Production Grade Complete  Pipeline**, but each makes its **primary architectural contribution** to a specific layers:
-
-| Layer | Function | Cross-Domain Transfer |
-|-------|----------|----------------------|
-| **Perception** | Transforming unstructured signals into structured intent | Clinical NLP → Manufacturing sensor fusion → Marketing sentiment analysis |
-| **Memory** | Temporal state persistence and episodic tracking | Patient care episodes → Customer journeys → Grid load history |
-| **Tool Registry** | Deterministic calculators, ontologies, and schema enforcement | Clinical scoring systems → Financial risk models → Grid stability solvers |
-| **Reasoning** | Dynamic planning, constraint satisfaction, and DAG compilation | Differential diagnosis → Credit underwriting → Load forecasting |
-| **Execution** | Tool dispatch, API actuation, and operational closure | Treatment authorization → Trade execution → Grid frequency control |
-| **Governance** | Hard safety guardrails, policy enforcement, and audit | Clinical dosing limits → Brand safety rules → Frequency stability bounds |
-| **Meta-Cognition** | Self-monitoring, drift detection, and confidence scoring | Diagnostic confidence → Creative quality scoring → Yield prediction reliability |
-
-The clinical domain was chosen as the first proving ground because it is the most regulated, safety-critical environment imaginable: if a system can safely reason about chemotherapy dosing with deterministic guardrails, the same architectural patterns transfer directly to financial compliance, energy grid stability, and competitive market bidding.
-
-
----
 
 ## ✨ Cross-Domain Neuro-Symbolic Architecture
 
@@ -63,7 +37,8 @@ The clinical domain was chosen as the first proving ground because it is the mos
 > PyTorch, ONNX Runtime Mobile, ExecuTorch, bitsandbytes, llama.cpp, pytest   
 > 🟢 `Active` • `Edge AI` • `Model Compression`
 
-**Architecture Insight**
+<details>
+<summary><b>Expand Architecture Insight →</b></summary>
 
 - **Multi-Stage Quantization Pipeline**: FP32 → INT8 (static) → INT4 (dynamic via bitsandbytes/auto-gptq) with perplexity guardrails on WikiText-2
 - **Dual Export Targets**: ONNX Runtime Mobile for cross-platform CPU inference; ExecuTorch XNNPACK delegate for ARM NEON optimization
@@ -72,6 +47,8 @@ The clinical domain was chosen as the first proving ground because it is the mos
 - **Telemetry Suite**: Real-time watts-per-token, CPU frequency monitoring, thermal event logging for edge reliability validation
 - **Accuracy Preservation**: <15% perplexity degradation vs. FP32 baseline; MMLU subset evaluation for task-specific quality
 - **CI/CD Reproducibility**: GitHub Actions with lint, pytest, Docker build — benchmarks versioned per commit
+
+</details>
 
 ### [• Speculative Clinical GraphRAG (Hybrid Architecture)](https://github.com/aragit/speculative-clinical-graphrag)
 **Hybrid Neuro-Symbolic Clinical Knowledge Core with Hybrid RAG and Reasoning-Aware Verification**
@@ -288,7 +265,8 @@ The clinical domain was chosen as the first proving ground because it is the mos
 > FastAPI, Pydantic v2, SQLAlchemy 2.0, SciPy, SQLite/PostgreSQL, Docker, pytest   
 > 🟢 `Active` • `Neuro-Symbolic` • `Game Theory` • `Ad Tech Simulation`
 
-**Architecture Insight**
+<details>
+<summary><b>Expand Architecture Insight →</b></summary>
 
 - **Neuro-Symbolic Hybrid**: LLM engine proposes stochastic bidding strategies; symbolic Nash solver validates equilibrium via iterative best-response with softmax annealing
 - **VCG Second-Price Auction Engine**: Winners pay the next-highest bid; mathematical asserts enforce `paid ≤ bid` invariant on every round
@@ -296,6 +274,8 @@ The clinical domain was chosen as the first proving ground because it is the mos
 - **Monte Carlo Nash Solver**: 5,000-sample stochastic win-probability estimation; converges to mixed-strategy equilibrium where no agent can improve utility unilaterally
 - **49-Test Suite with Property-Based Verification**: Monotonicity, individual rationality, Nash convergence bounds, VCG payment correctness, guardrail action validity
 - **Interactive Chart.js Dashboard**: Real-time simulation config, visualization panels, live event log
+
+</details>
 
 ### [• Real-Time Intent Transformer](https://github.com/aragit/real-time-intent-transformer)
 **Real-Time E-Commerce Intent Classification with Action Governance**
@@ -480,26 +460,7 @@ The clinical domain was chosen as the first proving ground because it is the mos
 
 ---
 
-## 🏙️ Smart Cities & Urban Systems
 
-### [• Agentic Smart City Traffic Optimization](#)
-**Multi-agent traffic signal and routing optimizer**
-> Graph networks, city simulation, intersection agents, routing optimization    
-> 🔵 `Concept` • `Urban Coordination`
-
-<details>
-<summary><b>Expand Architecture Insight →</b></summary>
-
-- Intersection agents negotiate real-time signal timing
-- Transit agents optimize passenger flow across networks
-- Emergency agents override routing for critical response vehicles
-- Global orchestrator resolves congestion and systemic deadlocks
-
-</details>
-
-<br>
-
----
 
 ## 🎓 Education & Research
 
@@ -564,4 +525,3 @@ Aethron AI focuses on deploying next-generation Agentic AI that doesn't just exi
 
 ---
 
-⭐ If you find this interesting, follow my work — I'm building the future of Agentic AI ...!
