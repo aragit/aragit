@@ -33,8 +33,8 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 > Projects that define the foundational neuro-symbolic stack and transfer across industries.
 
 ### [• Edge SLM Optimizer](https://github.com/aragit/edge-slm-optimizer)
-**Edge-First Small Language Model Compression & Deployment Pipeline**
-> PyTorch, ONNX Runtime Mobile, ExecuTorch, bitsandbytes, llama.cpp, pytest   
+**Edge-First Small Language Model Compression & Deployment Pipeline**   
+> PyTorch, ONNX Runtime Mobile, ExecuTorch, bitsandbytes, llama.cpp, pytest      
 > 🟢 `Active` • `Edge AI` • `Model Compression`
 
 <details>
@@ -50,10 +50,10 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 
 </details>
 
-### [• Speculative Clinical GraphRAG (Hybrid Architecture)](https://github.com/aragit/speculative-clinical-graphrag)
+### [• Speculative Clinical GraphRAG (Type 2 Symbolic[Neuro] Architecture)](https://github.com/aragit/speculative-clinical-graphrag)
 **Hybrid Neuro-Symbolic Clinical Knowledge Core with Hybrid RAG and Reasoning-Aware Verification**
-> FastAPI, Pydantic v2, LangGraph, Neo4j, Qdrant, vLLM, DeepSeek-R1-Distill-Qwen-32B, SNOMED-CT/ICD-10-CM/RxNorm parsers, pytest    
-> 🟢 `Active` • `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `Hybrid RAG`
+> FastAPI, Pydantic v2, LangGraph, Neo4j, Qdrant, vLLM, DeepSeek-R1-Distill-Qwen-32B, SNOMED-CT/ICD-10-CM/RxNorm parsers, pytest , React 18, Vite, Tailwind CSS, Redis, Open Policy Agent (OPA), google/MedGemma-4B-IT (fine-tuned)        
+> 🟢 `Active` • `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `MCP Control Plane` • `MAS Glass Box UI` • `100% Test Coverage`    
 
 <details>
 <summary><b>Expand Architecture Insight →</b></summary>
@@ -61,20 +61,25 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 - **9-Node LangGraph Workflow**: INGEST → RETRIEVE_CONTEXT → EXTRACT_SYMPTOMS → MAP_TO_ONTOLOGY → ASSESS_DIFFERENTIAL → VERIFY_SAFETY → [CORRECT_DIFFERENTIAL → ASSESS_DIFFERENTIAL (loop) | SYNTHESIZE | ESCALATE]; cyclic correction with max 3 iterations, recursion limit 20, full audit trace
 - **Hybrid RAG Stack**: Qdrant vector store (384-d sentence-transformer embeddings over ontology concepts) + Neo4j graph traversal (taxonomic relationships, fallback to in-memory EDGES) + symbolic Cypher validation (existence proofs for every proposed edge) + fusion scoring (α=0.7)
 - **Medical Ontology Support**: ETL pipeline parsers for SNOMED-CT RF2, ICD-10-CM text, RxNorm RRF formats; 178 in-memory ontology triples (126 unique clinical concepts) ship with repo; real data requires licensed SNOMED-CT/UMLS files
-- **Quad-Track LLM Backend**:
-  - **MockLLM**: Deterministic keyword lookup for CI/testing (zero-dep, 20 categories, 65 triplets)
-  - **Ollama**: Local CPU inference (gemma2:2b, JSON-structured generation) for development
-  - **DeepSeekR1Backend**: OpenAI-compatible, extracts `<think>` reasoning traces, bounded extract_symptoms/assess_differential
-  - **VLLMBackend**: Any OpenAI-compatible server, same bounded subroutine contract
-  - **SemanticRouter**: Classifies patient notes to select optimal backend automatically
-- **DeepSeek-R1 Reasoning Integration**: Extracts Chain-of-Thought reasoning traces from `<think>` tags via `OpenAICompatBackend.generate_path()`, validates diagnostic logic against medical ontologies before surface generation, surfaces reasoning steps in API response for clinician review
-- **Self-Correcting Feedback with Reasoning Awareness**: On validation failure, violations + prior reasoning are fed back via `regenerate_with_feedback()`; confidence decay (-0.1 per correction) with `validate_reasoning_coherence()` check; violations from all 3 verifiers (Neo4j, SymbolicVerifier, OPA) included in correction prompt
+- **Quad-Track LLM Subroutine Stack**:
+  - **MedGemma-4B-IT**: Primary fine-tuned medical language model backend for bounded clinical extraction and natural language synthesis.
+  - **DeepSeek-R1**: Reasoner backend extracting <think> tags and validating diagnostic logic against ontologies.
+  - **Ollama**: Local CPU developer fallback (gemma2:2b).
+  - MockLLM: Zero-dependency, deterministic keyword lookup backend (20 categories, 65 triplets) for instant local testing and UI demo mode.
+- **Active Hybrid Retrieval & Knowledge Core**: Guided Cypher graph traversals walking SNOMED-CT / ICD-10-CM / RxNorm ontologies in Neo4j coupled with Qdrant vector retrieval (384-d embeddings) via Reciprocal Rank Fusion (RRF $\alpha=0.7$). Ships with 178 in-memory ontology triples across 126 clinical concepts.  
+- **Self-Correcting Loop & Escalation Guardrail**: Cyclic feedback loop (max 3 iterations, $-0.1$ confidence decay per iteration) re-evaluating path violations across Neo4j, SymbolicVerifier, and OPA. Unvalidated paths deterministically escalate to human review with full reasoning traces and zero PHI persistence (in-memory only).
 - **Deterministic Escalation Guardrail**: Unvalidated paths after max iterations always route to human review with full reasoning trace, proposed path, and violation log — never to patient-facing output; zero PHI persistence (in-memory only, no DB writes of patient data)
 - **FastAPI Production Gateway**: `/v1/speculate` principal endpoint, `/v1/reasoning_trace/{trace_id}` for clinician review, `/health` with Neo4j/Qdrant/OPA/Redis probes, asynccontextmanager lifespan with startup ontology seeding; RequestID/APIKey/RateLimit middleware
 - **Docker Compose Production Stack**: vLLM container (GPU profile), Neo4j Community (ontology graph), Qdrant (vector store), FastAPI orchestrator, OPA governance sidecar, Redis (idempotency/session), Jaeger (tracing profile)
-- **Comprehensive Test Suite**: 53 tests (4 skipped without Docker: Neo4j×2, OPA×1, Ollama×1): valid path (1 iteration), invalid→escalate after 3 correction attempts, nonsensical input escalation, reasoning trace presence, all 4 backends + semantic router, hybrid retrieval with fusion scoring, ontology ETL not-found paths, symbolic drug interaction detection, API middleware (auth/rate-limit/request-id), full pipeline via FastAPI TestClient
+- **CPU-Optimized E2E Demo & Docker Stack**: Includes a zero-GPU CPU execution mode (scripts/prepare_demo.py + .env.demo) alongside a full production Docker Compose stack (vLLM GPU profile, Neo4j, Qdrant, OPA sidecar, Redis state checkpointer, Jaeger tracing).
 
 </details>
+
+
+
+
+
+
 
 ### [• Post-RAG Drift Evaluator](https://github.com/aragit/post-rag-drift-evaluator)
 **Automated Latent Space Drift Telemetry & Comparative RAG Architecture Benchmark**
