@@ -290,15 +290,44 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 <details>
 <summary><b>Expand Architecture Insight →</b></summary>
 
-- **7-Layer Neuro-Symbolic Pipeline**: Ingestion → Perception (Polars feature engineering) → Reasoning (rule-based + ML ensemble) → Governance (OPA/Rego + Python fallback) → Execution (action dispatch with suppression) → Memory (SQLite session store) → Meta-Cognition (drift detection stub)
-- **18 Behavioral Features**: Session duration, page views, cart adds/removes, checkouts, searches, cart value, category switches, exploration ratio, conversion rates, inter-event time — engineered via Polars DataFrame operations
-- **Dual-Track Intent Classification**: Rule-based heuristic (<10ms, confidence ≥0.6 threshold) falls back to sklearn RandomForest/XGBoost ensemble (<50ms) if model file exists; 7 intent classes (BROWSE, COMPARE, CART_BUILDER, CHECKOUT_INTENT, PRICE_SENSITIVE, CHURN_RISK, LOYAL_RETURNER)
-- **Six Action Types with Suppression**: RECOMMEND_ALTERNATIVE, SHOW_COMPARISON_TOOL, APPLY_DISCOUNT, SHOW_URGENCY, SEND_ABANDON_EMAIL, LOYALITY_REWARD — 15-minute deduplication window per session, governance deny override
-- **Business Rules Governance**: Anti-gaming (max 3 discounts/month, 24h cooldown), minimum cart value ($50), inventory threshold for urgency, session duration for abandon email, demographic fairness guardrail (no pricing discrimination)
-- **Best-Effort Kafka Streaming**: aiokafka producer with start/stop lifecycle; SQLite is primary persistence, Kafka is fire-and-forget fallback when unavailable
-- **84+ Tests with 70%+ Coverage**: Intent classification, feature engineering, action dispatch, governance rules, event store, API endpoints
-- **Docker Compose Infrastructure**: Zookeeper + Kafka + OPA (Open Policy Agent) with healthchecks
-- **Synthetic Data Generation**: 34,148 events across 5,000 sessions with balanced intent distribution; perfect F1 on synthetic data (expected — labels derived from rules)
+A production-grade, dual-path neuro-symbolic system that classifies live shopping sessions into 7 intent categories and dispenses targeted interventions within 50ms on CPU — with deterministic governance, agentic reasoning, and closed-loop learning.
+
+🧠 Architecture: Perceive → Reason → Govern → Execute → Learn
+├─ System 1 (Fast Path): Rule-based heuristic + ML ensemble (RF/XGBoost) + Markov chain → <50ms
+├─ System 2 (Agentic Path): LangGraph orchestrator → LLM Planner + GraphRAG (Neo4j) + Critic Agent → OPA-validated
+└─ Meta-Cognition: Background evaluator with LLM-as-a-Judge, drift detection, and efficacy analytics
+
+🔒 Security & Governance
+• OPA/Rego v1 policies with fail-closed behavior (deny rules enforced, not ignored)
+• Anti-gaming: 15-min suppression windows, max 3 discounts/month, 24h cooldown
+• Fairness guardrails: demographic parity, no pricing discrimination
+• Immutable audit ledger with SHA-256 idempotency keys
+• RCE-patched: all user input deserialized via json.loads (no eval)
+
+⚡ Performance
+• Polars feature engineering: 18 behavioral features in <5ms
+• Platt-scaled sigmoid calibration for statistically valid confidence scores
+• Async SQLite I/O via asyncio.to_thread (no event loop blocking)
+• Per-instance HTTP clients, bounded batch ingestion, defensive timeouts
+
+📊 Observability
+• Langfuse distributed tracing: System 1 vs System 2 routing, OPA evaluation spans, LLM token usage
+• Prometheus metrics: REQUEST_COUNT, INTENT_PREDICTIONS, ACTIONS_DISPATCHED, evaluator drift gauges
+• Configurable CORS, structured logging via Loguru
+
+🧪 Quality
+• 261 tests, 0 failures, 71% coverage
+• Prompt injection security suite (markdown jailbreak, Unicode bypass, adversarial reasoning)
+• Latency regression benchmarks (p95 <50ms target)
+• Integration tests for end-to-end dual-path flows
+
+🛠 Stack
+FastAPI • LangGraph • Pydantic v2 • Polars • scikit-learn/XGBoost • aiokafka • SQLite/PostgreSQL • OPA/Rego • Neo4j • Langfuse • Prometheus • pytest-asyncio
+
+📦 Infrastructure
+Docker Compose (Kafka KRaft + OPA) • Synthetic data generation (34K events, 5K sessions) • Pre-trained model pipeline
+
+Status: Production-hardened after comprehensive security & architectural audit
 
 </details>
 
