@@ -40,7 +40,7 @@ My current engineering and applied research focuses on advancing these architect
 * **Durable Execution & State-Aware Context Routing**: Engineering long-horizon autonomous pipelines that survive infrastructure interruptions. Integrating orchestrators like LangGraph with durable execution substrates and global prefix-aware KV cache routing to maintain flawless context state across distributed multi-agent operations.
 
 ---
-<br>
+
 
 
 #### Vanguard Open-Source Implementations
