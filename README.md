@@ -1,14 +1,16 @@
+<p align="center">
+  <img src="./aethron_git.png" alt="Aethron Logo" width="350">
+</p>
+
+<br>
+
 <h1 align="center">Arash Nicoomanesh</h1>
 
 <p align="center">
   <b>Building Enterprise-Grade, Agentic AI Systems for High-Stakes Domains</b><br>
 </p>
 
-<br>
 
-<p align="center">
-  <img src="./aethron_git.png" alt="Aethron Logo" width="150">
-</p>
 ---
 
 
