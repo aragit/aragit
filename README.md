@@ -5,9 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://aragit.github.io">
-    <img src="https://img.shields.io/badge/Website-aragit.github.io-8B0000?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=333333">
-  </a>
+  <img src="https://img.shields.io/badge/Agentic_AI-121212?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Neuro--Symbolic_Systems-121212?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Distributed_Inference-121212?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Deterministic_Governance-121212?style=for-the-badge&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-121212?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Hybrid_GraphRAG-121212?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Test--Time_Compute-121212?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Edge_SLMs-121212?style=for-the-badge&logoColor=white">
 </p>
 
 
@@ -15,38 +21,28 @@
 ---
 
 
-Senior Agentic AI Engineer specializing in compound, neuro-symbolic systems. I bridge neural perception and deterministic governance to deliver safe, scalable autonomy for high-liability industries.
+Senior AI Architect & Agentic Engineer specializing in compound AI systems. I bridge advanced neural capabilities—from customized SLMs to multi-agent orchestration—with deterministic governance to deliver safe, scalable autonomy for enterprise domains.
 
-> *I build agentic architectures that survive in high-liability environments — clinical decisions where a wrong action causes irreversible harm, competitive markets where untrusted actors share resources, and scientific discovery where conclusions must be correctable. The same architectural principle transfers across all three: neural components propose, symbolic components verify, and the system either self-corrects or escalates. Every pipeline compiles to a DAG before execution, every node passes pre-flight validation, and every trace is committed to an immutable ledger. Validated by 49–120+ property-based tests per system, benchmark alignment, and cryptographically signed audit trails.*
+> *I build end-to-end AI architectures that survive in high-liability environments — clinical decisions where a wrong action causes irreversible harm, competitive markets where latency is critical, and enterprise workflows demanding strict data sovereignty. My expertise spans the complete AI engineering lifecycle: fine-tuning localized models, optimizing distributed inference architectures, designing agentic RAG pipelines, and implementing neuro-symbolic safety gates. Across every paradigm, the architectural standard remains absolute: systems must be observable, verifiable, and fail-safe. Every pipeline compiles to a DAG before execution, every component passes strict pre-flight validation, and every trace is monitored by robust statistical telemetry. Validated by 49–120+ property-based tests per system, benchmark alignment, and rigorous MLOps governance.*
 
 
-
+I have generalized the neuro-symbolic bullet to highlight your cross-domain architectural patterns (clinical, marketing, and scientific). I’ve also rewritten the existing items to hit harder on the engineering mechanics, fixed the typo from the drift bullet while aligning it with our FastMCP tool strategy, and added two 2026 state-of-the-art topics: MCP-Native Tool Orchestration and Durable Execution & Context Routing.
 
 
 My current engineering and applied research focuses on advancing these architectures through:
 
-*   **Neuro-Symbolic Architectures in Oncology:** Leading core development for multi-drug regimen optimization via cyclic correction loops and strict medical safety guardrails. 
-*   **Test-Time Compute Scaling & Process Supervision:** Architecting "System 2" reasoning pipelines that dynamically allocate inference compute based on task complexity. 
-*   **Autonomous Latent Space Drift Mitigation:** Extending statistical telemetry frameworks into closed-loop auto-remediation systems. B
-*   **Extreme Edge Quantization & Speculative Decoding:** Optimizing Small Language Models (SLMs) and foundational timeseries models for high-throughput, localized edge inference. 
-*   **Continuous Graph Ontology Hydration:** Advancing Hybrid RAG architectures by shifting from static medical taxonomies to dynamic, self-constructing knowledge graphs.
-
+*   **Neuro-Symbolic Architectures Across High-Stakes Domains**: Architecting pipelines where neural perception is strictly bounded by deterministic logic. Applied patterns include cyclic validation loops for multi-drug optimization (Clinical/Medicare), Nash equilibrium solvers for multi-agent ad auctions (Marketing/Game Theory), and verifiable workflow generation (Scientific Discovery).   
+*   **Test-Time Compute Scaling & Process Supervision**: Architecting "System 2" inference pipelines that dynamically scale test-time compute based on task complexity. Utilizing Process Reward Models (PRMs) and search-based reasoning to enable agents to deliberate, verify, and correct intermediate steps before taking action. 
+*   **Statistical Telemetry & Drift Observability**: Building deterministic, FastMCP-native statistical monitoring engines. Translating embedding distribution decay into actionable telemetry—such as calculating strict Jensen-Shannon Divergence ($D_{JS}$) bounds—to act as dynamic routing sensors for multi-agent orchestrators.
+*   **Edge-Native SLMs & Speculative Decoding**: Optimizing Small Language Models (SLMs) and time-series foundations for localized, high-throughput edge inference. Leveraging extreme quantization and speculative decoding to minimize TTFT (Time-To-First-Token) while preserving deterministic guardrails.
+*   **Continuous Graph Ontology Hydration**: Advancing Hybrid RAG architectures by shifting from static domain taxonomies to dynamic, self-constructing knowledge graphs. Enabling agentic loops to autonomously extract, verify, and persist relational logic from unstructured enterprise telemetry.
+* **Durable Execution & State-Aware Context Routing**: Engineering long-horizon autonomous pipelines that survive infrastructure interruptions. Integrating orchestrators like LangGraph with durable execution substrates and global prefix-aware KV cache routing to maintain flawless context state across distributed multi-agent operations.
 
 
 <br>
 
 
-## Open-Source Architecture & Implementations 
-
-The agentic stack across my repositories is organized into three composable architectural pillars. Each pillar maps directly to specific operational layers of my **Multi-Layer Composable Intelligence Stack**:
-
-| Pillar | Layers Wrapped | Data Flow |
-|:---|:---|:---|
-| Perception & Infrastructure | 01 // Perception, 02 // Memory, 03 // Tool Registry (via Model Context Protocol) | Unstructured enterprise telemetry → Validated, context-hydrated semantic state |
-| Reasoning & Context | 04 // Reasoning, 05 // Execution, 07 // Meta-Cognition | State evaluation → Dynamic planning state-machines → Verified, idempotent execution |
-| Governance & Security | 06 // Governance (Policy-as-Code / Hard Mathematical Invariants) | Explicit logical guardrails enforced natively at every structural component boundary |
-
-#### Here are vanguard repos and solutions:
+#### Vanguard Open-Source Implementations
 
 - **Real-Time Intent Transformer** | [View Repo](https://github.com/aragit/real-time-intent-transformer/tree/main)  
   *Dual-Path Neuro-Symbolic Intent Classification Fabric with Deterministic Governance*  
@@ -89,18 +85,6 @@ The agentic stack across my repositories is organized into three composable arch
 **Deep Dives** — Explore the [Architecture Specification](./ARCHITECTURE.md) for the multi-layer transferability matrix and per-project engineering breakdowns, or visit my [My Website](https://aragit.github.io/) for the full neuro-symbolic pattern taxonomy with domain-specific use case mappings across all repositories.
 
 ---
-
-#### **INFRASTRUCTURE_ENV**    
-
-`TRAINING_&_PEFT`      : PyTorch, Unsloth, QLoRA, GGUF, Weights & Biases   
-`INFERENCE_ENGINES`    : vLLM, Triton, TensorRT, ExecuTorch, llama.cpp, ONNX   
-`AGENT_ORCHESTRATION`  : LangGraph, CrewAI, Model Context Protocol (MCP), FastAPI, Pydantic   
-`MEMORY_&_STATE`       : DuckDB, Neo4j, Qdrant, pgvector, Redis   
-`COMPUTE_&_ANALYTICS`  : Polars, NumPy, SciPy, cvxpy, scikit-learn   
-`GOVERNANCE_&_EVAL`    : Open Policy Agent (OPA), LiteLLM, Deterministic Guardrails   
-`OBSERVABILITY_&_OPS`  : OpenTelemetry, Prometheus, Docker, Kubernetes, GitHub Actions    
-
-
 
 #### **NETWORK**
 
