@@ -5,13 +5,17 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/01_%2F%2F_Paradigms-Neuro--Symbolic_%2B_Swarm_%2B_ReAct-1E1E1E?style=for-the-badge&labelColor=000000">
-  <img src="https://img.shields.io/badge/02_%2F%2F_Integration-MCP_%2B_A2A_Comms_%2B_gRPC-1E1E1E?style=for-the-badge&labelColor=000000">
+  <img src="https://img.shields.io/badge/01_%2F%2F_Paradigms-Neuro--Symbolic_%2B_MAS_Swarms_%2B_System_2-C2410C?style=for-the-badge&labelColor=000000">
+  <img src="https://img.shields.io/badge/02_%2F%2F_Protocols-MCP_Native_%2B_FastMCP_%2B_A2A_%2B_gRPC-C2410C?style=for-the-badge&labelColor=000000">
   <br>
-  <img src="https://img.shields.io/badge/03_%2F%2F_Inference-vLLM_%2B_Speculative_Decoding_%2B_Edge-1E1E1E?style=for-the-badge&labelColor=000000">
-  <img src="https://img.shields.io/badge/04_%2F%2F_State-GraphRAG_%2B_pgvector_%2B_Redis-1E1E1E?style=for-the-badge&labelColor=000000">
+  <img src="https://img.shields.io/badge/03_%2F%2F_Orchestration-LangGraph_%2B_DAG_Execution_%2B_State_Machines-C2410C?style=for-the-badge&labelColor=000000">
+  <img src="https://img.shields.io/badge/04_%2F%2F_Inference-vLLM_Routing_%2B_Speculative_Decoding_%2B_Edge_SLMs-C2410C?style=for-the-badge&labelColor=000000">
   <br>
-  <img src="https://img.shields.io/badge/05_%2F%2F_Safety-OPA_%2B_Rego_%2B_Drift_MLOps-1E1E1E?style=for-the-badge&labelColor=000000">
+  <img src="https://img.shields.io/badge/05_%2F%2F_State_Core-Hybrid_GraphRAG_%2B_Continuous_Ontology_%2B_pgvector-C2410C?style=for-the-badge&labelColor=000000">
+  <img src="https://img.shields.io/badge/06_%2F%2F_Governance-OPA%2FRego_Gates_%2B_Idempotency_%2B_Policy--as--Code-C2410C?style=for-the-badge&labelColor=000000">
+  <br>
+  <img src="https://img.shields.io/badge/07_%2F%2F_Telemetry-Drift_Observability_%2B_PRMs_%2B_Meta--Cognition-C2410C?style=for-the-badge&labelColor=000000">
+  <img src="https://img.shields.io/badge/08_%2F%2F_MLOps-Distributed_K8s_%2B_SLM_Fine--Tuning_%2B_QLoRA-C2410C?style=for-the-badge&labelColor=000000">
 </p>
 
 
