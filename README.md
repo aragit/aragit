@@ -39,7 +39,7 @@ My current engineering and applied research focuses on advancing these architect
 *   **Continuous Graph Ontology Hydration**: Advancing Hybrid RAG architectures by shifting from static domain taxonomies to dynamic, self-constructing knowledge graphs. Enabling agentic loops to autonomously extract, verify, and persist relational logic from unstructured enterprise telemetry.
 * **Durable Execution & State-Aware Context Routing**: Engineering long-horizon autonomous pipelines that survive infrastructure interruptions. Integrating orchestrators like LangGraph with durable execution substrates and global prefix-aware KV cache routing to maintain flawless context state across distributed multi-agent operations.
 
-
+---
 <br>
 
 
@@ -83,7 +83,7 @@ My current engineering and applied research focuses on advancing these architect
 <br> 
 
 
-**Deep Dives** — Explore the [Full repos specifications](./ARCHITECTURE.md) for the multi-layer transferability matrix and per-project engineering breakdowns, or 
+**Deep Dives** — Explore the [Full repos specifications](./ARCHITECTURE.md) for the multi-layer transferability matrix and per-project engineering breakdowns. 
 
 ---
 
