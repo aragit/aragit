@@ -80,7 +80,7 @@ My current engineering and applied research focuses on advancing these architect
 
 #### **NETWORK**
 
-[`Website`](https://aragit.github.io) • [`LinkedIn`](https://linkedin.com/in/arashnicoomanesh) • [`GitHub`](https://github.com/aragit) • [`Medium`](https://medium.com/@anicomanesh) 
+[`Website`](https://aragit.github.io) • [`LinkedIn`](https://linkedin.com/in/arashnicoomanesh) • [`GitHub`](https://github.com/aragit) • [`Kaggle`](https://www.kaggle.com/arashnic) • [`Medium`](https://medium.com/@anicomanesh) 
 
 <br> 
 
