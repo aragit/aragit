@@ -28,6 +28,7 @@ Senior AI Architect & Agentic Engineer specializing in compound AI systems. I br
 
 I have generalized the neuro-symbolic bullet to highlight your cross-domain architectural patterns (clinical, marketing, and scientific). I’ve also rewritten the existing items to hit harder on the engineering mechanics, fixed the typo from the drift bullet while aligning it with our FastMCP tool strategy, and added two 2026 state-of-the-art topics: MCP-Native Tool Orchestration and Durable Execution & Context Routing.
 
+<br>
 
 My current engineering and applied research focuses on advancing these architectures through:
 
@@ -82,7 +83,7 @@ My current engineering and applied research focuses on advancing these architect
 <br> 
 
 
-**Deep Dives** — Explore the [Architecture Specification](./ARCHITECTURE.md) for the multi-layer transferability matrix and per-project engineering breakdowns, or visit my [My Website](https://aragit.github.io/) for the full neuro-symbolic pattern taxonomy with domain-specific use case mappings across all repositories.
+**Deep Dives** — Explore the [Full repos specifications](./ARCHITECTURE.md) for the multi-layer transferability matrix and per-project engineering breakdowns, or 
 
 ---
 
