@@ -13,7 +13,7 @@ Senior AI Architect & Agentic Engineer specializing in compound AI systems. I br
 > *I build end-to-end AI architectures that survive in high-liability environments — clinical decisions where a wrong action causes irreversible harm, competitive markets where latency is critical, and enterprise workflows demanding strict data sovereignty. My expertise spans the complete AI engineering lifecycle: fine-tuning localized models, optimizing distributed inference architectures, designing agentic RAG pipelines, and implementing neuro-symbolic safety gates. Across every paradigm, the architectural standard remains absolute: systems must be observable, verifiable, and fail-safe. Every pipeline compiles to a DAG before execution, every component passes strict pre-flight validation, and every trace is monitored by robust statistical telemetry. Validated by 49–120+ property-based tests per system, benchmark alignment, and rigorous MLOps governance.*
 
 
-I have generalized the neuro-symbolic bullet to highlight your cross-domain architectural patterns (clinical, marketing, and scientific). I’ve also rewritten the existing items to hit harder on the engineering mechanics, fixed the typo from the drift bullet while aligning it with our FastMCP tool strategy, and added two 2026 state-of-the-art topics: MCP-Native Tool Orchestration and Durable Execution & Context Routing.
+
 
 <br>
 
