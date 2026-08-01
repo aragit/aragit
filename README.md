@@ -5,15 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Agentic_AI-121212?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Neuro--Symbolic_Systems-121212?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Distributed_Inference-121212?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Deterministic_Governance-121212?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Paradigms-Neuro--Symbolic_%E2%80%A2_Swarm_%E2%80%A2_MAS-0A192F?style=for-the-badge&labelColor=112240">
+  <img src="https://img.shields.io/badge/Cognition-System_2_%E2%80%A2_Test--Time_Scaling-4A154B?style=for-the-badge&labelColor=2D0C2E">
+  <img src="https://img.shields.io/badge/Protocols-MCP_%E2%80%A2_FastMCP_%E2%80%A2_A2A-004D40?style=for-the-badge&labelColor=00251A">
   <br>
-  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-121212?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Hybrid_GraphRAG-121212?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Test--Time_Compute-121212?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Edge_SLMs-121212?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Inference-vLLM_%E2%80%A2_Cache_Routing_%E2%80%A2_SLMs-B71C1C?style=for-the-badge&labelColor=7F0000">
+  <img src="https://img.shields.io/badge/Memory-Hybrid_GraphRAG_%E2%80%A2_Dynamic_Ontologies-E65100?style=for-the-badge&labelColor=BF360C">
+  <img src="https://img.shields.io/badge/Governance-OPA_%E2%80%A2_Deterministic_Gates-1B5E20?style=for-the-badge&labelColor=0D5302">
 </p>
 
 
