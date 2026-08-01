@@ -32,6 +32,12 @@ My current engineering and applied research focuses on advancing these architect
 
 #### Vanguard Open-Source Implementations
 
+
+- **KYC-Auto (Know Your Customer)** | [View Repo](https://github.com/aragit/kyc-auto)    
+  *Automated KYC & AML Screening Agent*       
+  > *Production-grade ReAct agent for PEP/sanctions screening, UBO extraction, and adverse media monitoring — CPU-first with optional GPU acceleration.*      
+  >  `FinTech / RegTech` • `SLM-First Agent` • `Deterministic Risk Scoring`
+
 - **Real-Time Intent Transformer** | [View Repo](https://github.com/aragit/real-time-intent-transformer/tree/main)  
   *Dual-Path Neuro-Symbolic Intent Classification Fabric with Deterministic Governance*  
   > *Production-grade e-commerce intent resolver operating a Perceive-Reason-Govern-Execute-Loop under 50ms CPU latency. Routes high-confidence sessions through a Platt-calibrated ML ensemble (RF/XGBoost) with Polars feature engineering, while ambiguous signals escalate to a LangGraph agentic path — LLM Planner, Neo4j GraphRAG, and Critic Agent validated against a fail-closed OPA/Rego v1 governance gate. Closed-loop meta-cognition via background LLM-as-a-Judge evaluator with drift detection. 261 tests, 0 failures.*  
@@ -52,15 +58,6 @@ My current engineering and applied research focuses on advancing these architect
   > *Inverts the control loop using a Type 2 Symbolic[Neuro] Architecture. A deterministic Symbolic Planner decomposes each clinical case into bounded sub-goals.*   
   > `Neuro-Symbolic` • `Game Theory` • `Ad Tech Simulation`   
 
-- **KYC-Auto (Know Your Customer)** | [View Repo](https://github.com/aragit/kyc-auto)    
-  *Automated KYC & AML Screening Agent*       
-  > *Production-grade ReAct agent for PEP/sanctions screening, UBO extraction, and adverse media monitoring — CPU-first with optional GPU acceleration.*      
-  >  `FinTech / RegTech` • `SLM-First Agent` • `Deterministic Risk Scoring`
-
-- **ICU Vitals Transformer (MCP-native tool)** | [View Repo](https://github.com/aragit/icu-vitals-transformer)   
-  *MCP Clinical Forecasting Skill*     
-  > *A reusable, deterministic clinical tool — not an agent. It ingests FHIR R4 vital signs, generates deterioration forecasts using deterministic trend extrapolation, and returns severity-classified predictions via the Model Context Protocol (MCP).*      
-  >  `MCP Tool` • `Clinical Temporal Monitoring`   
 
 - **Post-RAG Drift Evaluator** | [View Repo](https://github.com/aragit/post-rag-drift-evaluator)   
   *Automated Latent Space Drift Telemetry & Comparative RAG Architecture Benchmark*   
