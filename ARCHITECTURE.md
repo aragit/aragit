@@ -1,9 +1,5 @@
 # The Composable Intelligence Stack
 
-Over more than a decade of engineering high-stakes intelligence engines, my focus has shifted from standard deep learning models to engineering complete, deterministic-bounded cognitive workflows.
-
-My work targets the critical boundary where probabilistic neural models intersect with strict symbolic guardrails—specifically in highly constrained domains like clinical oncology, medical triage, energy grid optimization, financial compliance, and real-time enterprise orchestration. By combining state-of-the-art open-source execution engines (`vLLM`, `LangGraph`, `CrewAI`) with high-performance optimization layers (`Unsloth`, custom PEFT), I build systems that do not just predict outcomes, but safely execute and self-correct in production.
-
 ### Repository Navigation
 This portfolio is organized by **domain and industry** to demonstrate how the same neuro-symbolic architecture principles transfer across verticals:
 
