@@ -8,13 +8,13 @@
 
 <!-- THE COMPOUND ARCHITECT (Theoretical Foundation & System Design) -->
 <!-- THE COMPOUND ARCHITECT (Theoretical Foundation & System Design) -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Architecture-Compound_AI_%26_Multi--Agent_Systems-8B5CF6?labelColor=000000&style=flat-square" alt="Architecture" />
-  <img src="https://img.shields.io/badge/Orchestration-State--Machine_Governance_%26_CNP-14B8A6?labelColor=000000&style=flat-square" alt="Orchestration" />
-  <img src="https://img.shields.io/badge/Topology-Decoupled_Perception_%26_Reasoning-F59E0B?labelColor=000000&style=flat-square" alt="Topology" />
-  <img src="https://img.shields.io/badge/Deployment-High--Liability_Enterprise_%26_Edge-EC4899?labelColor=000000&style=flat-square" alt="Deployment" />
-  <img src="https://img.shields.io/badge/Verification-Closed--Loop_Rule_Validation-3B82F6?labelColor=000000&style=flat-square" alt="Verification" />
-  <img src="https://img.shields.io/badge/Telemetry-Latent_Space_Drift_Mitigation-10B981?labelColor=000000&style=flat-square" alt="Telemetry" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-Compound_AI_%26_Multi--Agent_Systems-333333?labelColor=000000&style=flat-square" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Orchestration-State--Machine_Governance_%26_CNP-333333?labelColor=000000&style=flat-square" alt="Orchestration" />
+  <img src="https://img.shields.io/badge/Topology-Decoupled_Perception_%26_Reasoning-333333?labelColor=000000&style=flat-square" alt="Topology" />
+  <img src="https://img.shields.io/badge/Deployment-High--Liability_Enterprise_%26_Edge-333333?labelColor=000000&style=flat-square" alt="Deployment" />
+  <img src="https://img.shields.io/badge/Verification-Closed--Loop_Rule_Validation-333333?labelColor=000000&style=flat-square" alt="Verification" />
+  <img src="https://img.shields.io/badge/Telemetry-Latent_Space_Drift_Mitigation-333333?labelColor=000000&style=flat-square" alt="Telemetry" />
 </p>
 
 <!-- THE AUTONOMOUS PIPELINE (Applied Workflow & Infrastructure) -->
