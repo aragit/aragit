@@ -510,7 +510,7 @@ Status: Production-hardened after comprehensive security & architectural audit
 
 </details>
 
-### [Agentic Neuro-Symbolic Tutoring Swarm)](https://github.com/aragit/agentic-educational-tutoring-swarm)
+### [Agentic Neuro-Symbolic Tutoring Swarm](https://github.com/aragit/agentic-educational-tutoring-swarm)
 **Closed-Loop Multi-Agent Neuro-Symbolic Educational Platform**     
 > LangGraph, LangChain, NetworkX, Pydantic v2, FastAPI, Redpanda, OPA, HTMX+SSE, Docker Compose, confluent-kafka, SQLite Checkpointer, PEFT LoRA — CPU-First / vLLM-Ready     
 > 🟢 `Active` • `EdTech / AI Education` • `SLM-First Agent` • `Neuro-Symbolic Architecture`
