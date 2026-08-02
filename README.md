@@ -8,7 +8,7 @@
 
 <!-- THE COMPOUND ARCHITECT (Theoretical Foundation & System Design) -->
 <!-- THE COMPOUND ARCHITECT (Theoretical Foundation & System Design) -->
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Architecture-Compound_AI_%26_Multi--Agent_Systems-8B5CF6?labelColor=000000&style=flat-square" alt="Architecture" />
   <img src="https://img.shields.io/badge/Orchestration-State--Machine_Governance_%26_CNP-14B8A6?labelColor=000000&style=flat-square" alt="Orchestration" />
   <img src="https://img.shields.io/badge/Topology-Decoupled_Perception_%26_Reasoning-F59E0B?labelColor=000000&style=flat-square" alt="Topology" />
