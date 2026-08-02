@@ -7,8 +7,23 @@
 <br>
 
 <p align="center">
-  <img src="./aethron_git.png" alt="Aethron Logo" width="200">
+  <!-- THE COMPOUND ARCHITECT (Theoretical Foundation & System Design) -->
+  <img src="https://img.shields.io/badge/Architecture-Compound_AI_%26_Multi--Agent_Systems-0F172A?style=for-the-badge" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Orchestration-State--Machine_Governance_%26_CNP-1E293B?style=for-the-badge" alt="Orchestration" />
+  <img src="https://img.shields.io/badge/Topology-Decoupled_Perception_%26_Reasoning-334155?style=for-the-badge" alt="Topology" />
+  <img src="https://img.shields.io/badge/Deployment-High--Liability_Enterprise_%26_Edge-475569?style=for-the-badge" alt="Deployment" />
+  <img src="https://img.shields.io/badge/Verification-Closed--Loop_Rule_Validation-64748B?style=for-the-badge" alt="Verification" />
+  <img src="https://img.shields.io/badge/Telemetry-Latent_Space_Drift_Mitigation-94A3B8?style=for-the-badge" alt="Telemetry" />
 </p>
+
+<!-- THE AUTONOMOUS PIPELINE (Applied Workflow & Infrastructure) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Workflow-Autonomous_Workspace_Integration-004225?labelColor=000000&style=for-the-badge" alt="Workflow" />
+  <img src="https://img.shields.io/badge/Inference-Local_SLM_%26_Open--Weight_Topologies-013220?labelColor=000000&style=for-the-badge" alt="Inference" />
+  <img src="https://img.shields.io/badge/Data_Topology-Continuous_Graph_Hydration-002114?labelColor=000000&style=for-the-badge" alt="Data" />
+  <img src="https://img.shields.io/badge/Resilience-Extreme_Edge_Kinematic_Pipelines-00110A?labelColor=000000&style=for-the-badge" alt="Resilience" />
+</p>
+
 
 
 
