@@ -7,21 +7,21 @@
 <br>
 
 <!-- THE COMPOUND ARCHITECT (Theoretical Foundation & System Design) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Architecture-Compound_AI_%26_Multi--Agent_Systems-BF360C?labelColor=000000&style=flat-square" alt="Architecture" />
-  <img src="https://img.shields.io/badge/Orchestration-State--Machine_Governance_%26_CNP-BF360C?labelColor=000000&style=flat-square" alt="Orchestration" />
-  <img src="https://img.shields.io/badge/Topology-Decoupled_Perception_%26_Reasoning-BF360C?labelColor=000000&style=flat-square" alt="Topology" />
-  <img src="https://img.shields.io/badge/Deployment-High--Liability_Enterprise_%26_Edge-BF360C?labelColor=000000&style=flat-square" alt="Deployment" />
-  <img src="https://img.shields.io/badge/Verification-Closed--Loop_Rule_Validation-BF360C?labelColor=000000&style=flat-square" alt="Verification" />
-  <img src="https://img.shields.io/badge/Telemetry-Latent_Space_Drift_Mitigation-BF360C?labelColor=000000&style=flat-square" alt="Telemetry" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Architecture-Compound_AI_%26_Multi--Agent_Systems-8B5CF6?labelColor=000000&style=flat-square" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Orchestration-State--Machine_Governance_%26_CNP-14B8A6?labelColor=000000&style=flat-square" alt="Orchestration" />
+  <img src="https://img.shields.io/badge/Topology-Decoupled_Perception_%26_Reasoning-F59E0B?labelColor=000000&style=flat-square" alt="Topology" />
+  <img src="https://img.shields.io/badge/Deployment-High--Liability_Enterprise_%26_Edge-EC4899?labelColor=000000&style=flat-square" alt="Deployment" />
+  <img src="https://img.shields.io/badge/Verification-Closed--Loop_Rule_Validation-3B82F6?labelColor=000000&style=flat-square" alt="Verification" />
+  <img src="https://img.shields.io/badge/Telemetry-Latent_Space_Drift_Mitigation-10B981?labelColor=000000&style=flat-square" alt="Telemetry" />
 </p>
 
 <!-- THE AUTONOMOUS PIPELINE (Applied Workflow & Infrastructure) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Workflow-Autonomous_Workspace_Integration-8B0000?labelColor=2D2D2D&style=flat-square" alt="Workflow" />
-  <img src="https://img.shields.io/badge/Inference-Local_SLM_%26_Open--Weight_Topologies-8B0000?labelColor=2D2D2D&style=flat-square" alt="Inference" />
-  <img src="https://img.shields.io/badge/Data_Topology-Continuous_Graph_Hydration-8B0000?labelColor=2D2D2D&style=flat-square" alt="Data" />
-  <img src="https://img.shields.io/badge/Resilience-Extreme_Edge_Kinematic_Pipelines-8B0000?labelColor=2D2D2D&style=flat-square" alt="Resilience" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Workflow-Autonomous_Workspace_Integration-F97316?labelColor=000000&style=flat-square" alt="Workflow" />
+  <img src="https://img.shields.io/badge/Inference-Local_SLM_%26_Open--Weight_Topologies-6366F1?labelColor=000000&style=flat-square" alt="Inference" />
+  <img src="https://img.shields.io/badge/Data_Topology-Continuous_Graph_Hydration-EF4444?labelColor=000000&style=flat-square" alt="Data" />
+  <img src="https://img.shields.io/badge/Resilience-Extreme_Edge_Kinematic_Pipelines-06B6D4?labelColor=000000&style=flat-square" alt="Resilience" />
 </p>
 
 
