@@ -7,7 +7,8 @@
 <br>
 
 <!-- THE COMPOUND ARCHITECT (Theoretical Foundation & System Design) -->
-<p align="left">
+<!-- THE COMPOUND ARCHITECT (Theoretical Foundation & System Design) -->
+<p align="center">
   <img src="https://img.shields.io/badge/Architecture-Compound_AI_%26_Multi--Agent_Systems-8B5CF6?labelColor=000000&style=flat-square" alt="Architecture" />
   <img src="https://img.shields.io/badge/Orchestration-State--Machine_Governance_%26_CNP-14B8A6?labelColor=000000&style=flat-square" alt="Orchestration" />
   <img src="https://img.shields.io/badge/Topology-Decoupled_Perception_%26_Reasoning-F59E0B?labelColor=000000&style=flat-square" alt="Topology" />
@@ -17,11 +18,11 @@
 </p>
 
 <!-- THE AUTONOMOUS PIPELINE (Applied Workflow & Infrastructure) -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Workflow-Autonomous_Workspace_Integration-F97316?labelColor=000000&style=flat-square" alt="Workflow" />
-  <img src="https://img.shields.io/badge/Inference-Local_SLM_%26_Open--Weight_Topologies-6366F1?labelColor=000000&style=flat-square" alt="Inference" />
-  <img src="https://img.shields.io/badge/Data_Topology-Continuous_Graph_Hydration-EF4444?labelColor=000000&style=flat-square" alt="Data" />
-  <img src="https://img.shields.io/badge/Resilience-Extreme_Edge_Kinematic_Pipelines-06B6D4?labelColor=000000&style=flat-square" alt="Resilience" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Workflow-Autonomous_Workspace_Integration-6B7280?labelColor=111827&style=flat-square" alt="Workflow" />
+  <img src="https://img.shields.io/badge/Inference-Local_SLM_%26_Open--Weight_Topologies-6B7280?labelColor=111827&style=flat-square" alt="Inference" />
+  <img src="https://img.shields.io/badge/Data_Topology-Continuous_Graph_Hydration-6B7280?labelColor=111827&style=flat-square" alt="Data" />
+  <img src="https://img.shields.io/badge/Resilience-Extreme_Edge_Kinematic_Pipelines-6B7280?labelColor=111827&style=flat-square" alt="Resilience" />
 </p>
 
 
