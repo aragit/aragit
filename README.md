@@ -8,30 +8,11 @@
 
 <!-- THE COMPOUND ARCHITECT (Theoretical Foundation & System Design) -->
 <!-- THE COMPOUND ARCHITECT (Theoretical Foundation & System Design) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Architecture-Compound_AI_%26_Multi--Agent_Systems-333333?labelColor=000000&style=flat-square" alt="Architecture" />
-  <img src="https://img.shields.io/badge/Orchestration-State--Machine_Governance_%26_CNP-333333?labelColor=000000&style=flat-square" alt="Orchestration" />
-  <img src="https://img.shields.io/badge/Topology-Decoupled_Perception_%26_Reasoning-333333?labelColor=000000&style=flat-square" alt="Topology" />
-  <img src="https://img.shields.io/badge/Deployment-High--Liability_Enterprise_%26_Edge-333333?labelColor=000000&style=flat-square" alt="Deployment" />
-  <img src="https://img.shields.io/badge/Verification-Closed--Loop_Rule_Validation-333333?labelColor=000000&style=flat-square" alt="Verification" />
-  <img src="https://img.shields.io/badge/Telemetry-Latent_Space_Drift_Mitigation-333333?labelColor=000000&style=flat-square" alt="Telemetry" />
-</p>
-
-<!-- THE AUTONOMOUS PIPELINE (Applied Workflow & Infrastructure) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Workflow-Autonomous_Workspace_Integration-6B7280?labelColor=111827&style=flat-square" alt="Workflow" />
-  <img src="https://img.shields.io/badge/Inference-Local_SLM_%26_Open--Weight_Topologies-6B7280?labelColor=111827&style=flat-square" alt="Inference" />
-  <img src="https://img.shields.io/badge/Data_Topology-Continuous_Graph_Hydration-6B7280?labelColor=111827&style=flat-square" alt="Data" />
-  <img src="https://img.shields.io/badge/Resilience-Extreme_Edge_Kinematic_Pipelines-6B7280?labelColor=111827&style=flat-square" alt="Resilience" />
-</p>
-
-
-
 
 ---
 
 
-Senior AI Architect & Agentic Engineer specializing in compound AI systems. I bridge advanced neural capabilities—from customized SLMs to multi-agent orchestration—with deterministic governance to deliver safe, scalable autonomy for enterprise domains.
+AI Architect & Agentic Engineer specializing in compound AI systems. I bridge advanced neural capabilities—from customized SLMs to multi-agent orchestration—with deterministic governance to deliver safe, scalable autonomy for enterprise domains.
 
 > *I build end-to-end AI architectures that survive in high-liability environments — clinical decisions where a wrong action causes irreversible harm, competitive markets where latency is critical, and enterprise workflows demanding strict data sovereignty. My expertise spans the complete AI engineering lifecycle: fine-tuning localized models, optimizing distributed inference architectures, designing agentic RAG pipelines, and implementing neuro-symbolic architecture. Across every paradigm, the architectural standard remains absolute: systems must be observable, verifiable, and fail-safe.*
 
