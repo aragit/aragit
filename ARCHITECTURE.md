@@ -454,22 +454,6 @@ Status: Production-hardened after comprehensive security & architectural audit
 
 ## 🏦 Finance & RegTech
 
-### [• Regulatory Intelligence Agent](https://github.com/aragit/regulatory-intelligence-agent)
-**Autonomous Compliance Monitoring Engine**
-> Claude Opus 4.6, MCP, Neo4j Policy Graph, QuantLib, SEC EDGAR API, OpenTelemetry - CI/CD    
-> <span style="color:#8B0000">⬤</span> `Private` • `FinTech / RegTech` • `Neuro-Symbolic AI` • `Dynamic Tool Use`
-
-<details>
-<summary><b>Expand Architecture Insight →</b></summary>
-
-- **Hybrid Framework:** Neural primary controller monitors regulatory landscapes, dynamically orchestrating symbolic tools for impact quantification, policy tracing, and stakeholder notification — reasoning across jurisdictions and business lines.
-- **Cross-Domain Regulatory Reasoning:** The LLM reads unstructured regulatory text (SEC, FINRA, ECB, FCA), identifies affected internal policies via Neo4j knowledge graph traversal, and decides which risk models require re-validation — interpreting intent beyond keyword matching.
-- **Dynamic Impact Quantification:** Monte Carlo simulation (QuantLib) runs only when the LLM determines quantitative impact is material. The LLM decides simulation parameters, interprets tail-risk outputs, and decides whether to escalate to human risk officers.
-- **Multi-Channel Orchestration:** The LLM decides notification strategy — which trading desks (Slack), which compliance officers (email), which legal teams (Jira) — based on policy graph analysis of organizational ownership and historical response patterns.
-- **Symbolic Audit Boundary:** Every regulatory text → tool call → output decision is fully traced (OpenTelemetry). Deterministic policy verifier ensures no recommendation violates hard constraints (capital requirements, position limits, blackout periods). Immutable audit trail for regulator examination.
-
-</details>
-
 ### [• KYC-Auto (Know Your Customer)](https://github.com/aragit/kyc-auto)
 **Automated KYC & AML Screening Agent**
 > Qwen2.5-7B-Instruct, LangChain, OpenSanctions, Neo4j UBO Graph, PostgreSQL, Redis, FastAPI, OpenTelemetry — CPU-First / vLLM-Ready    
