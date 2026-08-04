@@ -4,21 +4,19 @@
 <b>Senior Agentic AI Architect • Delivery Lead</b>
 
 <br>
-<p align="center">
-  <b>Building Enterprise-Grade, Agentic AI Systems for High-Stakes Domains</b><br>
-</p>
-
-<br>
 
 <a href="https://github.com/aragit">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1200&color=00F0FF&background=0D1117&center=true&vCenter=true&width=820&height=50&lines=%24+agentic-ctl+status+--telemetry;[OK]+System+State%3A+Nominal+%7C+Fail-Closed+OPA+Gates+Active;[RUNNING]+Real-Time+Intent+Transformer+(P99+%3C+50ms+CPU);[SYNCED]+vLLM-CCR+Global+Radix+Tree+Prefix+Cache;[VERIFIED]+Speculative+Clinical+GraphRAG+%2B+Rego+v1;[TELEMETRY]+Post-RAG+Embedding+Drift+(D_JS+Bounds+Nominal)" alt="Agentic System Telemetry Trace" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=1200&color=00FF41&background=0D1117&center=true&vCenter=true&width=820&height=45&lines=%24+agentic-ctl+status+--system-mesh;%5BEXEC%5D%3A+Perceive-Reason-Govern-Execute+Loop+(P99+%3C+50ms+CPU);%5BPOLICY%5D%3A+OPA%2FRego+v1+Deterministic+Guardrails+%5BENFORCED%5D;%5BCACHE%5D%3A+vLLM-CCR+Global+Radix+Tree+Prefix+Sync;%5BINFERENCE%5D%3A+Test-Time+Compute+Scaling+%26+PRM+Supervision;%5BTELEMETRY%5D%3A+FastMCP+Embedding+Decay+Bounds+(D_JS+Nominal)" alt="Agentic System Telemetry Trace" />
 </a>
 
 </div>
 
+<br>
+
 <p align="center">
   <b>Building Enterprise-Grade, Agentic AI Systems for High-Stakes Domains</b><br>
 </p>
+
 
 <br>
 
