@@ -91,10 +91,9 @@ My current engineering and applied research focuses on advancing these architect
 
 
 - **Post-RAG Drift Evaluator (Sentrix Evaluator)** | [View Repo](https://github.com/aragit/post-rag-drift-evaluator)
-
-*Real-Time Latent Space Drift Telemetry & Closed-Loop Agentic Control Plane*     
->*A production-grade statistical monitoring engine tracking embedding distribution decay ($D_{JS}$) in high-dimensional vector spaces. Combines PCA manifold projection and Gaussian KDE density estimation with an auto-provisioned Prometheus/Grafana stack to drive adaptive test-time compute scaling and selective KV-cache eviction.*
-> `Real-Time Embedding Telemetry` • `Prometheus & Grafana Observability` • `Adaptive Test-Time Compute`
+  *Real-Time Latent Space Drift Telemetry & Closed-Loop Agentic Control Plane*         
+  >*A production-grade statistical monitoring engine tracking embedding distribution decay ($D_{JS}$) in high-dimensional vector spaces. Combines PCA manifold projection and Gaussian KDE density estimation   with an auto-provisioned Prometheus/Grafana stack to drive adaptive test-time compute scaling and selective KV-cache eviction.*    
+  > `Real-Time Embedding Telemetry` • `Prometheus & Grafana Observability` • `Adaptive Test-Time Compute`
 
 <br> 
 
