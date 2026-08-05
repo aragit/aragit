@@ -90,10 +90,11 @@ My current engineering and applied research focuses on advancing these architect
   > `Neuro-Symbolic` • `Game Theory` • `Ad Tech Simulation`   
 
 
-- **Post-RAG Drift Evaluator** | [View Repo](https://github.com/aragit/post-rag-drift-evaluator)   
-  *Automated Latent Space Drift Telemetry & Comparative RAG Architecture Benchmark*   
-  >*A population-level statistical monitoring engine tracking embedding distribution decay over time. Utilizes Principal Component Analysis for dimensionality reduction and Gaussian Kernel Density Estimation to calculate Jensen-Shannon Divergence bounds ($D_{JS}$) across competing RAG topologies.*       
-  > `Embedding Drift Telemetry` • `Comparative RAG Evaluation` • `Statistical MLOps`   
+- **Post-RAG Drift Evaluator (Sentrix Evaluator)** | [View Repo](https://github.com/aragit/post-rag-drift-evaluator)
+
+*Real-Time Latent Space Drift Telemetry & Closed-Loop Agentic Control Plane*     
+>*A production-grade statistical monitoring engine tracking embedding distribution decay ($D_{JS}$) in high-dimensional vector spaces. Combines PCA manifold projection and Gaussian KDE density estimation with an auto-provisioned Prometheus/Grafana stack to drive adaptive test-time compute scaling and selective KV-cache eviction.*
+> `Real-Time Embedding Telemetry` • `Prometheus & Grafana Observability` • `Adaptive Test-Time Compute`
 
 <br> 
 
