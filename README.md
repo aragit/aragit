@@ -39,9 +39,9 @@
 ---
 
 
-AI Architect & Agentic Engineer specializing in compound AI systems. I bridge advanced neural capabilities—from customized SLMs to multi-agent orchestration—with deterministic governance to deliver safe, scalable autonomy for enterprise domains.
+AI Architect & Agentic Engineer specializing in compound AI systems.  I build reference architectures where neural perception is strictly bounded by deterministic logic, and where every autonomous decision leaves a cryptographically verifiable audit trail.
 
-> *I build end-to-end AI architectures that survive in high-liability environments — clinical decisions where a wrong action causes irreversible harm, competitive markets where latency is critical, and enterprise workflows demanding strict data sovereignty. My expertise spans the complete AI engineering lifecycle: fine-tuning localized models, optimizing distributed inference architectures, designing agentic RAG pipelines, and implementing neuro-symbolic architecture. Across every paradigm, the architectural standard remains absolute: systems must be observable, verifiable, and fail-safe.*
+> *I design and deploy end-to-end AI architectures that survive in high-liability environments — clinical decisions where a wrong action causes irreversible harm, competitive markets where latency is critical, and enterprise workflows demanding strict data sovereignty. My expertise spans the complete AI engineering lifecycle: fine-tuning localized models, optimizing distributed inference architectures, designing agentic RAG pipelines, and implementing neuro-symbolic architecture. Across every paradigm, the architectural standard remains absolute: systems must be observable, verifiable, and fail-safe.*
 
 
 
