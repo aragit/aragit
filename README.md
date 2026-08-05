@@ -60,99 +60,61 @@ My current engineering and applied research focuses on advancing these architect
 ---
 
 
-<h3 align="left">⚡ Vanguard Open-Source Implementations</h3>
+<br/>
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <!-- ROW 1 -->
-  <tr>
-    <td width="50%" valign="top" style="padding: 12px;">
-      <a href="https://github.com/aragit/kyc-auto" target="_blank">
-        <img src="https://img.shields.io/badge/KYC--Auto_(Know_Your_Customer)-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117" alt="KYC-Auto Repo" />
-      </a>
-      <br>
-      <p><b>Automated KYC & AML Screening Agent</b></p>
-      <p><i>Production-grade ReAct agent for PEP/sanctions screening, UBO extraction, and adverse media monitoring — CPU-first with optional GPU acceleration.</i></p>
-      <br>
-      <img src="https://img.shields.io/badge/FinTech_%2F_RegTech-161B22?style=flat-square&color=00FF41" />
-      <img src="https://img.shields.io/badge/SLM--First_Agent-161B22?style=flat-square&color=58A6FF" />
-      <img src="https://img.shields.io/badge/Deterministic_Risk_Scoring-161B22?style=flat-square&color=A371F7" />
-    </td>
-    <td width="50%" valign="top" style="padding: 12px;">
-      <a href="https://github.com/aragit/real-time-intent-transformer/tree/main" target="_blank">
-        <img src="https://img.shields.io/badge/Real--Time_Intent_Transformer-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117" alt="Intent Transformer Repo" />
-      </a>
-      <br>
-      <p><b>Dual-Path Neuro-Symbolic Intent Classification Fabric with Deterministic Governance</b></p>
-      <p><i>Production-grade e-commerce intent resolver operating a Perceive-Reason-Govern-Execute-Loop under 50ms CPU latency. Routes high-confidence sessions through a Platt-calibrated ML ensemble (RF/XGBoost) with Polars feature engineering, while ambiguous signals escalate to a LangGraph agentic path — LLM Planner, Neo4j GraphRAG, and Critic Agent validated against a fail-closed OPA/Rego v1 governance gate. Closed-loop meta-cognition via background LLM-as-a-Judge evaluator with drift detection. 261 tests, 0 failures.</i></p>
-      <br>
-      <img src="https://img.shields.io/badge/E--Commerce_Personalization-161B22?style=flat-square&color=58A6FF" />
-      <img src="https://img.shields.io/badge/Agentic_AI-161B22?style=flat-square&color=00FF41" />
-      <img src="https://img.shields.io/badge/Policy--as--Code_Governance-161B22?style=flat-square&color=FF7A00" />
-    </td>
-  </tr>
+## ⚡ Vanguard Open-Source Implementations
 
-  <!-- ROW 2 -->
-  <tr>
-    <td width="50%" valign="top" style="padding: 12px;">
-      <a href="https://github.com/aragit/vllm-context-cache-router/tree/main" target="_blank">
-        <img src="https://img.shields.io/badge/vLLM_Context_Cache_Router_(vLLM--CCR)-0D1117?style=for-the-badge&logo=github&logoColor=A371F7&labelColor=0D1117" alt="vLLM CCR Repo" />
-      </a>
-      <br>
-      <p><b>State-Aware Max-Prefix Orchestration Fabric for Distributed Inference</b></p>
-      <p><i>Eliminates cross-node cache fragmentation in 2026 Compound AI workflows. Synchronizes a global Radix Tree prefix-matching topology with a concurrency-hardened RLock memory abstraction to neutralize TOCTOU allocation panics under extreme multi-threaded agentic load.</i></p>
-      <br>
-      <img src="https://img.shields.io/badge/Inference_Infrastructure-161B22?style=flat-square&color=A371F7" />
-      <img src="https://img.shields.io/badge/Distributed_Systems-161B22?style=flat-square&color=00E5FF" />
-      <img src="https://img.shields.io/badge/Concurrency_Hardening-161B22?style=flat-square&color=00FF41" />
-    </td>
-    <td width="50%" valign="top" style="padding: 12px;">
-      <a href="https://github.com/aragit/speculative-clinical-graphrag" target="_blank">
-        <img src="https://img.shields.io/badge/Speculative_Clinical_GraphRAG-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0D1117" alt="Clinical GraphRAG Repo" />
-      </a>
-      <br>
-      <p><b>Hybrid Neuro-Symbolic Clinical Knowledge Core</b></p>
-      <p><i>A clinical decision system with multi-node cyclic validation network integrating graph neural perception with deterministic medical ontology verification combining active graph-driven reasoning, sub-5ms OPA Rego policy governance, and a real-time MAS Glass Box Cockpit.</i></p>
-      <br>
-      <img src="https://img.shields.io/badge/Neuro--Symbolic_Hybrid-161B22?style=flat-square&color=00E5FF" />
-      <img src="https://img.shields.io/badge/Clinical_Decision_Support-161B22?style=flat-square&color=58A6FF" />
-      <img src="https://img.shields.io/badge/Hybrid_RAG-161B22?style=flat-square&color=A371F7" />
-      <img src="https://img.shields.io/badge/MCP_Control_Plane-161B22?style=flat-square&color=FF7A00" />
-      <img src="https://img.shields.io/badge/OPA_Safety_Gate-161B22?style=flat-square&color=00FF41" />
-      <img src="https://img.shields.io/badge/MAS_Glass_Box_UI-161B22?style=flat-square&color=D97706" />
-    </td>
-  </tr>
+<div align="center">
 
-  <!-- ROW 3 -->
-  <tr>
-    <td width="50%" valign="top" style="padding: 12px;">
-      <a href="https://github.com/aragit/agentic-nash-marketing" target="_blank">
-        <img src="https://img.shields.io/badge/Nash_Marketing_Agents_(Game_Theory)-0D1117?style=for-the-badge&logo=github&logoColor=FF7A00&labelColor=0D1117" alt="Nash Agents Repo" />
-      </a>
-      <br>
-      <p><b>Neuro-Symbolic Multi-Agent Ad Auction Simulator with Nash Equilibrium Solver</b></p>
-      <p><i>Inverts the control loop using a Type 2 Symbolic[Neuro] Architecture. A deterministic Symbolic Planner decomposes each clinical case into bounded sub-goals.</i></p>
-      <br>
-      <img src="https://img.shields.io/badge/Neuro--Symbolic-161B22?style=flat-square&color=FF7A00" />
-      <img src="https://img.shields.io/badge/Game_Theory-161B22?style=flat-square&color=A371F7" />
-      <img src="https://img.shields.io/badge/Ad_Tech_Simulation-161B22?style=flat-square&color=58A6FF" />
-    </td>
-    <td width="50%" valign="top" style="padding: 12px;">
-      <a href="https://github.com/aragit/post-rag-drift-evaluator" target="_blank">
-        <img src="https://img.shields.io/badge/Post--RAG_Drift_Evaluator_(Sentrix)-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117" alt="Sentrix Evaluator Repo" />
-      </a>
-      <br>
-      <p><b>Real-Time Latent Space Drift Telemetry & Closed-Loop Agentic Control Plane</b></p>
-      <p><i>A production-grade statistical monitoring engine tracking embedding distribution decay ($D_{JS}$) in high-dimensional vector spaces. Combines PCA manifold projection and Gaussian KDE density estimation with an auto-provisioned Prometheus/Grafana stack to drive adaptive test-time compute scaling and selective KV-cache eviction.</i></p>
-      <br>
-      <img src="https://img.shields.io/badge/Real--Time_Embedding_Telemetry-161B22?style=flat-square&color=00FF41" />
-      <img src="https://img.shields.io/badge/Prometheus_%26_Grafana_Observability-161B22?style=flat-square&color=FF7A00" />
-      <img src="https://img.shields.io/badge/Adaptive_Test--Time_Compute-161B22?style=flat-square&color=58A6FF" />
-    </td>
-  </tr>
-</table>
+<!-- ROW 1: KYC-Auto & Real-Time Intent Transformer -->
+<a href="https://github.com/aragit/kyc-auto">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=kyc-auto&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=kyc-auto&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="KYC-Auto" />
+</picture>
+</a>
+<a href="https://github.com/aragit/real-time-intent-transformer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=real-time-intent-transformer&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=real-time-intent-transformer&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Real-Time Intent Transformer" />
+</picture>
+</a>
 
-<br>
+<br/>
 
+<!-- ROW 2: vLLM Context Cache Router & Speculative Clinical GraphRAG -->
+<a href="https://github.com/aragit/vllm-context-cache-router">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=vllm-context-cache-router&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=vllm-context-cache-router&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="vLLM Context Cache Router" />
+</picture>
+</a>
+<a href="https://github.com/aragit/speculative-clinical-graphrag">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=speculative-clinical-graphrag&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=speculative-clinical-graphrag&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Speculative Clinical GraphRAG" />
+</picture>
+</a>
+
+<br/>
+
+<!-- ROW 3: Agentic Nash Marketing & Post-RAG Drift Evaluator -->
+<a href="https://github.com/aragit/agentic-nash-marketing">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=agentic-nash-marketing&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=agentic-nash-marketing&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Nash Marketing Agents" />
+</picture>
+</a>
+<a href="https://github.com/aragit/post-rag-drift-evaluator">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=post-rag-drift-evaluator&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=post-rag-drift-evaluator&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Post-RAG Drift Evaluator" />
+</picture>
+</a>
+
+</div>
+
+<br/>
 
 #### Vanguard Open-Source Implementations
 
