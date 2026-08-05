@@ -62,7 +62,7 @@ My current engineering and applied research focuses on advancing these architect
 
 
 
-#### Vanguard Open-Source Implementations
+#### Recent Vanguard Open-Source Implementations
 
 
 - **KYC-Auto (Know Your Customer)** | [View Repo](https://github.com/aragit/kyc-auto)    
