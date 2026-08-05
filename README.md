@@ -19,17 +19,19 @@
 
 <br>
 
-<!-- Website Button (Orange '>' prompt + Dark Orange icon on right) -->
+<!-- Website Button: Dark background (#0D1117), Dark Orange prompt icon & right icon (#D97706) -->
 <p align="center">
-  <a href="https://aragit.github.io/" target="_blank"><img src="https://img.shields.io/badge/%3E-Visit_Website-0D1117?style=for-the-badge&labelColor=FF7A00" alt="Visit Website" /><img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=googlechrome&logoColor=D97706" alt="Website Icon" /></a>
+  <a href="https://aragit.github.io/" target="_blank"><img src="https://img.shields.io/badge/Visit_Website-0D1117?style=for-the-badge&logo=terminal&logoColor=D97706&labelColor=0D1117" alt="Visit Website" /><img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=googlechrome&logoColor=D97706" alt="Website Icon" /></a>
 </p>
 
-
-
-
-
-
 <br>
+
+
+
+
+
+
+
 
 <!-- THE COMPOUND ARCHITECT (Theoretical Foundation & System Design) -->
 <!-- THE COMPOUND ARCHITECT (Theoretical Foundation & System Design) -->
