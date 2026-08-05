@@ -60,61 +60,7 @@ My current engineering and applied research focuses on advancing these architect
 ---
 
 
-<br/>
 
-## ⚡ Vanguard Open-Source Implementations
-
-<div align="center">
-
-<!-- ROW 1: KYC-Auto & Real-Time Intent Transformer -->
-<a href="https://github.com/aragit/kyc-auto">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=kyc-auto&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=kyc-auto&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="KYC-Auto" />
-</picture>
-</a>
-<a href="https://github.com/aragit/real-time-intent-transformer">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=real-time-intent-transformer&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=real-time-intent-transformer&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Real-Time Intent Transformer" />
-</picture>
-</a>
-
-<br/>
-
-<!-- ROW 2: vLLM Context Cache Router & Speculative Clinical GraphRAG -->
-<a href="https://github.com/aragit/vllm-context-cache-router">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=vllm-context-cache-router&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=vllm-context-cache-router&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="vLLM Context Cache Router" />
-</picture>
-</a>
-<a href="https://github.com/aragit/speculative-clinical-graphrag">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=speculative-clinical-graphrag&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=speculative-clinical-graphrag&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Speculative Clinical GraphRAG" />
-</picture>
-</a>
-
-<br/>
-
-<!-- ROW 3: Agentic Nash Marketing & Post-RAG Drift Evaluator -->
-<a href="https://github.com/aragit/agentic-nash-marketing">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=agentic-nash-marketing&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=agentic-nash-marketing&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Nash Marketing Agents" />
-</picture>
-</a>
-<a href="https://github.com/aragit/post-rag-drift-evaluator">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=post-rag-drift-evaluator&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=aragit&repo=post-rag-drift-evaluator&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Post-RAG Drift Evaluator" />
-</picture>
-</a>
-
-</div>
-
-<br/>
 
 #### Vanguard Open-Source Implementations
 
