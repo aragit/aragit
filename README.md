@@ -17,6 +17,15 @@
   <b>Building Enterprise-Grade, Agentic AI Systems for High-Stakes Domains</b><br>
 </p>
 
+<!-- Website Button -->
+<p align="center">
+  <a href="https://aragit.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/%3E_Visit_Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF41&labelColor=0D1117" alt="Visit Website" />
+  </a>
+</p>
+
+<br>
+
 
 <br>
 
