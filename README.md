@@ -48,6 +48,81 @@ AI Architect & Agentic Engineer specializing in compound AI systems.  I build re
 
 <br>
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><b>🔴 🟡 🟢 crispr-orchestrator — deterministic-v2</b></sub>
+      <pre><code>$ orchestrator run --workflow="crispr"
+[PERCEIVE] Ingesting genome (3.2B bp)
+[GOVERN] Intercepting candidate node A
+[DENY] POLICY_VIOLATION (strict_off_target)
+  └─ Risk: 0.4% match with 'TP53'
+[RE-PLAN] Reverting to Candidate B...
+[PASS] Zero critical matches detected
+[STATUS] SAFE DESIGN LOCKED</code></pre>
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>🔴 🟡 🟢 system2-inference — compute-scaling-v1</b></sub>
+      <pre><code>$ python -m system2_inference.prm
+[SCALE] Complexity: 0.94 (4x compute)
+[PRM_SCORE] Step 1: 0.98 | Step 2: 0.41
+[DELIBERATE] MCTS search tree expansion
+[VERIFY] Mathematical assertion check
+[CORRECT] Hallucination -> Rollback state
+[STATUS] REASONING TRACE LOCKED</code></pre>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><b>🔴 🟡 🟢 fastmcp-telemetry — observer-v1</b></sub>
+      <pre><code>$ fastmcp observe --metric="jsd"
+[SAMPLER] Vector window: 10,000 tokens
+[COMPUTE] Calculating D_JS divergence...
+[ALERT] DRIFT_DETECTED (D_JS = 0.42 > 0.25)
+  └─ Shift in Financial Intent Vector
+[ROUTER] Dispatching signal to agent
+[STATUS] SENSOR ROUTE REROUTED OK</code></pre>
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>🔴 🟡 🟢 edge-native-slm — speculative-v4</b></sub>
+      <pre><code>$ edge-infer run --quant="INT4"
+[LOAD] Local INT4 Quantization active
+[DECODE] Speculative Decoding enabled
+[METRIC] TTFT: 480.0ms -> 18.2ms
+[THROUGHPUT] 142 tok/s (Local Edge)
+[CHECK] Output bounded by schema
+[STATUS] EDGE RUNTIME READY</code></pre>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><b>🔴 🟡 🟢 graph-hydrator — neo4j-rag-v3</b></sub>
+      <pre><code>$ python -m hybrid_rag.graph_hydrator
+[INGEST] 14,200 unmapped enterprise logs
+[EXTRACT] Relational triples extracted
+[VERIFY] Edge (ServiceA)->(DatabaseB)
+[PERSIST] Written 1,184 triples to Neo4j
+[STATUS] ONTOLOGY GRAPH HYDRATED</code></pre>
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>🔴 🟡 🟢 vllm-ccr — durable-router-v2</b></sub>
+      <pre><code>$ python -m vllm_ccr.durable_router
+[WORKER-0] cache_hit_ratio: 0.0
+[HIT] prefix_tokens: 14 | worker_id: 0
+[PASS] ttft_ms: 550.0 -> 12.0
+[RECOVER] LangGraph state restored
+[STATUS] DURABLE ROUTER READY</code></pre>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
 My current engineering and applied research focuses on advancing these architectures through:
 
 *   **Neuro-Symbolic Architectures Across High-Stakes Domains**: Architecting pipelines where neural perception is strictly bounded by deterministic logic. Applied patterns include cyclic validation loops for multi-drug optimization (Clinical/Medicare), Nash equilibrium solvers for multi-agent ad auctions (Marketing/Game Theory), and verifiable workflow generation (Scientific Discovery).   
