@@ -49,14 +49,14 @@ AI Architect & Agentic Engineer specializing in compound AI systems.  I build re
 <br>
 
 
-🔬 My current engineering and applied research focuses on advancing these architectures through:
+### 🔬 My current engineering and applied research focuses on advancing these architectures through:
 
-*   **Neuro-Symbolic Architectures Across High-Stakes Domains**: Architecting pipelines where neural perception is strictly bounded by deterministic logic. Applied patterns include cyclic validation loops for multi-drug optimization (Clinical/Medicare), Nash equilibrium solvers for multi-agent ad auctions (Marketing/Game Theory), and verifiable workflow generation (Scientific Discovery).   
-*   **Test-Time Compute Scaling & Process Supervision**: Architecting "System 2" inference pipelines that dynamically scale test-time compute based on task complexity. Utilizing Process Reward Models (PRMs) and search-based reasoning to enable agents to deliberate, verify, and correct intermediate steps before taking action. 
-*   **Statistical Telemetry & Drift Observability**: Building deterministic, FastMCP-native statistical monitoring engines. Translating embedding distribution decay into actionable telemetry—such as calculating strict Jensen-Shannon Divergence ($D_{JS}$) bounds—to act as dynamic routing sensors for multi-agent orchestrators.
-*   **Edge-Native SLMs & Speculative Decoding**: Optimizing Small Language Models (SLMs) and time-series foundations for localized, high-throughput edge inference. Leveraging extreme quantization and speculative decoding to minimize TTFT (Time-To-First-Token) while preserving deterministic guardrails.
-*   **Continuous Graph Ontology Hydration**: Advancing Hybrid RAG architectures by shifting from static domain taxonomies to dynamic, self-constructing knowledge graphs. Enabling agentic loops to autonomously extract, verify, and persist relational logic from unstructured enterprise telemetry.
-* **Durable Execution & State-Aware Context Routing**: Engineering long-horizon autonomous pipelines that survive infrastructure interruptions. Integrating orchestrators like LangGraph with durable execution substrates and global prefix-aware KV cache routing to maintain flawless context state across distributed multi-agent operations.
+*   **🧠 Neuro-Symbolic Architectures Across High-Stakes Domains**: Architecting pipelines where neural perception is strictly bounded by deterministic logic. Applied patterns include cyclic validation loops for multi-drug optimization (Clinical/Medicare), Nash equilibrium solvers for multi-agent ad auctions (Marketing/Game Theory), and verifiable workflow generation (Scientific Discovery).   
+*   **⚡ Test-Time Compute Scaling & Process Supervision**: Architecting "System 2" inference pipelines that dynamically scale test-time compute based on task complexity. Utilizing Process Reward Models (PRMs) and search-based reasoning to enable agents to deliberate, verify, and correct intermediate steps before taking action. 
+*   **📡 Statistical Telemetry & Drift Observability**: Building deterministic, FastMCP-native statistical monitoring engines. Translating embedding distribution decay into actionable telemetry—such as calculating strict Jensen-Shannon Divergence ($D_{JS}$) bounds—to act as dynamic routing sensors for multi-agent orchestrators.
+*   **🔷 Edge-Native SLMs & Speculative Decoding**: Optimizing Small Language Models (SLMs) and time-series foundations for localized, high-throughput edge inference. Leveraging extreme quantization and speculative decoding to minimize TTFT (Time-To-First-Token) while preserving deterministic guardrails.
+*   **🕸️ Continuous Graph Ontology Hydration**: Advancing Hybrid RAG architectures by shifting from static domain taxonomies to dynamic, self-constructing knowledge graphs. Enabling agentic loops to autonomously extract, verify, and persist relational logic from unstructured enterprise telemetry.
+* **🛡️ Durable Execution & State-Aware Context Routing**: Engineering long-horizon autonomous pipelines that survive infrastructure interruptions. Integrating orchestrators like LangGraph with durable execution substrates and global prefix-aware KV cache routing to maintain flawless context state across distributed multi-agent operations.
 
 <br>
 
