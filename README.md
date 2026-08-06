@@ -48,6 +48,40 @@ AI Architect & Agentic Engineer specializing in compound AI systems.  I build re
 
 <br>
 
+<h2 align="center">🔬 Research Program</h2>
+
+```mermaid
+graph TD
+    A[🧠 Neuro-Symbolic Safety] --> A1[AXIOMIS / SentriXIA]
+    A --> A2[Procurement Swarm]
+    B[⚡ Test-Time Compute] --> B1[PRMs]
+    B --> B2[Formal Verification]
+    C[📡 Telemetry & Drift] --> C1[edge-slm-optimizer]
+    D[🔷 Edge SLMs & Routing] --> D1[Quantization]
+    D --> D2[KV-Cache Router]
+    E[🕸️ Ontology Hydration] --> E1[Clinical · Trade · Permits]
+    F[🛡️ Durable Execution] --> F1[Event Replay]
+    F --> F2[Federated Eval]
+    
+    style A fill:#2ea44f,stroke:#fff,color:#fff
+    style B fill:#0969da,stroke:#fff,color:#fff
+    style C fill:#bf3989,stroke:#fff,color:#fff
+    style D fill:#cf222e,stroke:#fff,color:#fff
+    style E fill:#7c3aed,stroke:#fff,color:#fff
+    style F fill:#ea580c,stroke:#fff,color:#fff
+```
+
+| Track | Focus | Maturity |
+|:-----:|-------|:--------:|
+| 🧠 | Clinical & procurement safety kernels with Type-2 invariants | `Ref Impl` |
+| ⚡ | Process supervision + formal workflow verification | `R&D` |
+| 📡 | JSD bounds, board-level power telemetry, drift sensors | `Ref Impl` |
+| 🔷 | INT8/INT4 SLMs, radix-tree routing, session migration | `MVP` |
+| 🕸️ | Dynamic knowledge graphs from unstructured telemetry | `R&D` |
+| 🛡️ | Replayable event buses, federated model evaluation | `Design` |
+
+> **Principle:** *Every compliance-critical path is deterministic, hash-chained, and replayable.*
+
 
 
 
