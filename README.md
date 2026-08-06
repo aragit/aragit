@@ -49,7 +49,7 @@ AI Architect & Agentic Engineer specializing in compound AI systems.  I build re
 <br>
 
 
-### 🔬 My current engineering and applied research focuses on advancing these architectures through:
+<h3>🔬 <code>My Current Engineering and Applied Research Focuses</code></h3>
 
 *   **🧠 Neuro-Symbolic Architectures Across High-Stakes Domains**: Architecting pipelines where neural perception is strictly bounded by deterministic logic. Applied patterns include cyclic validation loops for multi-drug optimization (Clinical/Medicare), Nash equilibrium solvers for multi-agent ad auctions (Marketing/Game Theory), and verifiable workflow generation (Scientific Discovery).   
 *   **⚡ Test-Time Compute Scaling & Process Supervision**: Architecting "System 2" inference pipelines that dynamically scale test-time compute based on task complexity. Utilizing Process Reward Models (PRMs) and search-based reasoning to enable agents to deliberate, verify, and correct intermediate steps before taking action. 
