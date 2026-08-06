@@ -48,28 +48,17 @@ AI Architect & Agentic Engineer specializing in compound AI systems.  I build re
 
 <br>
 
-<h2 align="center">🔬 Research Program</h2>
 
-```mermaid
-graph TD
-    A[🧠 Neuro-Symbolic Safety] --> A1[AXIOMIS / SentriXIA]
-    A --> A2[Procurement Swarm]
-    B[⚡ Test-Time Compute] --> B1[PRMs]
-    B --> B2[Formal Verification]
-    C[📡 Telemetry & Drift] --> C1[edge-slm-optimizer]
-    D[🔷 Edge SLMs & Routing] --> D1[Quantization]
-    D --> D2[KV-Cache Router]
-    E[🕸️ Ontology Hydration] --> E1[Clinical · Trade · Permits]
-    F[🛡️ Durable Execution] --> F1[Event Replay]
-    F --> F2[Federated Eval]
-    
-    style A fill:#2ea44f,stroke:#fff,color:#fff
-    style B fill:#0969da,stroke:#fff,color:#fff
-    style C fill:#bf3989,stroke:#fff,color:#fff
-    style D fill:#cf222e,stroke:#fff,color:#fff
-    style E fill:#7c3aed,stroke:#fff,color:#fff
-    style F fill:#ea580c,stroke:#fff,color:#fff
-```
+🔬 My current engineering and applied research focuses on advancing these architectures through:
+
+*   **Neuro-Symbolic Architectures Across High-Stakes Domains**: Architecting pipelines where neural perception is strictly bounded by deterministic logic. Applied patterns include cyclic validation loops for multi-drug optimization (Clinical/Medicare), Nash equilibrium solvers for multi-agent ad auctions (Marketing/Game Theory), and verifiable workflow generation (Scientific Discovery).   
+*   **Test-Time Compute Scaling & Process Supervision**: Architecting "System 2" inference pipelines that dynamically scale test-time compute based on task complexity. Utilizing Process Reward Models (PRMs) and search-based reasoning to enable agents to deliberate, verify, and correct intermediate steps before taking action. 
+*   **Statistical Telemetry & Drift Observability**: Building deterministic, FastMCP-native statistical monitoring engines. Translating embedding distribution decay into actionable telemetry—such as calculating strict Jensen-Shannon Divergence ($D_{JS}$) bounds—to act as dynamic routing sensors for multi-agent orchestrators.
+*   **Edge-Native SLMs & Speculative Decoding**: Optimizing Small Language Models (SLMs) and time-series foundations for localized, high-throughput edge inference. Leveraging extreme quantization and speculative decoding to minimize TTFT (Time-To-First-Token) while preserving deterministic guardrails.
+*   **Continuous Graph Ontology Hydration**: Advancing Hybrid RAG architectures by shifting from static domain taxonomies to dynamic, self-constructing knowledge graphs. Enabling agentic loops to autonomously extract, verify, and persist relational logic from unstructured enterprise telemetry.
+* **Durable Execution & State-Aware Context Routing**: Engineering long-horizon autonomous pipelines that survive infrastructure interruptions. Integrating orchestrators like LangGraph with durable execution substrates and global prefix-aware KV cache routing to maintain flawless context state across distributed multi-agent operations.
+
+<br>
 
 | Track | Focus | Maturity |
 |:-----:|-------|:--------:|
@@ -79,20 +68,6 @@ graph TD
 | 🔷 | INT8/INT4 SLMs, radix-tree routing, session migration | `MVP` |
 | 🕸️ | Dynamic knowledge graphs from unstructured telemetry | `R&D` |
 | 🛡️ | Replayable event buses, federated model evaluation | `Design` |
-
-> **Principle:** *Every compliance-critical path is deterministic, hash-chained, and replayable.*
-
-
-
-
-My current engineering and applied research focuses on advancing these architectures through:
-
-*   **Neuro-Symbolic Architectures Across High-Stakes Domains**: Architecting pipelines where neural perception is strictly bounded by deterministic logic. Applied patterns include cyclic validation loops for multi-drug optimization (Clinical/Medicare), Nash equilibrium solvers for multi-agent ad auctions (Marketing/Game Theory), and verifiable workflow generation (Scientific Discovery).   
-*   **Test-Time Compute Scaling & Process Supervision**: Architecting "System 2" inference pipelines that dynamically scale test-time compute based on task complexity. Utilizing Process Reward Models (PRMs) and search-based reasoning to enable agents to deliberate, verify, and correct intermediate steps before taking action. 
-*   **Statistical Telemetry & Drift Observability**: Building deterministic, FastMCP-native statistical monitoring engines. Translating embedding distribution decay into actionable telemetry—such as calculating strict Jensen-Shannon Divergence ($D_{JS}$) bounds—to act as dynamic routing sensors for multi-agent orchestrators.
-*   **Edge-Native SLMs & Speculative Decoding**: Optimizing Small Language Models (SLMs) and time-series foundations for localized, high-throughput edge inference. Leveraging extreme quantization and speculative decoding to minimize TTFT (Time-To-First-Token) while preserving deterministic guardrails.
-*   **Continuous Graph Ontology Hydration**: Advancing Hybrid RAG architectures by shifting from static domain taxonomies to dynamic, self-constructing knowledge graphs. Enabling agentic loops to autonomously extract, verify, and persist relational logic from unstructured enterprise telemetry.
-* **Durable Execution & State-Aware Context Routing**: Engineering long-horizon autonomous pipelines that survive infrastructure interruptions. Integrating orchestrators like LangGraph with durable execution substrates and global prefix-aware KV cache routing to maintain flawless context state across distributed multi-agent operations.
 
 ---
 
