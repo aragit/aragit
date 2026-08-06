@@ -72,7 +72,7 @@ AI Architect & Agentic Engineer specializing in compound AI systems.  I build re
 ---
 
 
-### ![Recent Vanguard](https://img.shields.io/badge/Recent%20Vanguard-Open%20Source-2ea44f?style=for-the-badge&logo=github&logoColor=white)
+<h3><img src="https://img.shields.io/badge/►-2ea44f?style=for-the-badge"> <code>Recent Vanguard Open-Source Implementations</code></h3>
 
 ### Recent Vanguard Open-Source Implementations
 
