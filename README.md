@@ -1,7 +1,7 @@
 <div align="center">
 
 # Arash Nicoomanesh
-<b>Senior Agentic AI Architect • Delivery Lead</b>
+<b>Agentic AI Architect • LLM Engineer</b>
 
 <br>
 
