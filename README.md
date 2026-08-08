@@ -94,8 +94,8 @@ AI Architect & Agentic Engineer specializing in compound AI systems.  I build re
   > `Inference Infrastructure` • `Distributed Systems` • `Concurrency Hardening`       
 
 - **Speculative Clinical GraphRAG** | [View Repo](https://github.com/aragit/speculative-clinical-graphrag)  
-  *Hybrid Neuro-Symbolic Clinical Knowledge Core*                
-  > *A clinical decision system with multi-node cyclic validation network integrating graph neural perception with deterministic medical ontology verification combining active graph-driven reasoning, sub-5ms OPA Rego policy governance, and a real-time MAS Glass Box Cockpit.*               
+  *Hybrid Neuro-Symbolic Clinical Secision Support System*                
+  > *In this repo i architected a Type 6 neuro-symbolic clinical decision support system. The neural core (COGITATOR) generates and self-critiques differential diagnoses. A neural policy routes cases based on complexity and risk. The system learns from clinician overrides via RLHF. But — and this is the critical part — Type 2 symbolic invariants are non-negotiable: max iterations always escalate, drug interactions are hard-blocked by symbolic rules, and the neural policy cannot override safety-critical decisions. The architecture is designed to accept real ontologies, real EHRs, and real models, but the safety layer is model-agnostic..*               
   > `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `Hybrid RAG` • `MCP Control Plane` • `OPA Safety Gate` • `MAS Glass Box UI`        
 
 - **Nash Marketing Agents (Game Theory)** | [View Repo](https://github.com/aragit/agentic-nash-marketing)     
