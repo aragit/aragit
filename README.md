@@ -60,15 +60,6 @@ AI Architect & Agentic Engineer specializing in compound AI systems.  I build re
 
 <br>
 
-| Track | Focus | Maturity |
-|:-----:|-------|:--------:|
-| 🧠 | Clinical & procurement safety kernels with Type-2 invariants | `Ref Impl` |
-| ⚡ | Process supervision + formal workflow verification | `R&D` |
-| 📡 | JSD bounds, board-level power telemetry, drift sensors | `Ref Impl` |
-| 🔷 | INT8/INT4 SLMs, radix-tree routing, session migration | `MVP` |
-| 🕸️ | Dynamic knowledge graphs from unstructured telemetry | `R&D` |
-| 🛡️ | Replayable event buses, federated model evaluation | `Design` |
-
 ---
 
 
