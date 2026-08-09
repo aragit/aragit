@@ -89,12 +89,6 @@ AI Architect & Agentic Engineer specializing in compound AI systems.  I build re
   > *In this repo i architected a Type 6 neuro-symbolic clinical decision support system. The neural core (COGITATOR) generates and self-critiques differential diagnoses. A neural policy routes cases based on complexity and risk. The system learns from clinician overrides via RLHF. But — and this is the critical part — Type 2 symbolic invariants are non-negotiable: max iterations always escalate, drug interactions are hard-blocked by symbolic rules, and the neural policy cannot override safety-critical decisions. The architecture is designed to accept real ontologies, real EHRs, and real models, but the safety layer is model-agnostic..*               
   > `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `Hybrid RAG` • `MCP Control Plane` • `OPA Safety Gate` • `MAS Glass Box UI`        
 
-- **Nash Marketing Agents (Game Theory)** | [View Repo](https://github.com/aragit/agentic-nash-marketing)     
-  *Neuro-Symbolic Multi-Agent Ad Auction Simulator with Nash Equilibrium Solver*   
-  > *Inverts the control loop using a Type 2 Symbolic[Neuro] Architecture. A deterministic Symbolic Planner decomposes each clinical case into bounded sub-goals.*   
-  > `Neuro-Symbolic` • `Game Theory` • `Ad Tech Simulation`   
-
-
 - **Post-RAG Drift Evaluator (Sentrix Evaluator)** | [View Repo](https://github.com/aragit/post-rag-drift-evaluator)
   *Real-Time Latent Space Drift Telemetry & Closed-Loop Agentic Control Plane*         
   >*A production-grade statistical monitoring engine tracking embedding distribution decay ($D_{JS}$) in high-dimensional vector spaces. Combines PCA manifold projection and Gaussian KDE density estimation   with an auto-provisioned Prometheus/Grafana stack to drive adaptive test-time compute scaling and selective KV-cache eviction.*    
