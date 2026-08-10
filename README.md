@@ -93,7 +93,7 @@ AI Architect & Agentic Engineer specializing in compound AI systems.  I build re
   `Neuro-Symbolic Hybrid` • `Speculative GraphRAG` • `OPA Rego Policy-as-Code` • `Neo4j Knowledge Graph` • `MCP Control Plane` • `MAS Glass Box UI`
 
   <details>
-  <summary><b>COGITATOR 3-Stage Speculative Engine</b></summary>
+  <summary>COGITATOR 3-Stage Speculative Engine</summary>
   <br>
 
   * **Iter 1 (Neural Speculation)**: Generates candidate clinical differential diagnoses and entity extractions using multi-modal clinical notes.
@@ -102,7 +102,7 @@ AI Architect & Agentic Engineer specializing in compound AI systems.  I build re
   </details>
 
   <details>
-  <summary><b>Tripartite Safety & Policy Verification Matrix</b></summary>
+  <summary>Tripartite Safety & Policy Verification Matrix</summary>
   <br>
 
   * **Symbolic Safety Veto Engine**: Enforces hard, non-negotiable medical invariants (e.g., `Warfarin + Aspirin` concurrent bleed risks) that immediately halt execution regardless of neural score.
@@ -111,7 +111,7 @@ AI Architect & Agentic Engineer specializing in compound AI systems.  I build re
   </details>
 
   <details>
-  <summary><b>MAS Glass Box UI & Interactive Control Plane</b></summary>
+  <summary>MAS Glass Box UI & Interactive Control Plane</summary>
   <br>
 
   * **Real-time COGITATOR Stepper**: Visualizes internal speculation iterations, active retries, veto states (`VETOED`, `BLOCKED`, `ESCALATE`), and fused confidence scores.
@@ -121,7 +121,7 @@ AI Architect & Agentic Engineer specializing in compound AI systems.  I build re
   </details>
 
   <details>
-  <summary><b>Enterprise Integration & Protocol Readiness</b></summary>
+  <summary>Enterprise Integration & Protocol Readiness</summary>
   <br>
 
   * **MCP (Model Context Protocol) Integration**: Standardized tool-calling and context-retrieval plane connecting local model workers to external ontologies and EHR systems.
