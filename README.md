@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <b>Building Enterprise-Grade, Agentic AI Systems for High-Stakes Domains</b><br>
+  <b>✨ Building Enterprise-Grade, Agentic AI Systems for High-Stakes Domains</b><br>
 </p>
 
 <br>
