@@ -88,7 +88,7 @@ AI Architect & Agentic Engineer specializing in compound AI systems.  I build re
 - **Speculative Clinical GraphRAG** | [🔒 Request Access](mailto:anicomanesh@gmail.com.com?subject=Repository%20Access%20Request%3A%20Speculative%20Clinical%20GraphRAG&body=Please%20provide%20the%20following%20details%20to%20request%20access%3A%0A%0A-%20Full%20Name%3A%0A-%20GitHub%20Username%3A%0A-%20Email%20Address%3A%0A-%20LinkedIn%20Profile%3A%0A-%20Reason%20for%20Access%20%2F%20Intended%20Use%20Case%3A)           
   *Type 6 Neuro-Symbolic Clinical Decision Support System (CDSS)*    
   
-  ***Note: Source code is private intellectual property. Read-access is granted on a case-by-case basis for enterprise partners, collaborators, and technical reviewers.***
+  ***Note:***  *Source code is private intellectual property. Read-access is granted on a case-by-case basis for enterprise partners, collaborators, and technical reviewers.*
   > *Architected an enterprise-grade Type 6 neuro-symbolic CDSS combining speculative neural generation with strict symbolic safety invariants. The neural core (**COGITATOR**) generates differential diagnoses and speculates graph constraint rewrites across a multi-stage reasoning loop. A **Tripartite Verifier Engine** (Neo4j Graph, Symbolic Deterministic Rules, and OPA Rego Policy Gate) validates every speculation before execution. Hard contraindications (e.g., high-risk anticoagulant interactions) trigger immediate symbolic vetoes and force fail-closed routing to human clinicians, capturing structured feedback via RLHF telemetry.*
   
   `Neuro-Symbolic Hybrid` • `Speculative GraphRAG` • `OPA Rego Policy-as-Code` • `Neo4j Knowledge Graph` • `MCP Control Plane` • `MAS Glass Box UI`
