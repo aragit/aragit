@@ -95,6 +95,7 @@ AI Architect & Agentic Engineer specializing in compound AI systems.  I build re
 
   <details>
   <summary>Architecture Spec</summary>
+    
   <p align="center">
   <img src="assets/Grag_Main2.png" alt="Architecture" width="264">
   </p>
