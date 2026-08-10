@@ -94,6 +94,9 @@ AI Architect & Agentic Engineer specializing in compound AI systems.  I build re
   `Neuro-Symbolic Hybrid` • `Speculative GraphRAG` • `OPA Rego Policy-as-Code` • `Neo4j Knowledge Graph` • `MCP Control Plane` • `MAS Glass Box UI`
 
   <details>
+  <summary>Architecture Soec</summary>
+
+  <details>
   <summary>COGITATOR 3-Stage Speculative Engine</summary>
   <br>
 
@@ -112,21 +115,13 @@ AI Architect & Agentic Engineer specializing in compound AI systems.  I build re
   </details>
 
   <details>
-  <summary>MAS Glass Box UI & Interactive Control Plane</summary>
-  <br>
-
-  * **Real-time COGITATOR Stepper**: Visualizes internal speculation iterations, active retries, veto states (`VETOED`, `BLOCKED`, `ESCALATE`), and fused confidence scores.
-  * **Interactive Differential Graph**: Rendered via Dagre-layout React Flow canvas, displaying verified clinical knowledge triplets (`INDICATES`, `TREATS`, `CONTRAINDICATED`).
-  * **Live Violation Audit Log**: Deduplicates and streams structured safety violations with source metadata, severity classification, and raw execution logs.
-  * **Human-in-the-Loop (HITL) Override**: Captures clinician overrides and approval actions to generate high-fidelity alignment datasets for RLHF/DPO fine-tuning.
-  </details>
-
-  <details>
   <summary>Enterprise Integration & Protocol Readiness</summary>
   <br>
 
   * **MCP (Model Context Protocol) Integration**: Standardized tool-calling and context-retrieval plane connecting local model workers to external ontologies and EHR systems.
   * **Model-Agnostic Decoupling**: Safety layers, OPA policies, and symbolic rules execute independently of the underlying LLM/SLM backbone.
+  </details>
+
   </details>
 
 <br>     
