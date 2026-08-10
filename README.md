@@ -94,34 +94,34 @@ AI Architect & Agentic Engineer specializing in compound AI systems.  I build re
   `Neuro-Symbolic Hybrid` • `Speculative GraphRAG` • `OPA Rego Policy-as-Code` • `Neo4j Knowledge Graph` • `MCP Control Plane` • `MAS Glass Box UI`
 
   <details>
-  <summary>Architecture Soec</summary>
+  <summary>Architecture Spec</summary>
 
-  <details>
-  <summary>COGITATOR 3-Stage Speculative Engine</summary>
-  <br>
-
-  * **Iter 1 (Neural Speculation)**: Generates candidate clinical differential diagnoses and entity extractions using multi-modal clinical notes.
-  * **Iter 2 (Graph Constraint Rewriting)**: Dynamically expands differential trajectories over Neo4j knowledge graphs to resolve missing clinical context and check path constraints.
-  * **Iter 3 (Final Governance Fallback)**: Enforces deterministic retry limits and routes complex or safety-critical cases directly to human clinician review upon threshold failure.
-  </details>
-
-  <details>
-  <summary>Tripartite Safety & Policy Verification Matrix</summary>
-  <br>
-
-  * **Symbolic Safety Veto Engine**: Enforces hard, non-negotiable medical invariants (e.g., `Warfarin + Aspirin` concurrent bleed risks) that immediately halt execution regardless of neural score.
-  * **OPA (Open Policy Agent) Rego Gate**: Implements enterprise policy-as-code for strict fail-closed authorization, compliance auditing, and role-based execution guards.
-  * **Neo4j Knowledge Graph Verifier**: Validates differential diagnostic paths and entity triplets against standardized clinical ontologies (`SNOMED-CT`, `ICD-10-CM`, `RxNorm`).
-  </details>
-
-  <details>
-  <summary>Enterprise Integration & Protocol Readiness</summary>
-  <br>
-
-  * **MCP (Model Context Protocol) Integration**: Standardized tool-calling and context-retrieval plane connecting local model workers to external ontologies and EHR systems.
-  * **Model-Agnostic Decoupling**: Safety layers, OPA policies, and symbolic rules execute independently of the underlying LLM/SLM backbone.
-  </details>
-
+    <details>
+    <summary>COGITATOR 3-Stage Speculative Engine</summary>
+    <br>
+  
+    * **Iter 1 (Neural Speculation)**: Generates candidate clinical differential diagnoses and entity extractions using multi-modal clinical notes.
+    * **Iter 2 (Graph Constraint Rewriting)**: Dynamically expands differential trajectories over Neo4j knowledge graphs to resolve missing clinical context and check path constraints.
+    * **Iter 3 (Final Governance Fallback)**: Enforces deterministic retry limits and routes complex or safety-critical cases directly to human clinician review upon threshold failure.
+    </details>
+  
+    <details>
+    <summary>Tripartite Safety & Policy Verification Matrix</summary>
+    <br>
+  
+    * **Symbolic Safety Veto Engine**: Enforces hard, non-negotiable medical invariants (e.g., `Warfarin + Aspirin` concurrent bleed risks) that immediately halt execution regardless of neural score.
+    * **OPA (Open Policy Agent) Rego Gate**: Implements enterprise policy-as-code for strict fail-closed authorization, compliance auditing, and role-based execution guards.
+    * **Neo4j Knowledge Graph Verifier**: Validates differential diagnostic paths and entity triplets against standardized clinical ontologies (`SNOMED-CT`, `ICD-10-CM`, `RxNorm`).
+    </details>
+  
+    <details>
+    <summary>Enterprise Integration & Protocol Readiness</summary>
+    <br>
+  
+    * **MCP (Model Context Protocol) Integration**: Standardized tool-calling and context-retrieval plane connecting local model workers to external ontologies and EHR systems.
+    * **Model-Agnostic Decoupling**: Safety layers, OPA policies, and symbolic rules execute independently of the underlying LLM/SLM backbone.
+    </details>
+  
   </details>
 
 <br>     
