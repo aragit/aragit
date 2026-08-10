@@ -88,7 +88,7 @@ AI Architect & Agentic Engineer specializing in compound AI systems.  I build re
 - **Speculative Clinical GraphRAG** | [View Repo](https://github.com/aragit/speculative-clinical-graphrag)  
   *Type 6 Neuro-Symbolic Clinical Decision Support System (CDSS)*
 
-  > Architected an enterprise-grade Type 6 neuro-symbolic CDSS combining speculative neural generation with strict symbolic safety invariants. The neural core (**COGITATOR**) generates differential diagnoses and speculates graph constraint rewrites across a multi-stage reasoning loop. A **Tripartite Verifier Engine** (Neo4j Graph, Symbolic Deterministic Rules, and OPA Rego Policy Gate) validates every speculation before execution. Hard contraindications (e.g., high-risk anticoagulant interactions) trigger immediate symbolic vetoes and force fail-closed routing to human clinicians, capturing structured feedback via RLHF telemetry.
+  > *Architected an enterprise-grade Type 6 neuro-symbolic CDSS combining speculative neural generation with strict symbolic safety invariants. The neural core (**COGITATOR**) generates differential diagnoses and speculates graph constraint rewrites across a multi-stage reasoning loop. A **Tripartite Verifier Engine** (Neo4j Graph, Symbolic Deterministic Rules, and OPA Rego Policy Gate) validates every speculation before execution. Hard contraindications (e.g., high-risk anticoagulant interactions) trigger immediate symbolic vetoes and force fail-closed routing to human clinicians, capturing structured feedback via RLHF telemetry.*
   
   `Neuro-Symbolic Hybrid` • `Speculative GraphRAG` • `OPA Rego Policy-as-Code` • `Neo4j Knowledge Graph` • `MCP Control Plane` • `MAS Glass Box UI`
 
@@ -128,10 +128,7 @@ AI Architect & Agentic Engineer specializing in compound AI systems.  I build re
   * **Model-Agnostic Decoupling**: Safety layers, OPA policies, and symbolic rules execute independently of the underlying LLM/SLM backbone.
   </details>
 
-- **Speculative Clinical GraphRAG** | [View Repo](https://github.com/aragit/speculative-clinical-graphrag)  
-  *Hybrid Neuro-Symbolic Clinical Secision Support System*                
-  > *In this repo i architected a Type 6 neuro-symbolic clinical decision support system. The neural core (COGITATOR) generates and self-critiques differential diagnoses. A neural policy routes cases based on complexity and risk. The system learns from clinician overrides via RLHF. But — and this is the critical part — Type 2 symbolic invariants are non-negotiable: max iterations always escalate, drug interactions are hard-blocked by symbolic rules, and the neural policy cannot override safety-critical decisions. The architecture is designed to accept real ontologies, real EHRs, and real models, but the safety layer is model-agnostic..*               
-  > `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `Hybrid RAG` • `MCP Control Plane` • `OPA Safety Gate` • `MAS Glass Box UI`        
+<br>     
 
 - **Post-RAG Drift Evaluator (Sentrix Evaluator)** | [View Repo](https://github.com/aragit/post-rag-drift-evaluator)
   *Real-Time Latent Space Drift Telemetry & Closed-Loop Agentic Control Plane*         
