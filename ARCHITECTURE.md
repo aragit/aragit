@@ -46,12 +46,6 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 
 </details>
 
-### [• Speculative Clinical GraphRAG (Type 2 Symbolic[Neuro] Architecture)](https://github.com/aragit/speculative-clinical-graphrag)
-**Hybrid Neuro-Symbolic Clinical Knowledge Core with Hybrid RAG and Reasoning-Aware Verification**
-> FastAPI, Pydantic v2, LangGraph, Neo4j, Qdrant, vLLM, DeepSeek-R1-Distill-Qwen-32B, SNOMED-CT/ICD-10-CM/RxNorm parsers, pytest , React 18, Vite, Tailwind CSS, Redis, Open Policy Agent (OPA), google/MedGemma-4B-IT (fine-tuned)        
-> 🟢 `Active` • `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `MCP Control Plane` • `MAS Glass Box UI` • `100% Test Coverage`    
-
-
 
 ### [• Post-RAG Drift Evaluator](https://github.com/aragit/post-rag-drift-evaluator)
 **Automated Latent Space Drift Telemetry & Comparative RAG Architecture Benchmark**
