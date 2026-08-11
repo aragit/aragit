@@ -51,30 +51,6 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 > FastAPI, Pydantic v2, LangGraph, Neo4j, Qdrant, vLLM, DeepSeek-R1-Distill-Qwen-32B, SNOMED-CT/ICD-10-CM/RxNorm parsers, pytest , React 18, Vite, Tailwind CSS, Redis, Open Policy Agent (OPA), google/MedGemma-4B-IT (fine-tuned)        
 > 🟢 `Active` • `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `MCP Control Plane` • `MAS Glass Box UI` • `100% Test Coverage`    
 
-<details>
-<summary><b>Expand Architecture Insight →</b></summary>
-
-- **9-Node LangGraph Workflow**: INGEST → RETRIEVE_CONTEXT → EXTRACT_SYMPTOMS → MAP_TO_ONTOLOGY → ASSESS_DIFFERENTIAL → VERIFY_SAFETY → [CORRECT_DIFFERENTIAL → ASSESS_DIFFERENTIAL (loop) | SYNTHESIZE | ESCALATE]; cyclic correction with max 3 iterations, recursion limit 20, full audit trace
-- **Hybrid RAG Stack**: Qdrant vector store (384-d sentence-transformer embeddings over ontology concepts) + Neo4j graph traversal (taxonomic relationships, fallback to in-memory EDGES) + symbolic Cypher validation (existence proofs for every proposed edge) + fusion scoring (α=0.7)
-- **Medical Ontology Support**: ETL pipeline parsers for SNOMED-CT RF2, ICD-10-CM text, RxNorm RRF formats; 178 in-memory ontology triples (126 unique clinical concepts) ship with repo; real data requires licensed SNOMED-CT/UMLS files
-- **Quad-Track LLM Subroutine Stack**:
-  - **MedGemma-4B-IT**: Primary fine-tuned medical language model backend for bounded clinical extraction and natural language synthesis.
-  - **DeepSeek-R1**: Reasoner backend extracting <think> tags and validating diagnostic logic against ontologies.
-  - **Ollama**: Local CPU developer fallback (gemma2:2b).
-  - MockLLM: Zero-dependency, deterministic keyword lookup backend (20 categories, 65 triplets) for instant local testing and UI demo mode.
-- **Active Hybrid Retrieval & Knowledge Core**: Guided Cypher graph traversals walking SNOMED-CT / ICD-10-CM / RxNorm ontologies in Neo4j coupled with Qdrant vector retrieval (384-d embeddings) via Reciprocal Rank Fusion (RRF $\alpha=0.7$). Ships with 178 in-memory ontology triples across 126 clinical concepts.  
-- **Self-Correcting Loop & Escalation Guardrail**: Cyclic feedback loop (max 3 iterations, $-0.1$ confidence decay per iteration) re-evaluating path violations across Neo4j, SymbolicVerifier, and OPA. Unvalidated paths deterministically escalate to human review with full reasoning traces and zero PHI persistence (in-memory only).
-- **Deterministic Escalation Guardrail**: Unvalidated paths after max iterations always route to human review with full reasoning trace, proposed path, and violation log — never to patient-facing output; zero PHI persistence (in-memory only, no DB writes of patient data)
-- **FastAPI Production Gateway**: `/v1/speculate` principal endpoint, `/v1/reasoning_trace/{trace_id}` for clinician review, `/health` with Neo4j/Qdrant/OPA/Redis probes, asynccontextmanager lifespan with startup ontology seeding; RequestID/APIKey/RateLimit middleware
-- **Docker Compose Production Stack**: vLLM container (GPU profile), Neo4j Community (ontology graph), Qdrant (vector store), FastAPI orchestrator, OPA governance sidecar, Redis (idempotency/session), Jaeger (tracing profile)
-- **CPU-Optimized E2E Demo & Docker Stack**: Includes a zero-GPU CPU execution mode (scripts/prepare_demo.py + .env.demo) alongside a full production Docker Compose stack (vLLM GPU profile, Neo4j, Qdrant, OPA sidecar, Redis state checkpointer, Jaeger tracing).
-
-</details>
-
-
-
-
-
 
 
 ### [• Post-RAG Drift Evaluator](https://github.com/aragit/post-rag-drift-evaluator)
@@ -82,49 +58,16 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 > Python 3.12, LiteLLM, Polars, pgvector, scikit-learn, SciPy, Streamlit, Docker, pytest, ruff, mypy
 > 🟢 `Active` • `Embedding Drift Telemetry` • `Comparative RAG Evaluation` • `Statistical MLOps`
 
-<details>
-<summary><b>Expand Architecture Insight →</b></summary>
-
-- **Multidimensional Drift Pipeline**: Projects 1536-dimensional embedding vectors using Principal Component Analysis (PCA) to isolate primary variance coordinates; fits non-parametric continuous distributions using Gaussian Kernel Density Estimation (KDE) to calculate population-level Jensen-Shannon Divergence ($D_{JS}$) bounded strictly between $0 \le D_{JS} \le 1$.
-- **Dual-Configuration Duality**: Features a zero-cost local fallback engine that applies additive noise ($\sigma=0.10$) to mimic real semantic distributions, shifting dynamically to live, non-blocking asynchronous inference paths through `litellm` when validated provider keys are present in the runtime lifecycle.
-- **Native Vector Infrastructure**: Executes raw `<=>` cosine distance operations directly against containerized PostgreSQL and `pgvector` backends; profiles live performance metrics across parallel processing branches to analyze structural trade-offs between Naive RAG and multi-hop Agentic RAG state machines.
-- **Deterministic Quality Judges**: Implements automated context precision and answer faithfulness evaluation layers utilizing structured `json_object` configurations, enforcing a strict fallback penalty of `0.0` on any validation or parsing anomaly to eliminate silent scoring failures.
-- **Spatial Telemetry Observability**: Renders a dedicated Streamlit metrics interface graphing real-time 2D PCA coordinate transformations to isolate live production query distribution shifts from historical data manifolds.
-- **Rigorous Production Quality Gates**: Enforces a multi-stage Docker build separating dependency compilation from the final runtime container; backed by GitHub Actions workflows driving automated execution runs via `pytest`, strict static type audits via `mypy`, and syntax validation via `ruff`.
-
-</details>
 
 ### [• DeepSeek Reasoning Fine-Tuning](https://github.com/aragit/deepseek-reasoning-finetuning)
 **Medical chain-of-thought LoRA alignment pipeline**
 > Unsloth, PyTorch, Hugging Face, TRL   
 > 🟢 `ACTIVE` • `REASONING OPTIMIZATION LAYER`
 
-<details>
-<summary><b>Expand Architecture Insight →</b></summary>
-
-**Architecture insight**
-- Efficient 4-bit parameter fine-tuning for reasoning behavior
-- Maps diagnostic reasoning patterns into model weights
-- Improves structured clinical response generation
-
-</details>
-
 ### [• Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main)
 **Autonomous enterprise trend intelligence pipeline**
 > CrewAI, Ollama, FastAPI, ChromaDB, Pydantic V2   
 > 🟢 `Active` • `Local-First` • `3-Agent Sequential Pipeline`
-
-<details>
-<summary><b>Expand Architecture Insight →</b></summary>
-
-- **Sequential 3-agent pipeline**: Trend Investigator → Risk Analyst → Copywriter
-- **LangGraph risk gate**: State-machine guardrail (`analyze → evaluate → approve|reject`) with circuit-breaker
-- **Local-only LLM inference**: Native Ollama `/api/chat` adapter — zero API keys, zero cloud dependency
-- **ChromaDB semantic memory**: Sentence-transformer embeddings for research persistence & recall
-- **Enforced Pydantic V2 contracts**: `TrendPayload`, `RiskPayload`, `ContentPayload` validated at every stage
-- **FastAPI + Prometheus**: Sync/async `/crew/run` endpoints, async polling, health checks, and metrics scraping
-
-</details>
 
 ---
 
@@ -201,32 +144,13 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 
 </details>
 
-<details>
-<summary><b>EXPAND MORE HEALTHCARE SOLUTIONS →</b></summary>
 
 ### [• Speculative Clinical Graph RAG, Hybrid Architecture](https://github.com/aragit/speculative-clinical-graphrag)
 **Hybrid Neuro-Symbolic Clinical Knowledge Core with Hybrid RAG and Reasoning-Aware Verification**
 > FastAPI, Pydantic v2, LangGraph, Neo4j, LlamaIndex, vLLM, DeepSeek-R1-Distill-Qwen-32B, SNOMED-CT, ICD-10-CM, RxNorm, pytest    
 > 🟢 `Active` • `Neuro-Symbolic Hybrid` • `Clinical Decision Support` • `Hybrid RAG`
 
-<details>
-<summary><b><i>Architecture Insight ...</i></b></summary>
 
-- **Six-State LangGraph Workflow**: INGEST → SPECULATE → RETRIEVE → VERIFY → [VALIDATE|CORRECT|ESCALATE] → SYNTHESIZE → END; cyclic correction with max 3 iterations, recursion limit 10, full audit trace
-- **Hybrid RAG Stack**: LlamaIndex vector store (dense embeddings over SNOMED-CT/ICD-10 concepts) + Neo4j graph traversal (taxonomic relationships) + symbolic Cypher validation (existence proofs for every proposed edge)
-- **Real Medical Ontologies**: SNOMED-CT US Edition 2024 (clinical findings, disorders, procedures), ICD-10-CM 2024 (diagnosis classification), RxNorm (drug names, ingredients, dose forms), UMLS Metathesaurus 2024AB (cross-vocabulary mapping) — ingested via automated ETL pipeline
-- **Triple-Track LLM Backend**:
-  - **MockLLM**: Deterministic keyword lookup for CI/testing (zero-dep, instant)
-  - **Ollama**: Local CPU inference (gemma2:2b, JSON-structured generation) for development
-  - **vLLM + DeepSeek-R1-Distill-Qwen-32B**: Production GPU inference with tensor-parallelism, OpenAI-compatible API, structured reasoning trace extraction
-- **DeepSeek-R1 Reasoning Integration**: Extracts Chain-of-Thought reasoning traces from R1's `<think>` tags, validates diagnostic logic against medical ontologies before surface generation, surfaces reasoning steps in API response for clinician review
-- **Self-Correcting Feedback with Reasoning Awareness**: On validation failure, violations + reasoning trace mismatches are fed back to R1 with correction prompt; confidence decay (-0.1 per correction) with reasoning coherence check
-- **Deterministic Escalation Guardrail**: Unvalidated paths after max iterations always route to human review with full reasoning trace, proposed path, and violation log — never to patient-facing output; zero PHI persistence
-- **FastAPI Production Gateway**: `/v1/speculate` principal endpoint, `/v1/reasoning_trace` for clinician review, `/health` with dependency probes, startup ontology seeding, graceful shutdown
-- **Docker Compose Production Stack**: vLLM container (GPU, tensor-parallel), Neo4j Community (ontology graph), LlamaIndex vector store (Qdrant/Pinecone), FastAPI orchestrator, OPA governance sidecar
-- **Comprehensive Test Suite**: Valid path (1 iteration), invalid-then-corrected (≤3 iterations), escalation after max iterations, reasoning trace extraction, ontology ETL validation, hybrid retrieval accuracy
-
-</details>
 
 ### [• Autonomous Lab Interpretation & Critical Value Triage Agent](https://github.com/aragit/lab-interpretation-triage-agent)
 **Context-Aware Laboratory Intelligence Engine**
@@ -252,8 +176,6 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 **Kinematic telemetry → structured motion event extraction**
 > `YOLOv11-Pose` `OpenCV` `NumPy`    
 > 🟢 `ACTIVE` • `MOTION PERCEPTION SYSTEM`
-
-</details>
 
 <br>
 
@@ -372,18 +294,6 @@ Status: Production-hardened after comprehensive security & architectural audit
 > FastAPI, Pydantic v2, SciPy, Transformers, Matplotlib, pytest   
 > 🟢 `Active` • `Turn-Based Negotiation` • `Market Simulation` 
 
-<details>
-<summary><b>Expand Architecture Insight →</b></summary>
-
-- **4 Agents**: Buyer, Seller, Market Intelligence, and Arbiter — each with role-specific LLM system prompts and structured JSON output
-- **3 LLM Backends**: MockLLM (deterministic, instant, default), HuggingFace Transformers (CPU, ~2-6GB download), optional vLLM (CPU batched inference, manual build required)
-- **Stochastic Market Simulator**: Geometric Brownian Motion price dynamics with regime-switching drift/volatility, 4-state Markov chain geopolitical risk model (LOW→MEDIUM→HIGH→CRISIS), Poisson supply shocks with log-normal magnitude
-- **Reward Engineering**: Buyer reward = negative normalized total cost (purchase + risk premium + logistics + stockout penalty + spot-price bonus); Seller reward = normalized margin + capacity utilization bonus
-- **Centralized Episode Orchestrator**: `NegotiationEpisode` manages alternating buyer/seller turns, market context injection, arbiter validation, ledger logging, and terminal condition detection (ACCEPT/REJECT/timeout)
-- **Test Coverage**: 3 test modules covering ledger hash-chain integrity, market GBM/shock dynamics, and protocol message validation/terminal detection
-
-</details>
-
 <br>
 
 ---
@@ -459,17 +369,6 @@ Status: Production-hardened after comprehensive security & architectural audit
 > Qwen2.5-7B-Instruct, LangChain, OpenSanctions, Neo4j UBO Graph, PostgreSQL, Redis, FastAPI, OpenTelemetry — CPU-First / vLLM-Ready    
 > 🟢 `Active` • `FinTech / RegTech` • `SLM-First Agent` • `Deterministic Risk Scoring`
 
-<details>
-<summary><b>Expand Architecture Insight →</b></summary>
-
-- **SLM-First ReAct Agent:** Single-threaded LangChain ReAct loop runs entirely on CPU using 4-bit quantized Qwen2.5-7B-Instruct (GGUF via llama-cpp-python). No dependency on Claude or GPT-4o. Architected with a pluggable `BaseLLMBackend` abstraction so the agent swaps to vLLM GPU inference (Qwen-14B/70B, Mixtral-8x7B) via one-line config change when hardware is available.
-- **Deterministic Tool Orchestration:** The agent plans and executes exactly one tool per ReAct turn — `pep_screen`, `sanctions_check`, `adverse_media_search`, `ubo_extract`, `risk_score_combine`. The final `risk_score_combine` tool is a pure deterministic algorithm (no LLM), ensuring the overall risk rating is reproducible and regulator-auditable.
-- **Document-to-Graph UBO Extraction:** Corporate documents (PDF, CSV) are chunked into 500-token windows and parsed by the SLM with structured JSON prompts. Extracted beneficial owners are deduplicated via fuzzy matching (`rapidfuzz`) and written to a Neo4j graph as `(:Person)-[:OWNS]->(:CorporateBody)` relationships for network analysis.
-- **Offline-Resilient Screening:** OpenSanctions API responses are cached in Redis (24h TTL) and backed by a local SQLite mirror of OFAC SDN CSV. If external APIs fail, the agent degrades gracefully to offline deterministic screening with full trace logging.
-- **Structured Audit Boundary:** Every tool call, LLM reasoning step, and final `KYCPacket` output is validated by Pydantic v2 and persisted to PostgreSQL with immutable JSON audit trails. OpenTelemetry spans trace the full ReAct loop for regulator examination. FastAPI exposes `POST /screen` and `GET /case/{id}` for synchronous onboarding platform integration.
-
-</details>
-
 <br>
 
 ---
@@ -521,15 +420,6 @@ Status: Production-hardened after comprehensive security & architectural audit
 
 ---
 
-## Vision: Aethron AI
-
-Transforming inference into measurable impact.
-
-Aethron AI focuses on deploying next-generation Agentic AI that doesn't just exist in a sandbox. The goal is to build autonomous, multi-agent frameworks that:
-
-- Seamlessly integrate into existing high-stakes workflows.
-- Resolve complex reasoning pathways through deterministic safety guardrails.
-- Shift the paradigm from human-in-the-loop to human-on-the-loop.
 
 ## Let's Connect
 
