@@ -64,11 +64,6 @@ This portfolio is organized by **domain and industry** to demonstrate how the sa
 > Unsloth, PyTorch, Hugging Face, TRL   
 > 🟢 `ACTIVE` • `REASONING OPTIMIZATION LAYER`
 
-### [• Enterprise Intelligence Crew](https://github.com/aragit/enterprise-intelligence-crew/tree/main)
-**Autonomous enterprise trend intelligence pipeline**
-> CrewAI, Ollama, FastAPI, ChromaDB, Pydantic V2   
-> 🟢 `Active` • `Local-First` • `3-Agent Sequential Pipeline`
-
 ---
 
 ## 🏥 Healthcare & Clinical
