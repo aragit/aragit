@@ -73,9 +73,10 @@
   >  `FinTech / RegTech` • `SLM-First Agent` • `Deterministic Risk Scoring`
 
 - **Real-Time Intent Transformer** | [View Repo](https://github.com/aragit/real-time-intent-transformer/tree/main)  
-  *Dual-Path Neuro-Symbolic Intent Classification Fabric with Deterministic Governance*  
-  > *Production-grade e-commerce intent resolver operating a Perceive-Reason-Govern-Execute-Loop under 50ms CPU latency. Routes high-confidence sessions through a Platt-calibrated ML ensemble (RF/XGBoost) with Polars feature engineering, while ambiguous signals escalate to a LangGraph agentic path — LLM Planner, Neo4j GraphRAG, and Critic Agent validated against a fail-closed OPA/Rego v1 governance gate. Closed-loop meta-cognition via background LLM-as-a-Judge evaluator with drift detection. 261 tests, 0 failures.*  
-  > `E-Commerce Personalization` • `Agentic AI` • `Policy-as-Code Governance`
+  *Dual-Path Compound AI System with Multi-Tenant State & Deterministic Governance*  
+  > *Production-grade e-commerce intent resolver operating a sub-50ms CPU dual-path execution loop. Low-complexity sessions route through a Platt-calibrated ML ensemble with Polars feature engineering, while ambiguous signals escalate to a LangGraph agentic DAG—orchestrating an LLM Planner, Neo4j GraphRAG, and Critic Agent.
+  > *Hardened for enterprise production with a two-tier decoupled memory architecture (Postgres AsyncPostgresSaver working memory + Redis long-term store), distributed pybreaker fault isolation, sliding-window multi-tenant rate limiting, and an out-of-band fail-closed OPA/Rego v1 policy gate. Features closed-loop meta-cognition via a background LLM-as-a-Judge evaluator with real-time drift detection and a full 9-service observability stack (Prometheus/Grafana). 323 tests, 0 failures.*  
+  > `E-Commerce Personalization` • `Compound AI Systems` • `Multi-Tenancy` • `Agentic State Machines`
 
 - **vLLM Distributed Context Cache Router (vLLM-CCR)** | [View Repo](https://github.com/aragit/vllm-context-cache-router/tree/main)      
   *State-Aware Max-Prefix Orchestration Fabric for Distributed Inference*      
