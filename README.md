@@ -72,7 +72,7 @@
   > *Production-grade ReAct agent for PEP/sanctions screening, UBO extraction, and adverse media monitoring — CPU-first with optional GPU acceleration.*      
   >  `FinTech / RegTech` • `SLM-First Agent` • `Deterministic Risk Scoring`
 
-- **Real-Time Intent Transformer** | [🔒 Request Access](mailto:anicomanesh@gmail.com.com?subject=Repository%20Access%20Request%3A%20Speculative%20Clinical%20GraphRAG&body=Please%20provide%20the%20following%20details%20to%20request%20access%3A%0A%0A-%20Full%20Name%3A%0A-%20GitHub%20Username%3A%0A-%20Email%20Address%3A%0A-%20LinkedIn%20Profile%3A%0A-%20Reason%20for%20Access%20%2F%20Intended%20Use%20Case%3A) 
+- **Real-Time Intent Transformer** | [🔒 Request Access](mailto:anicomanesh@gmail.com.com?subject=Repository%20Access%20Request%3A%20Speculative%20Clinical%20GraphRAG&body=Please%20provide%20the%20following%20details%20to%20request%20access%3A%0A%0A-%20Full%20Name%3A%0A-%20GitHub%20Username%3A%0A-%20Email%20Address%3A%0A-%20LinkedIn%20Profile%3A%0A-%20Reason%20for%20Access%20%2F%20Intended%20Use%20Case%3A)     
   *Dual-Path Compound AI System with Multi-Tenant State & Deterministic Governance*  
   > *Production-grade e-commerce intent resolver operating a sub-50ms CPU dual-path execution loop. Low-complexity sessions route through a Platt-calibrated ML ensemble with Polars feature engineering, while ambiguous signals escalate to a LangGraph agentic DAG—orchestrating an LLM Planner, Neo4j GraphRAG, and Critic Agent.*
   > 
