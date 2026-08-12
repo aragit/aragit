@@ -75,6 +75,7 @@
 - **Real-Time Intent Transformer** | [View Repo](https://github.com/aragit/real-time-intent-transformer/tree/main)  
   *Dual-Path Compound AI System with Multi-Tenant State & Deterministic Governance*  
   > *Production-grade e-commerce intent resolver operating a sub-50ms CPU dual-path execution loop. Low-complexity sessions route through a Platt-calibrated ML ensemble with Polars feature engineering, while ambiguous signals escalate to a LangGraph agentic DAG—orchestrating an LLM Planner, Neo4j GraphRAG, and Critic Agent.
+  > 
   > *Hardened for enterprise production with a two-tier decoupled memory architecture (Postgres AsyncPostgresSaver working memory + Redis long-term store), distributed pybreaker fault isolation, sliding-window multi-tenant rate limiting, and an out-of-band fail-closed OPA/Rego v1 policy gate. Features closed-loop meta-cognition via a background LLM-as-a-Judge evaluator with real-time drift detection and a full 9-service observability stack (Prometheus/Grafana). 323 tests, 0 failures.*  
   > `E-Commerce Personalization` • `Compound AI Systems` • `Multi-Tenancy` • `Agentic State Machines`
 
