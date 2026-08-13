@@ -73,7 +73,9 @@
   >  `FinTech / RegTech` • `SLM-First Agent` • `Deterministic Risk Scoring`
 
 - **Real-Time Intent Transformer** | [🔒 Request Access](mailto:anicomanesh@gmail.com.com?subject=Repository%20Access%20Request%3A%20Speculative%20Clinical%20GraphRAG&body=Please%20provide%20the%20following%20details%20to%20request%20access%3A%0A%0A-%20Full%20Name%3A%0A-%20GitHub%20Username%3A%0A-%20Email%20Address%3A%0A-%20LinkedIn%20Profile%3A%0A-%20Reason%20for%20Access%20%2F%20Intended%20Use%20Case%3A)     
-  *Dual-Path Compound AI System with Multi-Tenant State & Deterministic Governance*  
+  *Dual-Path Compound AI System with Multi-Tenant State & Deterministic Governance*
+
+  ***Note:***  *Source code is private intellectual property. Read-access is granted on a case-by-case basis.Please feel free to request access.*
   > *Production-grade e-commerce intent resolver operating a sub-50ms CPU dual-path execution loop. Low-complexity sessions route through a Platt-calibrated ML ensemble with Polars feature engineering, while ambiguous signals escalate to a LangGraph agentic DAG—orchestrating an LLM Planner, Neo4j GraphRAG, and Critic Agent.*
   > 
   > *Hardened for enterprise production with a two-tier decoupled memory architecture (Postgres AsyncPostgresSaver working memory + Redis long-term store), distributed pybreaker fault isolation, sliding-window multi-tenant rate limiting, and an out-of-band fail-closed OPA/Rego v1 policy gate. Features closed-loop meta-cognition via a background LLM-as-a-Judge evaluator with real-time drift detection and a full 9-service observability stack (Prometheus/Grafana). 323 tests, 0 failures.*  
