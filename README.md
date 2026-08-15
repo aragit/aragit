@@ -142,9 +142,8 @@
   >*A production-grade statistical monitoring engine tracking embedding distribution decay ($D_{JS}$) in high-dimensional vector spaces. Combines PCA manifold projection and Gaussian KDE density estimation   with an auto-provisioned Prometheus/Grafana stack to drive adaptive test-time compute scaling and selective KV-cache eviction.*    
   > `Real-Time Embedding Telemetry` • `Prometheus & Grafana Observability` • `Adaptive Test-Time Compute`
 
-<br> 
 
-**Deep Dives** — Explore the [Full repos specifications](./ARCHITECTURE.md) for the multi-layer transferability matrix and per-project engineering breakdowns. 
+
 
 ---
 
