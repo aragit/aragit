@@ -71,6 +71,11 @@
   *Automated KYC & AML Screening Agent*       
   > *Production-grade ReAct agent for PEP/sanctions screening, UBO extraction, and adverse media monitoring — CPU-first with optional GPU acceleration.*      
   >  `FinTech / RegTech` • `SLM-First Agent` • `Deterministic Risk Scoring`
+  
+- **ICU Vitals Transformer** | [View Repo](https://github.com/aragit/icu-vitals-transformer)  
+  *Deterministic Clinical Forecasting Engine with Invariant-Guarded MCP Surfaces*  
+  > *Eliminates black-box unpredictability in clinical agent pipelines by enforcing physiological bound clamping, stale-data transparency, and fail-closed fallback through a pure-Python hexagonal core. Surfaces DDS severity classification via protocol-native MCP and A2A adapters with zero framework contamination in the clinical domain.*  
+  > `Clinical AI` • `Agentic Infrastructure` • `Deterministic Safety`
 
 - **Real-Time Intent Transformer** | [🔒 Request Access](mailto:anicomanesh@gmail.com.com?subject=Repository%20Access%20Request%3A%20Speculative%20Clinical%20GraphRAG&body=Please%20provide%20the%20following%20details%20to%20request%20access%3A%0A%0A-%20Full%20Name%3A%0A-%20GitHub%20Username%3A%0A-%20Email%20Address%3A%0A-%20LinkedIn%20Profile%3A%0A-%20Reason%20for%20Access%20%2F%20Intended%20Use%20Case%3A)     
   *Dual-Path Compound AI System with Multi-Tenant State & Deterministic Governance*
@@ -130,7 +135,6 @@
   
   </details>
 
-<br>     
 
 - **Post-RAG Drift Evaluator (Sentrix Evaluator)** | [View Repo](https://github.com/aragit/post-rag-drift-evaluator)           
   *Real-Time Latent Space Drift Telemetry & Closed-Loop Agentic Control Plane*
@@ -139,7 +143,6 @@
   > `Real-Time Embedding Telemetry` • `Prometheus & Grafana Observability` • `Adaptive Test-Time Compute`
 
 <br> 
-
 
 **Deep Dives** — Explore the [Full repos specifications](./ARCHITECTURE.md) for the multi-layer transferability matrix and per-project engineering breakdowns. 
 
