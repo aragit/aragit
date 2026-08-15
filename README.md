@@ -62,7 +62,7 @@
 
 
 
-<h3>🚩 <code>Recent Vanguard Open-Source Implementations</code></h3>
+<h3>🚩 <code>Recent Vanguard Implementations</code></h3>
 
 
 
