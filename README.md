@@ -69,13 +69,13 @@
 
 - **KYC-Auto (Know Your Customer)** | [View Repo](https://github.com/aragit/kyc-auto)    
   *Neuro-Symbolic Agentic AI Platform for KYC/AML Screening*       
-  > Production-grade compliance system powered by a 6-node LangGraph DAG with deterministic OPA (Rego) policy governance, resilient multi-tier SLM routing (vLLM → llama.cpp → deterministic fallback), interactive Neo4j UBO graphs, real-time adverse media monitoring, and human-in-the-loop analyst workflows. Features GBNF-constrained JSON outputs, FastEmbed/pgvector precedent memory, a FastMCP tool server, and a live Mission Control dashboard with SSE streaming.      
+  > *Production-grade compliance system powered by a 6-node LangGraph DAG with deterministic OPA (Rego) policy governance, resilient multi-tier SLM routing (vLLM → llama.cpp → deterministic fallback), interactive Neo4j UBO graphs, real-time adverse media monitoring, and human-in-the-loop analyst workflows. Features GBNF-constrained JSON outputs, FastEmbed/pgvector precedent memory, a FastMCP tool server, and a live Mission Control dashboard with SSE streaming.*      
   > `FinTech / RegTech` • `Neuro-Symbolic` • `LangGraph` • `OPA / Rego` • `FastMCP` • `HITL`
 
   
 - **ICU Vitals Transformer** | [View Repo](https://github.com/aragit/icu-vitals-transformer)  
   *Clinical Forecasting Skill with Invariant-Guarded MCP Surfaces*  
-  > A hexagonal clinical tool that projects ICU vital-sign trends and classifies deterioration risk via a deterministic DDS scorer.  Enforces physiological bound clamping, stale-data transparency, and fail-closed fallback through an immutable `SafetyShell` decorator over a pure-Python core. Exposes episode-keyed forecasting via REST v2 and protocol-native MCP (stdio + Streamable HTTP) with zero framework contamination.  
+  > *A hexagonal clinical tool that projects ICU vital-sign trends and classifies deterioration risk via a deterministic DDS scorer.  Enforces physiological bound clamping, stale-data transparency, and fail-closed fallback through an immutable `SafetyShell` decorator over a pure-Python core. Exposes episode-keyed forecasting via REST v2 and protocol-native MCP (stdio + Streamable HTTP) with zero framework contamination.*  
   > `Clinical AI` • `MCP Skill` • `Deterministic Safety` • `Hexagonal Architecture`
 
 - **Real-Time Intent Transformer** | [🔒 Request Access](mailto:anicomanesh@gmail.com.com?subject=Repository%20Access%20Request%3A%20Speculative%20Clinical%20GraphRAG&body=Please%20provide%20the%20following%20details%20to%20request%20access%3A%0A%0A-%20Full%20Name%3A%0A-%20GitHub%20Username%3A%0A-%20Email%20Address%3A%0A-%20LinkedIn%20Profile%3A%0A-%20Reason%20for%20Access%20%2F%20Intended%20Use%20Case%3A)     
