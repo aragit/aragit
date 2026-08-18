@@ -5,25 +5,6 @@
 
 <br>
 
-<div align="center">
-  <table border="1" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="left" bgcolor="#1F2335" style="padding: 6px 12px;">
-        <font color="#F7768E">●</font> 
-        <font color="#E0AF68">●</font> 
-        <font color="#9ECE6A">●</font>
-        &nbsp;&nbsp;<font color="#565F89" face="monospace"><b>zsh — mesh-node-01</b></font>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" bgcolor="#1A1B26" style="padding: 10px;">
-        <a href="https://github.com/aragit">
-          <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=13&pause=1200&color=7AA2F7&background=00000000&center=true&vCenter=true&width=880&height=45&lines=%24+agentic-mesh-ctl+status+--system-telemetry+--live;%5BARCH%5D%3A+Neuro-Symbolic+Compound+Systems+%26+Dynamic+Multi-Agent+Swarms;%5BGOVERNANCE%5D%3A+OPA%2FRego+Deterministic+Policy-as-Code+Guardrails+%5BENFORCED%5D;%5BROUTER%5D%3A+Stigmergic+4D+Pheromone+Mesh+%26+Test-Time+Compute+Scaling;%5BINFERENCE%5D%3A+PagedAttention+vLLM+GPU+Cluster+%2B+Quantized+Local+SLM+Edge;%5BOBSERVABILITY%5D%3A+FastMCP+Protocol+Shims+%2B+Latent+Drift+%26+Audit+Lineage" alt="System Mesh Telemetry Trace" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <a href="https://github.com/aragit">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=1200&color=00FF41&background=0D1117&center=true&vCenter=true&width=880&height=45&lines=%24+agentic-mesh-ctl+status+--system-telemetry+--live;%5BARCH%5D%3A+Neuro-Symbolic+Compound+Systems+%26+Dynamic+Multi-Agent+Swarms;%5BGOVERNANCE%5D%3A+OPA%2FRego+Deterministic+Policy-as-Code+Guardrails+%5BENFORCED%5D;%5BROUTER%5D%3A+Stigmergic+4D+Pheromone+Mesh+%26+Test-Time+Compute+Scaling;%5BINFERENCE%5D%3A+PagedAttention+vLLM+GPU+Cluster+%2B+Quantized+Local+SLM+Edge;%5BOBSERVABILITY%5D%3A+FastMCP+Protocol+Shims+%2B+Latent+Drift+%26+Audit+Lineage" alt="Arash Nicoomanesh - System Mesh Telemetry" />
