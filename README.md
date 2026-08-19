@@ -156,7 +156,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/arashnicoomanesh">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin-in&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
   </a>
 
   <a href="https://github.com/aragit">
@@ -179,27 +179,6 @@
 
 
 
-<p align="center">
-  <p align="center">
-  <a href="https://linkedin.com/in/arashnicoomanesh">
-    <img
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"
-      width="32"
-      height="32"
-      alt="LinkedIn"
-    />
-  </a>
-</p>
-  <a href="https://www.kaggle.com/arashnic">
-    <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle" />
-  </a>
-  <a href="https://medium.com/@anicomanesh">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://huggingface.co/Arnic">
-    <img src="https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
-  </a>
-</p>
 
 
 
