@@ -148,7 +148,7 @@
 
 ---
 
-```markdown
+
 <p align="left">
   <a href="https://aragit.github.io"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" /></a>
   <a href="https://linkedin.com/in/arashnicoomanesh"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" /></a>
@@ -157,7 +157,7 @@
   <a href="https://medium.com/@anicomanesh"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
----
+
 
 
 
