@@ -71,6 +71,12 @@
   *Clinical Forecasting Skill with Invariant-Guarded MCP Surfaces*  
   > *A hexagonal clinical tool that projects ICU vital-sign trends and classifies deterioration risk via a deterministic DDS scorer.  Enforces physiological bound clamping, stale-data transparency, and fail-closed fallback through an immutable `SafetyShell` decorator over a pure-Python core. Exposes episode-keyed forecasting via REST v2 and protocol-native MCP (stdio + Streamable HTTP) with zero framework contamination.*  
   > `Clinical AI` • `MCP Skill` • `Deterministic Safety` • `Hexagonal Architecture`
+  
+- **Autonomous Procurement Swarm** | [View Repo](https://github.com/aragit/autonomous-procurement-swarm)    
+  *Stigmergic Multi-Agent Swarm for Enterprise E-Procurement*       
+  > *Production-grade reverse auction platform powered by a distributed Ray actor mesh and a stigmergic Blackboard interaction protocol with capability-scoped ACLs. Features neuro-symbolic deal governance via deterministic OPA (Rego) policy kernels, adaptive negotiation using LinUCB contextual bandits, deterministic MCDA math for zero-LLM contract awards, and parallel supplier discovery pools. Includes an append-only Postgres trace ledger, FastMCP tool integrations, and real-time SSE event streaming for live auction monitoring.*    
+  > `E-Procurement` • `Multi-Agent Swarm` • `Ray Mesh` • `LinUCB Bandits` • `OPA / Rego` • `Contract Net Protocol`
+
 
 - **Real-Time Intent Transformer** | [🔒 Request Access](mailto:anicomanesh@gmail.com.com?subject=Repository%20Access%20Request%3A%20Speculative%20Clinical%20GraphRAG&body=Please%20provide%20the%20following%20details%20to%20request%20access%3A%0A%0A-%20Full%20Name%3A%0A-%20GitHub%20Username%3A%0A-%20Email%20Address%3A%0A-%20LinkedIn%20Profile%3A%0A-%20Reason%20for%20Access%20%2F%20Intended%20Use%20Case%3A)     
   *Dual-Path Compound AI System with Multi-Tenant State & Deterministic Governance*
