@@ -148,29 +148,18 @@
 
 ---
 
-
+<div align="center">
+<b>📡 NETWORK ENDPOINTS</b>
+<br>
 <p align="center">
-  <a href="https://aragit.github.io"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" /></a>
   <a href="https://linkedin.com/in/arashnicoomanesh"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" /></a>
   <a href="https://github.com/aragit"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.kaggle.com/arashnic"><img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF" /></a>
   <a href="https://medium.com/@anicomanesh"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-
-
-<br>
-
-<div align="center">
-
-<code>$ mesh-router --ping --nodes</code>
-
-<br>
-
-<b>📡 NETWORK ENDPOINTS</b>
-
-│ <a href="[https://aragit.github.io](https://aragit.github.io)"><code>🌐 site</code></a> │ <a href="[https://linkedin.com/in/arashnicoomanesh](https://linkedin.com/in/arashnicoomanesh)"><code>💼 linkedin</code></a> │ <a href="[https://github.com/aragit](https://github.com/aragit)"><code>🐙 github</code></a> │ <a href="[https://www.kaggle.com/arashnic](https://www.kaggle.com/arashnic)"><code>📊 kaggle</code></a> │ <a href="[https://medium.com/@anicomanesh](https://medium.com/@anicomanesh)"><code>📝 medium</code></a> │
-
 </div>
+
+
 
 
 
