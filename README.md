@@ -180,10 +180,16 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <a href="https://github.com/aragit">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <p align="center">
+  <a href="https://linkedin.com/in/arashnicoomanesh">
+    <img
+      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      width="32"
+      height="32"
+      alt="LinkedIn"
+    />
   </a>
+</p>
   <a href="https://www.kaggle.com/arashnic">
     <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle" />
   </a>
