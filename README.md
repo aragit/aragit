@@ -148,11 +148,12 @@
 
 ---
 
-#### **NETWORK**
-
-[`Website`](https://aragit.github.io) • [`LinkedIn`](https://linkedin.com/in/arashnicoomanesh) • [`GitHub`](https://github.com/aragit) • [`Kaggle`](https://www.kaggle.com/arashnic) • [`Medium`](https://medium.com/@anicomanesh) 
-
-<br> 
+**CONNECT** &nbsp;•&nbsp; 
+[`🌐 Website`](https://aragit.github.io) &nbsp; 
+[`💼 LinkedIn`](https://linkedin.com/in/arashnicoomanesh) &nbsp; 
+[`🐙 GitHub`](https://github.com/aragit) &nbsp; 
+[`📊 Kaggle`](https://www.kaggle.com/arashnic) &nbsp; 
+[`📝 Medium`](https://medium.com/@anicomanesh)
 
 ---
 
