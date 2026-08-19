@@ -157,6 +157,16 @@
   <a href="https://medium.com/@anicomanesh"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
+```
+$ mesh-router --ping --nodes
+
+📡 NETWORK ENDPOINTS
+├── 🌐 [site]    [https://aragit.github.io](https://aragit.github.io)
+├── 💼 [in]      [linkedin.com/in/arashnicoomanesh](https://linkedin.com/in/arashnicoomanesh)
+├── 🐙 [gh]      [github.com/aragit](https://github.com/aragit)
+├── 📊 [kaggle]  [kaggle.com/arashnic](https://kaggle.com/arashnic)
+└── 📝 [medium]  [medium.com/@anicomanesh](https://medium.com/@anicomanesh)
+
 
 
 
