@@ -158,15 +158,19 @@
 </p>
 
 ```
-$ mesh-router --ping --nodes
 
-📡 NETWORK ENDPOINTS
-├── 🌐 [site]    [https://aragit.github.io](https://aragit.github.io)
-├── 💼 [in]      [linkedin.com/in/arashnicoomanesh](https://linkedin.com/in/arashnicoomanesh)
-├── 🐙 [gh]      [github.com/aragit](https://github.com/aragit)
-├── 📊 [kaggle]  [kaggle.com/arashnic](https://kaggle.com/arashnic)
-└── 📝 [medium]  [medium.com/@anicomanesh](https://medium.com/@anicomanesh)
 
+<div align="center">
+
+<code>$ mesh-router --ping --nodes</code>
+
+<br>
+
+<b>📡 NETWORK ENDPOINTS</b>
+
+│ <a href="[https://aragit.github.io](https://aragit.github.io)"><code>🌐 site</code></a> │ <a href="[https://linkedin.com/in/arashnicoomanesh](https://linkedin.com/in/arashnicoomanesh)"><code>💼 linkedin</code></a> │ <a href="[https://github.com/aragit](https://github.com/aragit)"><code>🐙 github</code></a> │ <a href="[https://www.kaggle.com/arashnic](https://www.kaggle.com/arashnic)"><code>📊 kaggle</code></a> │ <a href="[https://medium.com/@anicomanesh](https://medium.com/@anicomanesh)"><code>📝 medium</code></a> │
+
+</div>
 
 
 
