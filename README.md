@@ -150,7 +150,9 @@
 
 <div align="center">
 <b>📡 NETWORK ENDPOINTS</b>
+
 <br>
+
 <p align="center">
   <a href="https://linkedin.com/in/arashnicoomanesh"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" /></a>
   <a href="https://github.com/aragit"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
