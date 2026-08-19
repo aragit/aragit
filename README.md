@@ -148,12 +148,15 @@
 
 ---
 
-**CONNECT** &nbsp;•&nbsp; 
-[`🌐 Website`](https://aragit.github.io) &nbsp; 
-[`💼 LinkedIn`](https://linkedin.com/in/arashnicoomanesh) &nbsp; 
-[`🐙 GitHub`](https://github.com/aragit) &nbsp; 
-[`📊 Kaggle`](https://www.kaggle.com/arashnic) &nbsp; 
-[`📝 Medium`](https://medium.com/@anicomanesh)
+```bash
+$ mesh-router --ping --nodes
+
+📡 NETWORK ENDPOINTS
+├── 🌐 [site]    [https://aragit.github.io](https://aragit.github.io)
+├── 💼 [in]      [linkedin.com/in/arashnicoomanesh](https://linkedin.com/in/arashnicoomanesh)
+├── 🐙 [gh]      [github.com/aragit](https://github.com/aragit)
+├── 📊 [kaggle]  [kaggle.com/arashnic](https://kaggle.com/arashnic)
+└── 📝 [medium]  [medium.com/@anicomanesh](https://medium.com/@anicomanesh)
 
 ---
 
