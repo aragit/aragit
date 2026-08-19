@@ -155,6 +155,31 @@
 <br>
 
 <p align="center">
+  <a href="https://linkedin.com/in/arashnicoomanesh">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin-in&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://github.com/aragit">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="https://www.kaggle.com/arashnic">
+    <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle" />
+  </a>
+
+  <a href="https://medium.com/@anicomanesh">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+
+  <a href="https://huggingface.co/Arnic">
+    <img src="https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+  </a>
+</p>
+
+
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   <a href="https://github.com/aragit">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
